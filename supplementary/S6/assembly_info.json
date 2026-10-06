@@ -26,9 +26,14 @@
   "authority_report": "Verified native R exports. The original checker stopped on Step 4 versus Step 04 descriptive labels; original logs and completed independent comparisons are retained in docs/native_R_verification/. Earlier reconstruction retained separately.",
   "manifest_scope": "All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv",
   "metadata_revision_date": "2026-10-06",
-  "metadata_revision": "Corrected software creator metadata. Manuscript authorship is maintained separately.",
+  "metadata_revision": "Corrected software creator metadata and added the restricted raw data deposit citation. Manuscript authorship is maintained separately.",
   "software_creators": [
     "Massimiliano Virgilio",
     "Lore Esselens"
-  ]
+  ],
+  "raw_data_doi": "10.5281/zenodo.20340447",
+  "raw_data_record_url": "https://zenodo.org/records/20340447",
+  "raw_data_file_access": "restricted",
+  "raw_data_metadata_verified_date": "2026-10-06",
+  "raw_data_files_inspected": false
 }

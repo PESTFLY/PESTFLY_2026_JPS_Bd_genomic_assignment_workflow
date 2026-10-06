@@ -41,15 +41,16 @@ The author supplied a [published Zenodo record](https://zenodo.org/records/23187
 | :--- | :--- | :--- |
 | Workflow archive for v1.03 | `10.5281/zenodo.23187057` | Confirmed from the author supplied published record and DOI link |
 | Earlier workflow identifier from the manuscript | `10.5281/zenodo.20289875` | Relationship to the current record remains to be confirmed |
-| Alignment deposit from the manuscript | `10.5281/zenodo.20283931` | Publication metadata remains to be confirmed; alignments are distributed upon request |
+| Restricted raw data deposit | `10.5281/zenodo.20340447` | Public Zenodo metadata confirm restricted file access, title, creator, date and version |
+| Earlier alignment identifier from the manuscript | `10.5281/zenodo.20283931` | Relationship to the confirmed raw data deposit remains unconfirmed; processed alignment inputs are available upon request |
 
-For the released workflow, cite the confirmed v1.03 DOI. No all versions DOI or relationship to the earlier workflow identifier has been inferred. Confirm the alignment record's title, creators, publication status and access terms before completing its publication metadata.
+For the released workflow, cite the confirmed v1.03 DOI. For the raw data, cite [restricted record 10.5281/zenodo.20340447](https://zenodo.org/records/20340447). Zenodo identifies it as `PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22`, published on 22 May 2026, version `v1`, with Massimiliano Virgilio as creator. Its metadata are public, while files require authorised access. Restricted files were not downloaded or inspected during this documentation update. No relationship to the earlier alignment identifier, all versions DOI, or earlier workflow identifier has been inferred.
 
 ## Creator metadata correction
 
 On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The corresponding creator metadata correction on Zenodo remains pending.
 
-A corrected Supplementary File S6 has been prepared with the current software citation and a dated assembly metadata revision. All scripts, statistical outputs, figures and the reader guide retain their original bytes. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81182040 bytes and SHA256 `a2c253e6dd2f7487aa6af5f38c4fd9b11a8aeaa6fa19339188b491289b29a170`. It has not replaced the published v1.03 asset.
+A corrected Supplementary File S6 has been prepared with the current software citation, restricted raw data access notices and a dated assembly metadata revision. All scripts, statistical outputs and figures retain their original bytes. The reader guide adds the raw data and workflow citations on page 9; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183302 bytes and SHA256 `ddf5100663b91a5abd97e049c242d6ffce3a55ece47434e59065d0cf3f560147`. It has not replaced the published v1.03 asset.
 
 The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. An updated release is required to distribute corrected citation files through the GitHub and Zenodo source archives. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
 

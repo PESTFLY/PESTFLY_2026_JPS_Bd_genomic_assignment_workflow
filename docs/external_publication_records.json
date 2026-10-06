@@ -84,7 +84,29 @@
         "DataCite DOI API",
         "Exact DOI web search"
       ],
-      "finding": "Page and API retrievals unavailable; exact DOI search found no results. Alignment distribution remains upon request as confirmed by the author."
+      "finding": "Earlier page and API retrievals unavailable. This earlier manuscript identifier has not been established as the same record or a version of the confirmed restricted raw data deposit. Processed alignment inputs remain available upon request from the author.",
+      "role": "earlier_alignment_identifier_from_manuscript",
+      "relationship_to_restricted_raw_data_record": "UNCONFIRMED"
+    },
+    {
+      "doi": "10.5281/zenodo.20340447",
+      "status": "VERIFIED_PUBLIC_METADATA",
+      "role": "restricted_raw_data_deposit",
+      "record_url": "https://zenodo.org/records/20340447",
+      "title": "PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22",
+      "publication_date": "2026-05-22",
+      "version": "v1",
+      "resource_type": "Dataset",
+      "creators": [
+        "Massimiliano Virgilio"
+      ],
+      "file_access": "restricted",
+      "methods": [
+        "Author supplied record link and confirmation of restricted access",
+        "Public Zenodo landing page metadata"
+      ],
+      "finding": "Zenodo confirms the title, DOI, publication date, version, creator and restricted file access. Metadata are public. Files were not downloaded or inspected.",
+      "relationship_to_earlier_alignment_identifier": "UNCONFIRMED"
     }
   ],
   "external_writes_performed": true,
@@ -98,10 +120,14 @@
   "workflow_version": "v1.03",
   "prepared_supplementary_correction": {
     "name": "PESTFLY_Supplementary_File_S6.zip",
-    "bytes": 81182040,
-    "sha256": "a2c253e6dd2f7487aa6af5f38c4fd9b11a8aeaa6fa19339188b491289b29a170",
+    "bytes": 81183302,
+    "sha256": "ddf5100663b91a5abd97e049c242d6ffce3a55ece47434e59065d0cf3f560147",
     "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
     "revision_date": "2026-10-06",
-    "scope": "Software citation and archive assembly metadata. Manuscript authorship remains separate."
-  }
+    "scope": "Software citation, restricted raw data access documentation and assembly metadata. Manuscript authorship remains separate."
+  },
+  "raw_data_doi": "10.5281/zenodo.20340447",
+  "raw_data_record_url": "https://zenodo.org/records/20340447",
+  "raw_data_file_access": "restricted",
+  "raw_data_files_inspected": false
 }
