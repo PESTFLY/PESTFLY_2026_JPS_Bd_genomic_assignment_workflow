@@ -42,6 +42,27 @@
   ],
   "doi_checks": [
     {
+      "doi": "10.5281/zenodo.23187057",
+      "status": "CONFIRMED_BY_AUTHOR",
+      "role": "workflow_archive_for_v1.03",
+      "record_url": "https://zenodo.org/records/23187057",
+      "version": "v1.03",
+      "publication_date": "2026-10-06",
+      "title": "PESTFLY genomic assignment workflow for Bactrocera dorsalis",
+      "creators": [
+        "Massimiliano Virgilio",
+        "Lore Esselens",
+        "Fanny Kratz"
+      ],
+      "methods": [
+        "Author supplied screenshot of the published Zenodo record",
+        "Author supplied DOI link"
+      ],
+      "finding": "The screenshot shows the matching workflow title, creators, Version v1.03, publication date and release description. The author supplied its DOI link.",
+      "automated_retrieval": "Unavailable for the DOI landing page and DataCite registry API.",
+      "relationship_to_earlier_workflow_identifier": "UNCONFIRMED"
+    },
+    {
       "doi": "10.5281/zenodo.20289875",
       "status": "UNVERIFIED",
       "methods": [
@@ -50,7 +71,9 @@
         "DataCite DOI API",
         "Exact DOI web search"
       ],
-      "finding": "Page and API retrievals unavailable; exact DOI search found no results. This does not establish DOI validity or publication status."
+      "finding": "Page and API retrievals unavailable; exact DOI search found no results. This does not establish DOI validity or publication status.",
+      "role": "earlier_workflow_identifier_from_manuscript",
+      "relationship_to_current_record": "UNCONFIRMED"
     },
     {
       "doi": "10.5281/zenodo.20283931",
@@ -69,5 +92,8 @@
   "release_commit": "f397f8e0a269fa089140eff22a00618d3583dd3c",
   "release_tree": "4e0873284333879f98c6d88b7381d9ebf5d46f2b",
   "current_release": "v1.03",
-  "zenodo_writes_performed": false
+  "zenodo_writes_performed": false,
+  "workflow_doi": "10.5281/zenodo.23187057",
+  "workflow_record_url": "https://zenodo.org/records/23187057",
+  "workflow_version": "v1.03"
 }

@@ -31,16 +31,19 @@ The native R implementation checks, six criterion reporting checks and Step 07 f
 
 ## Citation metadata
 
-`CITATION.cff` on `main` records version `v1.03`, publication date `2026-10-06` and the release URL. The existing author list is retained. A confirmed workflow DOI and the final published manuscript citation can be recorded when available.
+`CITATION.cff` on `main` records version `v1.03`, publication date `2026-10-06`, the release URL and workflow DOI [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The existing author list is retained. The final published manuscript citation can be recorded when available.
 
-## Zenodo records still to confirm
+## Zenodo records
 
-| Record | Identifier from manuscript | Current verification status |
+The author supplied a [published Zenodo record](https://zenodo.org/records/23187057) showing version `v1.03`, publication date `6 October 2026`, the matching workflow title, creators and release description, followed by the DOI link [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). This author supplied evidence confirms the workflow citation. Automated public page and DOI registry retrievals remained unavailable.
+
+| Record | Identifier | Verification status |
 | :--- | :--- | :--- |
-| Workflow archive | `10.5281/zenodo.20289875` | Public page and metadata retrieval unavailable |
-| Alignment deposit | `10.5281/zenodo.20283931` | Public page and metadata retrieval unavailable; alignments remain available upon request |
+| Workflow archive for v1.03 | `10.5281/zenodo.23187057` | Confirmed from the author supplied published record and DOI link |
+| Earlier workflow identifier from the manuscript | `10.5281/zenodo.20289875` | Relationship to the current record remains to be confirmed |
+| Alignment deposit from the manuscript | `10.5281/zenodo.20283931` | Publication metadata remains to be confirmed; alignments are distributed upon request |
 
-The earlier lookup results do not establish that the identifiers are invalid or that the deposits are unpublished. Confirm each record's publication status, title, creators and access terms in Zenodo. Check whether the workflow identifier represents a specific version or all versions, and confirm which identifier covers this revised release. The manuscript identifiers remain documented as unverified; no unverified DOI has been added to `CITATION.cff`.
+For the released workflow, cite the confirmed v1.03 DOI. No all versions DOI or relationship to the earlier workflow identifier has been inferred. Confirm the alignment record's title, creators, publication status and access terms before completing its publication metadata.
 
 ## Documentation used
 
