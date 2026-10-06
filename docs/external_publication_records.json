@@ -69,6 +69,28 @@
   ],
   "doi_checks": [
     {
+      "doi": "10.5281/zenodo.23192148",
+      "status": "CONFIRMED_BY_AUTHOR",
+      "role": "workflow_archive_for_v1.04",
+      "record_url": "https://zenodo.org/records/23192148",
+      "version": "v1.04",
+      "confirmation_date": "2026-10-06",
+      "methods": [
+        "Author stated that v1.04 is in Zenodo and supplied its DOI badge link"
+      ],
+      "author_supplied_link": "https://zenodo.org/badge/DOI/10.5281/zenodo.23192148.svg",
+      "finding": "The author confirmed the v1.04 Zenodo archive and provided its DOI. Automated landing page, Zenodo API and DataCite metadata retrievals were unavailable. The public title, creators, file list and version relationships were not independently inspected.",
+      "automated_retrieval": "Unavailable for the DOI landing page, Zenodo record and API, and DataCite registry API.",
+      "expected_creators_from_CITATION_cff": [
+        "Massimiliano Virgilio",
+        "Lore Esselens"
+      ],
+      "creator_metadata_status": "NOT_INDEPENDENTLY_VERIFIED",
+      "zenodo_files_inspected": false,
+      "concept_doi": null,
+      "concept_doi_status": "NOT_INFERRED"
+    },
+    {
       "doi": "10.5281/zenodo.23187057",
       "status": "CONFIRMED_BY_AUTHOR",
       "role": "workflow_archive_for_v1.03",
@@ -137,14 +159,14 @@
     }
   ],
   "external_writes_performed": true,
-  "record_scope": "Published v1.04 and original v1.03 snapshots and verified supplementary assets. Current publication notices on main are recorded in Git history. Zenodo v1.04 metadata remain unverified.",
+  "record_scope": "Published v1.04 and original v1.03 snapshots and verified GitHub supplementary assets. Current v1.04 Zenodo DOI confirmed by the author. Public Zenodo metadata retrieval was unavailable. Publication and citation notices on main are recorded in Git history.",
   "release_commit": "3700ac653d08ae7a4e016c41777d231294205b5e",
   "release_tree": "d315857fa04de73b5cfd7327ff5dc9170ba76c04",
   "current_release": "v1.04",
   "zenodo_writes_performed": false,
-  "workflow_doi": "10.5281/zenodo.23187057",
-  "workflow_record_url": "https://zenodo.org/records/23187057",
-  "workflow_version": "v1.03",
+  "workflow_doi": "10.5281/zenodo.23192148",
+  "workflow_record_url": "https://zenodo.org/records/23192148",
+  "workflow_version": "v1.04",
   "prepared_supplementary_correction": {
     "name": "PESTFLY_Supplementary_File_S6.zip",
     "bytes": 81183572,
@@ -174,8 +196,8 @@
     "planned_publication_date": "2026-10-06",
     "title": "PESTFLY genomic assignment workflow v1.04",
     "notes": "This release updates the software citation, public repository links, data access documentation and Supplementary File S6. The archive builder preserves current metadata and excludes separately distributed sequence inputs.\n\nR analysis scripts, statistical outputs and figures are unchanged. No statistical analyses were rerun. Code uses MIT; project documentation, public metadata and derived results use CC BY 4.0, except where separate notices apply.\n\nRaw data are deposited at https://doi.org/10.5281/zenodo.20340447 under restricted access. PHYLIP and FASTA inputs are available upon request from massimiliano.virgilio@africamuseum.be and are excluded from this release.\n\nAttached files: PESTFLY_Supplementary_File_S5.xlsx and PESTFLY_Supplementary_File_S6.zip.",
-    "workflow_doi": null,
-    "workflow_doi_status": "PENDING_ZENODO_VERIFICATION",
+    "workflow_doi": "10.5281/zenodo.23192148",
+    "workflow_doi_status": "CONFIRMED_BY_AUTHOR",
     "assets": [
       {
         "name": "PESTFLY_Supplementary_File_S5.xlsx",
@@ -186,7 +208,7 @@
         "name": "PESTFLY_Supplementary_File_S6.zip",
         "bytes": 81183572,
         "sha256": "14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b",
-        "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
+        "status": "PUBLISHED_AS_V1_04",
         "revision_date": "2026-10-06",
         "workflow_version": "v1.04",
         "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate."
@@ -198,8 +220,9 @@
   },
   "current_workflow_archive": {
     "version": "v1.04",
-    "doi": null,
-    "record_url": null,
-    "status": "PENDING_ZENODO_VERIFICATION"
+    "doi": "10.5281/zenodo.23192148",
+    "record_url": "https://zenodo.org/records/23192148",
+    "status": "CONFIRMED_BY_AUTHOR",
+    "metadata_independently_verified": false
   }
 }

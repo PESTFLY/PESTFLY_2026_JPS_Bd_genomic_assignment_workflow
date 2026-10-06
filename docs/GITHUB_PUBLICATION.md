@@ -31,28 +31,31 @@ The native R implementation checks, six criterion reporting checks and Step 07 f
 
 ## Citation metadata
 
-`CITATION.cff` on `main` records version `v1.04`, published on `2026-10-06`, with its own release URL. Its version specific Zenodo DOI remains unverified, so the earlier v1.03 DOI is not assigned to v1.04. The original v1.03 archive remains identified by [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The current software authors are Massimiliano Virgilio and Lore Esselens. Manuscript authorship is maintained separately. The final published manuscript citation can be recorded when available.
+`CITATION.cff` on `main` records version `v1.04`, published on `2026-10-06`, with its own release URL. The author confirmed its version specific Zenodo DOI [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148). The earlier v1.03 DOI is retained for its original archive. Automated public metadata retrieval remained unavailable. The original v1.03 archive remains identified by [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The current software authors are Massimiliano Virgilio and Lore Esselens. Manuscript authorship is maintained separately. The final published manuscript citation can be recorded when available.
 
 ## Zenodo records
+
+On 6 October 2026, the author confirmed that workflow release v1.04 is archived in Zenodo and supplied the DOI [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148) through its DOI badge link. This is author supplied confirmation of the current workflow citation. Automated Zenodo, DOI landing page and DataCite metadata retrievals remained unavailable. The new record's public title, creators, file list and concept DOI were not independently inspected.
 
 The author supplied a [published Zenodo record](https://zenodo.org/records/23187057) showing version `v1.03`, publication date `6 October 2026`, the matching workflow title and release description, followed by the DOI link [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). This author supplied evidence confirms the workflow citation. Automated public page and DOI registry retrievals remained unavailable.
 
 | Record | Identifier | Verification status |
 | :--- | :--- | :--- |
+| Workflow archive for current v1.04 | `10.5281/zenodo.23192148` | Confirmed by the author's version statement and DOI badge link |
 | Workflow archive for v1.03 | `10.5281/zenodo.23187057` | Confirmed from the author supplied published record and DOI link |
 | Earlier workflow identifier from the manuscript | `10.5281/zenodo.20289875` | Relationship to the current record remains to be confirmed |
 | Restricted raw data deposit | `10.5281/zenodo.20340447` | Public Zenodo metadata confirm restricted file access, title, creator, date and version |
 | Earlier alignment identifier from the manuscript | `10.5281/zenodo.20283931` | Relationship to the confirmed raw data deposit remains unconfirmed; processed alignment inputs are available upon request |
 
-For the released workflow, cite the confirmed v1.03 DOI. For the raw data, cite [restricted record 10.5281/zenodo.20340447](https://zenodo.org/records/20340447). Zenodo identifies it as `PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22`, published on 22 May 2026, version `v1`, with Massimiliano Virgilio as creator. Its metadata are public, while files require authorised access. Restricted files were not downloaded or inspected during this documentation update. No relationship to the earlier alignment identifier, all versions DOI, or earlier workflow identifier has been inferred.
+For the current workflow, cite the author confirmed v1.04 DOI [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148). The earlier v1.03 DOI identifies the previous archive. For the raw data, cite [restricted record 10.5281/zenodo.20340447](https://zenodo.org/records/20340447). Zenodo identifies it as `PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22`, published on 22 May 2026, version `v1`, with Massimiliano Virgilio as creator. Its metadata are public, while files require authorised access. Restricted files were not downloaded or inspected during this documentation update. No relationship to the earlier alignment identifier, all versions DOI, or earlier workflow identifier has been inferred.
 
 ## Creator metadata correction
 
-On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The correction to the older v1.03 Zenodo creator metadata remains unverified; the new v1.04 Zenodo metadata also await verification.
+On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The correction to the older v1.03 Zenodo creator metadata remains unverified. The v1.04 DOI is author confirmed; its public creator list has not been independently checked.
 
 The corrected Supplementary File S6 was published with v1.04 with the current software citation, restricted raw data access notices, current public repository address and a dated assembly metadata revision. It includes the author's current conceptual guide edits. All R scripts, statistical outputs and figures retain their original bytes. Page 9 of the reader guide records the prepared v1.04 release and distinguishes its pending DOI from the earlier v1.03 archive; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183572 bytes and SHA256 `14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b`. It has not replaced the published v1.03 asset.
 
-The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. The v1.04 GitHub release distributes the corrected citation files. Its Zenodo record still requires verification. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
+The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. The v1.04 GitHub release distributes the corrected citation files. The author supplied its Zenodo DOI; public metadata inspection remained unavailable. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
 
 ## Documentation used
 
@@ -73,4 +76,4 @@ Status: **PUBLISHED_ON_GITHUB**. GitHub release identifier: `404885223`. Publica
 | `PESTFLY_Supplementary_File_S5.xlsx` | 67636 | `7acba0de94d06097afe723381185b9e9e92f7ddc1dc2be052ee77aaa81fb1d96` |
 | `PESTFLY_Supplementary_File_S6.zip` | 81183572 | `14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b` |
 
-The v1.04 source snapshot and S6 contain preparation records created before publication. The tag and uploaded files retain those verified bytes. Current publication status is recorded here and in `external_publication_records.json`. The v1.04 Zenodo record, DOI and creator metadata await verification. The DOI `10.5281/zenodo.23187057` continues to identify the earlier v1.03 archive.
+The v1.04 source snapshot and S6 contain preparation records created before publication. The tag and uploaded files retain those verified bytes. Current publication status is recorded here and in `external_publication_records.json`. The current v1.04 Zenodo archive is identified by [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148), confirmed by the author. Its public creator metadata and file list have not been independently inspected. The DOI `10.5281/zenodo.23187057` continues to identify the earlier v1.03 archive. The published source archive and S6 keep their prepublication contents; the current DOI citation is recorded on `main` and in the external Zenodo record.
