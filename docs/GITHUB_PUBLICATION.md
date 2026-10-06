@@ -31,7 +31,7 @@ The native R implementation checks, six criterion reporting checks and Step 07 f
 
 ## Citation metadata
 
-`CITATION.cff` on `main` records version `v1.03`, publication date `2026-10-06`, the release URL and workflow DOI [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The current software authors are Massimiliano Virgilio and Lore Esselens. Manuscript authorship is maintained separately. The final published manuscript citation can be recorded when available.
+`CITATION.cff` on `main` is prepared for version `v1.04`, planned for publication on `2026-10-06`, with its own release URL. Its version specific DOI is pending publication, so the earlier v1.03 DOI is not assigned to v1.04. The original v1.03 archive remains identified by [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The current software authors are Massimiliano Virgilio and Lore Esselens. Manuscript authorship is maintained separately. The final published manuscript citation can be recorded when available.
 
 ## Zenodo records
 
@@ -50,7 +50,7 @@ For the released workflow, cite the confirmed v1.03 DOI. For the raw data, cite 
 
 On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The corresponding creator metadata correction on Zenodo remains pending.
 
-A corrected Supplementary File S6 has been prepared with the current software citation, restricted raw data access notices, current public repository address and a dated assembly metadata revision. It also incorporates the author's current conceptual guide edits. All R scripts, statistical outputs and figures retain their original bytes. The reader guide adds the raw data, workflow and repository links on page 9; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183349 bytes and SHA256 `dcc9cf7efadb4fd5f5ab347abb8d6222794d0705287d7407d8ffdd4bee35f87b`. It has not replaced the published v1.03 asset.
+A corrected Supplementary File S6 has been prepared for v1.04 with the current software citation, restricted raw data access notices, current public repository address and a dated assembly metadata revision. It includes the author's current conceptual guide edits. All R scripts, statistical outputs and figures retain their original bytes. Page 9 of the reader guide records the prepared v1.04 release and distinguishes its pending DOI from the earlier v1.03 archive; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183572 bytes and SHA256 `14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b`. It has not replaced the published v1.03 asset.
 
 The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. An updated release is required to distribute corrected citation files through the GitHub and Zenodo source archives. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
 
@@ -63,3 +63,12 @@ The v1.03 tag and its original supplementary assets remain the published snapsho
 ## Repository rename
 
 On 6 October 2026, the repository was renamed to `PESTFLY_2026_JPS_Bd_genomic_assignment_workflow`. The GitHub repository identifier remains `1241595394`. Current repository, release and pull request links use the new address. The published v1.03 tag and its attached files retain their original contents. The S6 builder preserves maintained software creator, data access and repository metadata while recalculating its inventory fields. The prepared S6 archive was rebuilt with this builder and compared with the preceding prepared archive; every analysis script and result file was identical.
+
+## Prepared release v1.04
+
+Status: **PREPARED_NOT_PUBLISHED**. Planned publication date: 6 October 2026. Create a new GitHub release with tag `v1.04`, targeting the prepared `main` snapshot. The release title is `PESTFLY genomic assignment workflow v1.04`. Attach the existing S5 workbook and the newly prepared v1.04 S6 ZIP. The original v1.03 tag and files remain the earlier published record. Confirm the Zenodo v1.04 record and DOI after release publication before updating current version DOI metadata.
+
+| Prepared asset | Bytes | SHA256 |
+| :--- | ---: | :--- |
+| `PESTFLY_Supplementary_File_S5.xlsx` | 67636 | `7acba0de94d06097afe723381185b9e9e92f7ddc1dc2be052ee77aaa81fb1d96` |
+| `PESTFLY_Supplementary_File_S6.zip` | 81183572 | `14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b` |

@@ -1,5 +1,7 @@
 # Supplementary File S6
 
+Prepared for workflow release **v1.04**. The version specific workflow DOI is pending publication. The earlier v1.03 DOI retained below identifies the preceding release.
+
 ## Validation and sensitivity analyses for the PESTFLY benchmark
 
 This archive supports the population genomic analysis of *Bactrocera dorsalis* using previously generated sequence data and completed statistical outputs. It contains seven supplementary analyses with their R scripts, parameters, summary tables, figures, specimen and replicate outputs, plus complete baseline query trajectories across the evaluated SNP subsets.
@@ -87,4 +89,4 @@ Original machine paths, dates and early internal analysis labels remain in histo
 
 ## Public repository
 
-The current public repository is <https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow>. On 6 October 2026, the repository was renamed to `PESTFLY_2026_JPS_Bd_genomic_assignment_workflow`. This prepared S6 archive includes the current documentation and citation metadata. The published v1.03 tag and its attached files remain the original release snapshot.
+The current public repository is <https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow>. On 6 October 2026, the repository was renamed to `PESTFLY_2026_JPS_Bd_genomic_assignment_workflow`. This S6 archive is prepared for v1.04 and includes the current documentation and citation metadata. The published v1.03 tag and its attached files remain the original release snapshot.

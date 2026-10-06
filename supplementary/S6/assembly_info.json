@@ -26,7 +26,7 @@
   "authority_report": "Verified native R exports. The original checker stopped on Step 4 versus Step 04 descriptive labels; original logs and completed independent comparisons are retained in docs/native_R_verification/. Earlier reconstruction retained separately.",
   "manifest_scope": "All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv",
   "metadata_revision_date": "2026-10-06",
-  "metadata_revision": "Corrected software creator metadata, added the restricted raw data deposit citation and updated the public repository address. Manuscript authorship is maintained separately.",
+  "metadata_revision": "Prepared v1.04 with corrected software creator metadata, restricted raw data citation and current repository address. The v1.04 workflow DOI is pending publication; the earlier v1.03 DOI identifies its original archive. Manuscript authorship is maintained separately.",
   "software_creators": [
     "Massimiliano Virgilio",
     "Lore Esselens"
@@ -37,5 +37,11 @@
   "raw_data_metadata_verified_date": "2026-10-06",
   "raw_data_files_inspected": false,
   "repository_url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow",
-  "repository_name": "PESTFLY_2026_JPS_Bd_genomic_assignment_workflow"
+  "repository_name": "PESTFLY_2026_JPS_Bd_genomic_assignment_workflow",
+  "workflow_version": "v1.04",
+  "release_status": "PREPARED_NOT_PUBLISHED",
+  "workflow_doi": null,
+  "workflow_doi_status": "PENDING_PUBLICATION",
+  "previous_workflow_version": "v1.03",
+  "previous_workflow_doi": "10.5281/zenodo.23187057"
 }

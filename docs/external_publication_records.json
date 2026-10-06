@@ -120,11 +120,12 @@
   "workflow_version": "v1.03",
   "prepared_supplementary_correction": {
     "name": "PESTFLY_Supplementary_File_S6.zip",
-    "bytes": 81183349,
-    "sha256": "dcc9cf7efadb4fd5f5ab347abb8d6222794d0705287d7407d8ffdd4bee35f87b",
+    "bytes": 81183572,
+    "sha256": "14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b",
     "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
     "revision_date": "2026-10-06",
-    "scope": "Software citation, restricted raw data access documentation, public repository links, current author documentation and assembly metadata. Manuscript authorship remains separate."
+    "workflow_version": "v1.04",
+    "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate."
   },
   "raw_data_doi": "10.5281/zenodo.20340447",
   "raw_data_record_url": "https://zenodo.org/records/20340447",
@@ -137,5 +138,31 @@
     "current_url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow",
     "published_v1_03_tag_preserved": true,
     "published_supplementary_assets_preserved": true
+  },
+  "prepared_release": {
+    "tag": "v1.04",
+    "status": "PREPARED_NOT_PUBLISHED",
+    "target_branch": "main",
+    "planned_publication_date": "2026-10-06",
+    "title": "PESTFLY genomic assignment workflow v1.04",
+    "notes": "This release updates the software citation, public repository links, data access documentation and Supplementary File S6. The archive builder preserves current metadata and excludes separately distributed sequence inputs.\n\nR analysis scripts, statistical outputs and figures are unchanged. No statistical analyses were rerun. Code uses MIT; project documentation, public metadata and derived results use CC BY 4.0, except where separate notices apply.\n\nRaw data are deposited at https://doi.org/10.5281/zenodo.20340447 under restricted access. PHYLIP and FASTA inputs are available upon request from massimiliano.virgilio@africamuseum.be and are excluded from this release.\n\nAttached files: PESTFLY_Supplementary_File_S5.xlsx and PESTFLY_Supplementary_File_S6.zip.",
+    "workflow_doi": null,
+    "workflow_doi_status": "PENDING_PUBLICATION",
+    "assets": [
+      {
+        "name": "PESTFLY_Supplementary_File_S5.xlsx",
+        "bytes": 67636,
+        "sha256": "7acba0de94d06097afe723381185b9e9e92f7ddc1dc2be052ee77aaa81fb1d96"
+      },
+      {
+        "name": "PESTFLY_Supplementary_File_S6.zip",
+        "bytes": 81183572,
+        "sha256": "14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b",
+        "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
+        "revision_date": "2026-10-06",
+        "workflow_version": "v1.04",
+        "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate."
+      }
+    ]
   }
 }
