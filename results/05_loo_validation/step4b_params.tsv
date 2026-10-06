@@ -1,7 +1,7 @@
 parameter	value
-qc_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/01_qc
-step3_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/02_snp_panels
-out_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/05_loo_validation
+qc_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline/results/01_qc
+step3_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline/results/02_snp_panels
+out_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline/results/05_loo_validation
 panels	P1_macroregion_africa_vs_asia,P2_subregion_within_africa,P3_subregion_within_asia
 min_snps_query_macroregion	200
 min_snps_query_subregion	300

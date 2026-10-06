@@ -1,0 +1,353 @@
+panel_id	group_col	K	sample_id	top_group	top_posterior	second_group	second_posterior	posterior_gap	n_snps_used	confidence	status	note
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_7						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_4						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_5						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_6						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_1						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2023_3						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2024_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2024_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2024_3						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	Bd_2024_4						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_2						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_3						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_4						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_5						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_6						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_7						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_11						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_12						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_13						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	1	FAVV_14						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_7						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_4						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_5						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_6						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_1						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2023_3						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2024_1						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2024_2						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2024_3						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	Bd_2024_4						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_1						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_2						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_3						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_4						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_5						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_6						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_7						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_11						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_12						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_13						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	2	FAVV_14						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_7						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_4						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_5						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_6						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_1						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2023_3						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2024_1						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2024_2						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2024_3						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	Bd_2024_4						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_1						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_2						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_3						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_4						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_5						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_6						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_7						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_11						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_12						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_13						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	3	FAVV_14						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_7						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_4						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_5						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_6						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_1						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2023_3						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2024_1						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2024_2						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2024_3						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	Bd_2024_4						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_1						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_2						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_3						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_4						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_5						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_6						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_7						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_11						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_12						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_13						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	4	FAVV_14						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_7						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_4						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_5						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_6						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_1						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_2						0	Low	too_few_snps	Need >= 200; have 0
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2023_3						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2024_1						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2024_2						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2024_3						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	Bd_2024_4						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_1						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_2						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_3						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_4						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_5						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_6						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_7						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_11						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_12						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_13						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	5	FAVV_14						5	Low	too_few_snps	Need >= 200; have 5
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_7						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_4						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_5						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_6						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_2						2	Low	too_few_snps	Need >= 200; have 2
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2023_3						3	Low	too_few_snps	Need >= 200; have 3
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2024_1						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2024_2						9	Low	too_few_snps	Need >= 200; have 9
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2024_3						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	Bd_2024_4						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_1						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_2						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_3						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_4						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_5						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_6						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_7						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_11						9	Low	too_few_snps	Need >= 200; have 9
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_12						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_13						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	10	FAVV_14						10	Low	too_few_snps	Need >= 200; have 10
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_7						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_4						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_5						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_6						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_2						4	Low	too_few_snps	Need >= 200; have 4
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2023_3						6	Low	too_few_snps	Need >= 200; have 6
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2024_1						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2024_2						19	Low	too_few_snps	Need >= 200; have 19
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2024_3						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	Bd_2024_4						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_1						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_2						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_3						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_4						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_5						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_6						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_7						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_11						19	Low	too_few_snps	Need >= 200; have 19
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_12						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_13						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	20	FAVV_14						20	Low	too_few_snps	Need >= 200; have 20
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_7						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_4						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_5						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_6						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_2						12	Low	too_few_snps	Need >= 200; have 12
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2023_3						12	Low	too_few_snps	Need >= 200; have 12
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2024_1						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2024_2						49	Low	too_few_snps	Need >= 200; have 49
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2024_3						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	Bd_2024_4						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_1						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_2						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_3						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_4						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_5						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_6						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_7						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_11						49	Low	too_few_snps	Need >= 200; have 49
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_12						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_13						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	50	FAVV_14						50	Low	too_few_snps	Need >= 200; have 50
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_7						99	Low	too_few_snps	Need >= 200; have 99
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_4						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_5						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_6						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_1						1	Low	too_few_snps	Need >= 200; have 1
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_2						29	Low	too_few_snps	Need >= 200; have 29
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2023_3						27	Low	too_few_snps	Need >= 200; have 27
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2024_1						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2024_2						98	Low	too_few_snps	Need >= 200; have 98
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2024_3						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	Bd_2024_4						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_1						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_2						99	Low	too_few_snps	Need >= 200; have 99
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_3						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_4						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_5						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_6						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_7						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_11						99	Low	too_few_snps	Need >= 200; have 99
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_12						99	Low	too_few_snps	Need >= 200; have 99
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_13						99	Low	too_few_snps	Need >= 200; have 99
+P1_macroregion_africa_vs_asia	macroregion_3	100	FAVV_14						100	Low	too_few_snps	Need >= 200; have 100
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_7						198	Low	too_few_snps	Need >= 200; have 198
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_4	Asia	1	Africa	3.17499540310048e-114	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_5	Asia	1	Africa	4.88095818531257e-132	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_6	Asia	1	Africa	2.6049125572585e-123	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_1						7	Low	too_few_snps	Need >= 200; have 7
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_2						66	Low	too_few_snps	Need >= 200; have 66
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2023_3						60	Low	too_few_snps	Need >= 200; have 60
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2024_1	Asia	1	Africa	9.2043375075364e-126	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2024_2						198	Low	too_few_snps	Need >= 200; have 198
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2024_3	Asia	1	Africa	4.60339871672522e-93	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	Bd_2024_4	Asia	1	Africa	2.78185118192315e-110	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_1						198	Low	too_few_snps	Need >= 200; have 198
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_2						198	Low	too_few_snps	Need >= 200; have 198
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_3						199	Low	too_few_snps	Need >= 200; have 199
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_4	Africa	1	Asia	7.4420255035657e-97	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_5	Africa	1	Asia	7.32572551738787e-93	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_6	Africa	1	Asia	1.37582418564587e-87	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_7	Africa	1	Asia	3.35086520913078e-94	1	200	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_11						198	Low	too_few_snps	Need >= 200; have 198
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_12						199	Low	too_few_snps	Need >= 200; have 199
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_13						199	Low	too_few_snps	Need >= 200; have 199
+P1_macroregion_africa_vs_asia	macroregion_3	200	FAVV_14						199	Low	too_few_snps	Need >= 200; have 199
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_7	Africa	1	Asia	1.73230223609868e-215	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_4	Asia	1	Africa	1.44371321417548e-238	1	499	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_5	Asia	1	Africa	9.32515342977428e-283	1	500	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_6	Asia	1	Africa	4.77708091327562e-243	1	500	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_1						33	Low	too_few_snps	Need >= 200; have 33
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_2						170	Low	too_few_snps	Need >= 200; have 170
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2023_3						145	Low	too_few_snps	Need >= 200; have 145
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2024_1	Asia	1	Africa	2.78948364149066e-272	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2024_2	Africa	1	Asia	3.9064778859267e-189	1	497	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2024_3	Asia	1	Africa	2.94685775656476e-187	1	500	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	Bd_2024_4	Asia	1	Africa	4.03781143749685e-242	1	500	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_1	Africa	1	Asia	2.14333177649294e-195	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_2	Africa	1	Asia	4.80546524095673e-229	1	497	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_3	Africa	1	Asia	7.51681870455264e-208	1	499	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_4	Africa	1	Asia	3.60900200770484e-219	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_5	Africa	1	Asia	1.44137209643949e-202	1	497	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_6	Africa	1	Asia	3.08056770601073e-180	1	500	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_7	Africa	1	Asia	4.62348401295468e-189	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_11	Africa	1	Asia	2.19326321376674e-196	1	497	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_12	Africa	1	Asia	2.62688706729503e-183	1	498	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_13	Africa	1	Asia	1.4346541395859e-215	1	499	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	500	FAVV_14	Asia	1	Africa	3.32350707663204e-234	1	499	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_7	Africa	1	Asia	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_4	Asia	1	Africa	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_5	Asia	1	Africa	0	1	1000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_6	Asia	1	Africa	0	1	999	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_1						61	Low	too_few_snps	Need >= 200; have 61
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_2	Africa	1	Asia	6.70002058496165e-114	1	324	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2023_3	Asia	1	Africa	3.18253310479569e-137	1	307	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2024_1	Asia	1	Africa	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2024_2	Africa	1	Asia	0	1	997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2024_3	Asia	1	Africa	0	1	1000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	Bd_2024_4	Asia	1	Africa	0	1	1000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_1	Africa	1	Asia	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_2	Africa	1	Asia	0	1	996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_3	Africa	1	Asia	0	1	999	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_4	Africa	1	Asia	0	1	997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_5	Africa	1	Asia	0	1	997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_6	Africa	1	Asia	1.66287877584027e-298	1	1000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_7	Africa	1	Asia	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_11	Africa	1	Asia	0	1	997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_12	Africa	1	Asia	1.1125369292536e-308	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_13	Africa	1	Asia	0	1	997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	1000	FAVV_14	Asia	1	Africa	0	1	998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_7	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_4	Asia	1	Africa	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_5	Asia	1	Africa	0	1	2000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_6	Asia	1	Africa	0	1	1999	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_1						107	Low	too_few_snps	Need >= 200; have 107
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_2	Africa	1	Asia	9.77321747401547e-203	1	652	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2023_3	Asia	1	Africa	1.11702294946165e-226	1	595	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2024_1	Asia	1	Africa	0	1	1993	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2024_2	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2024_3	Asia	1	Africa	0	1	1998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	Bd_2024_4	Asia	1	Africa	0	1	2000	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_1	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_2	Africa	1	Asia	0	1	1995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_3	Africa	1	Asia	0	1	1998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_4	Africa	1	Asia	0	1	1996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_5	Africa	1	Asia	0	1	1996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_6	Africa	1	Asia	0	1	1998	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_7	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_11	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_12	Africa	1	Asia	0	1	1997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_13	Africa	1	Asia	0	1	1994	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	2000	FAVV_14	Asia	1	Africa	0	1	1996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_7	Africa	1	Asia	0	1	4995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_4	Asia	1	Africa	0	1	4996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_5	Asia	1	Africa	0	1	4996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_6	Asia	1	Africa	0	1	4995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_1	Asia	1	Africa	1.10659896754062e-57	1	257	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_2	Africa	1	Asia	0	1	1570	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2023_3	Asia	1	Africa	0	1	1417	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2024_1	Asia	1	Africa	0	1	4988	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2024_2	Africa	1	Asia	0	1	4990	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2024_3	Asia	1	Africa	0	1	4997	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	Bd_2024_4	Asia	1	Africa	0	1	4995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_1	Africa	1	Asia	0	1	4994	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_2	Africa	1	Asia	0	1	4988	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_3	Africa	1	Asia	0	1	4996	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_4	Africa	1	Asia	0	1	4992	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_5	Africa	1	Asia	0	1	4991	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_6	Africa	1	Asia	0	1	4994	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_7	Africa	1	Asia	0	1	4995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_11	Africa	1	Asia	0	1	4995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_12	Africa	1	Asia	0	1	4992	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_13	Africa	1	Asia	0	1	4988	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	5000	FAVV_14	Asia	1	Africa	0	1	4984	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_7	Africa	1	Asia	0	1	9992	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_4	Asia	1	Africa	0	1	9993	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_5	Asia	1	Africa	0	1	9995	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_6	Asia	1	Africa	0	1	9986	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_1	Asia	1	Africa	2.95510705671296e-83	1	557	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_2	Africa	1	Asia	0	1	2912	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2023_3	Asia	1	Africa	0	1	2555	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2024_1	Asia	1	Africa	0	1	9981	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2024_2	Africa	1	Asia	0	1	9981	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2024_3	Asia	1	Africa	0	1	9994	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	Bd_2024_4	Asia	1	Africa	0	1	9992	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_1	Africa	1	Asia	0	1	9985	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_2	Africa	1	Asia	0	1	9985	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_3	Africa	1	Asia	0	1	9992	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_4	Africa	1	Asia	0	1	9986	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_5	Africa	1	Asia	0	1	9985	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_6	Africa	1	Asia	0	1	9986	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_7	Africa	1	Asia	0	1	9989	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_11	Africa	1	Asia	0	1	9987	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_12	Africa	1	Asia	0	1	9984	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_13	Africa	1	Asia	0	1	9979	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	10000	FAVV_14	Asia	1	Africa	0	1	9979	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_7	Africa	1	Asia	0	1	11067	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_4	Asia	1	Africa	0	1	11068	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_5	Asia	1	Africa	0	1	11070	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_6	Asia	1	Africa	0	1	11060	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_1	Asia	1	Africa	1.10771265529029e-85	1	690	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_2	Africa	1	Asia	0	1	3263	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2023_3	Asia	1	Africa	0	1	2853	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2024_1	Asia	1	Africa	0	1	11052	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2024_2	Africa	1	Asia	0	1	11052	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2024_3	Asia	1	Africa	0	1	11069	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	Bd_2024_4	Asia	1	Africa	0	1	11066	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_1	Africa	1	Asia	0	1	11060	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_2	Africa	1	Asia	0	1	11059	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_3	Africa	1	Asia	0	1	11066	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_4	Africa	1	Asia	0	1	11060	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_5	Africa	1	Asia	0	1	11059	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_6	Africa	1	Asia	0	1	11059	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_7	Africa	1	Asia	0	1	11064	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_11	Africa	1	Asia	0	1	11062	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_12	Africa	1	Asia	0	1	11058	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_13	Africa	1	Asia	0	1	11049	High	ok	""
+P1_macroregion_africa_vs_asia	macroregion_3	11075	FAVV_14	Asia	1	Africa	0	1	11051	High	ok	""

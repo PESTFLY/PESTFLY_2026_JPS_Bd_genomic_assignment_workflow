@@ -1,0 +1,4 @@
+scenario_id	scenario_label	n_queries	n_macroregion_call_changed	n_macroregion_confidence_changed	n_subregion_call_changed	n_subregion_confidence_changed	max_macroregion_posterior_abs_change	max_subregion_posterior_abs_change
+exclude_published_caution	Exclude 12 published caution references	22	0	0	2	5	0	0.068447633877732
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	22	0	0	0	1	0	0
+exclude_combined	Exclude all 14 caution or low coverage references	22	0	0	2	6	0	0.068447633877732

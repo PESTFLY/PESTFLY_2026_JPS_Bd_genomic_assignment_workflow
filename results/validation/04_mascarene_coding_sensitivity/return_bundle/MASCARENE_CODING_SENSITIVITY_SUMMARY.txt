@@ -1,0 +1,37 @@
+PESTFLY MASCARENE CODING SENSITIVITY
+
+Timestamp: 2026-09-30 10:03:20 CEST
+Repository root: C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline
+
+FROZEN SNAPSHOT
+References: 330
+Queries: 22
+Mascarene references changed by the sensitivity test: 45
+Reunion references: 40
+Mauritius references: 5
+
+SCENARIOS
+baseline_asia: Asia and SE_Asia, using existing corrected primary outputs
+geo_africa: Africa and E_Africa, with Steps 02, 04, and 05 rerun
+excluded_other: Others and Other, with Steps 02, 04, and 05 rerun
+
+LOO SUMMARY
+baseline_asia | P1_macroregion_africa_vs_asia | n=320 | accuracy_all=1 | uncertainty_rate=0.00625
+baseline_asia | P2_subregion_within_africa | n=320 | accuracy_all=1 | uncertainty_rate=0.00625
+baseline_asia | P3_subregion_within_asia | n=320 | accuracy_all=1 | uncertainty_rate=0.00625
+geo_africa | P1_macroregion_africa_vs_asia | n=320 | accuracy_all=0.98125 | uncertainty_rate=0.034375
+geo_africa | P2_subregion_within_africa | n=320 | accuracy_all=0.98125 | uncertainty_rate=0.034375
+geo_africa | P3_subregion_within_asia | n=320 | accuracy_all=0.98125 | uncertainty_rate=0.034375
+excluded_other | P1_macroregion_africa_vs_asia | n=275 | accuracy_all=1 | uncertainty_rate=0
+excluded_other | P2_subregion_within_africa | n=275 | accuracy_all=1 | uncertainty_rate=0
+excluded_other | P3_subregion_within_asia | n=275 | accuracy_all=1 | uncertainty_rate=0
+
+QUERY ASSIGNMENT CHANGES
+geo_africa | macroregion calls changed=0/22 | subregion calls changed=2/22 | macroregion confidence changed=0 | subregion confidence changed=3
+excluded_other | macroregion calls changed=0/22 | subregion calls changed=0/22 | macroregion confidence changed=0 | subregion confidence changed=1
+
+INTERPRETATION
+This file reports numerical comparisons only. Biological interpretation should be made after reviewing the returned tables.
+
+SUMMARY EXPORTS
+Complete scenario outputs are included in S6. Redundant exports are mapped in duplicate_exports.tsv.

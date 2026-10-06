@@ -1,0 +1,3 @@
+scenario_id	scenario_label	n_queries	n_macroregion_call_changed	n_macroregion_confidence_changed	n_subregion_call_changed	n_subregion_confidence_changed	max_macroregion_posterior_abs_change	max_subregion_posterior_abs_change
+geo_africa	Geographic Africa coding	22	0	0	2	3	0	0.068276169003194
+excluded_other	Mascarene references outside Africa Asia panels	22	0	0	0	1	0	0

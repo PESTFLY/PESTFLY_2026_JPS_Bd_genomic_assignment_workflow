@@ -1,125 +1,24 @@
 #!/usr/bin/env Rscript
 
-# =============================================================================
-# PESTFLY — Step 4b: Leave-one-out validation of hierarchical assignment panels
-# =============================================================================
+# PESTFLY: Individual fixed panel leave one out validation
 #
 # Purpose
-# -------
-# Validate the Step 4 assignment logic on the reference database itself using
-# leave-one-out cross-validation (LOO-CV).
+# Validate reference prediction with each focal specimen excluded from class allele frequency
+# estimation, using the fixed SNP panels selected in Step 02.
 #
-# For each reference sample:
+# Interpretation
+# The focal specimen contributed to the initial SNP discovery and ranking. This validates
+# prediction with fixed panels, not a fully nested marker discovery procedure. Use the
+# geographically grouped analysis for a stricter assessment of reference geography.
 #
-#   1. remove the sample from the reference database;
-#   2. estimate allele frequencies from the remaining reference samples;
-#   3. assign the held-out sample as if it were unknown;
-#   4. compare the predicted origin to the known metadata origin.
+# Technical notes
+# The likelihood, query SNP requirements, posterior, gap and multi K stability settings mirror
+# Step 04. Raw top class accuracy and the fraction of reportable calls are different quantities;
+# report both when assessing operational performance.
 #
-# This gives empirical estimates of:
-#
-#   - expected accuracy;
-#   - uncertainty rate;
-#   - class-specific confusion;
-#   - failure modes such as too few usable SNPs;
-#   - stability of calls across increasing Top-K SNP subsets.
-#
-# =============================================================================
-# Conceptual relationship to Step 4
-# =============================================================================
-#
-# Step 4 assigns query/intercept samples using a hierarchical multi-K framework:
-#
-#   P1: macroregion, Africa vs Asia
-#   P2: subregion within Africa
-#   P3: subregion within Asia
-#
-# Step 4b validates the same likelihood model and the same threshold logic on
-# known reference samples.
-#
-# This updated Step 4b mirrors the improved Step 4 logic:
-#
-#   - all K values are tested and written to raw output;
-#   - only usable K values enter stability calculations;
-#   - usable K values are those with enough non-missing SNPs;
-#   - final reliability requires posterior support, posterior gap, enough usable
-#     K values, global K agreement, and large-K tail agreement.
-#
-# Small K values are therefore kept for transparency, but do not penalise
-# stability if they fall below the minimum SNP threshold.
-#
-# =============================================================================
-# Default panels
-# =============================================================================
-#
-#   P1_macroregion_africa_vs_asia
-#      group_col = macroregion_3
-#      references = Africa + Asia
-#      min SNPs = 200
-#      min gap = 0.20
-#
-#   P2_subregion_within_africa
-#      group_col = subregion
-#      references = macroregion_3 == Africa
-#      min SNPs = 300
-#      min gap = 0.25
-#
-#   P3_subregion_within_asia
-#      group_col = subregion
-#      references = macroregion_3 == Asia
-#      min SNPs = 300
-#      min gap = 0.25
-#
-# =============================================================================
-# Inputs
-# =============================================================================
-#
-#   results/01_qc/metadata_clean.tsv
-#   results/02_snp_panels/panels/<panel_id>/snp_map.tsv
-#   results/02_snp_panels/panels/<panel_id>/snp_matrix.rds
-#
-# =============================================================================
-# Outputs
-# =============================================================================
-#
-# Written to:
-#
-#   results/05_loo_validation/
-#
-# Main outputs:
-#
-#   step4b_loo_panels_index.tsv / .rds
-#   step4b_loo_summary_all_panels.tsv / .rds
-#   step4b_loo_predictions_all_panels.tsv / .rds
-#   step4b_loo_raw_all_panels.tsv.gz
-#   step4b_K_grid_used.tsv / .rds
-#   step4b_loo_validation_summary.xlsx
-#   step4b_run_info.rds
-#
-# Per-panel outputs:
-#
-#   <prefix>_loo_predictions.tsv / .rds
-#   <prefix>_loo_raw.tsv.gz
-#   <prefix>_loo_summary.tsv / .rds
-#   <prefix>_loo_perclass.tsv / .rds
-#   <prefix>_loo_confusion.tsv / .rds
-#   <prefix>_loo_reason_counts.tsv
-#   FIG_<prefix>_validation_A4.pdf
-#
-# =============================================================================
-# Run
-# =============================================================================
-#
-#   Rscript steps/step4b_loo_validation/run.R
-#
-# Optional:
-#
-#   Rscript steps/step4b_loo_validation/run.R \
-#     --tail_fraction 0.50 \
-#     --min_tail_agreement 1.00 \
-#     --min_agreement 0.90
-#
-# =============================================================================
+# Run from the repository root:
+#   Rscript steps/05_full_panel_loo_validation/run.R
+# Detailed inputs, outputs and parameters are in the adjacent README.md.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -169,19 +68,19 @@ option_list <- list(
     "--qc_dir",
     type = "character",
     default = "results/01_qc",
-    help = "Step 1-2 output directory containing metadata_clean.tsv [default %default]"
+    help = "Step 01 output directory containing metadata_clean.tsv [default %default]"
   ),
   make_option(
     "--step3_dir",
     type = "character",
     default = "results/02_snp_panels",
-    help = "Step 3 output directory containing panels/ [default %default]"
+    help = "Step 02 output directory containing panels/ [default %default]"
   ),
   make_option(
     "--out_dir",
     type = "character",
     default = "results/05_loo_validation",
-    help = "Step 4b output directory [default %default]"
+    help = "Step 05 output directory [default %default]"
   ),
   make_option(
     "--panels",
@@ -332,7 +231,7 @@ panels_requested <- panels_requested[nzchar(panels_requested)]
 
 message("Repo root:  ", repo_root)
 message("QC dir:     ", opt$qc_dir)
-message("Step 3 dir: ", opt$step3_dir)
+message("Step 02 dir: ", opt$step3_dir)
 message("Output dir: ", opt$out_dir)
 message("Panels:     ", paste(panels_requested, collapse = ", "))
 
@@ -866,7 +765,7 @@ final_call <- function(
 meta_path <- file.path(opt$qc_dir, "metadata_clean.tsv")
 
 if (!file.exists(meta_path)) {
-  stop("Missing metadata_clean.tsv: ", meta_path, " (run Step 1-2 first)")
+  stop("Missing metadata_clean.tsv: ", meta_path, " (run Step 01 first)")
 }
 
 meta <- fread(meta_path)
@@ -934,7 +833,7 @@ run_one_panel_loo <- function(cfg) {
   min_gap <- cfg$min_gap
   
   message("\n============================================================")
-  message("Running Step 4b LOO panel: ", panel_id)
+  message("Running Step 05 LOO panel: ", panel_id)
   message("Group column: ", group_col)
   message("Output prefix: ", prefix)
   message("============================================================")
@@ -1396,7 +1295,7 @@ for (pid in panels_requested) {
 }
 
 if (length(results) == 0L) {
-  stop("No Step 4b panels completed successfully.")
+  stop("No Step 05 panels completed successfully.")
 }
 
 # =============================================================================
@@ -1520,7 +1419,7 @@ run_info <- list(
 saveRDS(run_info, file.path(opt$out_dir, "step4b_run_info.rds"))
 
 message("\nDone.")
-message("Step 4b panel index: ", file.path(opt$out_dir, "step4b_loo_panels_index.tsv"))
-message("Step 4b summary:     ", file.path(opt$out_dir, "step4b_loo_summary_all_panels.tsv"))
-message("Step 4b predictions: ", file.path(opt$out_dir, "step4b_loo_predictions_all_panels.tsv"))
-message("Step 4b workbook:    ", xlsx_out)
+message("Step 05 panel index: ", file.path(opt$out_dir, "step4b_loo_panels_index.tsv"))
+message("Step 05 summary:     ", file.path(opt$out_dir, "step4b_loo_summary_all_panels.tsv"))
+message("Step 05 predictions: ", file.path(opt$out_dir, "step4b_loo_predictions_all_panels.tsv"))
+message("Step 05 workbook:    ", xlsx_out)

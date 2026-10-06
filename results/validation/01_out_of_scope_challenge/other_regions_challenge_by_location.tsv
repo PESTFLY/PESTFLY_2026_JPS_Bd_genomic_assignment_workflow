@@ -1,0 +1,4 @@
+collection_country	collection_site	n_samples	n_flagged_uncertain	flagged_uncertain_rate	n_out_of_scope_not_flagged	out_of_scope_not_flagged_rate	n_closed_set_africa_calls	n_closed_set_asia_calls	n_accepted_africa_affinities	n_accepted_asia_affinities	median_maxK_posterior	median_maxK_gap	median_K_agreement
+USA	Hawaii	5	0	0	5	1	0	5	0	5	1	1	1
+Papua_New_Guinea	Port_Moresby	5	0	0	5	1	0	5	0	5	1	1	1
+All	All	10	0	0	10	1	0	10	0	10	1	1	1

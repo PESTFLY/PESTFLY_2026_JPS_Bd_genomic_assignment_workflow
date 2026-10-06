@@ -1,0 +1,25 @@
+Copyright (c) 2026 Massimiliano Virgilio and Wannes Dermauw
+
+The project documentation and public derived results in this package are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0), except where a material carries a separate notice.
+
+This notice covers the project reader guides, explanatory text, public
+metadata and derived SNP resources, archived project tables, workbooks,
+figures and reporting records. Project code is licensed separately under
+the MIT licence in LICENSE. See LICENSING.md for the scope mapping.
+
+Licence summary:
+https://creativecommons.org/licenses/by/4.0/
+
+Complete legal terms:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+For attribution, retain the supplied creator credits, this copyright notice
+and the licence reference, and indicate changes where applicable. Citation
+information is supplied in CITATION.cff and the associated manuscript.
+
+Only rights held by the licensors are granted. Third party materials and
+software dependencies retain their own terms. The separately distributed
+PHYLIP and FASTA alignments are outside this public licence notice and remain
+available upon request, as described in ALIGNMENT_ACCESS.md.

@@ -1,0 +1,42 @@
+sample_id	primary_baseline_call	primary_baseline_confidence	primary_baseline_reason	panel_id	panel_label
+Bd_2023_1	Asia	Uncertain	too_few_usable_K	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_2	Africa	Uncertain	too_few_usable_K	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_3	Asia	Uncertain	too_few_usable_K	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_4	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_5	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_6	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_7	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2024_1	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2024_2	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2024_3	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2024_4	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_1	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_11	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_12	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_13	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_14	Asia	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_2	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_3	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_4	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_5	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_6	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+FAVV_7	Africa	High	ok	P1_macroregion_africa_vs_asia	P1 Africa versus Asia
+Bd_2023_7	E_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+Bd_2024_2	E_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+FAVV_1	W_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+FAVV_11	W_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+FAVV_12	W_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+FAVV_13	W_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+FAVV_2	W_Africa	Uncertain	low_global_K_agreement	P2_subregion_within_africa	P2 Africa subregion
+FAVV_3	W_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+FAVV_4	W_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+FAVV_5	E_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+FAVV_6	W_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+FAVV_7	E_Africa	High	ok	P2_subregion_within_africa	P2 Africa subregion
+Bd_2023_4	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion
+Bd_2023_5	E_Asia	Uncertain	low_global_K_agreement	P3_subregion_within_asia	P3 Asia subregion
+Bd_2023_6	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion
+Bd_2024_1	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion
+Bd_2024_3	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion
+Bd_2024_4	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion
+FAVV_14	S_Asia	High	ok	P3_subregion_within_asia	P3 Asia subregion

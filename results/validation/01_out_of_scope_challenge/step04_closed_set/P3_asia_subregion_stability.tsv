@@ -1,0 +1,11 @@
+panel_id	sample_id	final_group	stable_from_K	agreement_frac	tail_agreement_frac	tail_fraction	n_K_total_tested	n_K_usable_for_stability	n_K_available	maxK_used	maxK_top_posterior	maxK_second_posterior	maxK_gap	maxK_confidence	maxK_status	maxK_n_snps_used	status
+P3_subregion_within_asia	PGPM01	SE_Asia	500	1	1	0.5	16	6	6	11086	1	3.89793443005798e-234	1	High	ok	11032	ok
+P3_subregion_within_asia	PGPM02	SE_Asia	500	1	1	0.5	16	6	6	11086	1	1.10824734110867e-264	1	High	ok	11000	ok
+P3_subregion_within_asia	PGPM03	SE_Asia	500	1	1	0.5	16	6	6	11086	1	1.46181784914862e-263	1	High	ok	11056	ok
+P3_subregion_within_asia	PGPM04	SE_Asia	500	1	1	0.5	16	6	6	11086	1	2.58768144794937e-225	1	High	ok	11045	ok
+P3_subregion_within_asia	PGPM05	SE_Asia	500	1	1	0.5	16	6	6	11086	1	6.11930953412808e-227	1	High	ok	10981	ok
+P3_subregion_within_asia	USHW01	E_Asia	500	1	1	0.5	16	6	6	11086	1	2.58177838038834e-232	1	High	ok	11059	ok
+P3_subregion_within_asia	USHW02	E_Asia	500	1	1	0.5	16	6	6	11086	1	7.76065248417029e-237	1	High	ok	11061	ok
+P3_subregion_within_asia	USHW03	E_Asia	500	1	1	0.5	16	6	6	11086	1	8.52042472116484e-214	1	High	ok	11046	ok
+P3_subregion_within_asia	USHW04	E_Asia	500	1	1	0.5	16	6	6	11086	1	1.51877448478883e-215	1	High	ok	11052	ok
+P3_subregion_within_asia	USHW05	E_Asia	500	1	1	0.5	16	6	6	11086	1	9.28300852826923e-195	1	High	ok	11043	ok

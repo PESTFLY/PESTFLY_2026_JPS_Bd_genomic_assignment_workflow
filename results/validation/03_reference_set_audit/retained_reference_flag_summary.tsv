@@ -1,0 +1,13 @@
+sample_id	macroregion_3	subregion	country	site	collection	sample_accession	n_published_flags	flag_categories	evidence_domains	sources
+CDKB02	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528703	1	COI_dorsalis_kandiensis_ambiguity	mitochondrial_COI	Vanbergen et al. 2025, Supplementary Table S15
+YNJH01	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528365	1	nuclear_PCA_outlier	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9
+YNJH02	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528366	1	nuclear_PCA_outlier	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9
+YNJH03	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528367	1	nuclear_PCA_outlier	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9
+YNJH05	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528369	1	nuclear_PCA_outlier	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9
+IDJI04	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528528	2	nuclear_PCA_outlier;published_hybrid_candidate	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9;Zhang et al. 2023; identifier reconciliation in Vanbergen et al. 2025 Table S9
+MMYG01	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528455	2	nuclear_PCA_outlier;published_hybrid_candidate	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9;Zhang et al. 2023; identifier reconciliation in Vanbergen et al. 2025 Table S9
+MMYG02	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528456	2	nuclear_PCA_outlier;published_hybrid_candidate	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9;Zhang et al. 2023; identifier reconciliation in Vanbergen et al. 2025 Table S9
+MMYG04	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528458	2	nuclear_PCA_outlier;published_hybrid_candidate	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9;Zhang et al. 2023; identifier reconciliation in Vanbergen et al. 2025 Table S9
+MMYG05	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528459	2	nuclear_PCA_outlier;published_hybrid_candidate	nuclear_genome	Vanbergen et al. 2025, Supplementary Table S9;Zhang et al. 2023; identifier reconciliation in Vanbergen et al. 2025 Table S9
+LKAD01	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528599	1	COI_dorsalis_kandiensis_ambiguity	mitochondrial_COI	Vanbergen et al. 2025, Supplementary Table S15
+LKAD04	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528602	1	COI_dorsalis_kandiensis_ambiguity	mitochondrial_COI	Vanbergen et al. 2025, Supplementary Table S15

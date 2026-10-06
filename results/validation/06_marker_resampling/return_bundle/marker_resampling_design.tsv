@@ -1,0 +1,13 @@
+panel_id	panel_label	K	candidate_pool_size	n_partitions	n_alternative_sets	expected_markers_per_set	expected_complement_overlap	expected_fraction_from_conventional_topK
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	1000	15	30	500	0	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	2000	15	30	1000	0	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	4000	15	30	2000	0	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	10000	15	30	5000	0	0.5
+P2_subregion_within_africa	P2 Africa subregion	500	1000	15	30	500	0	0.5
+P2_subregion_within_africa	P2 Africa subregion	1000	2000	15	30	1000	0	0.5
+P2_subregion_within_africa	P2 Africa subregion	2000	4000	15	30	2000	0	0.5
+P2_subregion_within_africa	P2 Africa subregion	5000	10000	15	30	5000	0	0.5
+P3_subregion_within_asia	P3 Asia subregion	500	1000	15	30	500	0	0.5
+P3_subregion_within_asia	P3 Asia subregion	1000	2000	15	30	1000	0	0.5
+P3_subregion_within_asia	P3 Asia subregion	2000	4000	15	30	2000	0	0.5
+P3_subregion_within_asia	P3 Asia subregion	5000	10000	15	30	5000	0	0.5

@@ -1,0 +1,11 @@
+sample_id	macroregion_call	macroregion_confidence	macroregion_reason	macroregion_maxK_used	macroregion_maxK_post	macroregion_maxK_gap	macroregion_agreement	macroregion_tail_agreement	macroregion_tail_fraction	macroregion_stable_from_K	macroregion_nK	macroregion_nK_total_tested	macroregion_nK_usable_for_stability	macroregion_maxK_nsnps	subregion_call	subregion_confidence	subregion_reason	subregion_panel	subregion_maxK_used	subregion_maxK_post	subregion_maxK_gap	subregion_agreement	subregion_tail_agreement	subregion_tail_fraction	subregion_stable_from_K	subregion_nK	subregion_nK_total_tested	subregion_nK_usable_for_stability	subregion_maxK_nsnps	country	population	macroregion_3	subregion	is_reference
+PGPM01	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11034	SE_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11032	Papua_New_Guinea	Papua_New_Guinea	Others	Other	FALSE
+PGPM02	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11006	SE_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11000	Papua_New_Guinea	Papua_New_Guinea	Others	Other	FALSE
+PGPM03	Asia	High	ok	11086	1	1	1	1	0.5	200	7	16	7	11063	SE_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11056	Papua_New_Guinea	Papua_New_Guinea	Others	Other	FALSE
+PGPM04	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11044	SE_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11045	Papua_New_Guinea	Papua_New_Guinea	Others	Other	FALSE
+PGPM05	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	10993	SE_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	10981	Papua_New_Guinea	Papua_New_Guinea	Others	Other	FALSE
+USHW01	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11062	E_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11059	USA	USA	Others	Other	FALSE
+USHW02	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11059	E_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11061	USA	USA	Others	Other	FALSE
+USHW03	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11056	E_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11046	USA	USA	Others	Other	FALSE
+USHW04	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11058	E_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11052	USA	USA	Others	Other	FALSE
+USHW05	Asia	High	ok	11086	1	1	1	1	0.5	500	6	16	6	11052	E_Asia	High	ok	P3_Asia	11086	1	1	1	1	0.5	500	6	16	6	11043	USA	USA	Others	Other	FALSE

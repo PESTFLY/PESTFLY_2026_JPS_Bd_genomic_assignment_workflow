@@ -1,0 +1,28 @@
+scenario_id	scenario_label	panel_id	analytical_group	N
+baseline_asia	Current genomic lineage coding	P1_macroregion_africa_vs_asia	Africa	105
+baseline_asia	Current genomic lineage coding	P1_macroregion_africa_vs_asia	Asia	215
+baseline_asia	Current genomic lineage coding	P2_subregion_within_africa	C_Africa	5
+baseline_asia	Current genomic lineage coding	P2_subregion_within_africa	E_Africa	67
+baseline_asia	Current genomic lineage coding	P2_subregion_within_africa	S_Africa	10
+baseline_asia	Current genomic lineage coding	P2_subregion_within_africa	W_Africa	23
+baseline_asia	Current genomic lineage coding	P3_subregion_within_asia	E_Asia	80
+baseline_asia	Current genomic lineage coding	P3_subregion_within_asia	SE_Asia	90
+baseline_asia	Current genomic lineage coding	P3_subregion_within_asia	S_Asia	45
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	Africa	105
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	Asia	170
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	C_Africa	5
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	E_Africa	67
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	S_Africa	10
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	W_Africa	23
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	E_Asia	80
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	SE_Asia	45
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	S_Asia	45
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	Africa	150
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	Asia	170
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	C_Africa	5
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	E_Africa	112
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	S_Africa	10
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	W_Africa	23
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	E_Asia	80
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	SE_Asia	45
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	S_Asia	45

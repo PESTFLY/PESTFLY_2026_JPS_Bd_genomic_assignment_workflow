@@ -1,0 +1,41 @@
+PESTFLY native R reporting verification
+Started: 2026-10-05 17:58:02.581372
+R: R version 4.5.1 (2025-06-13 ucrt)
+Repository: C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5
+No genomic or statistical model rerun is requested.
+Outputs are written to a new release_check directory.
+RUN: Hudson FST and MI implementation checks
+Hudson FST checks passed, including undefined and insufficient call cases.
+MI helper self-test passed.
+Implementation checks completed.
+PASS: Hudson FST and MI implementation checks
+RUN: Six criterion reporting checks
+Reporting checks passed: benchmark, inclusive thresholds, twelve single criterion failures,
+conditional branches, missing metrics and invalid inputs.
+PASS: Six criterion reporting checks
+RUN: Step 07 formatter
+Warning messages:
+1: package 'optparse' was built under R version 4.5.2 
+2: package 'data.table' was built under R version 4.5.2 
+3: package 'openxlsx' was built under R version 4.5.2 
+[1] "Extended"
+[1] "Criteria"
+[1] "Reporting_Thresholds"
+[1] "Legend"
+[1] "Column_Key"
+[1] "Intercept_Origin_Map"
+[1] "Country_Region_Map"
+[1] "Vanbergen_Reference"
+
+Done.
+Simplified TSV: C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5/release_check/20261005_175802_26116/authority_report/FINAL_origin_tracing_authority_simplified.tsv
+Extended TSV:   C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5/release_check/20261005_175802_26116/authority_report/FINAL_origin_tracing_authority_extended.tsv
+Excel report:   C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5/release_check/20261005_175802_26116/authority_report/FINAL_origin_tracing_authority_REPORT.xlsx
+Run info:        C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5/release_check/20261005_175802_26116/authority_report/step7_run_info.rds
+PASS: Step 07 formatter
+PASS: FINAL_origin_tracing_authority_criteria.tsv comparison; 264 rows, 12 fields
+PASS: reporting_thresholds.tsv comparison; 12 rows, 5 fields
+FAIL: Saved values differ from native R output in FINAL_origin_tracing_authority_extended.tsv. See comparison_failures.tsv.
+PASS: archived results remain unchanged.
+Overall result: FAIL
+Results folder: C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_repository_step5/release_check/20261005_175802_26116

@@ -1,0 +1,28 @@
+{
+  "archive_role": "Supplementary File S6 with seven supplementary analyses and baseline resources",
+  "assembly_date": "2026-10-05",
+  "publication_checkpoint": 7,
+  "copyright_holders": [
+    "Massimiliano Virgilio",
+    "Wannes Dermauw"
+  ],
+  "code_license": "MIT",
+  "project_content_license": "CC-BY-4.0",
+  "alignment_access": "distributed separately upon request; excluded from public licence grants",
+  "omitted_identical_export_copies": 90,
+  "omitted_bytes": 15666945,
+  "analysis_result_files": {
+    "01_out_of_scope_challenge": 27,
+    "02_grouped_geographic_cv": 32,
+    "03_reference_set_audit": 58,
+    "04_mascarene_coding_sensitivity": 288,
+    "05_reference_downsampling": 49,
+    "06_marker_resampling": 53,
+    "07_exclusion": 418
+  },
+  "statistical_outputs_recomputed": false,
+  "native_R_execution_during_assembly": "User supplied R 4.5.1 Windows execution on 2026-10-05; isolated implementation checks, reporting checks and formatter passed. Native exports independently verified.",
+  "historical_run_records": "Preserved. Machine paths and early internal labels describe the original runs.",
+  "authority_report": "Verified native R exports. The original checker stopped on Step 4 versus Step 04 descriptive labels; original logs and completed independent comparisons are retained in docs/native_R_verification/. Earlier reconstruction retained separately.",
+  "manifest_scope": "All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv"
+}

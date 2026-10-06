@@ -1,0 +1,10 @@
+scenario_id	step_id	status	exit_status	started	finished	elapsed_minutes
+baseline_asia	Step_02	existing_corrected_primary_output	0	NA	NA	NA
+baseline_asia	Step_04	existing_corrected_primary_output	0	NA	NA	NA
+baseline_asia	Step_05	existing_corrected_primary_output	0	NA	NA	NA
+geo_africa	Step_02	completed	0	2026-09-30 08:53:14.185611	2026-09-30 09:27:34.862216	34.3446100831032
+geo_africa	Step_04	completed	0	2026-09-30 09:27:34.86834	2026-09-30 09:27:44.413864	0.159092064698537
+geo_africa	Step_05	completed	0	2026-09-30 09:27:44.415449	2026-09-30 09:29:12.205144	1.46316158374151
+excluded_other	Step_02	completed	0	2026-09-30 09:29:12.207086	2026-09-30 10:02:11.998372	32.9965214331945
+excluded_other	Step_04	completed	0	2026-09-30 10:02:12.001676	2026-09-30 10:02:15.508035	0.058439314365387
+excluded_other	Step_05	completed	0	2026-09-30 10:02:15.511417	2026-09-30 10:03:19.261648	1.06250385046005

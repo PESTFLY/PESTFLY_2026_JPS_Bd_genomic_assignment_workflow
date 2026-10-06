@@ -1,0 +1,70 @@
+{
+  "checkpoint": "Step 5: Supplementary File S6",
+  "assembly_date": "2026-10-05",
+  "seven_supplementary_analyses_accounted_for": true,
+  "all_result_files_retained_or_mapped_to_identical_copy": 1214,
+  "result_files_in_full_repository_byte_identical_to_step4": 1205,
+  "summary_text_files_with_documented_presentation_edits": [
+    "results/validation/04_mascarene_coding_sensitivity/return_bundle/MASCARENE_CODING_SENSITIVITY_SUMMARY.txt",
+    "results/validation/05_reference_downsampling/REFERENCE_DOWNSAMPLING_SUMMARY.txt",
+    "results/validation/05_reference_downsampling/return_bundle/REFERENCE_DOWNSAMPLING_SUMMARY.txt",
+    "results/validation/06_marker_resampling/MARKER_RESAMPLING_SUMMARY.txt",
+    "results/validation/06_marker_resampling/return_bundle/MARKER_RESAMPLING_SUMMARY.txt",
+    "results/validation/07_exclusion/return_bundle/REFERENCE_EXCLUSION_SENSITIVITY_SUMMARY.txt"
+  ],
+  "presentation_replacement_count": 10,
+  "inherited_R_files_byte_identical_to_step4": 20,
+  "R_files_static_syntax_screened": 21,
+  "native_R_execution_during_packaging": "not performed; R is unavailable",
+  "original_statistical_models_recomputed": false,
+  "archive_members": 1182,
+  "archive_manifest_entries_verified_after_extraction": 1181,
+  "archive_verifier_executed_successfully": true,
+  "omitted_identical_export_copies": 90,
+  "omitted_export_bytes": 15666945,
+  "validation_result_files_before_export_deduplication": {
+    "01_out_of_scope_challenge": 27,
+    "05_reference_downsampling": 75,
+    "03_reference_set_audit": 58,
+    "06_marker_resampling": 78,
+    "02_grouped_geographic_cv": 32,
+    "04_mascarene_coding_sensitivity": 304,
+    "07_exclusion": 441
+  },
+  "trajectory_rows": 656,
+  "complete_query_K_grids_verified": [
+    {
+      "file": "P1_macroregion_raw.tsv",
+      "queries": 22,
+      "rows": 352,
+      "K_values_per_query": 16,
+      "all_SNP_K": 11086
+    },
+    {
+      "file": "P2_africa_subregion_raw.tsv",
+      "queries": 12,
+      "rows": 192,
+      "K_values_per_query": 16,
+      "all_SNP_K": 11001
+    },
+    {
+      "file": "P3_asia_subregion_raw.tsv",
+      "queries": 7,
+      "rows": 112,
+      "K_values_per_query": 16,
+      "all_SNP_K": 11086
+    }
+  ],
+  "source_map_rows": 11,
+  "local_documentation_links_checked_in_repository_and_S6": 115,
+  "reader_guide_pages": 9,
+  "reader_guide_visual_review": "All nine rendered pages inspected; no clipping or overlap",
+  "S6_archive_sha256": "d5abf9e81e68792ee22d661ac3ed1328ef11ed8628874963a96cb854480840ad",
+  "S6_archive_size_bytes": 80829049,
+  "next_release_checks": [
+    "Execute implementation and reporting checks in R",
+    "Run the updated Step 07 formatter and compare saved decisions",
+    "Confirm the software licence",
+    "Verify external release records"
+  ]
+}

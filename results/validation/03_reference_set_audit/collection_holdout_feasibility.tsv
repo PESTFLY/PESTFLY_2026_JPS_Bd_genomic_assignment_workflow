@@ -1,0 +1,9 @@
+panel_id	panel_label	group_col	heldout_collection	heldout_true_groups	n_test	n_train	n_supported_training_classes	supported_training_classes	fold_evaluable	fold_reason
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Pablo_IO	Africa;Asia	55	265	2	Africa;Asia	TRUE	ok
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	REACT	Asia	30	290	2	Africa;Asia	TRUE	ok
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Yue_Global	Africa;Asia	235	85	2	Africa;Asia	TRUE	ok
+P2_subregion_within_africa	P2 Africa subregion	subregion	Pablo_IO	E_Africa	40	65	4	C_Africa;E_Africa;S_Africa;W_Africa	TRUE	ok
+P2_subregion_within_africa	P2 Africa subregion	subregion	Yue_Global	C_Africa;E_Africa;S_Africa;W_Africa	65	40	1	E_Africa	FALSE	fewer_than_two_supported_training_classes
+P3_subregion_within_asia	P3 Asia subregion	subregion	Pablo_IO	SE_Asia	15	200	3	E_Asia;S_Asia;SE_Asia	TRUE	ok
+P3_subregion_within_asia	P3 Asia subregion	subregion	REACT	SE_Asia	30	185	3	E_Asia;S_Asia;SE_Asia	TRUE	ok
+P3_subregion_within_asia	P3 Asia subregion	subregion	Yue_Global	E_Asia;S_Asia;SE_Asia	170	45	1	SE_Asia	FALSE	fewer_than_two_supported_training_classes

@@ -1,52 +1,23 @@
 #!/usr/bin/env Rscript
 
-# =============================================================================
-# PESTFLY — Step 0: Convert OMA/read2tree interleaved PHYLIP MSAs to FASTA
-# =============================================================================
+# PESTFLY: PHYLIP to FASTA conversion
 #
 # Purpose
-# -------
-# Convert per-ortholog OMA/read2tree PHYLIP alignments into FASTA alignments.
+# Convert the supplied OMA/read2tree interleaved PHYLIP alignments to FASTA while checking taxon
+# counts and alignment lengths.
 #
-# Input
-# -----
-#   data/000_input_data/phy/OG*.fa
+# Interpretation
+# This is format conversion of existing alignments. It does not process raw reads, estimate
+# orthology or rediscover loci. The .fa suffix of the input files does not identify their
+# format: these inputs are PHYLIP.
 #
-# Output
-# ------
-#   results/00_fasta/OG*.fasta
-#   results/00_fasta/convert_summary.tsv
-#   results/00_fasta/convert_summary.rds
-#   results/00_fasta/convert_errors.tsv      if errors occur
-#   results/00_fasta/convert_errors.rds      if errors occur
-#   results/00_fasta/step0_run_info.rds
+# Technical notes
+# Restoring the separately deposited PHYLIP inputs is required. The generated FASTA alignments
+# are omitted from the public package.
 #
-# Notes
-# -----
-# This parser is designed for OMA/read2tree-style interleaved PHYLIP:
-#
-#   ntax nsites
-#   label_1   sequence_chunk_1
-#   label_2   sequence_chunk_1
-#   ...
-#   label_N   sequence_chunk_1
-#
-#             continuation_chunk_for_label_1
-#             continuation_chunk_for_label_2
-#             ...
-#
-# It reconstructs full sequences, checks them against the header n_sites,
-# and writes one FASTA file per OG.
-#
-# Run
-# ---
-#   Rscript steps/step0_convert_phylip_to_fasta/run.R
-#
-# Test
-# ----
-#   Rscript steps/step0_convert_phylip_to_fasta/run.R --max_files 20 --cores 4
-#
-# =============================================================================
+# Run from the repository root:
+#   Rscript steps/00_convert_phylip_to_fasta/run.R
+# Detailed inputs, outputs and parameters are in the adjacent README.md.
 
 suppressPackageStartupMessages({
   library(optparse)

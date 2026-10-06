@@ -1,0 +1,41 @@
+PESTFLY REFERENCE EXCLUSION SENSITIVITY
+
+Timestamp: 2026-09-30 18:00:51 CEST
+Repository root: C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline
+
+FROZEN SNAPSHOT
+References: 330
+Queries: 22
+Published caution references tested: 12
+Extreme low coverage references tested: 2
+
+SCENARIOS
+primary_all_references: Corrected primary analysis with all references; n excluded=0
+exclude_published_caution: Exclude 12 published caution references; n excluded=12
+exclude_low_coverage: Exclude ReuPie1 and ReuPie4; n excluded=2
+exclude_combined: Exclude all 14 caution or low coverage references; n excluded=14
+
+LOO SUMMARY
+primary_all_references | P1_macroregion_africa_vs_asia | n=320 | accuracy_all=1 | uncertainty_rate=0.00625
+primary_all_references | P2_subregion_within_africa | n=105 | accuracy_all=0.980952 | uncertainty_rate=0.0952381
+primary_all_references | P3_subregion_within_asia | n=215 | accuracy_all=0.925581 | uncertainty_rate=0.0697674
+exclude_published_caution | P1_macroregion_africa_vs_asia | n=308 | accuracy_all=1 | uncertainty_rate=0.00649351
+exclude_published_caution | P2_subregion_within_africa | n=104 | accuracy_all=0.971154 | uncertainty_rate=0.0961538
+exclude_published_caution | P3_subregion_within_asia | n=204 | accuracy_all=0.916667 | uncertainty_rate=0.0833333
+exclude_low_coverage | P1_macroregion_africa_vs_asia | n=318 | accuracy_all=1 | uncertainty_rate=0
+exclude_low_coverage | P2_subregion_within_africa | n=105 | accuracy_all=0.980952 | uncertainty_rate=0.0952381
+exclude_low_coverage | P3_subregion_within_asia | n=213 | accuracy_all=0.924883 | uncertainty_rate=0.0610329
+exclude_combined | P1_macroregion_africa_vs_asia | n=306 | accuracy_all=1 | uncertainty_rate=0
+exclude_combined | P2_subregion_within_africa | n=104 | accuracy_all=0.971154 | uncertainty_rate=0.0961538
+exclude_combined | P3_subregion_within_asia | n=202 | accuracy_all=0.915842 | uncertainty_rate=0.0643564
+
+QUERY ASSIGNMENT CHANGES
+exclude_published_caution | macroregion calls changed=0/22 | subregion calls changed=2/22 | macroregion confidence changed=0 | subregion confidence changed=5
+exclude_low_coverage | macroregion calls changed=0/22 | subregion calls changed=0/22 | macroregion confidence changed=0 | subregion confidence changed=1
+exclude_combined | macroregion calls changed=0/22 | subregion calls changed=2/22 | macroregion confidence changed=0 | subregion confidence changed=6
+
+INTERPRETATION
+This file reports numerical comparisons only. Biological interpretation should be made after reviewing the returned tables.
+
+SUMMARY EXPORTS
+Complete scenario outputs are included in S6. Redundant exports are mapped in duplicate_exports.tsv.

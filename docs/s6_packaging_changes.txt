@@ -1,0 +1,90 @@
+Historical checkpoint record. The current native R status is recorded in docs/NATIVE_R_VERIFICATION.md.
+
+PESTFLY repository review: Step 5
+Supplementary File S6
+5 October 2026
+
+COMPLETED
+
+PESTFLY_Supplementary_File_S6.zip contains all seven supplementary analyses,
+their scripts, parameter and run records, summary tables, figures and complete
+outputs, with core metadata, QC and SNP resources for context and reproduction.
+It has 1182 files and is approximately 77.08 MiB.
+
+The nine page PDF reader guide explains each analysis, its recorded findings,
+metric denominators, limitations and reproduction prerequisites. source_map.tsv
+maps eleven sections and resources to their scripts and key outputs.
+
+Complete baseline query trajectories are included for every evaluated SNP
+subset: 352 P1 rows for 22 queries, 192 P2 rows for 12 queries and 112 P3 rows
+for seven queries. All 656 rows are retained, with 16 K values per evaluated
+query branch. Low K rows and missing posterior values remain visible. Three
+failed macroregion queries have no evaluated conditional subregion branch.
+
+PRESERVATION AND EXPORT COPIES
+
+All twenty inherited R files are byte identical to the Step 4 checkpoint.
+A base R implementation check wrapper was added. No genomic inference or
+statistical model was rerun during S6 assembly.
+
+All numerical TSV, RDS, Excel, PDF figure and compressed output files are byte
+identical to the preceding checkpoint. Six summary text files received ten
+presentation replacements. Their numerical lines and all other bytes were
+preserved. Exact replacements and before and after hashes are recorded in
+docs/textual_output_changes.tsv. Original text is retained in earlier
+checkpoints and the supplied revision archive.
+
+Only 90 return_bundle export copies were omitted from S6. Each has a byte
+identical retained counterpart within the same analysis. The omissions remove
+15,666,945 redundant bytes and are mapped in duplicate_exports.tsv. Complete
+scenario outputs and every distinct result remain included. The full repository
+checkpoint retains the export copies.
+
+CHECKS
+
+All 1181 recorded archive file sizes and SHA256 values match after extraction.
+The ZIP integrity check passed. The standalone Python archive verifier ran
+successfully. Every result file is present or mapped to an identical retained
+copy. All seven supplementary analyses and all eleven source map entries were
+checked. All query by K grids are complete, with no duplicate pairs.
+
+Twenty one R files passed static syntax screening. All local documentation
+links resolve in the repository and extracted S6. The PDF has nine pages, all
+rendered and visually reviewed. Numerical guide tables derive from the saved
+result tables, with percentages rounded to one decimal place.
+
+Four repeated source manifest rows from the preceding checkpoint were
+consolidated. Original source paths and hashes remain recorded.
+
+REPRODUCTION
+
+Inspect the archive without rerunning the analyses. Supplied QC and SNP
+resources support panel based analyses 01, 02, 03, 05 and 06. Full core
+reproduction and rebuilding scenario panels in analyses 04 and 07 require
+the separately distributed PHYLIP inputs and regenerated FASTA files.
+
+The large sample_missingness.tsv export is omitted as in earlier checkpoints;
+its complete RDS counterpart is retained. A complete transitive dependency
+lock has not been reconstructed from the archived session records.
+
+The public tools/build_s6.py builder uses the Python standard library to select
+resources, map verified export copies, write the manifest and check the ZIP.
+The archive itself is delivered separately from the repository checkpoint.
+
+REMAINING RELEASE CHECKS
+
+R was unavailable during packaging. The original archived FST and MI run
+records report successful self tests. The new isolated implementation wrapper,
+reporting checks and updated Step 07 formatter have not been executed in R.
+
+Run from an extracted repository or S6 root:
+
+Rscript tools/check_implementation.R
+Rscript steps/07_authority_facing_report/check_reporting.R
+Rscript steps/07_authority_facing_report/run.R --out_dir results/07_authority_report_rerun
+
+Compare the native formatter's criterion values, outcomes, counts and final
+reported classes with the saved reporting reconstruction by sample_id.
+Native R execution, the software licence and external GitHub and DOI records
+remain final release tasks. No public repository upload or release publication
+has been performed at this checkpoint.

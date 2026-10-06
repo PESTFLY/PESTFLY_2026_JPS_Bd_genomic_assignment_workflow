@@ -1,0 +1,27 @@
+{
+  "description": "Six criterion report reconstruction from saved Step 04 metrics and the archived extended report.",
+  "generated_date": "2026-10-05",
+  "generator": "Independent JavaScript reporting reconstruction. Workbook edited with artifact tool.",
+  "native_R_execution": "Not performed. R is unavailable in this workspace.",
+  "genomic_inference_recomputed": false,
+  "all_22_reported_classes_resolutions_and_confidence_labels_preserved": true,
+  "step04_file": "results/04_origin_assignment/final_assignment.tsv",
+  "step04_sha256": "2e2e9cc6740d56f610fe0ea249aaa405d3b6dd490e43f1e003f7c7eebcf99ac4",
+  "threshold_file": "results/04_origin_assignment/step4_params.tsv",
+  "threshold_sha256": "d8ebc3a99eb456999b9659b901afa6951c4425f2693005d3f07fc3cd79ef81c5",
+  "outcomes": {
+    "macroregion": {
+      "PASS": 19,
+      "FAIL": 3,
+      "NOT_EVALUATED": 0
+    },
+    "subregion": {
+      "PASS": 12,
+      "FAIL": 7,
+      "NOT_EVALUATED": 3
+    }
+  },
+  "criterion_rows": 264,
+  "original_reports": "legacy_colour_report/",
+  "RDS_outputs": "Original RDS objects and run records are retained only in legacy_colour_report. Regenerate current RDS outputs with the updated R formatter."
+}

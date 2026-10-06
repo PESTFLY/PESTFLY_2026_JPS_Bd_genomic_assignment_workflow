@@ -1,78 +1,26 @@
 #!/usr/bin/env Rscript
 
-# =============================================================================
-# PESTFLY — Step 1–2: Metadata snapshot, label consistency, and ortholog QC
-# =============================================================================
+# PESTFLY: Metadata snapshot and ortholog QC
 #
 # Purpose
-# -------
-# This script prepares the curated metadata and ortholog-level QC objects used by
-# the downstream SNP-based origin-tracing workflow.
+# Harmonise specimen identifiers and analytical class metadata, verify alignment labels and
+# retain orthologs that satisfy the documented completeness and ambiguity filters.
 #
-# It performs three main tasks:
+# Interpretation
+# Analytical class labels can represent source lineage affinity rather than physical collection
+# geography. The baseline retains 330 references and 22 queries; the ten Other references are
+# not trained as Africa or Asia. Bdors and Blati are allowed extra alignment labels, not
+# additional metadata specimens.
 #
-#   1. Read, clean, and harmonise metadata from:
-#        data/000_input_data/metadata.xlsx
+# Technical notes
+# QC defaults are minimum length 300 bp; sample nonmissing fraction 0.50 for population
+# occupancy; population occupancy 0.70 in at least 0.80 of populations; mean ambiguity at most
+# 0.05. Congo and Reunion harmonisation is explicit in the script. Preserve the supplied
+# benchmark classifications when reproducing the paper.
 #
-#   2. Check label consistency between metadata sample IDs and raw PHYLIP labels:
-#        data/000_input_data/phy/OG*.fa
-#
-#   3. Run ortholog-level QC on FASTA alignments from Step 0:
-#        results/00_fasta/OG*.fasta
-#
-# Metadata harmonisation rules
-# ----------------------------
-#   - Remove hidden spaces, non-breaking spaces, and zero-width characters.
-#
-#   - Bdors and Blati are expected OMA/read2tree outgroups. They may occur in
-#     alignments but are not expected in metadata.
-#
-#   - Congo reference samples are assigned to:
-#        macroregion_3 = Africa
-#        subregion     = C_Africa
-#
-#   - Reunion / Réunion / Reu* samples are harmonised to:
-#        country       = Reunion
-#        population    = Reunion
-#        macroregion_3 = Asia
-#        subregion     = SE_Asia
-#
-#     This is a genetic/source-lineage grouping for the PESTFLY origin-tracing
-#     workflow, consistent with the Deschepper interpretation, not a strict
-#     geographic classification.
-#
-# Outputs
-# -------
-# Written to:
-#   results/01_qc/
-#
-# Main outputs:
-#   metadata_clean.tsv / .rds
-#   og_qc.tsv / .rds
-#   ogs_pass_qc.txt / .rds
-#   ogs_fail_qc.txt / .rds
-#   sample_missingness.tsv / .rds
-#   reference_nonmissing_by_og.rds
-#   qc_params.tsv / .rds
-#   step1_2_run_info.rds
-#
-# Label-consistency outputs:
-#   label_consistency_by_og_phy.tsv / .rds
-#   label_consistency_sample_summary_phy.tsv / .rds
-#   label_consistency_labels_not_in_metadata_phy.tsv
-#   label_consistency_labels_not_in_metadata_unexpected_phy.tsv
-#   label_consistency_metadata_not_seen_phy.tsv
-#   label_consistency_report_phy.txt
-#
-# Run
-# ---
-#   Rscript steps/step1_2_metadata_snapshot_orthologqc/run.R
-#
-# Test
-# ----
-#   Rscript steps/step1_2_metadata_snapshot_orthologqc/run.R --debug_n 100 --cores 4
-#
-# =============================================================================
+# Run from the repository root:
+#   Rscript steps/01_metadata_snapshot_and_ortholog_qc/run.R
+# Detailed inputs, outputs and parameters are in the adjacent README.md.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -124,7 +72,7 @@ option_list <- list(
     "--align_dir",
     type = "character",
     default = "results/00_fasta",
-    help = "Directory containing Step 0 FASTA alignments [default %default]"
+    help = "Directory containing Step 00 FASTA alignments [default %default]"
   ),
   make_option(
     "--file_glob",
@@ -624,7 +572,7 @@ run_phy_label_check <- function(phy_files, metadata_ids, out_dir, allowed_extra_
   fwrite(metadata_missing, file.path(out_dir, "label_consistency_metadata_not_seen_phy.tsv"), sep = "\t")
   
   report_lines <- c(
-    "PESTFLY Step 1-2 label consistency report",
+    "PESTFLY Step 01 label consistency report",
     "==========================================",
     "",
     paste0("PHYLIP files checked: ", nrow(by_og)),
@@ -638,8 +586,8 @@ run_phy_label_check <- function(phy_files, metadata_ids, out_dir, allowed_extra_
     "Interpretation:",
     "- Allowed extra labels are expected labels present in alignments but absent from metadata.",
     "- In this dataset, Bdors and Blati are expected OMA/read2tree outgroups.",
-    "- Unexpected labels not in metadata should be resolved before Step 3.",
-    "- Metadata samples never seen in PHYLIP should also be resolved before Step 3."
+    "- Unexpected labels not in metadata should be resolved before Step 02.",
+    "- Metadata samples never seen in PHYLIP should also be resolved before Step 02."
   )
   
   writeLines(report_lines, file.path(out_dir, "label_consistency_report_phy.txt"))

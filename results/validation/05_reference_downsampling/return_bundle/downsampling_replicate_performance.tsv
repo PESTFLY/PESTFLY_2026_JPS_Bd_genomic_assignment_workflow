@@ -1,0 +1,481 @@
+panel_id	panel_label	n_per_group	replicate	seed	status	reason	n_training	n_test	n_eligible_snps	accuracy_all	accepted_rate	accuracy_accepted	correct_accepted_rate	uncertainty_rate	mean_maxK_posterior	mean_maxK_gap	mean_agreement	mean_tail_agreement
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	1	21270931	completed	ok	6	10	4966	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	2	21270932	completed	ok	6	10	4958	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	3	21270933	completed	ok	6	10	5046	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	4	21270934	completed	ok	6	10	5008	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	5	21270935	completed	ok	6	10	5329	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	6	21270936	completed	ok	6	10	4853	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	7	21270937	completed	ok	6	10	4885	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	8	21270938	completed	ok	6	10	5147	1	0.3	1	0.3	0.7	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	9	21270939	completed	ok	6	10	4836	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	10	21270940	completed	ok	6	10	4933	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	11	21270941	completed	ok	6	10	5219	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	12	21270942	completed	ok	6	10	4938	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	13	21270943	completed	ok	6	10	5032	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	14	21270944	completed	ok	6	10	5185	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	15	21270945	completed	ok	6	10	4755	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	16	21270946	completed	ok	6	10	4775	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	17	21270947	completed	ok	6	10	5033	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	18	21270948	completed	ok	6	10	4977	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	19	21270949	completed	ok	6	10	5039	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	20	21270950	completed	ok	6	10	4816	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	21	21270951	completed	ok	6	10	5055	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	22	21270952	completed	ok	6	10	5022	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	23	21270953	completed	ok	6	10	5265	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	24	21270954	completed	ok	6	10	5057	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	25	21270955	completed	ok	6	10	5211	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	26	21270956	completed	ok	6	10	4860	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	27	21270957	completed	ok	6	10	4767	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	28	21270958	completed	ok	6	10	4565	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	29	21270959	completed	ok	6	10	3946	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	30	21270960	completed	ok	6	10	5185	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	1	21280931	completed	ok	10	10	7541	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	2	21280932	completed	ok	10	10	7365	1	0.3	1	0.3	0.7	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	3	21280933	completed	ok	10	10	7788	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	4	21280934	completed	ok	10	10	7551	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	5	21280935	completed	ok	10	10	7516	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	6	21280936	completed	ok	10	10	7714	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	7	21280937	completed	ok	10	10	7578	1	0.8	1	0.8	0.2	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	8	21280938	completed	ok	10	10	7281	1	0.8	1	0.8	0.2	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	9	21280939	completed	ok	10	10	7433	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	10	21280940	completed	ok	10	10	7501	1	0.8	1	0.8	0.2	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	11	21280941	completed	ok	10	10	7631	1	0.9	1	0.9	0.1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	12	21280942	completed	ok	10	10	7239	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	13	21280943	completed	ok	10	10	7647	1	0.3	1	0.3	0.7	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	14	21280944	completed	ok	10	10	7531	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	15	21280945	completed	ok	10	10	7622	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	16	21280946	completed	ok	10	10	7428	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	17	21280947	completed	ok	10	10	7642	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	18	21280948	completed	ok	10	10	7232	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	19	21280949	completed	ok	10	10	7592	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	20	21280950	completed	ok	10	10	7586	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	21	21280951	completed	ok	10	10	7395	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	22	21280952	completed	ok	10	10	7472	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	23	21280953	completed	ok	10	10	7356	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	24	21280954	completed	ok	10	10	7456	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	25	21280955	completed	ok	10	10	7652	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	26	21280956	completed	ok	10	10	6947	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	27	21280957	completed	ok	10	10	7613	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	28	21280958	completed	ok	10	10	7529	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	29	21280959	completed	ok	10	10	7721	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	30	21280960	completed	ok	10	10	7625	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	1	21290931	completed	ok	20	10	9567	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	2	21290932	completed	ok	20	10	9849	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	3	21290933	completed	ok	20	10	9646	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	4	21290934	completed	ok	20	10	9765	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	5	21290935	completed	ok	20	10	9778	1	0.3	1	0.3	0.7	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	6	21290936	completed	ok	20	10	9651	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	7	21290937	completed	ok	20	10	9778	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	8	21290938	completed	ok	20	10	9646	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	9	21290939	completed	ok	20	10	9693	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	10	21290940	completed	ok	20	10	9612	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	11	21290941	completed	ok	20	10	9675	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	12	21290942	completed	ok	20	10	9791	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	13	21290943	completed	ok	20	10	9711	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	14	21290944	completed	ok	20	10	9691	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	15	21290945	completed	ok	20	10	9780	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	16	21290946	completed	ok	20	10	9720	1	0.7	1	0.7	0.3	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	17	21290947	completed	ok	20	10	9821	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	18	21290948	completed	ok	20	10	9714	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	19	21290949	completed	ok	20	10	9895	1	0.9	1	0.9	0.1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	20	21290950	completed	ok	20	10	9590	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	21	21290951	completed	ok	20	10	9681	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	22	21290952	completed	ok	20	10	9744	1	0.1	1	0.1	0.9	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	23	21290953	completed	ok	20	10	9798	1	0.5	1	0.5	0.5	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	24	21290954	completed	ok	20	10	9754	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	25	21290955	completed	ok	20	10	9648	1	0.6	1	0.6	0.4	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	26	21290956	completed	ok	20	10	9815	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	27	21290957	completed	ok	20	10	9689	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	28	21290958	completed	ok	20	10	9717	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	29	21290959	completed	ok	20	10	9782	1	0.4	1	0.4	0.6	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	30	21290960	completed	ok	20	10	9684	1	0	NA	0	1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	1	21300931	completed	ok	40	10	10662	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	2	21300932	completed	ok	40	10	10678	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	3	21300933	completed	ok	40	10	10618	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	4	21300934	completed	ok	40	10	10636	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	5	21300935	completed	ok	40	10	10795	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	6	21300936	completed	ok	40	10	10735	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	7	21300937	completed	ok	40	10	10585	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	8	21300938	completed	ok	40	10	10650	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	9	21300939	completed	ok	40	10	10715	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	10	21300940	completed	ok	40	10	10680	1	0.9	1	0.9	0.1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	11	21300941	completed	ok	40	10	10704	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	12	21300942	completed	ok	40	10	10685	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	13	21300943	completed	ok	40	10	10729	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	14	21300944	completed	ok	40	10	10622	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	15	21300945	completed	ok	40	10	10681	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	16	21300946	completed	ok	40	10	10593	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	17	21300947	completed	ok	40	10	10646	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	18	21300948	completed	ok	40	10	10700	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	19	21300949	completed	ok	40	10	10632	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	20	21300950	completed	ok	40	10	10646	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	21	21300951	completed	ok	40	10	10678	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	22	21300952	completed	ok	40	10	10686	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	23	21300953	completed	ok	40	10	10650	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	24	21300954	completed	ok	40	10	10622	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	25	21300955	completed	ok	40	10	10774	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	26	21300956	completed	ok	40	10	10604	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	27	21300957	completed	ok	40	10	10618	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	28	21300958	completed	ok	40	10	10649	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	29	21300959	completed	ok	40	10	10647	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	30	21300960	completed	ok	40	10	10616	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	1	21310931	completed	ok	80	10	10897	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	2	21310932	completed	ok	80	10	10949	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	3	21310933	completed	ok	80	10	10947	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	4	21310934	completed	ok	80	10	10958	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	5	21310935	completed	ok	80	10	10866	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	6	21310936	completed	ok	80	10	10991	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	7	21310937	completed	ok	80	10	10955	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	8	21310938	completed	ok	80	10	10890	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	9	21310939	completed	ok	80	10	10875	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	10	21310940	completed	ok	80	10	10901	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	11	21310941	completed	ok	80	10	10897	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	12	21310942	completed	ok	80	10	10974	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	13	21310943	completed	ok	80	10	10882	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	14	21310944	completed	ok	80	10	10933	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	15	21310945	completed	ok	80	10	10981	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	16	21310946	completed	ok	80	10	10947	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	17	21310947	completed	ok	80	10	10943	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	18	21310948	completed	ok	80	10	10893	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	19	21310949	completed	ok	80	10	10976	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	20	21310950	completed	ok	80	10	10951	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	21	21310951	completed	ok	80	10	10888	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	22	21310952	completed	ok	80	10	10862	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	23	21310953	completed	ok	80	10	10956	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	24	21310954	completed	ok	80	10	10868	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	25	21310955	completed	ok	80	10	10880	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	26	21310956	completed	ok	80	10	10888	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	27	21310957	completed	ok	80	10	10965	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	28	21310958	completed	ok	80	10	10861	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	29	21310959	completed	ok	80	10	10960	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	30	21310960	completed	ok	80	10	10859	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	1	21320931	completed	ok	160	10	11045	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	2	21320932	completed	ok	160	10	11061	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	3	21320933	completed	ok	160	10	11036	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	4	21320934	completed	ok	160	10	11053	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	5	21320935	completed	ok	160	10	11068	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	6	21320936	completed	ok	160	10	11041	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	7	21320937	completed	ok	160	10	11028	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	8	21320938	completed	ok	160	10	11028	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	9	21320939	completed	ok	160	10	11057	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	10	21320940	completed	ok	160	10	11057	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	11	21320941	completed	ok	160	10	11010	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	12	21320942	completed	ok	160	10	11060	1	0.9	1	0.9	0.1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	13	21320943	completed	ok	160	10	11060	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	14	21320944	completed	ok	160	10	11008	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	15	21320945	completed	ok	160	10	10957	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	16	21320946	completed	ok	160	10	10955	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	17	21320947	completed	ok	160	10	11062	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	18	21320948	completed	ok	160	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	19	21320949	completed	ok	160	10	10957	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	20	21320950	completed	ok	160	10	10947	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	21	21320951	completed	ok	160	10	10966	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	22	21320952	completed	ok	160	10	11018	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	23	21320953	completed	ok	160	10	11032	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	24	21320954	completed	ok	160	10	11004	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	25	21320955	completed	ok	160	10	11038	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	26	21320956	completed	ok	160	10	10953	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	27	21320957	completed	ok	160	10	11057	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	28	21320958	completed	ok	160	10	11045	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	29	21320959	completed	ok	160	10	11058	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	30	21320960	completed	ok	160	10	11024	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	1	21330931	completed	ok	200	10	11066	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	2	21330932	completed	ok	200	10	11016	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	3	21330933	completed	ok	200	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	4	21330934	completed	ok	200	10	11052	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	5	21330935	completed	ok	200	10	11064	1	0.9	1	0.9	0.1	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	6	21330936	completed	ok	200	10	11061	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	7	21330937	completed	ok	200	10	11060	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	8	21330938	completed	ok	200	10	11067	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	9	21330939	completed	ok	200	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	10	21330940	completed	ok	200	10	11059	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	11	21330941	completed	ok	200	10	11032	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	12	21330942	completed	ok	200	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	13	21330943	completed	ok	200	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	14	21330944	completed	ok	200	10	11068	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	15	21330945	completed	ok	200	10	11041	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	16	21330946	completed	ok	200	10	11048	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	17	21330947	completed	ok	200	10	11067	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	18	21330948	completed	ok	200	10	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	19	21330949	completed	ok	200	10	11052	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	20	21330950	completed	ok	200	10	11045	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	21	21330951	completed	ok	200	10	11066	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	22	21330952	completed	ok	200	10	11042	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	23	21330953	completed	ok	200	10	11066	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	24	21330954	completed	ok	200	10	11011	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	25	21330955	completed	ok	200	10	11046	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	26	21330956	completed	ok	200	10	11072	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	27	21330957	completed	ok	200	10	11050	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	28	21330958	completed	ok	200	10	11071	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	29	21330959	completed	ok	200	10	11067	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	30	21330960	completed	ok	200	10	11070	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	1	21340931	completed	ok	208	2	11071	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	2	21340932	completed	ok	208	2	11022	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	3	21340933	completed	ok	208	2	11051	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	4	21340934	completed	ok	208	2	11041	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	5	21340935	completed	ok	208	2	11071	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	6	21340936	completed	ok	208	2	11067	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	7	21340937	completed	ok	208	2	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	8	21340938	completed	ok	208	2	11069	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	9	21340939	completed	ok	208	2	11053	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	10	21340940	completed	ok	208	2	11068	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	11	21340941	completed	ok	208	2	11048	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	12	21340942	completed	ok	208	2	11073	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	13	21340943	completed	ok	208	2	11060	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	14	21340944	completed	ok	208	2	11061	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	15	21340945	completed	ok	208	2	11055	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	16	21340946	completed	ok	208	2	11071	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	17	21340947	completed	ok	208	2	11057	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	18	21340948	completed	ok	208	2	11072	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	19	21340949	completed	ok	208	2	11072	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	20	21340950	completed	ok	208	2	11065	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	21	21340951	completed	ok	208	2	11021	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	22	21340952	completed	ok	208	2	11068	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	23	21340953	completed	ok	208	2	11068	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	24	21340954	completed	ok	208	2	11018	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	25	21340955	completed	ok	208	2	11071	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	26	21340956	completed	ok	208	2	11028	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	27	21340957	completed	ok	208	2	11073	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	28	21340958	completed	ok	208	2	11073	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	29	21340959	completed	ok	208	2	11019	1	1	1	1	0	1	1	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	30	21340960	completed	ok	208	2	11041	1	0.5	1	0.5	0.5	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	completed	ok	12	8	9422	0.875	0	NA	0	1	1	1	0.9	0.916666666666667
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	completed	ok	12	8	9233	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	completed	ok	12	8	9485	0.875	0	NA	0	1	1	1	0.925	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	completed	ok	12	8	9438	0.875	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	completed	ok	12	8	9416	0.875	0	NA	0	1	1	1	0.975	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	completed	ok	12	8	9464	1	0	NA	0	1	1	1	0.9	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	completed	ok	12	8	9440	1	0	NA	0	1	0.999999999999986	0.999999999999971	0.925	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	completed	ok	12	8	9428	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	completed	ok	12	8	9405	0.875	0	NA	0	1	1	1	0.95	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	completed	ok	12	8	9483	0.875	0	NA	0	1	1	1	0.875	0.916666666666667
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	completed	ok	12	8	9484	1	0	NA	0	1	1	1	0.975	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	completed	ok	12	8	9528	0.75	0	NA	0	1	1	1	0.85	0.875
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	completed	ok	12	8	9512	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	completed	ok	12	8	9467	1	0	NA	0	1	0.999999986501854	0.999999973003708	0.85	0.875
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	completed	ok	12	8	9544	1	0	NA	0	1	0.999999999999901	0.999999999999801	0.9	0.916666666666667
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	completed	ok	12	8	9508	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	completed	ok	12	8	9360	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	completed	ok	12	8	9508	1	0	NA	0	1	1	1	0.95	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	completed	ok	12	8	9416	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	completed	ok	12	8	9350	0.875	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	completed	ok	12	8	9337	0.875	0	NA	0	1	1	1	0.875	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	completed	ok	12	8	9464	0.875	0	NA	0	1	0.999999999999283	0.999999999998565	0.95	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	completed	ok	12	8	9466	0.875	0	NA	0	1	1	1	0.95	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	completed	ok	12	8	9398	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	completed	ok	12	8	9495	1	0	NA	0	1	1	1	0.95	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	completed	ok	12	8	9277	1	0	NA	0	1	1	1	0.975	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	completed	ok	12	8	9507	0.875	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	completed	ok	12	8	9312	0.875	0	NA	0	1	0.99998513467083	0.999970269341661	0.825	0.875
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	completed	ok	12	8	9396	1	0	NA	0	1	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	completed	ok	12	8	9417	1	0	NA	0	1	1	1	0.95	0.958333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	completed	ok	16	4	10103	0.75	0.75	0.666666666666667	0.5	0.25	0.999999999999903	0.999999999999806	0.958333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	completed	ok	16	4	10140	1	0.75	1	0.75	0.25	1	1	0.958333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	completed	ok	16	4	10159	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	completed	ok	16	4	10215	1	0.75	1	0.75	0.25	1	1	0.875	1
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	completed	ok	16	4	10168	0.75	1	0.75	0.75	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	completed	ok	16	4	10090	1	0.75	1	0.75	0.25	1	1	0.916666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	completed	ok	16	4	10072	0.75	1	0.75	0.75	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	completed	ok	16	4	10216	1	0.5	1	0.5	0.5	1	1	0.791666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	completed	ok	16	4	10116	1	0.5	1	0.5	0.5	1	1	0.791666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	completed	ok	16	4	10102	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	completed	ok	16	4	10207	1	0.75	1	0.75	0.25	1	1	0.958333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	completed	ok	16	4	10050	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	completed	ok	16	4	10179	1	0.5	1	0.5	0.5	1	1	0.833333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	completed	ok	16	4	10173	0.75	1	0.75	0.75	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	completed	ok	16	4	10198	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	completed	ok	16	4	10137	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	completed	ok	16	4	10189	1	0.5	1	0.5	0.5	1	1	0.875	1
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	completed	ok	16	4	10091	1	0.75	1	0.75	0.25	1	1	0.875	1
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	completed	ok	16	4	10172	1	0.75	1	0.75	0.25	0.999999999999188	0.999999999998377	0.833333333333333	0.916666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	completed	ok	16	4	10258	0.75	0.75	1	0.75	0.25	1	1	0.958333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	completed	ok	16	4	10152	1	0.75	1	0.75	0.25	1	1	0.916666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	completed	ok	16	4	10212	1	0.5	1	0.5	0.5	1	1	0.916666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	completed	ok	16	4	10191	1	0.75	1	0.75	0.25	0.99999999999937	0.999999999998741	0.916666666666667	1
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	completed	ok	16	4	10136	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	completed	ok	16	4	10152	1	0.75	1	0.75	0.25	1	1	0.958333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	completed	ok	16	4	10169	1	0.5	1	0.5	0.5	1	1	0.833333333333333	1
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	completed	ok	16	4	10197	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	completed	ok	16	4	10128	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	completed	ok	16	4	10115	1	1	1	1	0	1	1	1	1
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	completed	ok	16	4	10072	1	0.75	1	0.75	0.25	1	1	0.958333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	3	1	23270931	completed	ok	9	15	5441	0.8	0	NA	0	1	0.99999993276499	0.999999865529979	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	3	2	23270932	completed	ok	9	15	5510	0.8	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	3	23270933	completed	ok	9	15	4604	0.933333333333333	0	NA	0	1	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	4	23270934	completed	ok	9	15	4905	0.933333333333333	0	NA	0	1	0.999990659695177	0.999981319532764	0.983333333333333	0.966666666666667
+P3_subregion_within_asia	P3 Asia subregion	3	5	23270935	completed	ok	9	15	4545	1	0	NA	0	1	0.998882299632746	0.997764599265493	0.983333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	3	6	23270936	completed	ok	9	15	5384	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	7	23270937	completed	ok	9	15	4855	0.8	0	NA	0	1	0.999999999999648	0.999999999999296	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	8	23270938	completed	ok	9	15	4927	0.933333333333333	0	NA	0	1	0.994904092744369	0.989808185488737	0.983333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	3	9	23270939	completed	ok	9	15	4969	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	10	23270940	completed	ok	9	15	5341	0.8	0	NA	0	1	0.98954089334854	0.97908178669708	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	11	23270941	completed	ok	9	15	5225	0.933333333333333	0	NA	0	1	0.999999999773316	0.999999999546632	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	12	23270942	completed	ok	9	15	4751	1	0	NA	0	1	0.999999999996955	0.999999999993909	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	13	23270943	completed	ok	9	15	5110	0.866666666666667	0	NA	0	1	0.998820240170964	0.997640480341929	0.946666666666667	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	3	14	23270944	completed	ok	9	15	5311	0.933333333333333	0	NA	0	1	0.999999999996616	0.999999999993232	0.96	1
+P3_subregion_within_asia	P3 Asia subregion	3	15	23270945	completed	ok	9	15	5066	1	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	16	23270946	completed	ok	9	15	4888	0.8	0	NA	0	1	0.999883812490992	0.999767624981985	0.9	0.966666666666667
+P3_subregion_within_asia	P3 Asia subregion	3	17	23270947	completed	ok	9	15	5216	0.866666666666667	0	NA	0	1	0.99952937226779	0.99905874453558	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	18	23270948	completed	ok	9	15	4653	1	0	NA	0	1	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	19	23270949	completed	ok	9	15	4910	0.866666666666667	0	NA	0	1	0.999999999998473	0.999999999996946	0.866666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	20	23270950	completed	ok	9	15	5298	0.866666666666667	0	NA	0	1	0.99999588857025	0.999991777140501	0.906666666666667	0.933333333333333
+P3_subregion_within_asia	P3 Asia subregion	3	21	23270951	completed	ok	9	15	5096	0.933333333333333	0	NA	0	1	0.99999925254731	0.999998505094621	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	3	22	23270952	completed	ok	9	15	5274	0.866666666666667	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	23	23270953	completed	ok	9	15	5211	0.866666666666667	0	NA	0	1	1	1	0.96	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	3	24	23270954	completed	ok	9	15	5795	0.8	0	NA	0	1	0.999999889035547	0.999999778071093	0.973333333333333	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	3	25	23270955	completed	ok	9	15	5297	1	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	26	23270956	completed	ok	9	15	4844	0.933333333333333	0	NA	0	1	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	27	23270957	completed	ok	9	15	5240	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	3	28	23270958	completed	ok	9	15	5168	1	0	NA	0	1	1	1	0.973333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	3	29	23270959	completed	ok	9	15	5040	1	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	3	30	23270960	completed	ok	9	15	5392	0.8	0	NA	0	1	1	1	0.96	1
+P3_subregion_within_asia	P3 Asia subregion	5	1	23280931	completed	ok	15	15	7327	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	2	23280932	completed	ok	15	15	7062	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	3	23280933	completed	ok	15	15	6947	0.866666666666667	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	5	4	23280934	completed	ok	15	15	7226	0.733333333333333	0	NA	0	1	0.999999999999992	0.999999999999984	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	5	23280935	completed	ok	15	15	8213	0.8	0	NA	0	1	1	1	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	6	23280936	completed	ok	15	15	7054	0.8	0	NA	0	1	0.999416193799915	0.998832387599893	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	7	23280937	completed	ok	15	15	6833	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	8	23280938	completed	ok	15	15	7121	0.933333333333333	0	NA	0	1	0.995645667065262	0.991291334130525	0.973333333333333	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	9	23280939	completed	ok	15	15	7531	0.933333333333333	0	NA	0	1	1	1	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	10	23280940	completed	ok	15	15	7175	0.8	0	NA	0	1	0.99942228351417	0.99884456702834	0.96	1
+P3_subregion_within_asia	P3 Asia subregion	5	11	23280941	completed	ok	15	15	6940	0.933333333333333	0	NA	0	1	0.999999999999996	0.999999999999993	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	12	23280942	completed	ok	15	15	7078	1	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	5	13	23280943	completed	ok	15	15	6808	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	14	23280944	completed	ok	15	15	7079	0.733333333333333	0	NA	0	1	0.99808998034897	0.99617996069794	0.906666666666667	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	15	23280945	completed	ok	15	15	7406	0.866666666666667	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	16	23280946	completed	ok	15	15	7171	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	17	23280947	completed	ok	15	15	6717	0.933333333333333	0	NA	0	1	0.999859595480629	0.999719190961258	0.973333333333333	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	18	23280948	completed	ok	15	15	7405	0.8	0	NA	0	1	0.999999937282628	0.999999874565256	0.933333333333333	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	19	23280949	completed	ok	15	15	6660	0.933333333333333	0	NA	0	1	1	1	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	20	23280950	completed	ok	15	15	7191	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	21	23280951	completed	ok	15	15	7320	0.933333333333333	0	NA	0	1	0.999999947283545	0.999999894567089	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	22	23280952	completed	ok	15	15	7049	0.866666666666667	0	NA	0	1	0.999999999999966	0.999999999999932	0.973333333333333	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	23	23280953	completed	ok	15	15	6470	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	24	23280954	completed	ok	15	15	6648	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	25	23280955	completed	ok	15	15	7162	0.8	0	NA	0	1	1	1	0.906666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	5	26	23280956	completed	ok	15	15	7355	0.933333333333333	0	NA	0	1	0.999999999999946	0.999999999999892	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	5	27	23280957	completed	ok	15	15	6832	0.933333333333333	0	NA	0	1	1	1	0.96	1
+P3_subregion_within_asia	P3 Asia subregion	5	28	23280958	completed	ok	15	15	7217	0.866666666666667	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	5	29	23280959	completed	ok	15	15	6506	0.933333333333333	0	NA	0	1	0.999999999845936	0.999999999691872	0.84	0.911111111111111
+P3_subregion_within_asia	P3 Asia subregion	5	30	23280960	completed	ok	15	15	7166	0.866666666666667	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	1	23290931	completed	ok	30	15	8826	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	2	23290932	completed	ok	30	15	9378	0.866666666666667	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	3	23290933	completed	ok	30	15	9213	0.933333333333333	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	10	4	23290934	completed	ok	30	15	9361	0.933333333333333	0	NA	0	1	0.999892296967713	0.999784593935426	0.946666666666667	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	10	5	23290935	completed	ok	30	15	8913	0.933333333333333	0	NA	0	1	0.9999979842835	0.999995968567435	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	10	6	23290936	completed	ok	30	15	9134	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	7	23290937	completed	ok	30	15	9755	0.933333333333333	0	NA	0	1	0.999999575665851	0.999999151331702	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	8	23290938	completed	ok	30	15	9360	0.8	0	NA	0	1	0.99350349164219	0.987006983284381	0.96	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	10	9	23290939	completed	ok	30	15	9139	0.866666666666667	0	NA	0	1	0.999999999996136	0.999999999992271	0.933333333333333	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	10	10	23290940	completed	ok	30	15	9417	0.866666666666667	0	NA	0	1	0.999999999999184	0.999999999998368	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	11	23290941	completed	ok	30	15	9317	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	12	23290942	completed	ok	30	15	9156	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	13	23290943	completed	ok	30	15	9216	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	14	23290944	completed	ok	30	15	9374	0.933333333333333	0	NA	0	1	0.999999999911904	0.999999999823807	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	15	23290945	completed	ok	30	15	8866	1	0	NA	0	1	1	1	0.973333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	10	16	23290946	completed	ok	30	15	9535	0.933333333333333	0	NA	0	1	1	1	0.973333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	10	17	23290947	completed	ok	30	15	9049	1	0	NA	0	1	1	1	0.946666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	10	18	23290948	completed	ok	30	15	9088	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	19	23290949	completed	ok	30	15	9024	0.933333333333333	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	20	23290950	completed	ok	30	15	9273	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	21	23290951	completed	ok	30	15	9079	0.933333333333333	0	NA	0	1	1	1	0.973333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	10	22	23290952	completed	ok	30	15	9174	0.933333333333333	0	NA	0	1	1	1	0.986666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	10	23	23290953	completed	ok	30	15	8574	0.866666666666667	0	NA	0	1	1	1	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	10	24	23290954	completed	ok	30	15	9290	0.8	0	NA	0	1	1	1	0.946666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	10	25	23290955	completed	ok	30	15	9425	0.866666666666667	0	NA	0	1	0.996347117277775	0.992694234555551	0.933333333333333	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	10	26	23290956	completed	ok	30	15	8920	1	0	NA	0	1	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	10	27	23290957	completed	ok	30	15	9285	0.8	0	NA	0	1	0.99999985875386	0.99999971750772	0.96	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	10	28	23290958	completed	ok	30	15	9399	0.933333333333333	0	NA	0	1	0.999999999999984	0.999999999999968	0.96	1
+P3_subregion_within_asia	P3 Asia subregion	10	29	23290959	completed	ok	30	15	8795	0.866666666666667	0	NA	0	1	0.999999999999999	0.999999999999997	0.973333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	23290960	completed	ok	30	15	8935	0.866666666666667	0	NA	0	1	1	1	0.973333333333333	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	20	1	23300931	completed	ok	60	15	10356	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	2	23300932	completed	ok	60	15	10531	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	3	23300933	completed	ok	60	15	10413	0.933333333333333	1	0.933333333333333	0.933333333333333	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	4	23300934	completed	ok	60	15	10499	0.933333333333333	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.988888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	20	5	23300935	completed	ok	60	15	10481	0.933333333333333	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	20	6	23300936	completed	ok	60	15	10558	0.933333333333333	1	0.933333333333333	0.933333333333333	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	7	23300937	completed	ok	60	15	10408	0.866666666666667	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	20	8	23300938	completed	ok	60	15	10298	0.933333333333333	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	20	9	23300939	completed	ok	60	15	10593	0.733333333333333	0.8	0.916666666666667	0.733333333333333	0.2	0.999999999999647	0.999999999999295	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	20	10	23300940	completed	ok	60	15	10485	0.866666666666667	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.933333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	20	11	23300941	completed	ok	60	15	10746	0.933333333333333	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	20	12	23300942	completed	ok	60	15	10335	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	13	23300943	completed	ok	60	15	10473	0.866666666666667	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	0.999971252849436	0.999942505698872	0.988888888888889	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	20	14	23300944	completed	ok	60	15	10614	0.933333333333333	0.8	1	0.8	0.2	0.993463538641085	0.986929266913885	0.9	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	20	15	23300945	completed	ok	60	15	10502	1	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.988888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	20	16	23300946	completed	ok	60	15	10555	0.8	0.866666666666667	0.923076923076923	0.8	0.133333333333333	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	20	17	23300947	completed	ok	60	15	10559	0.866666666666667	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	0.975240202511121	0.950480602376363	0.955555555555556	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	20	18	23300948	completed	ok	60	15	10735	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	19	23300949	completed	ok	60	15	10554	0.866666666666667	0.933333333333333	0.857142857142857	0.8	0.0666666666666667	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	20	23300950	completed	ok	60	15	10527	0.933333333333333	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	20	21	23300951	completed	ok	60	15	10438	0.933333333333333	0.8	1	0.8	0.2	0.99999999997144	0.999999999942881	0.944444444444444	1
+P3_subregion_within_asia	P3 Asia subregion	20	22	23300952	completed	ok	60	15	10637	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.955555555555556	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	20	23	23300953	completed	ok	60	15	10409	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.966666666666667	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	20	24	23300954	completed	ok	60	15	10465	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	25	23300955	completed	ok	60	15	10558	1	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	20	26	23300956	completed	ok	60	15	10357	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	20	27	23300957	completed	ok	60	15	10417	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.988888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	20	28	23300958	completed	ok	60	15	10556	0.933333333333333	1	0.933333333333333	0.933333333333333	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	29	23300959	completed	ok	60	15	10592	0.866666666666667	1	0.866666666666667	0.866666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	20	30	23300960	completed	ok	60	15	10641	0.866666666666667	0.866666666666667	0.923076923076923	0.8	0.133333333333333	0.999996719680418	0.999993439360865	0.988888888888889	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	40	1	23310931	completed	ok	120	15	10986	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	2	23310932	completed	ok	120	15	10925	0.866666666666667	0.8	1	0.8	0.2	0.991711293597285	0.983422587194571	0.933333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	40	3	23310933	completed	ok	120	15	11053	0.866666666666667	0.933333333333333	0.857142857142857	0.8	0.0666666666666667	1	1	0.988888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	40	4	23310934	completed	ok	120	15	10963	1	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	5	23310935	completed	ok	120	15	11026	0.933333333333333	1	0.933333333333333	0.933333333333333	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	6	23310936	completed	ok	120	15	11045	0.866666666666667	1	0.866666666666667	0.866666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	7	23310937	completed	ok	120	15	11057	0.933333333333333	0.866666666666667	1	0.866666666666667	0.133333333333333	0.999587252690316	0.999174505380632	0.955555555555556	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	40	8	23310938	completed	ok	120	15	10848	0.866666666666667	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	40	9	23310939	completed	ok	120	15	10935	0.8	0.733333333333333	0.909090909090909	0.666666666666667	0.266666666666667	0.999963797216064	0.999927594432128	0.866666666666667	0.955555555555556
+P3_subregion_within_asia	P3 Asia subregion	40	10	23310940	completed	ok	120	15	11019	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	11	23310941	completed	ok	120	15	11045	0.933333333333333	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	12	23310942	completed	ok	120	15	10935	0.866666666666667	0.8	0.916666666666667	0.733333333333333	0.2	0.999996781014962	0.999993562029923	0.933333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	40	13	23310943	completed	ok	120	15	11055	0.933333333333333	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	14	23310944	completed	ok	120	15	11046	0.733333333333333	0.666666666666667	1	0.666666666666667	0.333333333333333	0.999989234228838	0.999978468457676	0.888888888888889	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	40	15	23310945	completed	ok	120	15	11032	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	16	23310946	completed	ok	120	15	10942	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	17	23310947	completed	ok	120	15	10953	0.933333333333333	0.933333333333333	1	0.933333333333333	0.0666666666666667	0.999975756274762	0.999951512549525	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	18	23310948	completed	ok	120	15	11046	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	19	23310949	completed	ok	120	15	11044	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	20	23310950	completed	ok	120	15	11044	0.8	0.866666666666667	0.923076923076923	0.8	0.133333333333333	0.999994293886061	0.999988587773092	0.955555555555556	1
+P3_subregion_within_asia	P3 Asia subregion	40	21	23310951	completed	ok	120	15	11030	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	22	23310952	completed	ok	120	15	10986	0.866666666666667	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	23	23310953	completed	ok	120	15	10968	0.933333333333333	0.933333333333333	0.928571428571429	0.866666666666667	0.0666666666666667	1	1	0.955555555555556	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	40	24	23310954	completed	ok	120	15	11059	0.866666666666667	1	0.866666666666667	0.866666666666667	0	0.999999994180228	0.999999988364823	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	25	23310955	completed	ok	120	15	10959	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	1	1	0.988888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	40	26	23310956	completed	ok	120	15	11030	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	40	27	23310957	completed	ok	120	15	11008	0.933333333333333	0.8	1	0.8	0.2	1	1	0.966666666666667	1
+P3_subregion_within_asia	P3 Asia subregion	40	28	23310958	completed	ok	120	15	10829	1	0.866666666666667	1	0.866666666666667	0.133333333333333	1	1	0.977777777777778	1
+P3_subregion_within_asia	P3 Asia subregion	40	29	23310959	completed	ok	120	15	11036	1	0.933333333333333	1	0.933333333333333	0.0666666666666667	0.999999999404147	0.999999998808294	0.966666666666667	0.977777777777778
+P3_subregion_within_asia	P3 Asia subregion	40	30	23310960	completed	ok	120	15	11049	0.933333333333333	0.866666666666667	1	0.866666666666667	0.133333333333333	0.999999998960308	0.999999997920617	0.933333333333333	1
+P3_subregion_within_asia	P3 Asia subregion	44	1	23320931	completed	ok	132	3	11066	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	2	23320932	completed	ok	132	3	10983	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	3	23320933	completed	ok	132	3	11056	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	4	23320934	completed	ok	132	3	11062	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	5	23320935	completed	ok	132	3	11061	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	6	23320936	completed	ok	132	3	11065	0.666666666666667	0.666666666666667	1	0.666666666666667	0.333333333333333	0.999999999993685	0.999999999987369	0.944444444444444	1
+P3_subregion_within_asia	P3 Asia subregion	44	7	23320937	completed	ok	132	3	11065	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	8	23320938	completed	ok	132	3	11062	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	9	23320939	completed	ok	132	3	11065	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	10	23320940	completed	ok	132	3	10990	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	11	23320941	completed	ok	132	3	11055	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	12	23320942	completed	ok	132	3	11061	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	13	23320943	completed	ok	132	3	11060	1	0.666666666666667	1	0.666666666666667	0.333333333333333	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	14	23320944	completed	ok	132	3	11061	1	0.333333333333333	1	0.333333333333333	0.666666666666667	1	1	0.944444444444444	1
+P3_subregion_within_asia	P3 Asia subregion	44	15	23320945	completed	ok	132	3	11062	0.666666666666667	0.666666666666667	1	0.666666666666667	0.333333333333333	0.928050167758769	0.856100335517539	0.888888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	44	16	23320946	completed	ok	132	3	11065	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	17	23320947	completed	ok	132	3	11058	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	18	23320948	completed	ok	132	3	10992	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	19	23320949	completed	ok	132	3	11063	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	20	23320950	completed	ok	132	3	11055	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	21	23320951	completed	ok	132	3	11067	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	22	23320952	completed	ok	132	3	11065	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	23	23320953	completed	ok	132	3	11062	0.666666666666667	1	0.666666666666667	0.666666666666667	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	24	23320954	completed	ok	132	3	11056	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	25	23320955	completed	ok	132	3	11058	0.666666666666667	0.666666666666667	1	0.666666666666667	0.333333333333333	1	1	0.888888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	44	26	23320956	completed	ok	132	3	11067	0.666666666666667	0.666666666666667	1	0.666666666666667	0.333333333333333	0.999999999999978	0.999999999999956	0.888888888888889	1
+P3_subregion_within_asia	P3 Asia subregion	44	27	23320957	completed	ok	132	3	11055	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	28	23320958	completed	ok	132	3	11059	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	29	23320959	completed	ok	132	3	10979	1	1	1	1	0	1	1	1	1
+P3_subregion_within_asia	P3 Asia subregion	44	30	23320960	completed	ok	132	3	10973	1	1	1	1	0	1	1	1	1

@@ -1,0 +1,171 @@
+{
+  "review_date": "2026-10-05",
+  "native_run": "20261005_175802_26116",
+  "uploaded_bundle_sha256": "85b9c1e19c1e3984cf4095359b235e60b792296eef3436799af02db79ba2a63a",
+  "original_checker_status": "FAIL",
+  "original_status_preserved": true,
+  "failure_cause": "25 descriptive cells in the extended table differ only by Step 4 versus Step 04: 21 RF details and 4 commodity mismatch details. The same 25 differences recur in the simplified table, which the original checker did not reach.",
+  "correction": "Normalise exactly Step 4 followed by a space to Step 04 followed by a space only in rf_corroboration_detail and commodity_origin_mismatch_detail. All other compared values retain the original comparison rules.",
+  "independent_export_review": "PASS",
+  "comparison_policy": "Numeric text tolerance 1e-12 relative to max(1, absolute values); missing values preserved; category labels exact; original four formatter prose exclusions retained for checkpoint comparisons only.",
+  "native_implementation_checks": "PASS",
+  "native_reporting_checks": "PASS",
+  "native_formatter_execution": "PASS",
+  "R_version": "4.5.1",
+  "platform": "x86_64-w64-mingw32/x64",
+  "reporting_package_versions": {
+    "optparse": "1.7.5",
+    "data.table": "1.18.0",
+    "openxlsx": "4.2.8.1"
+  },
+  "workbook_sheets": [
+    "Simplified",
+    "Extended",
+    "Criteria",
+    "Reporting_Thresholds",
+    "Legend",
+    "Column_Key",
+    "Intercept_Origin_Map",
+    "Country_Region_Map",
+    "Vanbergen_Reference",
+    "Step4b_Validation",
+    "Step4b_PerClass",
+    "Step5_RF_Validation",
+    "Step5_RF_PerClass"
+  ],
+  "native_RDS_exports_match_TSV": true,
+  "native_run_record_decisions_consistent_with_Step04": true,
+  "archive_files_checked_by_MD5": 1214,
+  "archive_files_match_Step5_checkpoint": true,
+  "all_22_reported_calls_and_confidence_labels_preserved": true,
+  "genomic_models_recomputed": false,
+  "corrected_R_checker_execution": "Not performed in the assembly workspace. Original R checks and formatter ran successfully in the supplied Windows session; independent export review completed the comparisons after its label mismatch stop.",
+  "comparisons": [
+    {
+      "check": "FINAL_origin_tracing_authority_criteria.tsv",
+      "rows": 264,
+      "fields": 12,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "reporting_thresholds.tsv",
+      "rows": 12,
+      "fields": 5,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "FINAL_origin_tracing_authority_extended.tsv",
+      "rows": 22,
+      "fields": 105,
+      "label_spelling_differences": 25,
+      "result": "PASS"
+    },
+    {
+      "check": "FINAL_origin_tracing_authority_simplified.tsv",
+      "rows": 22,
+      "fields": 37,
+      "label_spelling_differences": 25,
+      "result": "PASS"
+    },
+    {
+      "check": "Workbook Simplified",
+      "rows": 22,
+      "fields": 40,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Workbook Extended",
+      "rows": 22,
+      "fields": 109,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Workbook Criteria",
+      "rows": 264,
+      "fields": 12,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Workbook Reporting_Thresholds",
+      "rows": 12,
+      "fields": 5,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Intercept_Origin_Map",
+      "rows": 11,
+      "fields": 4,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Country_Region_Map",
+      "rows": 5,
+      "fields": 3,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Vanbergen_Reference",
+      "rows": 22,
+      "fields": 3,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Step4b_Validation",
+      "rows": 3,
+      "fields": 19,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Step4b_PerClass",
+      "rows": 9,
+      "fields": 9,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Step5_RF_Validation",
+      "rows": 3,
+      "fields": 8,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "Preserved workbook Step5_RF_PerClass",
+      "rows": 9,
+      "fields": 6,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "RDS extended",
+      "rows": 22,
+      "fields": 109,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    },
+    {
+      "check": "RDS simplified",
+      "rows": 22,
+      "fields": 40,
+      "label_spelling_differences": 0,
+      "result": "PASS"
+    }
+  ],
+  "corrected_R_checker_syntax_screen": "PASS; 22 repository R files screened with tree sitter R grammar",
+  "workbook_preview": "Disposable copy only; 26 unreferenced drawing relationships and empty shared strings accommodated for strict preview reader. Native workbook bytes unchanged. Excel desktop rendering not tested.",
+  "guide_pages_updated": [
+    8,
+    9
+  ],
+  "workbook_preview_empty_shared_strings_accommodated": 42
+}

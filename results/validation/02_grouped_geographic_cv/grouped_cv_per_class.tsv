@@ -1,0 +1,16 @@
+panel_id	validation_unit	true_group	n_samples	n_folds	n_accepted	n_correct_calls	n_correct_accepted	n_incorrect_accepted	n_unresolved	raw_call_accuracy	coverage	accepted_accuracy	operational_success_rate	accepted_error_rate	uncertainty_rate
+"P1_macroregion_africa_vs_asia"	"country"	"Africa"	105	18	105	105	105	0	0	1	1	1	1	0	0
+"P1_macroregion_africa_vs_asia"	"country"	"Asia"	215	15	213	215	213	0	2	1	0.990697674418605	1	0.990697674418605	0	0.00930232558139535
+"P1_macroregion_africa_vs_asia"	"site"	"Africa"	105	22	105	105	105	0	0	1	1	1	1	0	0
+"P1_macroregion_africa_vs_asia"	"site"	"Asia"	215	41	213	215	213	0	2	1	0.990697674418605	1	0.990697674418605	0	0.00930232558139535
+"P2_subregion_within_africa"	"country"	"E_Africa"	67	10	59	63	56	3	8	0.940298507462687	0.880597014925373	0.949152542372881	0.835820895522388	0.0447761194029851	0.119402985074627
+"P2_subregion_within_africa"	"country"	"S_Africa"	10	2	2	7	0	2	8	0.7	0.2	0	0	0.2	0.8
+"P2_subregion_within_africa"	"country"	"W_Africa"	23	5	14	23	14	0	9	1	0.608695652173913	1	0.608695652173913	0	0.391304347826087
+"P2_subregion_within_africa"	"site"	"E_Africa"	67	14	59	63	56	3	8	0.940298507462687	0.880597014925373	0.949152542372881	0.835820895522388	0.0447761194029851	0.119402985074627
+"P2_subregion_within_africa"	"site"	"S_Africa"	10	2	2	7	0	2	8	0.7	0.2	0	0	0.2	0.8
+"P2_subregion_within_africa"	"site"	"W_Africa"	23	5	14	23	14	0	9	1	0.608695652173913	1	0.608695652173913	0	0.391304347826087
+"P3_subregion_within_asia"	"country"	"SE_Asia"	90	9	60	68	52	8	30	0.755555555555556	0.666666666666667	0.866666666666667	0.577777777777778	0.0888888888888889	0.333333333333333
+"P3_subregion_within_asia"	"country"	"S_Asia"	45	5	40	45	40	0	5	1	0.888888888888889	1	0.888888888888889	0	0.111111111111111
+"P3_subregion_within_asia"	"site"	"E_Asia"	80	14	73	80	73	0	7	1	0.9125	1	0.9125	0	0.0875
+"P3_subregion_within_asia"	"site"	"SE_Asia"	90	18	75	71	67	8	15	0.788888888888889	0.833333333333333	0.893333333333333	0.744444444444445	0.0888888888888889	0.166666666666667
+"P3_subregion_within_asia"	"site"	"S_Asia"	45	9	36	45	36	0	9	1	0.8	1	0.8	0	0.2

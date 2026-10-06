@@ -1,148 +1,24 @@
 #!/usr/bin/env Rscript
 
-# =============================================================================
-# PESTFLY — Step 7: Authority-facing origin-tracing report
-# =============================================================================
+# PESTFLY: Reports for plant health authorities
 #
 # Purpose
-# -------
-# Step 7 produces the final operational report for query/intercept samples.
+# Integrate previously computed assignment and corroboration tables into an auditable report,
+# without recomputing genetic inference.
 #
-# It does not recompute genetic inference. It integrates and reformats upstream
-# outputs into a conservative, auditable, authority-facing Excel workbook and TSV
-# report.
+# Interpretation
+# PASS requires all six criteria at the evaluated resolution. If macroregion passes but
+# subregion fails, report macroregion only. A failed macroregion remains unresolved and its
+# subregion is NOT_EVALUATED. RF corroboration and commodity consistency remain separate.
 #
-# =============================================================================
-# Conceptual role in the pipeline
-# =============================================================================
+# Technical notes
+# Read thresholds from the parameter table associated with the saved Step 04 assignments.
+# Stop if criterion eligibility differs from Step 04, rather than silently changing a call.
+# No marker discovery, likelihood calculation or validation model is rerun here.
 #
-# Step 4:
-#   Primary origin-tracing result.
-#   Provides hierarchical macroregion and conditional subregion assignments.
-#
-# Step 4b:
-#   Full-panel leave-one-out validation.
-#   Provides empirical validation of the Step 4 logic on known-origin references.
-#
-# Step 5:
-#   Independent Random Forest corroboration.
-#   RF is supporting evidence only and never overrides Step 4.
-#
-# Step 6/6b:
-#   Reduced-panel development.
-#   Included only as diagnostic-development summary if outputs are available.
-#
-# Step 7:
-#   Authority-facing reporting.
-#   Reports the best-supported origin conservatively and keeps a full audit trail.
-#
-# =============================================================================
-# Reporting principles
-# =============================================================================
-#
-# 1. Step 4 is authoritative for query/intercept origin assignment.
-#
-# 2. Subregion is reported only if Step 4 subregion confidence is High or
-#    Moderate. Otherwise, Step 7 falls back to macroregion if macroregion is
-#    High or Moderate.
-#
-# 3. Random Forest is corroborative only:
-#
-#    - RF supports macroregion:
-#        RF macroregion agrees with Step 4 macroregion and RF confidence is
-#        High or Moderate.
-#
-#    - RF weakly supports macroregion:
-#        RF macroregion top class agrees with Step 4, but RF confidence is Low
-#        or Uncertain. This is directional agreement, not strong corroboration.
-#
-#    - RF caution:
-#        RF High/Moderate call conflicts with Step 4.
-#
-# 4. Commodity-origin mismatch is evaluated only when the sample origin country
-#    is known. This is currently true for FAVV larvae intercepted from imported
-#    mangoes. Trapped adults have sample_origin_country = Unknown unless a user
-#    table is provided.
-#
-# 5. A mismatch means that the genetic origin assignment does not match the
-#    expected macroregion or subregion associated with the known commodity-origin
-#    country. For example:
-#
-#      FAVV sample from Ivory Coast
-#      expected subregion = W_Africa
-#      reported genetic origin = E_Africa
-#      => mismatch at subregion level
-#
-# 6. subregion_withheld_explanation is filled for every sample:
-#
-#    - if subregion is reported: explains that withholding is not applicable;
-#    - if only macroregion is reported: explains why subregion was withheld;
-#    - if assignment is uncertain: explains that subregion is not interpretable.
-#
-# =============================================================================
-# Inputs
-# =============================================================================
-#
-# Mandatory:
-#
-#   results/04_origin_assignment/final_assignment.tsv
-#
-# Optional:
-#
-#   results/06_rf_corroboration/RF_all_panels_predictions_queries.tsv
-#   results/05_loo_validation/step4b_loo_summary_all_panels.tsv
-#   results/06_rf_corroboration/RF_all_panels_cv_summary.tsv
-#   Optional internal diagnostic-development outputs; not used by the public manuscript pipeline unless --step6b_dir is explicitly provided.
-#
-# Optional user-provided origin-country table:
-#
-#   --intercept_origin_file path/to/table.tsv
-#
-# Required columns:
-#
-#   sample_id
-#   sample_origin_country
-#
-# Optional columns:
-#
-#   sample_origin_country_source
-#   commodity
-#
-# If no table is provided, the script uses the built-in Vanbergen/FASFC FAVV
-# sample-origin mapping:
-#
-#   FAVV_1, FAVV_2             Cameroon
-#   FAVV_3, FAVV_4, FAVV_6     Ivory Coast
-#   FAVV_5, FAVV_7, FAVV_12,
-#   FAVV_13                    Senegal
-#   FAVV_11                    Burkina Faso
-#   FAVV_14                    Bangladesh
-#
-# Trapped adults are reported as Unknown.
-#
-# =============================================================================
-# Outputs
-# =============================================================================
-#
-# results/07_authority_report/
-#
-#   FINAL_origin_tracing_authority_REPORT.xlsx
-#   FINAL_origin_tracing_authority_simplified.tsv
-#   FINAL_origin_tracing_authority_extended.tsv
-#   step7_run_info.rds
-#
-# =============================================================================
-# Run
-# =============================================================================
-#
-#   Rscript steps/step7_reporting_authorities/run.R
-#
-# Optional:
-#
-#   Rscript steps/step7_reporting_authorities/run.R \
-#     --intercept_origin_file data/000_input_data/intercept_origin_country.tsv
-#
-# =============================================================================
+# Run from the repository root:
+#   Rscript steps/07_authority_facing_report/run.R
+# Detailed inputs, outputs and parameters are in the adjacent README.md.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -192,19 +68,25 @@ option_list <- list(
     "--step4_final",
     type = "character",
     default = "results/04_origin_assignment/final_assignment.tsv",
-    help = "Step 4 final assignment table [default %default]"
+    help = "Step 04 final assignment table [default %default]"
+  ),
+  make_option(
+    "--step4_params",
+    type = "character",
+    default = "",
+    help = "Step 04 parameter TSV; empty uses step4_params.tsv beside --step4_final"
   ),
   make_option(
     "--step5_dir",
     type = "character",
     default = "results/06_rf_corroboration",
-    help = "Step 5 output directory [default %default]"
+    help = "Step 06 output directory [default %default]"
   ),
   make_option(
     "--step4b_dir",
     type = "character",
     default = "results/05_loo_validation",
-    help = "Step 4b output directory [default %default]"
+    help = "Step 05 output directory [default %default]"
   ),
   make_option(
     "--step6b_dir",
@@ -222,7 +104,7 @@ option_list <- list(
     "--out_dir",
     type = "character",
     default = "results/07_authority_report",
-    help = "Step 7 output directory [default %default]"
+    help = "Step 07 output directory [default %default]"
   ),
   make_option(
     "--out_xlsx",
@@ -241,6 +123,9 @@ option_list <- list(
 opt <- parse_args(OptionParser(option_list = option_list))
 
 opt$step4_final <- resolve_path(opt$step4_final)
+opt$step4_params <- if (nzchar(opt$step4_params)) resolve_path(opt$step4_params) else
+  file.path(dirname(opt$step4_final), "step4_params.tsv")
+source(file.path(repo_root, "steps", "07_authority_facing_report", "reporting_criteria.R"))
 opt$step5_dir <- resolve_path(opt$step5_dir)
 opt$step4b_dir <- resolve_path(opt$step4b_dir)
 if (nzchar(opt$step6b_dir)) {
@@ -387,6 +272,9 @@ built_in_intercept_origin <- function() {
 }
 
 read_or_build_intercept_origin <- function(path) {
+  if (!is.null(path) && nzchar(path) && !file.exists(path)) {
+    stop("Missing explicitly supplied intercept origin table: ", path)
+  }
   if (!is.null(path) && nzchar(path) && file.exists(path)) {
     dt <- fread(path)
     setnames(dt, tolower(names(dt)))
@@ -397,6 +285,9 @@ read_or_build_intercept_origin <- function(path) {
     
     dt[, sample_id := clean_text(sample_id)]
     dt[, sample_origin_country := norm_country(sample_origin_country)]
+    if (anyNA(dt$sample_id) || anyDuplicated(dt$sample_id)) {
+      stop("Intercept origin sample_id values must be populated and unique")
+    }
     
     if (!("sample_origin_country_source" %in% names(dt))) {
       dt[, sample_origin_country_source := "User-provided intercept origin table"]
@@ -590,20 +481,20 @@ wide_rf <- function(rf_std) {
 }
 
 # =============================================================================
-# Load Step 4 primary results
+# Load Step 04 primary results
 # =============================================================================
 
 include_validation_sheets <- parse_bool1(opt$include_validation_sheets, default = TRUE)
 
 if (!file.exists(opt$step4_final)) {
-  stop("Missing Step 4 final assignment table: ", opt$step4_final)
+  stop("Missing Step 04 final assignment table: ", opt$step4_final)
 }
 
 s4 <- fread(opt$step4_final)
 setnames(s4, tolower(names(s4)))
 
 if (!("sample_id" %in% names(s4))) {
-  stop("Step 4 final assignment table missing sample_id")
+  stop("Step 04 final assignment table missing sample_id")
 }
 
 s4[, sample_id := clean_text(sample_id)]
@@ -629,10 +520,16 @@ sub_nk_col <- first_existing_col(s4, c("subregion_nk_usable_for_stability", "sub
 
 if (is.na(macro_call_col) || is.na(macro_conf_col)) {
   stop(
-    "Step 4 final table does not contain recognizable macroregion call/confidence columns.\n",
+    "Step 04 final table does not contain recognizable macroregion call/confidence columns.\n",
     "Found columns: ", paste(names(s4), collapse = ", ")
   )
 }
+
+reporting_parameters <- read_reporting_parameters(opt$step4_params)
+criterion_report <- assess_reporting_criteria(s4, reporting_parameters)
+criteria_detail <- as.data.table(criterion_report$detail)
+criteria_summary <- as.data.table(criterion_report$summary)
+reporting_thresholds <- as.data.table(criterion_report$thresholds)
 
 extended <- copy(s4)
 
@@ -713,7 +610,7 @@ extended[, vanbergen_macroregion_consistency := fifelse(
 )]
 
 # =============================================================================
-# Merge Step 5 RF corroboration
+# Merge Step 06 RF corroboration
 # =============================================================================
 
 rf_raw <- read_rf_all_or_panels(opt$step5_dir)
@@ -743,6 +640,17 @@ if (nrow(rf_wide) > 0L) {
     rf_asia_sub_status = NA_character_,
     rf_asia_sub_rf_vs_step4 = NA_character_
   )]
+}
+
+# A missing optional panel must not prevent primary criterion reporting.
+rf_expected <- c("call", "top_prob", "gap", "confidence", "status", "rf_vs_step4")
+for (prefix in c("rf_macro_", "rf_africa_sub_", "rf_asia_sub_")) {
+  for (suffix in rf_expected) {
+    key <- paste0(prefix, suffix)
+    if (!(key %in% names(extended))) {
+      extended[, (key) := if (suffix %in% c("top_prob", "gap")) NA_real_ else NA_character_]
+    }
+  }
 }
 
 extended[, rf_relevant_subregion_call := fifelse(
@@ -811,38 +719,38 @@ extended[, rf_corroboration := fifelse(
 extended[, rf_corroboration_detail := fifelse(
   rf_corroboration == "RF supports subregion",
   paste0(
-    "RF relevant subregion call agrees with Step 4 subregion call (RF=", rf_relevant_subregion_call,
+    "RF relevant subregion call agrees with Step 04 subregion call (RF=", rf_relevant_subregion_call,
     ", Step4=", step4_subregion_call,
     ") with accepted RF confidence (", rf_relevant_subregion_confidence, ")."
   ),
   fifelse(
     rf_corroboration == "RF supports macroregion",
     paste0(
-      "RF macroregion call agrees with Step 4 macroregion call (RF=", rf_macro_call,
+      "RF macroregion call agrees with Step 04 macroregion call (RF=", rf_macro_call,
       ", Step4=", step4_macroregion_call,
       ") with accepted RF confidence (", rf_macro_confidence, ")."
     ),
     fifelse(
       rf_corroboration == "RF weakly supports macroregion",
       paste0(
-        "RF macroregion top class agrees with Step 4 macroregion call (RF=", rf_macro_call,
+        "RF macroregion top class agrees with Step 04 macroregion call (RF=", rf_macro_call,
         ", Step4=", step4_macroregion_call,
         "), but RF confidence is ", rf_macro_confidence,
         ". This is directional agreement only, not strong independent corroboration. ",
-        "If subregion is not reported, this is due to Step 4 subregion filtering, e.g. ",
-        ifelse(!is.na(step4_subregion_reason), step4_subregion_reason, "no accepted Step 4 subregion call"),
+        "If subregion is not reported, this is due to Step 04 subregion filtering, e.g. ",
+        ifelse(!is.na(step4_subregion_reason), step4_subregion_reason, "no accepted Step 04 subregion call"),
         ", not because RF caused the subregion to be withheld."
       ),
       fifelse(
         rf_corroboration == "RF caution: macroregion discordance",
         paste0(
-          "RF macroregion call conflicts with Step 4 macroregion call with accepted RF confidence: RF=",
+          "RF macroregion call conflicts with Step 04 macroregion call with accepted RF confidence: RF=",
           rf_macro_call, ", Step4=", step4_macroregion_call, "."
         ),
         fifelse(
           rf_corroboration == "RF caution: subregion discordance",
           paste0(
-            "RF relevant subregion call conflicts with Step 4 subregion call with accepted RF confidence: RF=",
+            "RF relevant subregion call conflicts with Step 04 subregion call with accepted RF confidence: RF=",
             rf_relevant_subregion_call, ", Step4=", step4_subregion_call, "."
           ),
           fifelse(
@@ -857,217 +765,45 @@ extended[, rf_corroboration_detail := fifelse(
 )]
 
 # =============================================================================
-# Step 7 conservative reporting decision
+# Step 07 conservative reporting decision
 # =============================================================================
 
-extended[, macro_accepted := is_accepted_conf(step4_macroregion_confidence)]
-extended[, macro_high := is_high_conf(step4_macroregion_confidence)]
-extended[, macro_moderate := is_moderate_conf(step4_macroregion_confidence)]
+for (res in c("macroregion", "subregion")) {
+  one <- criteria_summary[resolution == res,
+    .(sample_id, status, criteria_met, criteria_unmet, unmet_criteria, step4_confidence_consistent)]
+  setnames(one, setdiff(names(one), "sample_id"),
+           paste0(res, "_", setdiff(names(one), "sample_id")))
+  extended <- merge(extended, one, by = "sample_id", all.x = TRUE, sort = FALSE)
+}
 
-extended[, subregion_accepted := is_accepted_conf(step4_subregion_confidence)]
-extended[, subregion_high := is_high_conf(step4_subregion_confidence)]
-extended[, subregion_moderate := is_moderate_conf(step4_subregion_confidence)]
-
+extended[, macro_accepted := macroregion_status == "PASS"]
+extended[, subregion_accepted := subregion_status == "PASS"]
 extended[, reported_level := fifelse(
-  subregion_accepted %in% TRUE,
-  "subregion",
-  fifelse(macro_accepted %in% TRUE, "macroregion", "uncertain")
-)]
-
+  subregion_accepted, "subregion", fifelse(macro_accepted, "macroregion", "uncertain"))]
 extended[, reported_origin := fifelse(
-  reported_level == "subregion",
-  step4_subregion_call,
-  fifelse(reported_level == "macroregion", step4_macroregion_call, "Uncertain")
-)]
-
+  subregion_accepted, step4_subregion_call, fifelse(macro_accepted, step4_macroregion_call, "Uncertain"))]
 extended[, reported_confidence := fifelse(
-  reported_level == "subregion",
-  step4_subregion_confidence,
-  fifelse(reported_level == "macroregion", step4_macroregion_confidence, "Uncertain")
-)]
-
+  subregion_accepted, step4_subregion_confidence,
+  fifelse(macro_accepted, step4_macroregion_confidence, "Uncertain"))]
 extended[, reporting_basis := fifelse(
-  reported_level == "subregion",
-  "Report subregion: Step 4 subregion call is High/Moderate.",
-  fifelse(
-    reported_level == "macroregion" &
-      !is.na(step4_subregion_reason) &
-      step4_subregion_reason == "low_global_K_agreement",
-    paste0(
-      "Report macroregion only: Step 4 macroregion is High/Moderate, but the subregion call is withheld because ",
-      "subregion assignment did not remain stable across enough usable K values (low_global_K_agreement)."
-    ),
-    fifelse(
-      reported_level == "macroregion",
-      paste0(
-        "Report macroregion only: Step 4 macroregion call is High/Moderate, but subregion is not accepted",
-        ifelse(!is.na(step4_subregion_reason), paste0(" (", step4_subregion_reason, ")."), ".")
-      ),
-      "Do not report origin: Step 4 macroregion assignment is uncertain."
-    )
-  )
-)]
-
-extended[, reliability_code := fifelse(
-  reported_level == "uncertain",
-  "RED",
-  fifelse(
-    rf_macro_strong_discordance %in% TRUE | rf_subregion_strong_discordance %in% TRUE,
-    "AMBER",
-    fifelse(
-      reported_confidence == "High",
-      "GREEN",
-      "AMBER"
-    )
-  )
-)]
-
-extended[, reliability_explanation := fifelse(
-  reliability_code == "RED",
-  "No stable Step 4 macroregion assignment; report as uncertain.",
-  fifelse(
-    reliability_code == "GREEN",
-    "Stable Step 4 assignment with high confidence and no strong RF contradiction.",
-    "Usable Step 4 assignment, but report with caution due to moderate confidence, subregion limitation, missing/weak RF support, or RF caution."
-  )
-)]
-
-# =============================================================================
-# Subregion withheld explanation
-# =============================================================================
-#
-# This column is intentionally filled for every sample so the authority-facing
-# report does not contain blank cells.
-#
-# Interpretation:
-#
-# - If subregion is reported:
-#     no withholding occurred.
-#
-# - If macroregion is reported:
-#     subregion was withheld, and the reason is explained.
-#
-# - If the whole assignment is uncertain:
-#     subregion cannot be interpreted because macroregion itself was not stable.
-#
-# Important:
-#
-# low_global_K_agreement means that the top subregional label was not stable
-# enough across the tested usable K values. This is a Step 4 stability-filter
-# result, not a Random Forest result.
-
+  reported_level == "subregion", "Macroregion PASS 6/6 and subregion PASS 6/6.",
+  fifelse(reported_level == "macroregion",
+    paste0("Macroregion PASS 6/6. Subregion FAIL ", subregion_criteria_met,
+           "/6. Unmet criteria: ", subregion_unmet_criteria, "."),
+    paste0("Macroregion FAIL ", macroregion_criteria_met, "/6. Unmet criteria: ",
+           macroregion_unmet_criteria, ". Subregion NOT_EVALUATED.")))]
 extended[, subregion_withheld_explanation := fifelse(
-  reported_level == "subregion",
-  paste0(
-    "Not applicable: subregion is reported as ",
-    step4_subregion_call,
-    " with ",
-    step4_subregion_confidence,
-    " Step 4 confidence."
-  ),
-  fifelse(
-    reported_level == "macroregion" &
-      !is.na(step4_subregion_reason) &
-      step4_subregion_reason == "low_global_K_agreement",
-    paste0(
-      "Subregion top call was ",
-      ifelse(!is.na(step4_subregion_call), step4_subregion_call, "not available"),
-      ", but it is not reported because the subregion assignment did not remain ",
-      "stable across enough usable SNP-panel sizes/K values ",
-      "(low_global_K_agreement). This is a Step 4 stability-filter result and is ",
-      "independent of the Random Forest corroboration category."
-    ),
-    fifelse(
-      reported_level == "macroregion" &
-        !is.na(step4_subregion_reason) &
-        step4_subregion_reason == "low_posterior",
-      paste0(
-        "Subregion top call was ",
-        ifelse(!is.na(step4_subregion_call), step4_subregion_call, "not available"),
-        ", but it is not reported because posterior support was below the accepted ",
-        "High/Moderate reporting threshold."
-      ),
-      fifelse(
-        reported_level == "macroregion" &
-          !is.na(step4_subregion_reason) &
-          grepl("^gap<", step4_subregion_reason),
-        paste0(
-          "Subregion top call was ",
-          ifelse(!is.na(step4_subregion_call), step4_subregion_call, "not available"),
-          ", but it is not reported because the posterior gap between the best and ",
-          "second-best subregional assignments was too small (",
-          step4_subregion_reason,
-          ")."
-        ),
-        fifelse(
-          reported_level == "macroregion" &
-            !is.na(step4_subregion_reason),
-          paste0(
-            "Subregion is not reported because Step 4 subregion status was: ",
-            step4_subregion_reason,
-            "."
-          ),
-          fifelse(
-            reported_level == "macroregion" &
-              is.na(step4_subregion_call),
-            "Subregion is not reported because no valid Step 4 subregion call was available.",
-            fifelse(
-              reported_level == "uncertain",
-              paste0(
-                "Not applicable: subregion is not interpreted because the Step 4 ",
-                "macroregion assignment itself is uncertain",
-                ifelse(
-                  !is.na(step4_macroregion_reason),
-                  paste0(" (", step4_macroregion_reason, ")."),
-                  "."
-                )
-              ),
-              "Not applicable."
-            )
-          )
-        )
-      )
-    )
-  )
-)]
-
-extended[
-  is.na(subregion_withheld_explanation) | subregion_withheld_explanation == "",
-  subregion_withheld_explanation := "Not applicable."
-]
-
+  subregion_status == "PASS", "None. All six subregion criteria are met.",
+  fifelse(subregion_status == "NOT_EVALUATED", "Subregion was not evaluated because macroregion failed.",
+          paste0(subregion_criteria_unmet, " of six subregion criteria unmet: ", subregion_unmet_criteria, ".")))]
 extended[, action_note := fifelse(
-  reliability_code == "RED",
-  "Do not infer origin beyond Uncertain. Consider additional data/reference sampling.",
-  fifelse(
-    reported_level == "subregion" & reliability_code == "GREEN",
-    "Report subregion as the best-supported origin. Retain full audit trail.",
-    fifelse(
-      reported_level == "subregion" & reliability_code == "AMBER",
-      "Report subregion with caution and note uncertainty/corroboration limits.",
-      fifelse(
-        reported_level == "macroregion" & reliability_code == "GREEN",
-        "Report macroregion as stable; do not over-interpret subregion.",
-        "Report macroregion with caution; do not over-interpret subregion."
-      )
-    )
-  )
-)]
-
-extended[, report_statement := fifelse(
-  reliability_code == "RED",
-  paste0(sample_id, ": origin assignment is uncertain."),
-  paste0(
-    sample_id,
-    ": best-supported genetic origin = ",
-    reported_origin,
-    " (",
-    reported_level,
-    ", ",
-    reliability_code,
-    ")."
-  )
-)]
+  reported_level == "uncertain", "Report unresolved genomic assignment.",
+  fifelse(reported_level == "macroregion", "Report macroregion affinity only.",
+          "Report conditional subregion affinity."))]
+extended[, report_statement := paste0(sample_id, ": ",
+  fifelse(reported_level == "uncertain", "genomic assignment unresolved. ",
+          paste0("genomic affinity to ", reported_origin, " (", reported_level, "). ")),
+  reporting_basis)]
 
 # =============================================================================
 # Commodity-origin mismatch logic
@@ -1135,7 +871,7 @@ extended[, commodity_origin_mismatch_detail := fifelse(
           "Known commodity-origin country is ", sample_origin_country,
           ", expected macroregion is ", expected_macroregion_from_origin_country,
           ", and the reported genetic origin is ", reported_origin,
-          ". Subregion is not reported because Step 4 subregion confidence/stability was insufficient",
+          ". Subregion is not reported because Step 04 subregion confidence/stability was insufficient",
           ifelse(!is.na(step4_subregion_reason), paste0(" (", step4_subregion_reason, ")."), ".")
         ),
         fifelse(
@@ -1182,7 +918,14 @@ simplified <- extended[
     expected_subregion_from_origin_country,
     reported_origin,
     reported_level,
-    reliability_code,
+    macroregion_status,
+    macroregion_criteria_met,
+    macroregion_criteria_unmet,
+    macroregion_unmet_criteria,
+    subregion_status,
+    subregion_criteria_met,
+    subregion_criteria_unmet,
+    subregion_unmet_criteria,
     reported_confidence,
     commodity_origin_vs_assignment,
     commodity_origin_mismatch_detail,
@@ -1215,6 +958,17 @@ for (mc in setdiff(meta_cols, "sample_id")) {
 
 front_cols <- c(
   "sample_id",
+  "reported_origin",
+  "reported_level",
+  "macroregion_status",
+  "macroregion_criteria_met",
+  "subregion_status",
+  "subregion_criteria_met",
+  "reported_confidence",
+  "macroregion_unmet_criteria",
+  "subregion_unmet_criteria",
+  "rf_corroboration",
+  "commodity_origin_vs_assignment",
   setdiff(meta_cols, "sample_id"),
   "sample_origin_country",
   "sample_origin_country_source",
@@ -1223,7 +977,14 @@ front_cols <- c(
   "expected_subregion_from_origin_country",
   "reported_origin",
   "reported_level",
-  "reliability_code",
+  "macroregion_status",
+  "macroregion_criteria_met",
+  "macroregion_criteria_unmet",
+  "macroregion_unmet_criteria",
+  "subregion_status",
+  "subregion_criteria_met",
+  "subregion_criteria_unmet",
+  "subregion_unmet_criteria",
   "reported_confidence",
   "commodity_origin_vs_assignment",
   "commodity_origin_mismatch_detail",
@@ -1236,6 +997,7 @@ front_cols <- c(
   "vanbergen_macroregion_consistency"
 )
 
+front_cols <- unique(front_cols)
 setcolorder(simplified, c(front_cols, setdiff(names(simplified), front_cols)))
 
 # Explicitly remove is_reference if it somehow exists.
@@ -1243,7 +1005,7 @@ if ("is_reference" %in% names(simplified)) {
   simplified[, is_reference := NULL]
 }
 
-setorder(simplified, reliability_code, sample_id)
+setorder(simplified, sample_id)
 setorder(extended, sample_id)
 
 # =============================================================================
@@ -1275,70 +1037,86 @@ if (isTRUE(include_validation_sheets)) {
 # =============================================================================
 
 legend_dt <- data.table(
-  section = c(
-    "Primary decision",
+  section = c("Primary decision",
     "Subregion reporting",
-    "RF supports macroregion",
-    "RF weakly supports macroregion",
-    "low_global_K_agreement",
-    "Commodity-origin mismatch",
-    "GREEN",
-    "AMBER",
-    "RED",
-    "Vanbergen et al. 2025 consistency"
-  ),
-  explanation = c(
-    "Step 4 is the authoritative origin assignment for query/intercept samples.",
-    "Subregion is reported only when Step 4 subregion confidence is High or Moderate. Otherwise, Step 7 reports macroregion if macroregion is High or Moderate.",
-    "RF macroregion prediction agrees with Step 4 macroregion and RF confidence is High or Moderate.",
-    "RF macroregion top prediction agrees with Step 4 macroregion, but RF confidence is Low or Uncertain. This is directional agreement only.",
-    "The subregion top call was not stable enough across usable K values. It is a Step 4 stability-filter reason and is independent of RF support.",
-    "Evaluated only for samples with known commodity-origin country, currently mainly FAVV larvae. Adults have unknown origin country.",
-    "Stable Step 4 assignment with High confidence and no strong RF contradiction.",
-    "Usable Step 4 assignment, but caution remains due to Moderate confidence, subregion limitation, missing/weak RF support, or RF discordance.",
-    "Step 4 macroregion is uncertain; no actionable origin should be inferred.",
-    "The report includes macroregion-level comparison against the published Vanbergen et al. 2025 interpretation for the Belgian trapped/intercepted samples."
-  )
-)
+    "NOT_EVALUATED",
+    "Threshold source",
+    "Posterior category",
+    "RF corroboration",
+    "Commodity consistency",
+    "Genomic affinity",
+    "Missing observations",
+    "Historical comparison"),
+  explanation = c("PASS requires all six criteria at the evaluated resolution. FAIL requires at least one unmet criterion.",
+    "Report subregion only when macroregion and its conditional subregion both PASS. If only macroregion passes, report macroregion.",
+    "A failed macroregion prevents subregion evaluation. Criterion counts and subregion observations are unavailable, rather than zero.",
+    "Thresholds are read from the Step 04 parameter table associated with the assignment file.",
+    "High is at least the recorded high_posterior threshold. Moderate is at least moderate_posterior and below high_posterior. Both require six criteria.",
+    "RF is a separate classifier comparison. It does not add a seventh criterion or alter the six criterion outcome.",
+    "Compare genomic affinity with declared commodity country where available. Country of commodity dispatch does not establish biological source.",
+    "Assignments are conditional on represented reference classes and do not demonstrate actual collection origin or a transport pathway.",
+    "A missing metric in an evaluated branch fails its criterion. Missing required fields or inconsistent saved decisions stop report generation.",
+    "Vanbergen et al. 2025 provides an additional macroregion comparison."))
 
 column_key <- data.table(
-  column = c(
-    "sample_id",
+  column = c("sample_id",
+    "reported_origin",
+    "reported_level",
+    "reported_confidence",
+    "macroregion_status",
+    "subregion_status",
+    "macroregion_criteria_met",
+    "subregion_criteria_met",
+    "macroregion_criteria_unmet",
+    "subregion_criteria_unmet",
+    "macroregion_unmet_criteria",
+    "subregion_unmet_criteria",
+    "criterion",
+    "observed_field",
+    "observed_value",
+    "threshold",
+    "result",
+    "reason",
     "sample_origin_country",
     "sample_origin_country_source",
     "expected_macroregion_from_origin_country",
     "expected_subregion_from_origin_country",
-    "reported_origin",
-    "reported_level",
-    "reliability_code",
-    "reported_confidence",
     "commodity_origin_vs_assignment",
     "commodity_origin_mismatch_detail",
     "rf_corroboration",
     "rf_corroboration_detail",
     "subregion_withheld_explanation",
     "vanbergen_macroregion",
-    "vanbergen_macroregion_consistency"
-  ),
-  meaning = c(
-    "Unique query/intercept sample identifier.",
-    "Known commodity-origin country when available. Unknown for trapped adults unless supplied by the user.",
-    "Source of sample_origin_country.",
-    "Expected macroregion implied by the commodity-origin country.",
-    "Expected subregion implied by the commodity-origin country.",
-    "Final origin label reported by Step 7.",
-    "Resolution reported: subregion, macroregion, or uncertain.",
-    "Traffic-light reliability class.",
-    "Step 4 confidence associated with the reported origin.",
-    "Consistency between known commodity-origin country and genetic assignment.",
-    "Plain-language explanation of any match or mismatch.",
-    "Summary of Random Forest support or caution relative to Step 4.",
-    "Detailed explanation of RF support strength, especially weak support.",
-    "Explanation for every sample: subregion reported, withheld, or not applicable.",
+    "vanbergen_macroregion_consistency"),
+  meaning = c("Unique query or intercept specimen identifier.",
+    "Finest class that meets all six reporting criteria within an accepted hierarchy.",
+    "Reported resolution: subregion, macroregion, or uncertain.",
+    "Step 04 posterior support category for the accepted class. Uncertain when macroregion fails.",
+    "PASS or FAIL for six macroregion criteria.",
+    "PASS, FAIL, or NOT_EVALUATED for the conditional subregion.",
+    "Number of the six macroregion criteria met.",
+    "Number of subregion criteria met. Missing when the branch was not evaluated.",
+    "Six minus macroregion_criteria_met.",
+    "Six minus subregion_criteria_met. Missing when the branch was not evaluated.",
+    "All unmet macroregion criterion identifiers. None when PASS.",
+    "All unmet subregion criterion identifiers. None when PASS, missing when NOT_EVALUATED.",
+    "Criterion identifier in Criteria. Every specimen and resolution has six rows.",
+    "Lowercase Step 04 column name supplying the observation.",
+    "Saved metric value. Unavailable for a branch that was not evaluated.",
+    "Threshold recorded in the saved Step 04 parameter table.",
+    "Criterion PASS, FAIL, or NOT_EVALUATED. Compare observed_value with threshold using operator.",
+    "criterion_met, below_threshold, missing_value, or macroregion_failed.",
+    "Declared commodity country where available. Unknown for trapped adults.",
+    "Source of the declared commodity country.",
+    "Macroregion assigned to the commodity country for the consistency comparison.",
+    "Subregion assigned to the commodity country for the consistency comparison.",
+    "Consistency comparison with commodity country, separate from criterion acceptance.",
+    "Explanation of the consistency comparison.",
+    "Separate RF support or caution relative to Step 04 candidate classes.",
+    "Explanation of RF agreement and confidence. Does not alter criterion counts.",
+    "All unmet subregion criteria, or the reason no branch was evaluated.",
     "Published macroregion interpretation from Vanbergen et al. 2025.",
-    "Whether current Step 4 macroregion agrees with Vanbergen et al. 2025 macroregion interpretation."
-  )
-)
+    "Comparison of the Step 04 candidate with the published interpretation."))
 
 # =============================================================================
 # Write TSV/RDS outputs
@@ -1349,6 +1127,8 @@ extended_file <- file.path(opt$out_dir, "FINAL_origin_tracing_authority_extended
 
 fwrite(simplified, simplified_file, sep = "\t")
 fwrite(extended, extended_file, sep = "\t")
+fwrite(criteria_detail, file.path(opt$out_dir, "FINAL_origin_tracing_authority_criteria.tsv"), sep = "\t")
+fwrite(reporting_thresholds, file.path(opt$out_dir, "reporting_thresholds.tsv"), sep = "\t")
 
 saveRDS(simplified, file.path(opt$out_dir, "FINAL_origin_tracing_authority_simplified.rds"))
 saveRDS(extended, file.path(opt$out_dir, "FINAL_origin_tracing_authority_extended.rds"))
@@ -1369,7 +1149,6 @@ header_style <- createStyle(
   valign = "center"
 )
 
-green_style <- createStyle(fgFill = "#C6EFCE")
 amber_style <- createStyle(fgFill = "#FFEB9C")
 red_style <- createStyle(fgFill = "#FFC7CE")
 wrap_style <- createStyle(wrapText = TRUE, valign = "top")
@@ -1406,6 +1185,11 @@ add_table_sheet <- function(wb, sheet_name, dt, freeze_first_row = TRUE) {
   )
   
   setColWidths(wb, sn, cols = seq_len(ncol(dt)), widths = "auto")
+  # Bound text widths and fit wrapped rows for long criterion explanations.
+  long_text <- grepl("explanation|detail|statement|basis|note|unmet_criteria|source|meaning", names(dt))
+  if (any(long_text)) setColWidths(wb, sn, cols = which(long_text), widths = 48)
+  setRowHeights(wb, sn, rows = 1, heights = 36)
+  if (nrow(dt)) setRowHeights(wb, sn, rows = seq_len(nrow(dt)) + 1L, heights = 54)
   
   if (freeze_first_row) {
     freezePane(wb, sn, firstRow = TRUE)
@@ -1416,13 +1200,11 @@ add_table_sheet <- function(wb, sheet_name, dt, freeze_first_row = TRUE) {
 
 simp_sheet <- add_table_sheet(wb, "Simplified", simplified)
 
-if ("reliability_code" %in% names(simplified)) {
-  rel_col <- which(names(simplified) == "reliability_code")
+for (status_col in c("macroregion_status", "subregion_status")) {
+  col <- which(names(simplified) == status_col)
   rows <- seq_len(nrow(simplified)) + 1L
-  
-  conditionalFormatting(wb, simp_sheet, cols = rel_col, rows = rows, rule = '=="GREEN"', style = green_style)
-  conditionalFormatting(wb, simp_sheet, cols = rel_col, rows = rows, rule = '=="AMBER"', style = amber_style)
-  conditionalFormatting(wb, simp_sheet, cols = rel_col, rows = rows, rule = '=="RED"', style = red_style)
+  conditionalFormatting(wb, simp_sheet, cols = col, rows = rows,
+                        rule = paste0(int2col(col), '2="FAIL"'), style = red_style)
 }
 
 if ("commodity_origin_vs_assignment" %in% names(simplified)) {
@@ -1440,6 +1222,8 @@ if ("commodity_origin_vs_assignment" %in% names(simplified)) {
 }
 
 add_table_sheet(wb, "Extended", extended)
+add_table_sheet(wb, "Criteria", criteria_detail)
+add_table_sheet(wb, "Reporting_Thresholds", reporting_thresholds)
 add_table_sheet(wb, "Legend", legend_dt)
 add_table_sheet(wb, "Column_Key", column_key)
 add_table_sheet(wb, "Intercept_Origin_Map", intercept_origin)
@@ -1465,6 +1249,8 @@ run_info <- list(
   step = "step7_reporting_authorities",
   repo_root = repo_root,
   step4_final = opt$step4_final,
+  step4_params = opt$step4_params,
+  reporting_parameters = reporting_parameters,
   step5_dir = opt$step5_dir,
   step4b_dir = opt$step4b_dir,
   step6b_dir = opt$step6b_dir,
@@ -1472,7 +1258,8 @@ run_info <- list(
   out_dir = opt$out_dir,
   out_xlsx = out_xlsx,
   n_samples = nrow(simplified),
-  reliability_counts = simplified[, .N, by = reliability_code],
+  criterion_counts = criteria_summary[, .N, by = .(resolution, status)],
+  decision_consistency_with_step4 = TRUE,
   commodity_origin_counts = simplified[, .N, by = sample_origin_country],
   commodity_origin_vs_assignment_counts = simplified[, .N, by = commodity_origin_vs_assignment],
   vanbergen_consistency_counts = simplified[, .N, by = vanbergen_macroregion_consistency],
@@ -1486,6 +1273,19 @@ run_info <- list(
 )
 
 saveRDS(run_info, file.path(opt$out_dir, "step7_run_info.rds"))
+
+# Keep the checkpoint reconstruction record as history after a successful native run.
+reconstruction_record <- file.path(opt$out_dir, "reporting_reconstruction_info.json")
+if (file.exists(reconstruction_record)) {
+  history_record <- file.path(opt$out_dir, "reporting_reconstruction_history.json")
+  if (file.exists(history_record)) {
+    history_record <- file.path(opt$out_dir, paste0("reporting_reconstruction_history_",
+      format(Sys.time(), "%Y%m%d_%H%M%S"), ".json"))
+  }
+  if (!file.rename(reconstruction_record, history_record)) {
+    warning("Could not move the checkpoint reconstruction record to history: ", reconstruction_record)
+  }
+}
 
 message("\nDone.")
 message("Simplified TSV: ", simplified_file)

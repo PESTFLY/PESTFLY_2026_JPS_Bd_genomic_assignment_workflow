@@ -1,0 +1,4 @@
+scenario_id	scenario_order	scenario_label	macroregion_3	subregion	run_pipeline
+baseline_asia	1	Current genomic lineage coding	Asia	SE_Asia	FALSE
+geo_africa	2	Geographic Africa coding	Africa	E_Africa	TRUE
+excluded_other	3	Mascarene references outside Africa Asia panels	Others	Other	TRUE

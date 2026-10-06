@@ -1,10 +1,14 @@
 cff-version: 1.2.0
-title: "PESTFLY origin-tracing pipeline for Bactrocera dorsalis"
-message: "If you use this workflow, please cite the associated Molecular Ecology Resources manuscript and this repository release."
+title: "PESTFLY genomic assignment workflow for Bactrocera dorsalis"
+message: "If you use this workflow, cite the repository release and the associated Journal of Pest Science manuscript."
 type: software
+license: MIT
+license-url: "https://opensource.org/license/mit"
 authors:
-  - family-names: "REPLACE_WITH_AUTHOR_SURNAME"
-    given-names: "REPLACE_WITH_AUTHOR_GIVEN_NAMES"
-version: "1.0.0"
-date-released: "2026-05-17"
-repository-code: "REPLACE_WITH_GITHUB_URL"
+  - family-names: "Virgilio"
+    given-names: "Massimiliano"
+  - family-names: "Esselens"
+    given-names: "Lore"
+  - family-names: "Kratz"
+    given-names: "Fanny"
+repository-code: "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline"

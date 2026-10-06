@@ -1,0 +1,18 @@
+check	rows	fields	label_spelling_differences	result
+FINAL_origin_tracing_authority_criteria.tsv	264	12	0	PASS
+reporting_thresholds.tsv	12	5	0	PASS
+FINAL_origin_tracing_authority_extended.tsv	22	105	25	PASS
+FINAL_origin_tracing_authority_simplified.tsv	22	37	25	PASS
+Workbook Simplified	22	40	0	PASS
+Workbook Extended	22	109	0	PASS
+Workbook Criteria	264	12	0	PASS
+Workbook Reporting_Thresholds	12	5	0	PASS
+Preserved workbook Intercept_Origin_Map	11	4	0	PASS
+Preserved workbook Country_Region_Map	5	3	0	PASS
+Preserved workbook Vanbergen_Reference	22	3	0	PASS
+Preserved workbook Step4b_Validation	3	19	0	PASS
+Preserved workbook Step4b_PerClass	9	9	0	PASS
+Preserved workbook Step5_RF_Validation	3	8	0	PASS
+Preserved workbook Step5_RF_PerClass	9	6	0	PASS
+RDS extended	22	109	0	PASS
+RDS simplified	22	40	0	PASS

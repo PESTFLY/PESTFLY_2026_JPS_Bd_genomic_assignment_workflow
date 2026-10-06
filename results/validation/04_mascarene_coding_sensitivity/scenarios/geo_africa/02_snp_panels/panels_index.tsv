@@ -1,0 +1,4 @@
+panel_id	panel_dir	group_col	panel_type	n_reference_samples	n_reference_groups	n_snps	reference_value	reference_note	status
+P1_macroregion_africa_vs_asia	panels/P1_macroregion_africa_vs_asia	macroregion_3	binary	320	2	11086	TRUE	auto_TRUE_n=320	OK
+P2_subregion_within_africa	panels/P2_subregion_within_africa	subregion	multiclass	150	4	11052	TRUE	auto_TRUE_n=150	OK
+P3_subregion_within_asia	panels/P3_subregion_within_asia	subregion	multiclass	170	3	11085	TRUE	auto_TRUE_n=170	OK

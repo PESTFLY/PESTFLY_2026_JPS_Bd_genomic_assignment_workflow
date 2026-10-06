@@ -1,62 +1,27 @@
 #!/usr/bin/env Rscript
 
-# =============================================================================
-# PESTFLY — Step 3: Multi-panel SNP extraction and ranking
-# =============================================================================
+# PESTFLY: SNP panel discovery and Hudson ranking
 #
 # Purpose
-# -------
-# Select informative biallelic SNPs from FASTA alignments that passed Step 1–2 QC.
+# Discover biallelic consensus SNPs among eligible references, select one SNP per retained
+# ortholog for each analytical panel and rank those SNPs using corrected Hudson FST scores.
 #
-# Default panels:
-#   P1: macroregion_3 Africa vs Asia
-#   P2: subregion within Africa
-#   P3: subregion within Asia
+# Interpretation
+# Reference and alternate consensus nucleotides are encoded 0 and 1. Ambiguous and IUPAC states
+# are missing; these are not diploid genotype dosage calls. P1 compares Africa with Asia; P2 and
+# P3 rank by the maximum pairwise subregion Hudson score. Query samples do not select or order
+# markers.
 #
-# Optional panel:
-#   P4: population-level global panel
+# Technical notes
+# Defaults include reference missingness at most 0.20, minor allele count at least 2 and at
+# least three references per class. The highest scoring SNP per ortholog is retained. The
+# estimator uses nonmissing consensus call counts, returns missing for insufficient counts or
+# invalid denominators, and retains finite negative estimates. Scores rank assignment markers;
+# they are not genome wide demographic differentiation estimates.
 #
-# P4 is not run by default because it is computationally heavier and more
-# exploratory. To run it, use:
-#
-#   --run_p4
-#
-# Inputs
-# ------
-#   results/00_fasta/OG*.fasta
-#   results/01_qc/metadata_clean.tsv
-#   results/01_qc/ogs_pass_qc.txt
-#
-# Outputs
-# -------
-#   results/02_snp_panels/panels_index.tsv
-#   results/02_snp_panels/panels_index.rds
-#   results/02_snp_panels/snp_map.tsv
-#   results/02_snp_panels/snp_map.rds
-#   results/02_snp_panels/step3_run_info.rds
-#
-#   results/02_snp_panels/panels/<panel_id>/
-#     reference_group_counts.tsv
-#     reference_group_counts.rds
-#     per_og_stats.tsv
-#     per_og_stats.rds
-#     snp_map.tsv
-#     snp_map.rds
-#     snp_matrix.rds
-#     snp_matrix.tsv.gz       optional, if --write_tsv_matrix
-#     og_panel_topK_<K>.txt
-#     panel_run_info.rds
-#
-# Run default P1-P3:
-#   Rscript steps/step3_snp_extraction_ranking/run.R --cores 8
-#
-# Test:
-#   Rscript steps/step3_snp_extraction_ranking/run.R --debug_n 200 --cores 4
-#
-# Optional P4:
-#   Rscript steps/step3_snp_extraction_ranking/run.R --cores 8 --run_p4
-#
-# =============================================================================
+# Run from the repository root:
+#   Rscript steps/02_snp_panel_discovery_and_ranking/run.R
+# Detailed inputs, outputs and parameters are in the adjacent README.md.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -107,7 +72,7 @@ option_list <- list(
     "--align_dir",
     type = "character",
     default = "results/00_fasta",
-    help = "Directory with Step 0 FASTA alignments [default %default]"
+    help = "Directory with Step 00 FASTA alignments [default %default]"
   ),
   make_option(
     "--file_glob",
@@ -119,13 +84,13 @@ option_list <- list(
     "--qc_dir",
     type = "character",
     default = "results/01_qc",
-    help = "Step 1–2 output directory [default %default]"
+    help = "Step 01 output directory [default %default]"
   ),
   make_option(
     "--out_dir",
     type = "character",
     default = "results/02_snp_panels",
-    help = "Step 3 output directory [default %default]"
+    help = "Step 02 output directory [default %default]"
   ),
   make_option(
     "--reference_value",
@@ -300,21 +265,98 @@ safe_aln_matrix <- function(aln) {
   )
 }
 
+# Per-site Hudson FST for the haploid/pseudohaploid consensus allele calls used
+# by this pipeline. Here n1 and n2 are the numbers of non-missing observed
+# allele calls in the two populations, and p1 and p2 are alternate-allele
+# frequencies. The equations follow Hudson et al. (1992), as elaborated by
+# Bhatia et al. (2013), and are algebraically equivalent to the implementation
+# in scikit-allel's allel.hudson_fst() for a biallelic site:
+#
+#   numerator   = (p1 - p2)^2
+#                 - p1(1 - p1)/(n1 - 1)
+#                 - p2(1 - p2)/(n2 - 1)
+#   denominator = p1(1 - p2) + p2(1 - p1)
+#   FST          = numerator / denominator
+#
+# Negative per-site estimates are valid finite-sample estimates and are kept.
+# They must not be silently truncated to zero. A site with zero between-
+# population diversity has an undefined ratio and is returned as NA.
 hudson_fst <- function(p1, p2, n1, n2) {
-  if (is.na(p1) || is.na(p2) || n1 < 2 || n2 < 2) return(NA_real_)
+  values <- c(p1, p2, n1, n2)
+  if (anyNA(values) || !all(is.finite(values)) || n1 < 2L || n2 < 2L) {
+    return(NA_real_)
+  }
   
-  h1 <- 2 * p1 * (1 - p1)
-  h2 <- 2 * p2 * (1 - p2)
+  if (p1 < 0 || p1 > 1 || p2 < 0 || p2 > 1) {
+    stop("Allele frequencies supplied to hudson_fst() must be in [0, 1].")
+  }
   
-  between <- (p1 - p2)^2 - (h1 / (n1 - 1)) - (h2 / (n2 - 1))
-  within <- between + h1 + h2
+  numerator <-
+    (p1 - p2)^2 -
+    (p1 * (1 - p1) / (n1 - 1)) -
+    (p2 * (1 - p2) / (n2 - 1))
   
-  if (!is.finite(within) || within <= 0) return(NA_real_)
+  denominator <- p1 * (1 - p2) + p2 * (1 - p1)
   
-  fst <- between / within
-  fst <- max(0, min(1, fst))
-  fst
+  if (!is.finite(denominator) || denominator <= 0) {
+    return(NA_real_)
+  }
+  
+  numerator / denominator
 }
+
+# Fail fast if the estimator no longer reproduces the biallelic examples in
+# the scikit-allel Hudson FST documentation. The expected values correspond to
+# allele-count pairs [4,0] vs [0,4], [2,2] vs [2,2], [4,0] vs [4,0], and
+# [2,2] vs [1,1], respectively.
+validate_hudson_fst <- function(tolerance = 1e-12) {
+  observed <- c(
+    hudson_fst(0.0, 1.0, 4L, 4L),
+    hudson_fst(0.5, 0.5, 4L, 4L),
+    hudson_fst(0.0, 0.0, 4L, 4L),
+    hudson_fst(0.5, 0.5, 4L, 2L)
+  )
+  expected <- c(1, -1 / 3, NA_real_, -2 / 3)
+  
+  finite_ok <- isTRUE(all.equal(
+    observed[!is.na(expected)],
+    expected[!is.na(expected)],
+    tolerance = tolerance,
+    check.attributes = FALSE
+  ))
+  na_ok <- identical(is.na(observed), is.na(expected))
+  symmetry_ok <- isTRUE(all.equal(
+    hudson_fst(0.2, 0.8, 10L, 12L),
+    hudson_fst(0.8, 0.2, 12L, 10L),
+    tolerance = tolerance
+  ))
+  allele_flip_ok <- isTRUE(all.equal(
+    hudson_fst(0.2, 0.8, 10L, 12L),
+    hudson_fst(0.8, 0.2, 10L, 12L),
+    tolerance = tolerance
+  ))
+  
+  if (!finite_ok || !na_ok || !symmetry_ok || !allele_flip_ok) {
+    stop(
+      "Hudson FST implementation self-test failed. Observed values: ",
+      paste(format(observed, digits = 16), collapse = ", ")
+    )
+  }
+  
+  invisible(TRUE)
+}
+
+validate_hudson_fst()
+message("Hudson FST implementation self-test: PASS")
+
+hudson_fst_metadata <- list(
+  estimator = "Hudson et al. (1992), elaborated by Bhatia et al. (2013)",
+  data_representation = "haploid/pseudohaploid consensus allele calls",
+  numerator = "(p1-p2)^2 - p1(1-p1)/(n1-1) - p2(1-p2)/(n2-1)",
+  denominator = "p1(1-p2) + p2(1-p1)",
+  negative_per_site_estimates_truncated = FALSE,
+  self_test = "PASS"
+)
 
 score_binary_fst <- function(alt_allele, col, groups) {
   lev <- unique(groups[!is.na(groups)])
@@ -408,18 +450,18 @@ detect_reference_value <- function(meta, eligible, reference_value) {
 }
 
 # =============================================================================
-# Load Step 1–2 outputs
+# Load Step 01 outputs
 # =============================================================================
 
 metadata_path <- file.path(opt$qc_dir, "metadata_clean.tsv")
 ogs_pass_path <- file.path(opt$qc_dir, "ogs_pass_qc.txt")
 
 if (!file.exists(metadata_path)) {
-  stop("Missing Step 1–2 metadata file: ", metadata_path)
+  stop("Missing Step 01 metadata file: ", metadata_path)
 }
 
 if (!file.exists(ogs_pass_path)) {
-  stop("Missing Step 1–2 passing OG list: ", ogs_pass_path)
+  stop("Missing Step 01 passing OG list: ", ogs_pass_path)
 }
 
 meta <- fread(metadata_path)
@@ -479,7 +521,7 @@ fasta_dt <- data.table(
 fasta_dt <- fasta_dt[og %in% ogs_pass]
 
 if (nrow(fasta_dt) == 0L) {
-  stop("No FASTA files match passing OGs from Step 1–2.")
+  stop("No FASTA files match passing OGs from Step 01.")
 }
 
 setorder(fasta_dt, og)
@@ -489,7 +531,7 @@ if (opt$debug_n > 0L) {
 }
 
 message("Metadata samples: ", nrow(meta))
-message("Passing OG FASTA files for Step 3: ", nrow(fasta_dt))
+message("Passing OG FASTA files for Step 02: ", nrow(fasta_dt))
 
 # =============================================================================
 # Define panels
@@ -1113,7 +1155,7 @@ for (panel in panels) {
     
     empty_index <- data.table(
       panel_id = panel_id,
-      panel_dir = panel_dir,
+      panel_dir = file.path("panels", panel_id),
       group_col = group_col,
       panel_type = panel_type,
       n_reference_samples = nrow(ref_meta),
@@ -1217,6 +1259,7 @@ for (panel in panels) {
     n_reference_groups = nrow(group_counts_final),
     n_ogs_processed = nrow(fasta_dt),
     n_snps = nrow(snp_map),
+    fst_method = hudson_fst_metadata,
     parameters = opt,
     timestamp = Sys.time()
   )
@@ -1225,7 +1268,7 @@ for (panel in panels) {
   
   panels_index[[panel_id]] <- data.table(
     panel_id = panel_id,
-    panel_dir = panel_dir,
+    panel_dir = file.path("panels", panel_id),
     group_col = group_col,
     panel_type = panel_type,
     n_reference_samples = nrow(ref_meta),
@@ -1271,6 +1314,7 @@ run_info <- list(
   n_ogs_pass_step1_2 = length(ogs_pass),
   n_ogs_processed = nrow(fasta_dt),
   panels_index = panels_index_dt,
+  fst_method = hudson_fst_metadata,
   parameters = opt,
   allowed_extra_labels = allowed_extra_labels,
   macroregions = macroregions,
@@ -1284,4 +1328,4 @@ saveRDS(run_info, file.path(opt$out_dir, "step3_run_info.rds"))
 message("\nDone.")
 message("Panels index:   ", file.path(opt$out_dir, "panels_index.tsv"))
 message("Global SNP map: ", file.path(opt$out_dir, "snp_map.tsv"))
-message("Step 3 outputs: ", opt$out_dir)
+message("Step 02 outputs: ", opt$out_dir)

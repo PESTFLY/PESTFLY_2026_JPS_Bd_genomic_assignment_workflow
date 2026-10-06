@@ -1,0 +1,4 @@
+panel_id	panel_label	group_col	validation_unit	fold_id	heldout_country	heldout_site	heldout_true_groups	n_test	n_train	n_training_classes_observed	n_supported_training_classes	supported_training_classes	fold_evaluable	fold_reason
+"P2_subregion_within_africa"	"P2 Africa subregion"	"subregion"	"country"	"country::Congo"	"Congo"	"Kabare"	"C_Africa"	5	100	3	3	"E_Africa;S_Africa;W_Africa"	FALSE	"true_class_absent_or_undersupported_after_holdout"
+"P2_subregion_within_africa"	"P2 Africa subregion"	"subregion"	"site"	"site::Congo::Kabare"	"Congo"	"Kabare"	"C_Africa"	5	100	3	3	"E_Africa;S_Africa;W_Africa"	FALSE	"true_class_absent_or_undersupported_after_holdout"
+"P3_subregion_within_asia"	"P3 Asia subregion"	"subregion"	"country"	"country::China"	"China"	"Fujian;Guangdong;Guangxi;Guizhou;Hainan;Henan;Hubei;Hunan;Jiangsu;Jiangxi;Sichuan;Taiwan;Yunnan;Zhejiang"	"E_Asia"	80	135	2	2	"S_Asia;SE_Asia"	FALSE	"true_class_absent_or_undersupported_after_holdout"

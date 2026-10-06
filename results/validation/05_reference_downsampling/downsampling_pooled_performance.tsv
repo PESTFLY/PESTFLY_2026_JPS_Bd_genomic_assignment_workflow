@@ -1,0 +1,17 @@
+panel_id	panel_label	n_per_group	n_predictions	correct_n	accuracy_all	accepted_n	accepted_rate	accuracy_accepted	correct_accepted_rate	uncertainty_rate
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	300	300	1	85	0.283333333333333	1	0.283333333333333	0.716666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	300	300	1	192	0.64	1	0.64	0.36
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	300	300	1	152	0.506666666666667	1	0.506666666666667	0.493333333333333
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	300	300	1	299	0.996666666666667	1	0.996666666666667	0.00333333333333333
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	300	300	1	300	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	300	300	1	299	0.996666666666667	1	0.996666666666667	0.00333333333333333
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	300	300	1	299	0.996666666666667	1	0.996666666666667	0.00333333333333333
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	60	60	1	59	0.983333333333333	1	0.983333333333333	0.0166666666666667
+P2_subregion_within_africa	P2 Africa subregion	3	240	226	0.941666666666667	0	0	NA	0	1
+P2_subregion_within_africa	P2 Africa subregion	4	120	115	0.958333333333333	96	0.8	0.958333333333333	0.766666666666667	0.2
+P3_subregion_within_asia	P3 Asia subregion	3	450	409	0.908888888888889	0	0	NA	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	450	404	0.897777777777778	0	0	NA	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	450	413	0.917777777777778	0	0	NA	0	1
+P3_subregion_within_asia	P3 Asia subregion	20	450	419	0.931111111111111	417	0.926666666666667	0.964028776978417	0.893333333333333	0.0733333333333333
+P3_subregion_within_asia	P3 Asia subregion	40	450	418	0.928888888888889	412	0.915555555555556	0.970873786407767	0.888888888888889	0.0844444444444445
+P3_subregion_within_asia	P3 Asia subregion	44	90	80	0.888888888888889	83	0.922222222222222	0.927710843373494	0.855555555555556	0.0777777777777778

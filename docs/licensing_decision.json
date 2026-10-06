@@ -1,0 +1,19 @@
+{
+  "confirmed_date": "2026-10-05",
+  "copyright_year": 2026,
+  "copyright_holders": [
+    "Massimiliano Virgilio",
+    "Wannes Dermauw"
+  ],
+  "project_code_license": "MIT",
+  "project_documentation_and_public_results_license": "CC-BY-4.0",
+  "public_metadata_and_derived_resources": "Content licence applies except where a separate notice exists; third party rights are not relicensed.",
+  "alignment_access": "upon request",
+  "input_alignments_in_public_archives": false,
+  "input_alignments_covered_by_public_license": false,
+  "author_confirmation": "1) no, distributed upon request; 2) Virgilio + Dermauw",
+  "existing_citation_author_credits_changed": false,
+  "statistical_outputs_recomputed": false,
+  "public_GitHub_changes_written": false,
+  "Zenodo_metadata_status": "Unverified; previous DOI, Zenodo and DataCite retrieval attempts were unavailable."
+}

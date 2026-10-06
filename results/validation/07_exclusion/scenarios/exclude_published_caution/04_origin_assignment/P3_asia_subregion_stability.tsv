@@ -1,0 +1,8 @@
+panel_id	sample_id	final_group	stable_from_K	agreement_frac	tail_agreement_frac	tail_fraction	n_K_total_tested	n_K_usable_for_stability	n_K_available	maxK_used	maxK_top_posterior	maxK_second_posterior	maxK_gap	maxK_confidence	maxK_status	maxK_n_snps_used	status
+P3_subregion_within_asia	Bd_2023_4	S_Asia	500	1	1	0.5	16	6	6	11068	1	2.10383488585967e-107	1	High	ok	11051	ok
+P3_subregion_within_asia	Bd_2023_5	E_Asia	500	1	1	0.5	16	6	6	11068	1	1.36895388192181e-44	1	High	ok	11059	ok
+P3_subregion_within_asia	Bd_2023_6	S_Asia	500	1	1	0.5	16	6	6	11068	1	2.95103513561862e-176	1	High	ok	11054	ok
+P3_subregion_within_asia	Bd_2024_1	S_Asia	500	1	1	0.5	16	6	6	11068	1	5.05806413817775e-85	1	High	ok	11039	ok
+P3_subregion_within_asia	Bd_2024_3	S_Asia	500	1	1	0.5	16	6	6	11068	1	6.16410168244273e-138	1	High	ok	11058	ok
+P3_subregion_within_asia	Bd_2024_4	S_Asia	500	1	1	0.5	16	6	6	11068	1	2.30782513291727e-39	1	High	ok	11057	ok
+P3_subregion_within_asia	FAVV_14	S_Asia	500	1	1	0.5	16	6	6	11068	1	4.19063499655605e-145	1	High	ok	11046	ok

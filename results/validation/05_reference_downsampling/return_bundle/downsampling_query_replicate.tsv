@@ -1,0 +1,481 @@
+panel_id	panel_label	n_per_group	replicate	seed	n_queries	calls_matching_baseline	fraction_calls_matching_baseline	all_calls_match_baseline	accepted_fraction	uncertainty_rate
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	1	21270931	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	2	21270932	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	3	21270933	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	4	21270934	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	5	21270935	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	6	21270936	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	7	21270937	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	8	21270938	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	9	21270939	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	10	21270940	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	11	21270941	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	12	21270942	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	13	21270943	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	14	21270944	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	15	21270945	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	16	21270946	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	17	21270947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	18	21270948	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	19	21270949	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	20	21270950	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	21	21270951	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	22	21270952	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	23	21270953	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	24	21270954	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	25	21270955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	26	21270956	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	27	21270957	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	28	21270958	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	29	21270959	22	22	1	TRUE	0	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	30	21270960	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	1	21280931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	2	21280932	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	3	21280933	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	4	21280934	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	5	21280935	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	6	21280936	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	7	21280937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	8	21280938	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	9	21280939	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	10	21280940	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	11	21280941	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	12	21280942	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	13	21280943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	14	21280944	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	15	21280945	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	16	21280946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	17	21280947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	18	21280948	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	19	21280949	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	20	21280950	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	21	21280951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	22	21280952	22	22	1	TRUE	0.5	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	23	21280953	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	24	21280954	22	22	1	TRUE	0.5	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	25	21280955	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	26	21280956	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	27	21280957	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	28	21280958	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	29	21280959	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	30	21280960	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	1	21290931	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	2	21290932	22	22	1	TRUE	0.409090909090909	0.590909090909091
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	3	21290933	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	4	21290934	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	5	21290935	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	6	21290936	22	22	1	TRUE	0.772727272727273	0.227272727272727
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	7	21290937	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	8	21290938	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	9	21290939	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	10	21290940	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	11	21290941	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	12	21290942	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	13	21290943	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	14	21290944	22	22	1	TRUE	0.5	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	15	21290945	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	16	21290946	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	17	21290947	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	18	21290948	22	22	1	TRUE	0.5	0.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	19	21290949	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	20	21290950	22	22	1	TRUE	0.818181818181818	0.181818181818182
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	21	21290951	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	22	21290952	22	22	1	TRUE	0.545454545454545	0.454545454545455
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	23	21290953	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	24	21290954	22	22	1	TRUE	0.681818181818182	0.318181818181818
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	25	21290955	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	26	21290956	22	22	1	TRUE	0.636363636363636	0.363636363636364
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	27	21290957	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	28	21290958	22	22	1	TRUE	0.727272727272727	0.272727272727273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	29	21290959	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	30	21290960	22	22	1	TRUE	0.590909090909091	0.409090909090909
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	1	21300931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	2	21300932	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	3	21300933	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	4	21300934	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	5	21300935	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	6	21300936	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	7	21300937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	8	21300938	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	9	21300939	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	10	21300940	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	11	21300941	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	12	21300942	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	13	21300943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	14	21300944	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	15	21300945	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	16	21300946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	17	21300947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	18	21300948	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	19	21300949	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	20	21300950	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	21	21300951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	22	21300952	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	23	21300953	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	24	21300954	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	25	21300955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	26	21300956	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	27	21300957	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	28	21300958	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	29	21300959	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	30	21300960	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	1	21310931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	2	21310932	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	3	21310933	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	4	21310934	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	5	21310935	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	6	21310936	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	7	21310937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	8	21310938	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	9	21310939	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	10	21310940	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	11	21310941	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	12	21310942	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	13	21310943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	14	21310944	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	15	21310945	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	16	21310946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	17	21310947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	18	21310948	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	19	21310949	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	20	21310950	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	21	21310951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	22	21310952	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	23	21310953	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	24	21310954	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	25	21310955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	26	21310956	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	27	21310957	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	28	21310958	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	29	21310959	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	30	21310960	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	1	21320931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	2	21320932	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	3	21320933	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	4	21320934	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	5	21320935	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	6	21320936	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	7	21320937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	8	21320938	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	9	21320939	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	10	21320940	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	11	21320941	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	12	21320942	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	13	21320943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	14	21320944	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	15	21320945	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	16	21320946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	17	21320947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	18	21320948	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	19	21320949	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	20	21320950	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	21	21320951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	22	21320952	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	23	21320953	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	24	21320954	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	25	21320955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	26	21320956	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	27	21320957	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	28	21320958	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	29	21320959	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	30	21320960	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	1	21330931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	2	21330932	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	3	21330933	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	4	21330934	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	5	21330935	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	6	21330936	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	7	21330937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	8	21330938	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	9	21330939	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	10	21330940	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	11	21330941	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	12	21330942	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	13	21330943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	14	21330944	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	15	21330945	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	16	21330946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	17	21330947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	18	21330948	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	19	21330949	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	20	21330950	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	21	21330951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	22	21330952	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	23	21330953	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	24	21330954	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	25	21330955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	26	21330956	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	27	21330957	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	28	21330958	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	29	21330959	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	30	21330960	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	1	21340931	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	2	21340932	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	3	21340933	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	4	21340934	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	5	21340935	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	6	21340936	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	7	21340937	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	8	21340938	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	9	21340939	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	10	21340940	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	11	21340941	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	12	21340942	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	13	21340943	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	14	21340944	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	15	21340945	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	16	21340946	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	17	21340947	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	18	21340948	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	19	21340949	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	20	21340950	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	21	21340951	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	22	21340952	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	23	21340953	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	24	21340954	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	25	21340955	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	26	21340956	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	27	21340957	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	28	21340958	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	29	21340959	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	30	21340960	22	22	1	TRUE	0.863636363636364	0.136363636363636
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	12	11	0.916666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	12	7	0.583333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	12	11	0.916666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	12	7	0.583333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	12	11	0.916666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	12	10	0.833333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	12	8	0.666666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	12	7	0.583333333333333	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	12	11	0.916666666666667	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	12	9	0.75	FALSE	0	1
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	12	8	0.666666666666667	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	12	8	0.666666666666667	FALSE	0.833333333333333	0.166666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	12	8	0.666666666666667	FALSE	0.333333333333333	0.666666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	12	8	0.666666666666667	FALSE	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	12	8	0.666666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	12	11	0.916666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	12	8	0.666666666666667	FALSE	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	12	8	0.666666666666667	FALSE	0.5	0.5
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	12	11	0.916666666666667	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	12	10	0.833333333333333	FALSE	0.5	0.5
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	12	10	0.833333333333333	FALSE	0.166666666666667	0.833333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	12	7	0.583333333333333	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	12	9	0.75	FALSE	0.916666666666667	0.0833333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	12	9	0.75	FALSE	0.75	0.25
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	12	11	0.916666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	12	5	0.416666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	12	10	0.833333333333333	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	12	10	0.833333333333333	FALSE	0.416666666666667	0.583333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	12	10	0.833333333333333	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	12	6	0.5	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	12	9	0.75	FALSE	0.666666666666667	0.333333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	12	8	0.666666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	12	11	0.916666666666667	FALSE	0.583333333333333	0.416666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	12	9	0.75	FALSE	0.5	0.5
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	12	8	0.666666666666667	FALSE	0.5	0.5
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	12	8	0.666666666666667	FALSE	0.75	0.25
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	12	11	0.916666666666667	FALSE	0.75	0.25
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	12	8	0.666666666666667	FALSE	0.916666666666667	0.0833333333333333
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	12	9	0.75	FALSE	0.75	0.25
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	12	8	0.666666666666667	FALSE	0.75	0.25
+P3_subregion_within_asia	P3 Asia subregion	3	1	23270931	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	2	23270932	7	4	0.571428571428571	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	3	23270933	7	3	0.428571428571429	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	4	23270934	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	5	23270935	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	6	23270936	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	7	23270937	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	8	23270938	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	9	23270939	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	10	23270940	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	11	23270941	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	12	23270942	7	5	0.714285714285714	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	13	23270943	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	14	23270944	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	15	23270945	7	5	0.714285714285714	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	16	23270946	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	17	23270947	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	18	23270948	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	19	23270949	7	3	0.428571428571429	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	20	23270950	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	21	23270951	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	22	23270952	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	23	23270953	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	24	23270954	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	25	23270955	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	26	23270956	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	27	23270957	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	28	23270958	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	29	23270959	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	3	30	23270960	7	5	0.714285714285714	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	1	23280931	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	2	23280932	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	3	23280933	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	4	23280934	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	5	23280935	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	6	23280936	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	7	23280937	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	8	23280938	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	9	23280939	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	10	23280940	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	11	23280941	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	12	23280942	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	13	23280943	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	14	23280944	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	15	23280945	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	16	23280946	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	17	23280947	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	18	23280948	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	19	23280949	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	20	23280950	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	21	23280951	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	22	23280952	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	23	23280953	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	24	23280954	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	25	23280955	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	26	23280956	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	27	23280957	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	28	23280958	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	29	23280959	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	30	23280960	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	1	23290931	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	2	23290932	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	3	23290933	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	4	23290934	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	5	23290935	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	6	23290936	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	7	23290937	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	8	23290938	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	9	23290939	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	10	23290940	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	11	23290941	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	12	23290942	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	13	23290943	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	14	23290944	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	15	23290945	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	16	23290946	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	17	23290947	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	18	23290948	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	19	23290949	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	20	23290950	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	21	23290951	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	22	23290952	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	23	23290953	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	24	23290954	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	25	23290955	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	26	23290956	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	27	23290957	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	28	23290958	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	29	23290959	7	6	0.857142857142857	FALSE	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	23290960	7	7	1	TRUE	0	1
+P3_subregion_within_asia	P3 Asia subregion	20	1	23300931	7	7	1	TRUE	0.714285714285714	0.285714285714286
+P3_subregion_within_asia	P3 Asia subregion	20	2	23300932	7	7	1	TRUE	0.714285714285714	0.285714285714286
+P3_subregion_within_asia	P3 Asia subregion	20	3	23300933	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	4	23300934	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	5	23300935	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	6	23300936	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	7	23300937	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	8	23300938	7	7	1	TRUE	0.714285714285714	0.285714285714286
+P3_subregion_within_asia	P3 Asia subregion	20	9	23300939	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	10	23300940	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	11	23300941	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	12	23300942	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	13	23300943	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	14	23300944	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	15	23300945	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	16	23300946	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	17	23300947	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	18	23300948	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	19	23300949	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	20	23300950	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	21	23300951	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	22	23300952	7	6	0.857142857142857	FALSE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	23	23300953	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	24	23300954	7	6	0.857142857142857	FALSE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	25	23300955	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	20	26	23300956	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	27	23300957	7	7	1	TRUE	0.714285714285714	0.285714285714286
+P3_subregion_within_asia	P3 Asia subregion	20	28	23300958	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	29	23300959	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	30	23300960	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	1	23310931	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	2	23310932	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	3	23310933	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	4	23310934	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	5	23310935	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	6	23310936	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	7	23310937	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	8	23310938	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	9	23310939	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	10	23310940	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	11	23310941	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	12	23310942	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	13	23310943	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	14	23310944	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	15	23310945	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	16	23310946	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	17	23310947	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	18	23310948	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	19	23310949	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	20	23310950	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	21	23310951	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	22	23310952	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	23	23310953	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	24	23310954	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	25	23310955	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	26	23310956	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	27	23310957	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	28	23310958	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	40	29	23310959	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	30	23310960	7	6	0.857142857142857	FALSE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	1	23320931	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	2	23320932	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	3	23320933	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	4	23320934	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	5	23320935	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	6	23320936	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	7	23320937	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	8	23320938	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	9	23320939	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	10	23320940	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	11	23320941	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	12	23320942	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	13	23320943	7	7	1	TRUE	0.714285714285714	0.285714285714286
+P3_subregion_within_asia	P3 Asia subregion	44	14	23320944	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	15	23320945	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	16	23320946	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	17	23320947	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	18	23320948	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	19	23320949	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	20	23320950	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	21	23320951	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	22	23320952	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	23	23320953	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	24	23320954	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	25	23320955	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	26	23320956	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	27	23320957	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	28	23320958	7	7	1	TRUE	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	29	23320959	7	7	1	TRUE	0.857142857142857	0.142857142857143
+P3_subregion_within_asia	P3 Asia subregion	44	30	23320960	7	7	1	TRUE	1	0

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-05",
+  "publication_checkpoint": 7,
+  "change_scope": "Licensing, alignment access documentation and package integrity records only.",
+  "copyright_holders": [
+    "Massimiliano Virgilio",
+    "Wannes Dermauw"
+  ],
+  "code_license": "MIT",
+  "content_license": "CC-BY-4.0",
+  "input_alignment_access": "upon request; excluded from public archive and licence grants",
+  "result_files_byte_unchanged_from_step6": 1223,
+  "R_files_byte_unchanged_from_step6": 22,
+  "existing_citation_author_credits_unchanged": true,
+  "statistical_outputs_recomputed": false,
+  "new_native_R_execution_during_licensing": false,
+  "s6_archive_files": 1209,
+  "s6_manifest_files": 1208,
+  "s6_sha256": "2024ec3275c9b8eed8441b3a694a8817a6eae20e69bf2416c20430499b8eb9c1",
+  "all_archived_hashes_and_repository_sources_verified": true,
+  "all_source_map_files_present": true,
+  "omitted_identical_export_copies": 90,
+  "omitted_bytes": 15666945,
+  "original_native_checker_FAIL_and_independent_PASS_review_preserved": true,
+  "reader_guide_pages": 9,
+  "reader_guide_changed_pages": [
+    9
+  ],
+  "reader_guide_other_page_text_and_render_unchanged": true,
+  "reader_guide_changed_page_visually_reviewed": true,
+  "external_publication_writes_performed": false,
+  "external_DOI_records_verified": false,
+  "changed_existing_files_before_manifest_refresh": [
+    "CITATION.cff",
+    "README.md",
+    "data/README.md",
+    "docs/INSTALL.md",
+    "docs/NATIVE_R_VERIFICATION.md",
+    "docs/S6_SOURCE_MAP.md",
+    "docs/manuscript_consistency_audit.tsv",
+    "supplementary/S6/README.md",
+    "supplementary/S6/S6_reader_guide.pdf",
+    "supplementary/S6/archive_manifest.tsv",
+    "supplementary/S6/assembly_info.json",
+    "tools/build_s6.py"
+  ],
+  "new_files_before_verification_record_and_manifest_refresh": [
+    "ALIGNMENT_ACCESS.md",
+    "LICENSE",
+    "LICENSE_CONTENT.txt",
+    "LICENSING.md",
+    "docs/licensing_decision.json"
+  ]
+}

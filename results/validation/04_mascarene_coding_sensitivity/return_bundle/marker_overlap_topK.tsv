@@ -1,0 +1,61 @@
+scenario_id	scenario_label	panel_id	K_requested	K_baseline_used	K_scenario_used	overlap_n	overlap_fraction_of_baseline	overlap_fraction_of_scenario	jaccard
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	20	20	20	1	0.05	0.05	0.0256410256410256
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	50	50	50	11	0.22	0.22	0.123595505617978
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	100	100	100	25	0.25	0.25	0.142857142857143
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	200	200	200	60	0.3	0.3	0.176470588235294
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	500	500	500	170	0.34	0.34	0.204819277108434
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	1000	1000	1000	376	0.376	0.376	0.231527093596059
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	2000	2000	2000	792	0.396	0.396	0.246882793017456
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	5000	5000	5000	2201	0.4402	0.4402	0.282215668675471
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	10000	10000	10000	4694	0.4694	0.4694	0.306677120083627
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	11086	11086	11086	5302	0.478260869565217	0.478260869565217	0.314285714285714
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	20	20	20	15	0.75	0.75	0.6
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	50	50	50	41	0.82	0.82	0.694915254237288
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	100	100	100	78	0.78	0.78	0.639344262295082
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	200	200	200	183	0.915	0.915	0.84331797235023
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	500	500	500	412	0.824	0.824	0.700680272108844
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	1000	1000	1000	877	0.877	0.877	0.780943900267142
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	2000	2000	2000	1717	0.8585	0.8585	0.752080595707403
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	5000	5000	5000	4071	0.8142	0.8142	0.68662506324844
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	10000	10000	10000	7803	0.7803	0.7803	0.639747478888251
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	11001	11001	11001	8463	0.769293700572675	0.769293700572675	0.625083093286063
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	20	20	20	14	0.7	0.7	0.538461538461538
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	50	50	50	26	0.52	0.52	0.351351351351351
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	100	100	100	50	0.5	0.5	0.333333333333333
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	200	200	200	92	0.46	0.46	0.298701298701299
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	500	500	500	221	0.442	0.442	0.283697047496791
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	1000	1000	1000	361	0.361	0.361	0.220256253813301
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	2000	2000	2000	637	0.3185	0.3185	0.189414213499851
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	5000	5000	5000	1477	0.2954	0.2954	0.173295787868122
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	10000	10000	10000	3087	0.3087	0.3087	0.182522320108792
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	11085	11085	11085	3497	0.315471357690573	0.315471357690573	0.187275745729128
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	20	20	20	14	0.7	0.7	0.538461538461538
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	50	50	50	31	0.62	0.62	0.449275362318841
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	100	100	100	68	0.68	0.68	0.515151515151515
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	200	200	200	148	0.74	0.74	0.587301587301587
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	500	500	500	373	0.746	0.746	0.594896331738437
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	1000	1000	1000	766	0.766	0.766	0.620745542949757
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	2000	2000	2000	1563	0.7815	0.7815	0.64136233073451
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	5000	5000	5000	3901	0.7802	0.7802	0.639613051319889
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	10000	10000	10000	7823	0.7823	0.7823	0.642440666830911
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	11085	11085	11085	8689	0.783852052322959	0.783852052322959	0.644536755433573
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	20	20	20	20	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	50	50	50	50	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	100	100	100	100	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	200	200	200	200	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	500	500	500	500	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	1000	1000	1000	1000	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	2000	2000	2000	2000	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	5000	5000	5000	5000	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	10000	10000	10000	10000	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	11001	11001	11001	11001	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	20	20	20	14	0.7	0.7	0.538461538461538
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	50	50	50	26	0.52	0.52	0.351351351351351
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	100	100	100	50	0.5	0.5	0.333333333333333
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	200	200	200	92	0.46	0.46	0.298701298701299
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	500	500	500	221	0.442	0.442	0.283697047496791
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	1000	1000	1000	361	0.361	0.361	0.220256253813301
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	2000	2000	2000	637	0.3185	0.3185	0.189414213499851
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	5000	5000	5000	1477	0.2954	0.2954	0.173295787868122
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	10000	10000	10000	3087	0.3087	0.3087	0.182522320108792
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	11085	11085	11085	3497	0.315471357690573	0.315471357690573	0.187275745729128

@@ -1,0 +1,38 @@
+PESTFLY supplementary analysis 06: alternative marker set resampling
+Completed: 2026-09-30 12:53:40 CEST
+
+Design
+Complementary partitions per panel and K: 15
+Alternative fixed size marker panels per K: 30
+Requested K values: 500, 1000, 2000, 5000
+Parallel workers: 8
+All complementary pair checks passed: TRUE
+Every alternative panel retained one SNP per orthogroup: TRUE
+
+Each rank matched A/B pair is disjoint, partitions the top 2K corrected Hudson ranked orthogroups, and gives each set exactly half of the conventional Top K markers.
+
+Results by panel and K
+P1 Africa versus Asia, K=500: alternative LOO accuracy mean=0.9938 (2.5% to 97.5%=0.9938 to 0.9938); conventional Top K accuracy=0.9938; query agreement with primary calls=0.8636; query agreement with fixed Top K=0.8636
+P1 Africa versus Asia, K=1000: alternative LOO accuracy mean=0.9942 (2.5% to 97.5%=0.9938 to 0.9969); conventional Top K accuracy=0.9938; query agreement with primary calls=0.9545; query agreement with fixed Top K=0.9545
+P1 Africa versus Asia, K=2000: alternative LOO accuracy mean=1.0000 (2.5% to 97.5%=1.0000 to 1.0000); conventional Top K accuracy=1.0000; query agreement with primary calls=0.9545; query agreement with fixed Top K=0.9545
+P1 Africa versus Asia, K=5000: alternative LOO accuracy mean=1.0000 (2.5% to 97.5%=1.0000 to 1.0000); conventional Top K accuracy=1.0000; query agreement with primary calls=1.0000; query agreement with fixed Top K=1.0000
+P2 Africa subregion, K=500: alternative LOO accuracy mean=0.9244 (2.5% to 97.5%=0.9048 to 0.9481); conventional Top K accuracy=0.8952; query agreement with primary calls=0.6278; query agreement with fixed Top K=0.8000
+P2 Africa subregion, K=1000: alternative LOO accuracy mean=0.9438 (2.5% to 97.5%=0.9186 to 0.9645); conventional Top K accuracy=0.9333; query agreement with primary calls=0.6750; query agreement with fixed Top K=0.9083
+P2 Africa subregion, K=2000: alternative LOO accuracy mean=0.9594 (2.5% to 97.5%=0.9402 to 0.9810); conventional Top K accuracy=0.9429; query agreement with primary calls=0.7472; query agreement with fixed Top K=0.8194
+P2 Africa subregion, K=5000: alternative LOO accuracy mean=0.9781 (2.5% to 97.5%=0.9619 to 0.9905); conventional Top K accuracy=0.9714; query agreement with primary calls=0.8944; query agreement with fixed Top K=0.7667
+P3 Asia subregion, K=500: alternative LOO accuracy mean=0.9594 (2.5% to 97.5%=0.9476 to 0.9674); conventional Top K accuracy=0.9581; query agreement with primary calls=0.9619; query agreement with fixed Top K=0.8190
+P3 Asia subregion, K=1000: alternative LOO accuracy mean=0.9464 (2.5% to 97.5%=0.9395 to 0.9560); conventional Top K accuracy=0.9628; query agreement with primary calls=0.9952; query agreement with fixed Top K=0.9952
+P3 Asia subregion, K=2000: alternative LOO accuracy mean=0.9307 (2.5% to 97.5%=0.9256 to 0.9408); conventional Top K accuracy=0.9535; query agreement with primary calls=0.9952; query agreement with fixed Top K=0.9952
+P3 Asia subregion, K=5000: alternative LOO accuracy mean=0.9217 (2.5% to 97.5%=0.9150 to 0.9256); conventional Top K accuracy=0.9256; query agreement with primary calls=1.0000; query agreement with fixed Top K=1.0000
+
+Interpretation boundary
+This analysis tests robustness to nonnested, rank matched alternative marker panels conditional on the corrected Step 02 ranking. Grouped geographic CV separately evaluates feature selection and assignment in held out geographic groups.
+
+Primary tables
+marker_resampling_loo_performance_summary.tsv
+marker_resampling_loo_per_class_summary.tsv
+marker_resampling_query_stability.tsv
+marker_resampling_query_overall_summary.tsv
+marker_resampling_pairwise_overlap_summary.tsv
+marker_resampling_complement_checks.tsv
+FIG_marker_resampling_sensitivity.pdf

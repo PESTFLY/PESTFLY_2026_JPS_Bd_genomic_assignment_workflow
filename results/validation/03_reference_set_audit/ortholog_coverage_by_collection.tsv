@@ -1,0 +1,12 @@
+collection	macroregion_3	subregion	n_references	n_missing_summary	n_below_threshold	minimum_fraction_ogs_seen	median_fraction_ogs_seen	mean_fraction_ogs_seen	maximum_fraction_ogs_seen
+Pablo_IO	Africa	E_Africa	40	0	0	0.999823804070126	0.999911902035063	0.999907497136816	1
+Pablo_IO	Asia	SE_Asia	15	0	0	0.999030922385693	1	0.999911902035063	1
+REACT	Asia	SE_Asia	30	0	2	0.388071535547529	1	0.961786039409156	1
+Yue_Global	Africa	C_Africa	5	0	0	1	1	1	1
+Yue_Global	Africa	E_Africa	27	0	0	0.999735706105189	0.999911902035063	0.999931479360604	1
+Yue_Global	Africa	S_Africa	10	0	0	0.999823804070126	1	0.999955951017531	1
+Yue_Global	Africa	W_Africa	23	0	0	0.981235133468417	0.999911902035063	0.999130511389535	1
+Yue_Global	Asia	E_Asia	80	0	0	0.997885648841512	1	0.999904193463131	1
+Yue_Global	Asia	SE_Asia	45	0	0	0.999911902035063	1	0.999994126802338	1
+Yue_Global	Asia	S_Asia	45	0	0	0.999735706105189	1	0.999988253604675	1
+Yue_Global	Others	Other	10	0	0	0.999911902035063	1	0.999973570610519	1

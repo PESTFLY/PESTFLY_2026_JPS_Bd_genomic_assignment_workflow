@@ -1,0 +1,193 @@
+panel_id	validation_unit	fold_id	panel_label	group_col	heldout_country	heldout_site	true_groups	fold_evaluable	fold_reason	n_samples	n_evaluable_samples	n_accepted	n_correct_calls	n_correct_accepted	n_incorrect_accepted	n_unresolved	raw_call_accuracy	coverage	accepted_accuracy	operational_success_rate	accepted_error_rate	uncertainty_rate	median_maxK_posterior	median_maxK_gap	median_K_agreement
+"P1_macroregion_africa_vs_asia"	"country"	"country::Anjouan"	"P1 macroregion"	"macroregion_3"	"Anjouan"	"Mutsamudu"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Bangladesh"	"P1 macroregion"	"macroregion_3"	"Bangladesh"	"Khagrachari"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Burundi"	"P1 macroregion"	"macroregion_3"	"Burundi"	"Bujumbu"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::China"	"P1 macroregion"	"macroregion_3"	"China"	"Fujian;Guangdong;Guangxi;Guizhou;Hainan;Henan;Hubei;Hunan;Jiangsu;Jiangxi;Sichuan;Taiwan;Yunnan;Zhejiang"	"Asia"	TRUE	"ok"	80	80	80	80	80	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Congo"	"P1 macroregion"	"macroregion_3"	"Congo"	"Kabare"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Ethiopia"	"P1 macroregion"	"macroregion_3"	"Ethiopia"	"Mieso"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Ghana"	"P1 macroregion"	"macroregion_3"	"Ghana"	"Nord"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Grande_Comore"	"P1 macroregion"	"macroregion_3"	"Grande_Comore"	"Mandzissani"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::India"	"P1 macroregion"	"macroregion_3"	"India"	"Assam;Bihar;Punjab;Tamil_Nadu;Telangana"	"Asia"	TRUE	"ok"	25	25	25	25	25	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Indonesia"	"P1 macroregion"	"macroregion_3"	"Indonesia"	"Java"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Ivory_Coast"	"P1 macroregion"	"macroregion_3"	"Ivory_Coast"	"Boundiali"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Kenya"	"P1 macroregion"	"macroregion_3"	"Kenya"	"Nairobi"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Laos"	"P1 macroregion"	"macroregion_3"	"Laos"	"Vientiane"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Madagascar"	"P1 macroregion"	"macroregion_3"	"Madagascar"	"Ambatobe;Antananarivo;Mahaboboka;Mangatsa"	"Africa"	TRUE	"ok"	17	17	17	17	17	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Malawi"	"P1 macroregion"	"macroregion_3"	"Malawi"	"Zomba"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Malaysia"	"P1 macroregion"	"macroregion_3"	"Malaysia"	"Kuala_Lumpur"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Mali"	"P1 macroregion"	"macroregion_3"	"Mali"	"Bamako"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Mauritius"	"P1 macroregion"	"macroregion_3"	"Mauritius"	"LaSource"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Mayotte"	"P1 macroregion"	"macroregion_3"	"Mayotte"	"Dembéni;Sada"	"Africa"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Moheli"	"P1 macroregion"	"macroregion_3"	"Moheli"	"Fomboni"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Myanmar"	"P1 macroregion"	"macroregion_3"	"Myanmar"	"Yangon"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Nepal"	"P1 macroregion"	"macroregion_3"	"Nepal"	"Sindhuli"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Nigeria"	"P1 macroregion"	"macroregion_3"	"Nigeria"	"Nasarawa"	"Africa"	TRUE	"ok"	3	3	3	3	3	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Pakistan"	"P1 macroregion"	"macroregion_3"	"Pakistan"	"Murree"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Philippines"	"P1 macroregion"	"macroregion_3"	"Philippines"	"Davao;Dumaguete"	"Asia"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Reunion"	"P1 macroregion"	"macroregion_3"	"Reunion"	"BasTerHaut;Palmistes;Salazie;StAndré;StBenoit;SteRose;StPaul;StPierre"	"Asia"	TRUE	"ok"	40	40	38	40	38	0	2	1	0.95	1	0.95	0	0.05	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Senegal"	"P1 macroregion"	"macroregion_3"	"Senegal"	"Bignona"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::South_Africa"	"P1 macroregion"	"macroregion_3"	"South_Africa"	"Mpumalanga"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Sri_Lanka"	"P1 macroregion"	"macroregion_3"	"Sri_Lanka"	"Anuradhapura"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Sudan"	"P1 macroregion"	"macroregion_3"	"Sudan"	"Singa"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Thailand"	"P1 macroregion"	"macroregion_3"	"Thailand"	"Bangkok;Phuket"	"Asia"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Uganda"	"P1 macroregion"	"macroregion_3"	"Uganda"	"Entebbe"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"country"	"country::Viet_Nam"	"P1 macroregion"	"macroregion_3"	"Viet_Nam"	NA	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Anjouan::Mutsamudu"	"P1 macroregion"	"macroregion_3"	"Anjouan"	"Mutsamudu"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Bangladesh::Khagrachari"	"P1 macroregion"	"macroregion_3"	"Bangladesh"	"Khagrachari"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Burundi::Bujumbu"	"P1 macroregion"	"macroregion_3"	"Burundi"	"Bujumbu"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Fujian"	"P1 macroregion"	"macroregion_3"	"China"	"Fujian"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Guangdong"	"P1 macroregion"	"macroregion_3"	"China"	"Guangdong"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Guangxi"	"P1 macroregion"	"macroregion_3"	"China"	"Guangxi"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Guizhou"	"P1 macroregion"	"macroregion_3"	"China"	"Guizhou"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Hainan"	"P1 macroregion"	"macroregion_3"	"China"	"Hainan"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Henan"	"P1 macroregion"	"macroregion_3"	"China"	"Henan"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Hubei"	"P1 macroregion"	"macroregion_3"	"China"	"Hubei"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Hunan"	"P1 macroregion"	"macroregion_3"	"China"	"Hunan"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Jiangsu"	"P1 macroregion"	"macroregion_3"	"China"	"Jiangsu"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Jiangxi"	"P1 macroregion"	"macroregion_3"	"China"	"Jiangxi"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Sichuan"	"P1 macroregion"	"macroregion_3"	"China"	"Sichuan"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Taiwan"	"P1 macroregion"	"macroregion_3"	"China"	"Taiwan"	"Asia"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Yunnan"	"P1 macroregion"	"macroregion_3"	"China"	"Yunnan"	"Asia"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::China::Zhejiang"	"P1 macroregion"	"macroregion_3"	"China"	"Zhejiang"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Congo::Kabare"	"P1 macroregion"	"macroregion_3"	"Congo"	"Kabare"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Ethiopia::Mieso"	"P1 macroregion"	"macroregion_3"	"Ethiopia"	"Mieso"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Ghana::Nord"	"P1 macroregion"	"macroregion_3"	"Ghana"	"Nord"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Grande_Comore::Mandzissani"	"P1 macroregion"	"macroregion_3"	"Grande_Comore"	"Mandzissani"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::India::Assam"	"P1 macroregion"	"macroregion_3"	"India"	"Assam"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::India::Bihar"	"P1 macroregion"	"macroregion_3"	"India"	"Bihar"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::India::Punjab"	"P1 macroregion"	"macroregion_3"	"India"	"Punjab"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::India::Tamil_Nadu"	"P1 macroregion"	"macroregion_3"	"India"	"Tamil_Nadu"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::India::Telangana"	"P1 macroregion"	"macroregion_3"	"India"	"Telangana"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Indonesia::Java"	"P1 macroregion"	"macroregion_3"	"Indonesia"	"Java"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Ivory_Coast::Boundiali"	"P1 macroregion"	"macroregion_3"	"Ivory_Coast"	"Boundiali"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Kenya::Nairobi"	"P1 macroregion"	"macroregion_3"	"Kenya"	"Nairobi"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Laos::Vientiane"	"P1 macroregion"	"macroregion_3"	"Laos"	"Vientiane"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Madagascar::Ambatobe"	"P1 macroregion"	"macroregion_3"	"Madagascar"	"Ambatobe"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Madagascar::Antananarivo"	"P1 macroregion"	"macroregion_3"	"Madagascar"	"Antananarivo"	"Africa"	TRUE	"ok"	2	2	2	2	2	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Madagascar::Mahaboboka"	"P1 macroregion"	"macroregion_3"	"Madagascar"	"Mahaboboka"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Madagascar::Mangatsa"	"P1 macroregion"	"macroregion_3"	"Madagascar"	"Mangatsa"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Malawi::Zomba"	"P1 macroregion"	"macroregion_3"	"Malawi"	"Zomba"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Malaysia::Kuala_Lumpur"	"P1 macroregion"	"macroregion_3"	"Malaysia"	"Kuala_Lumpur"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Mali::Bamako"	"P1 macroregion"	"macroregion_3"	"Mali"	"Bamako"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Mauritius::LaSource"	"P1 macroregion"	"macroregion_3"	"Mauritius"	"LaSource"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Mayotte::Dembéni"	"P1 macroregion"	"macroregion_3"	"Mayotte"	"Dembéni"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Mayotte::Sada"	"P1 macroregion"	"macroregion_3"	"Mayotte"	"Sada"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Moheli::Fomboni"	"P1 macroregion"	"macroregion_3"	"Moheli"	"Fomboni"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Myanmar::Yangon"	"P1 macroregion"	"macroregion_3"	"Myanmar"	"Yangon"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Nepal::Sindhuli"	"P1 macroregion"	"macroregion_3"	"Nepal"	"Sindhuli"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Nigeria::Nasarawa"	"P1 macroregion"	"macroregion_3"	"Nigeria"	"Nasarawa"	"Africa"	TRUE	"ok"	3	3	3	3	3	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Pakistan::Murree"	"P1 macroregion"	"macroregion_3"	"Pakistan"	"Murree"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Philippines::Davao"	"P1 macroregion"	"macroregion_3"	"Philippines"	"Davao"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Philippines::Dumaguete"	"P1 macroregion"	"macroregion_3"	"Philippines"	"Dumaguete"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::BasTerHaut"	"P1 macroregion"	"macroregion_3"	"Reunion"	"BasTerHaut"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::Palmistes"	"P1 macroregion"	"macroregion_3"	"Reunion"	"Palmistes"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::Salazie"	"P1 macroregion"	"macroregion_3"	"Reunion"	"Salazie"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::StAndré"	"P1 macroregion"	"macroregion_3"	"Reunion"	"StAndré"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::StBenoit"	"P1 macroregion"	"macroregion_3"	"Reunion"	"StBenoit"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::StPaul"	"P1 macroregion"	"macroregion_3"	"Reunion"	"StPaul"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::StPierre"	"P1 macroregion"	"macroregion_3"	"Reunion"	"StPierre"	"Asia"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Reunion::SteRose"	"P1 macroregion"	"macroregion_3"	"Reunion"	"SteRose"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Senegal::Bignona"	"P1 macroregion"	"macroregion_3"	"Senegal"	"Bignona"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::South_Africa::Mpumalanga"	"P1 macroregion"	"macroregion_3"	"South_Africa"	"Mpumalanga"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Sri_Lanka::Anuradhapura"	"P1 macroregion"	"macroregion_3"	"Sri_Lanka"	"Anuradhapura"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Sudan::Singa"	"P1 macroregion"	"macroregion_3"	"Sudan"	"Singa"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Thailand::Bangkok"	"P1 macroregion"	"macroregion_3"	"Thailand"	"Bangkok"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Thailand::Phuket"	"P1 macroregion"	"macroregion_3"	"Thailand"	"Phuket"	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Uganda::Entebbe"	"P1 macroregion"	"macroregion_3"	"Uganda"	"Entebbe"	"Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P1_macroregion_africa_vs_asia"	"site"	"site::Viet_Nam::[site_missing]"	"P1 macroregion"	"macroregion_3"	"Viet_Nam"	NA	"Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Anjouan"	"P2 Africa subregion"	"subregion"	"Anjouan"	"Mutsamudu"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Burundi"	"P2 Africa subregion"	"subregion"	"Burundi"	"Bujumbu"	"E_Africa"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Congo"	"P2 Africa subregion"	"subregion"	"Congo"	"Kabare"	"C_Africa"	FALSE	"true_class_absent_or_undersupported_after_holdout"	5	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"P2_subregion_within_africa"	"country"	"country::Ethiopia"	"P2 Africa subregion"	"subregion"	"Ethiopia"	"Mieso"	"E_Africa"	TRUE	"ok"	5	5	4	3	2	2	1	0.6	0.8	0.5	0.4	0.4	0.2	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Ghana"	"P2 Africa subregion"	"subregion"	"Ghana"	"Nord"	"W_Africa"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Grande_Comore"	"P2 Africa subregion"	"subregion"	"Grande_Comore"	"Mandzissani"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Ivory_Coast"	"P2 Africa subregion"	"subregion"	"Ivory_Coast"	"Boundiali"	"W_Africa"	TRUE	"ok"	5	5	1	5	1	0	4	1	0.2	1	0.2	0	0.8	1	1	0.5
+"P2_subregion_within_africa"	"country"	"country::Kenya"	"P2 Africa subregion"	"subregion"	"Kenya"	"Nairobi"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Madagascar"	"P2 Africa subregion"	"subregion"	"Madagascar"	"Ambatobe;Antananarivo;Mahaboboka;Mangatsa"	"E_Africa"	TRUE	"ok"	17	17	17	17	17	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Malawi"	"P2 Africa subregion"	"subregion"	"Malawi"	"Zomba"	"S_Africa"	TRUE	"ok"	5	5	1	3	0	1	4	0.6	0.2	0	0	0.2	0.8	1	1	0.333333333333333
+"P2_subregion_within_africa"	"country"	"country::Mali"	"P2 Africa subregion"	"subregion"	"Mali"	"Bamako"	"W_Africa"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Mayotte"	"P2 Africa subregion"	"subregion"	"Mayotte"	"Dembéni;Sada"	"E_Africa"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Moheli"	"P2 Africa subregion"	"subregion"	"Moheli"	"Fomboni"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Nigeria"	"P2 Africa subregion"	"subregion"	"Nigeria"	"Nasarawa"	"W_Africa"	TRUE	"ok"	3	3	2	3	2	0	1	1	0.666666666666667	1	0.666666666666667	0	0.333333333333333	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Senegal"	"P2 Africa subregion"	"subregion"	"Senegal"	"Bignona"	"W_Africa"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P2_subregion_within_africa"	"country"	"country::South_Africa"	"P2 Africa subregion"	"subregion"	"South_Africa"	"Mpumalanga"	"S_Africa"	TRUE	"ok"	5	5	1	4	0	1	4	0.8	0.2	0	0	0.2	0.8	1	1	0.333333333333333
+"P2_subregion_within_africa"	"country"	"country::Sudan"	"P2 Africa subregion"	"subregion"	"Sudan"	"Singa"	"E_Africa"	TRUE	"ok"	5	5	4	4	3	1	1	0.8	0.8	0.75	0.6	0.2	0.2	1	1	1
+"P2_subregion_within_africa"	"country"	"country::Uganda"	"P2 Africa subregion"	"subregion"	"Uganda"	"Entebbe"	"E_Africa"	TRUE	"ok"	5	5	1	4	1	0	4	0.8	0.2	1	0.2	0	0.8	1	1	0.5
+"P2_subregion_within_africa"	"site"	"site::Anjouan::Mutsamudu"	"P2 Africa subregion"	"subregion"	"Anjouan"	"Mutsamudu"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Burundi::Bujumbu"	"P2 Africa subregion"	"subregion"	"Burundi"	"Bujumbu"	"E_Africa"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Congo::Kabare"	"P2 Africa subregion"	"subregion"	"Congo"	"Kabare"	"C_Africa"	FALSE	"true_class_absent_or_undersupported_after_holdout"	5	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"P2_subregion_within_africa"	"site"	"site::Ethiopia::Mieso"	"P2 Africa subregion"	"subregion"	"Ethiopia"	"Mieso"	"E_Africa"	TRUE	"ok"	5	5	4	3	2	2	1	0.6	0.8	0.5	0.4	0.4	0.2	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Ghana::Nord"	"P2 Africa subregion"	"subregion"	"Ghana"	"Nord"	"W_Africa"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Grande_Comore::Mandzissani"	"P2 Africa subregion"	"subregion"	"Grande_Comore"	"Mandzissani"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Ivory_Coast::Boundiali"	"P2 Africa subregion"	"subregion"	"Ivory_Coast"	"Boundiali"	"W_Africa"	TRUE	"ok"	5	5	1	5	1	0	4	1	0.2	1	0.2	0	0.8	1	1	0.5
+"P2_subregion_within_africa"	"site"	"site::Kenya::Nairobi"	"P2 Africa subregion"	"subregion"	"Kenya"	"Nairobi"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Madagascar::Ambatobe"	"P2 Africa subregion"	"subregion"	"Madagascar"	"Ambatobe"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Madagascar::Antananarivo"	"P2 Africa subregion"	"subregion"	"Madagascar"	"Antananarivo"	"E_Africa"	TRUE	"ok"	2	2	2	2	2	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Madagascar::Mahaboboka"	"P2 Africa subregion"	"subregion"	"Madagascar"	"Mahaboboka"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Madagascar::Mangatsa"	"P2 Africa subregion"	"subregion"	"Madagascar"	"Mangatsa"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Malawi::Zomba"	"P2 Africa subregion"	"subregion"	"Malawi"	"Zomba"	"S_Africa"	TRUE	"ok"	5	5	1	3	0	1	4	0.6	0.2	0	0	0.2	0.8	1	1	0.333333333333333
+"P2_subregion_within_africa"	"site"	"site::Mali::Bamako"	"P2 Africa subregion"	"subregion"	"Mali"	"Bamako"	"W_Africa"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Mayotte::Dembéni"	"P2 Africa subregion"	"subregion"	"Mayotte"	"Dembéni"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Mayotte::Sada"	"P2 Africa subregion"	"subregion"	"Mayotte"	"Sada"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Moheli::Fomboni"	"P2 Africa subregion"	"subregion"	"Moheli"	"Fomboni"	"E_Africa"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Nigeria::Nasarawa"	"P2 Africa subregion"	"subregion"	"Nigeria"	"Nasarawa"	"W_Africa"	TRUE	"ok"	3	3	2	3	2	0	1	1	0.666666666666667	1	0.666666666666667	0	0.333333333333333	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Senegal::Bignona"	"P2 Africa subregion"	"subregion"	"Senegal"	"Bignona"	"W_Africa"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P2_subregion_within_africa"	"site"	"site::South_Africa::Mpumalanga"	"P2 Africa subregion"	"subregion"	"South_Africa"	"Mpumalanga"	"S_Africa"	TRUE	"ok"	5	5	1	4	0	1	4	0.8	0.2	0	0	0.2	0.8	1	1	0.333333333333333
+"P2_subregion_within_africa"	"site"	"site::Sudan::Singa"	"P2 Africa subregion"	"subregion"	"Sudan"	"Singa"	"E_Africa"	TRUE	"ok"	5	5	4	4	3	1	1	0.8	0.8	0.75	0.6	0.2	0.2	1	1	1
+"P2_subregion_within_africa"	"site"	"site::Uganda::Entebbe"	"P2 Africa subregion"	"subregion"	"Uganda"	"Entebbe"	"E_Africa"	TRUE	"ok"	5	5	1	4	1	0	4	0.8	0.2	1	0.2	0	0.8	1	1	0.5
+"P3_subregion_within_asia"	"country"	"country::Bangladesh"	"P3 Asia subregion"	"subregion"	"Bangladesh"	"Khagrachari"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"country"	"country::China"	"P3 Asia subregion"	"subregion"	"China"	"Fujian;Guangdong;Guangxi;Guizhou;Hainan;Henan;Hubei;Hunan;Jiangsu;Jiangxi;Sichuan;Taiwan;Yunnan;Zhejiang"	"E_Asia"	FALSE	"true_class_absent_or_undersupported_after_holdout"	80	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"P3_subregion_within_asia"	"country"	"country::India"	"P3 Asia subregion"	"subregion"	"India"	"Assam;Bihar;Punjab;Tamil_Nadu;Telangana"	"S_Asia"	TRUE	"ok"	25	25	23	25	23	0	2	1	0.92	1	0.92	0	0.08	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Indonesia"	"P3 Asia subregion"	"subregion"	"Indonesia"	"Java"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Laos"	"P3 Asia subregion"	"subregion"	"Laos"	"Vientiane"	"SE_Asia"	TRUE	"ok"	5	5	2	0	0	2	3	0	0.4	0	0	0.4	0.6	1	1	0.833333333333333
+"P3_subregion_within_asia"	"country"	"country::Malaysia"	"P3 Asia subregion"	"subregion"	"Malaysia"	"Kuala_Lumpur"	"SE_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Mauritius"	"P3 Asia subregion"	"subregion"	"Mauritius"	"LaSource"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Myanmar"	"P3 Asia subregion"	"subregion"	"Myanmar"	"Yangon"	"SE_Asia"	TRUE	"ok"	5	5	3	3	3	0	2	0.6	0.6	1	0.6	0	0.4	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Nepal"	"P3 Asia subregion"	"subregion"	"Nepal"	"Sindhuli"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Pakistan"	"P3 Asia subregion"	"subregion"	"Pakistan"	"Murree"	"S_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Philippines"	"P3 Asia subregion"	"subregion"	"Philippines"	"Davao;Dumaguete"	"SE_Asia"	TRUE	"ok"	10	10	9	10	9	0	1	1	0.9	1	0.9	0	0.1	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Reunion"	"P3 Asia subregion"	"subregion"	"Reunion"	"BasTerHaut;Palmistes;Salazie;StAndré;StBenoit;SteRose;StPaul;StPierre"	"SE_Asia"	TRUE	"ok"	40	40	26	40	26	0	14	1	0.65	1	0.65	0	0.35	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Sri_Lanka"	"P3 Asia subregion"	"subregion"	"Sri_Lanka"	"Anuradhapura"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"country"	"country::Thailand"	"P3 Asia subregion"	"subregion"	"Thailand"	"Bangkok;Phuket"	"SE_Asia"	TRUE	"ok"	10	10	5	0	0	5	5	0	0.5	0	0	0.5	0.5	1	1	0.916666666666667
+"P3_subregion_within_asia"	"country"	"country::Viet_Nam"	"P3 Asia subregion"	"subregion"	"Viet_Nam"	NA	"SE_Asia"	TRUE	"ok"	5	5	1	0	0	1	4	0	0.2	0	0	0.2	0.8	1	1	0.666666666666667
+"P3_subregion_within_asia"	"site"	"site::Bangladesh::Khagrachari"	"P3 Asia subregion"	"subregion"	"Bangladesh"	"Khagrachari"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Fujian"	"P3 Asia subregion"	"subregion"	"China"	"Fujian"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Guangdong"	"P3 Asia subregion"	"subregion"	"China"	"Guangdong"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Guangxi"	"P3 Asia subregion"	"subregion"	"China"	"Guangxi"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Guizhou"	"P3 Asia subregion"	"subregion"	"China"	"Guizhou"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Hainan"	"P3 Asia subregion"	"subregion"	"China"	"Hainan"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Henan"	"P3 Asia subregion"	"subregion"	"China"	"Henan"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Hubei"	"P3 Asia subregion"	"subregion"	"China"	"Hubei"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Hunan"	"P3 Asia subregion"	"subregion"	"China"	"Hunan"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Jiangsu"	"P3 Asia subregion"	"subregion"	"China"	"Jiangsu"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Jiangxi"	"P3 Asia subregion"	"subregion"	"China"	"Jiangxi"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Sichuan"	"P3 Asia subregion"	"subregion"	"China"	"Sichuan"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Taiwan"	"P3 Asia subregion"	"subregion"	"China"	"Taiwan"	"E_Asia"	TRUE	"ok"	10	10	10	10	10	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::China::Yunnan"	"P3 Asia subregion"	"subregion"	"China"	"Yunnan"	"E_Asia"	TRUE	"ok"	10	10	3	10	3	0	7	1	0.3	1	0.3	0	0.7	1	1	0.583333333333333
+"P3_subregion_within_asia"	"site"	"site::China::Zhejiang"	"P3 Asia subregion"	"subregion"	"China"	"Zhejiang"	"E_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::India::Assam"	"P3 Asia subregion"	"subregion"	"India"	"Assam"	"S_Asia"	TRUE	"ok"	5	5	2	5	2	0	3	1	0.4	1	0.4	0	0.6	1	1	0.833333333333333
+"P3_subregion_within_asia"	"site"	"site::India::Bihar"	"P3 Asia subregion"	"subregion"	"India"	"Bihar"	"S_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::India::Punjab"	"P3 Asia subregion"	"subregion"	"India"	"Punjab"	"S_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::India::Tamil_Nadu"	"P3 Asia subregion"	"subregion"	"India"	"Tamil_Nadu"	"S_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::India::Telangana"	"P3 Asia subregion"	"subregion"	"India"	"Telangana"	"S_Asia"	TRUE	"ok"	5	5	2	5	2	0	3	1	0.4	1	0.4	0	0.6	1	1	0.833333333333333
+"P3_subregion_within_asia"	"site"	"site::Indonesia::Java"	"P3 Asia subregion"	"subregion"	"Indonesia"	"Java"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Laos::Vientiane"	"P3 Asia subregion"	"subregion"	"Laos"	"Vientiane"	"SE_Asia"	TRUE	"ok"	5	5	2	0	0	2	3	0	0.4	0	0	0.4	0.6	1	1	0.833333333333333
+"P3_subregion_within_asia"	"site"	"site::Malaysia::Kuala_Lumpur"	"P3 Asia subregion"	"subregion"	"Malaysia"	"Kuala_Lumpur"	"SE_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Mauritius::LaSource"	"P3 Asia subregion"	"subregion"	"Mauritius"	"LaSource"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Myanmar::Yangon"	"P3 Asia subregion"	"subregion"	"Myanmar"	"Yangon"	"SE_Asia"	TRUE	"ok"	5	5	3	3	3	0	2	0.6	0.6	1	0.6	0	0.4	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Nepal::Sindhuli"	"P3 Asia subregion"	"subregion"	"Nepal"	"Sindhuli"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Pakistan::Murree"	"P3 Asia subregion"	"subregion"	"Pakistan"	"Murree"	"S_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Philippines::Davao"	"P3 Asia subregion"	"subregion"	"Philippines"	"Davao"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Philippines::Dumaguete"	"P3 Asia subregion"	"subregion"	"Philippines"	"Dumaguete"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::BasTerHaut"	"P3 Asia subregion"	"subregion"	"Reunion"	"BasTerHaut"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::Palmistes"	"P3 Asia subregion"	"subregion"	"Reunion"	"Palmistes"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::Salazie"	"P3 Asia subregion"	"subregion"	"Reunion"	"Salazie"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::StAndré"	"P3 Asia subregion"	"subregion"	"Reunion"	"StAndré"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::StBenoit"	"P3 Asia subregion"	"subregion"	"Reunion"	"StBenoit"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::StPaul"	"P3 Asia subregion"	"subregion"	"Reunion"	"StPaul"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::StPierre"	"P3 Asia subregion"	"subregion"	"Reunion"	"StPierre"	"SE_Asia"	TRUE	"ok"	5	5	3	5	3	0	2	1	0.6	1	0.6	0	0.4	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Reunion::SteRose"	"P3 Asia subregion"	"subregion"	"Reunion"	"SteRose"	"SE_Asia"	TRUE	"ok"	5	5	5	5	5	0	0	1	1	1	1	0	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Sri_Lanka::Anuradhapura"	"P3 Asia subregion"	"subregion"	"Sri_Lanka"	"Anuradhapura"	"S_Asia"	TRUE	"ok"	5	5	4	5	4	0	1	1	0.8	1	0.8	0	0.2	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Thailand::Bangkok"	"P3 Asia subregion"	"subregion"	"Thailand"	"Bangkok"	"SE_Asia"	TRUE	"ok"	5	5	5	0	0	5	0	0	1	0	0	1	0	1	1	1
+"P3_subregion_within_asia"	"site"	"site::Thailand::Phuket"	"P3 Asia subregion"	"subregion"	"Thailand"	"Phuket"	"SE_Asia"	TRUE	"ok"	5	5	2	3	2	0	3	0.6	0.4	1	0.4	0	0.6	1	1	0.666666666666667
+"P3_subregion_within_asia"	"site"	"site::Viet_Nam::[site_missing]"	"P3 Asia subregion"	"subregion"	"Viet_Nam"	NA	"SE_Asia"	TRUE	"ok"	5	5	1	0	0	1	4	0	0.2	0	0	0.2	0.8	1	1	0.666666666666667

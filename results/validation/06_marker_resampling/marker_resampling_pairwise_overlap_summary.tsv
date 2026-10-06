@@ -1,0 +1,25 @@
+panel_id	panel_label	K	pair_relation	n_set_pairs	overlap_fraction_mean	overlap_fraction_q025	overlap_fraction_median	overlap_fraction_q975	jaccard_mean	jaccard_q025	jaccard_median	jaccard_q975
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	different_partition	420	0.5	0.46	0.5	0.54	0.333609214124787	0.298701298701299	0.333333333333333	0.36986301369863
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	different_partition	420	0.5	0.47	0.5	0.53	0.33347428488739	0.30718954248366	0.333333333333333	0.360544217687075
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	different_partition	420	0.5	0.4765	0.5	0.5235	0.333422613355518	0.312766655726945	0.333333481481498	0.354554690145615
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	different_partition	420	0.5	0.485	0.5	0.515	0.333364949362859	0.32013201320132	0.333333333333333	0.346801346801347
+P2_subregion_within_africa	P2 Africa subregion	500	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P2_subregion_within_africa	P2 Africa subregion	500	different_partition	420	0.5	0.454	0.5	0.546	0.333677453027661	0.29366106080207	0.333335703707918	0.375515818431912
+P2_subregion_within_africa	P2 Africa subregion	1000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P2_subregion_within_africa	P2 Africa subregion	1000	different_partition	420	0.5	0.464	0.5	0.536	0.33348610998108	0.302083333333333	0.333333333333333	0.366120218579235
+P2_subregion_within_africa	P2 Africa subregion	2000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P2_subregion_within_africa	P2 Africa subregion	2000	different_partition	420	0.5	0.479	0.5	0.521	0.333397740439993	0.314924391847469	0.333333333333333	0.352265043948614
+P2_subregion_within_africa	P2 Africa subregion	5000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P2_subregion_within_africa	P2 Africa subregion	5000	different_partition	420	0.5	0.4854	0.5	0.5146	0.33336173612464	0.320480654958405	0.333333333333333	0.346438669718594
+P3_subregion_within_asia	P3 Asia subregion	500	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P3_subregion_within_asia	P3 Asia subregion	500	different_partition	420	0.5	0.462	0.5	0.538	0.333680572246719	0.300390117035111	0.333333333333333	0.367989056087551
+P3_subregion_within_asia	P3 Asia subregion	1000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P3_subregion_within_asia	P3 Asia subregion	1000	different_partition	420	0.5	0.468	0.5	0.532	0.333468358704205	0.305483028720627	0.333333333333333	0.362397820163488
+P3_subregion_within_asia	P3 Asia subregion	2000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P3_subregion_within_asia	P3 Asia subregion	2000	different_partition	420	0.5	0.481	0.5	0.519	0.333392337189437	0.316655694535879	0.333333333333333	0.350438892640108
+P3_subregion_within_asia	P3 Asia subregion	5000	complementary_same_partition	15	0	0	0	0	0	0	0	0
+P3_subregion_within_asia	P3 Asia subregion	5000	different_partition	420	0.5	0.487	0.5	0.513	0.333362372092753	0.321877065432915	0.333333357037037	0.344989912575656

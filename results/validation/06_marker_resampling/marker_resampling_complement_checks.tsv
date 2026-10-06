@@ -1,0 +1,181 @@
+panel_id	panel_label	K	partition	seed	set_A_n	set_B_n	intersection_n	union_n	expected_union_n	passed
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	1	21271002	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	2	21271003	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	3	21271004	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	4	21271005	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	5	21271006	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	6	21271007	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	7	21271008	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	8	21271009	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	9	21271010	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	10	21271011	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	11	21271012	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	12	21271013	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	13	21271014	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	14	21271015	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	15	21271016	500	500	0	1000	1000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	1	21281002	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	2	21281003	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	3	21281004	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	4	21281005	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	5	21281006	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	6	21281007	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	7	21281008	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	8	21281009	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	9	21281010	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	10	21281011	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	11	21281012	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	12	21281013	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	13	21281014	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	14	21281015	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	15	21281016	1000	1000	0	2000	2000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	1	21291002	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	2	21291003	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	3	21291004	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	4	21291005	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	5	21291006	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	6	21291007	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	7	21291008	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	8	21291009	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	9	21291010	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	10	21291011	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	11	21291012	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	12	21291013	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	13	21291014	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	14	21291015	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	15	21291016	2000	2000	0	4000	4000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	1	21301002	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	2	21301003	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	3	21301004	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	4	21301005	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	5	21301006	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	6	21301007	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	7	21301008	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	8	21301009	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	9	21301010	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	10	21301011	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	11	21301012	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	12	21301013	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	13	21301014	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	14	21301015	5000	5000	0	10000	10000	TRUE
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	15	21301016	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	1	22271002	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	2	22271003	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	3	22271004	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	4	22271005	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	5	22271006	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	6	22271007	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	7	22271008	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	8	22271009	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	9	22271010	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	10	22271011	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	11	22271012	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	12	22271013	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	13	22271014	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	14	22271015	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	500	15	22271016	500	500	0	1000	1000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	1	22281002	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	2	22281003	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	3	22281004	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	4	22281005	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	5	22281006	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	6	22281007	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	7	22281008	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	8	22281009	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	9	22281010	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	10	22281011	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	11	22281012	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	12	22281013	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	13	22281014	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	14	22281015	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	1000	15	22281016	1000	1000	0	2000	2000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	1	22291002	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	2	22291003	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	3	22291004	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	4	22291005	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	5	22291006	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	6	22291007	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	7	22291008	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	8	22291009	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	9	22291010	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	10	22291011	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	11	22291012	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	12	22291013	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	13	22291014	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	14	22291015	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	2000	15	22291016	2000	2000	0	4000	4000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	1	22301002	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	2	22301003	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	3	22301004	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	4	22301005	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	5	22301006	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	6	22301007	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	7	22301008	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	8	22301009	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	9	22301010	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	10	22301011	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	11	22301012	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	12	22301013	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	13	22301014	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	14	22301015	5000	5000	0	10000	10000	TRUE
+P2_subregion_within_africa	P2 Africa subregion	5000	15	22301016	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	1	23271002	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	2	23271003	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	3	23271004	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	4	23271005	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	5	23271006	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	6	23271007	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	7	23271008	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	8	23271009	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	9	23271010	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	10	23271011	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	11	23271012	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	12	23271013	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	13	23271014	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	14	23271015	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	500	15	23271016	500	500	0	1000	1000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	1	23281002	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	2	23281003	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	3	23281004	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	4	23281005	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	5	23281006	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	6	23281007	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	7	23281008	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	8	23281009	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	9	23281010	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	10	23281011	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	11	23281012	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	12	23281013	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	13	23281014	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	14	23281015	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	1000	15	23281016	1000	1000	0	2000	2000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	1	23291002	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	2	23291003	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	3	23291004	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	4	23291005	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	5	23291006	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	6	23291007	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	7	23291008	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	8	23291009	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	9	23291010	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	10	23291011	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	11	23291012	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	12	23291013	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	13	23291014	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	14	23291015	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	2000	15	23291016	2000	2000	0	4000	4000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	1	23301002	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	2	23301003	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	3	23301004	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	4	23301005	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	5	23301006	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	6	23301007	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	7	23301008	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	8	23301009	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	9	23301010	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	10	23301011	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	11	23301012	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	12	23301013	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	13	23301014	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	14	23301015	5000	5000	0	10000	10000	TRUE
+P3_subregion_within_asia	P3 Asia subregion	5000	15	23301016	5000	5000	0	10000	10000	TRUE

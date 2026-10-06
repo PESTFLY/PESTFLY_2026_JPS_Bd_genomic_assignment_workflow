@@ -1,0 +1,361 @@
+panel_id	panel_label	K	set_id	call_agreement_with_fixed_topK	confidence_agreement_with_fixed_topK
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P1_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P1_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P2_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P2_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P3_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P3_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P4_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P4_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P5_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P5_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P6_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P6_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P7_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P7_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P8_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P8_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P9_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P9_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P10_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P10_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P11_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P11_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P12_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P12_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P13_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P13_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P14_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P14_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P15_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	K500_P15_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P1_A	0.99375	0.996875
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P1_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P2_A	0.99375	0.996875
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P2_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P3_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P3_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P4_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P4_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P5_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P5_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P6_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P6_B	0.99375	0.996875
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P7_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P7_B	0.99375	0.996875
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P8_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P8_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P9_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P9_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P10_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P10_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P11_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P11_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P12_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P12_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P13_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P13_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P14_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P14_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P15_A	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	K1000_P15_B	0.99375	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P1_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P1_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P2_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P2_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P3_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P3_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P4_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P4_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P5_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P5_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P6_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P6_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P7_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P7_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P8_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P8_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P9_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P9_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P10_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P10_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P11_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P11_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P12_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P12_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P13_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P13_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P14_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P14_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P15_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	K2000_P15_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P1_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P1_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P2_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P2_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P3_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P3_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P4_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P4_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P5_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P5_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P6_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P6_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P7_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P7_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P8_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P8_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P9_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P9_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P10_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P10_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P11_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P11_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P12_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P12_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P13_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P13_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P14_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P14_B	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P15_A	1	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	K5000_P15_B	1	1
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P1_A	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P1_B	0.933333333333333	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P2_A	0.961904761904762	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P2_B	0.990476190476191	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P3_A	0.952380952380952	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P3_B	0.952380952380952	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P4_A	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P4_B	0.971428571428571	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P5_A	0.952380952380952	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P5_B	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P6_A	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P6_B	0.952380952380952	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P7_A	0.980952380952381	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P7_B	0.942857142857143	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P8_A	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P8_B	0.952380952380952	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P9_A	0.933333333333333	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P9_B	0.961904761904762	0.914285714285714
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P10_A	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P10_B	0.961904761904762	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P11_A	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P11_B	0.971428571428571	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P12_A	0.952380952380952	0.933333333333333
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P12_B	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P13_A	0.971428571428571	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P13_B	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P14_A	0.961904761904762	0.942857142857143
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P14_B	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P15_A	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	500	K500_P15_B	0.961904761904762	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P1_A	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P1_B	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P2_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P2_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P3_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P3_B	0.933333333333333	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P4_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P4_B	0.971428571428571	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P5_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P5_B	0.961904761904762	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P6_A	0.980952380952381	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P6_B	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P7_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P7_B	0.942857142857143	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P8_A	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P8_B	0.971428571428571	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P9_A	0.980952380952381	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P9_B	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P10_A	0.933333333333333	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P10_B	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P11_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P11_B	0.942857142857143	0.952380952380952
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P12_A	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P12_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P13_A	0.980952380952381	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P13_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P14_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P14_B	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P15_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	1000	K1000_P15_B	0.971428571428571	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P1_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P1_B	0.942857142857143	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P2_A	0.971428571428571	1
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P2_B	0.961904761904762	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P3_A	0.971428571428571	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P3_B	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P4_A	0.971428571428571	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P4_B	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P5_A	0.952380952380952	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P5_B	0.971428571428571	1
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P6_A	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P6_B	0.971428571428571	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P7_A	0.971428571428571	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P7_B	0.961904761904762	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P8_A	0.980952380952381	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P8_B	0.952380952380952	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P9_A	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P9_B	0.961904761904762	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P10_A	0.952380952380952	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P10_B	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P11_A	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P11_B	0.961904761904762	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P12_A	0.990476190476191	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P12_B	0.952380952380952	0.961904761904762
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P13_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P13_B	0.942857142857143	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P14_A	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P14_B	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P15_A	0.952380952380952	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	2000	K2000_P15_B	0.971428571428571	1
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P1_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P1_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P2_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P2_B	0.971428571428571	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P3_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P3_B	0.971428571428571	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P4_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P4_B	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P5_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P5_B	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P6_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P6_B	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P7_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P7_B	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P8_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P8_B	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P9_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P9_B	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P10_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P10_B	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P11_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P11_B	0.980952380952381	0.990476190476191
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P12_A	0.980952380952381	0.971428571428571
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P12_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P13_A	0.990476190476191	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P13_B	0.961904761904762	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P14_A	0.971428571428571	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P14_B	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P15_A	0.980952380952381	0.980952380952381
+P2_subregion_within_africa	P2 Africa subregion	5000	K5000_P15_B	0.980952380952381	0.980952380952381
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P1_A	0.976744186046512	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P1_B	0.976744186046512	0.981395348837209
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P2_A	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P2_B	0.962790697674419	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P3_A	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P3_B	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P4_A	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P4_B	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P5_A	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P5_B	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P6_A	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P6_B	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P7_A	0.981395348837209	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P7_B	0.962790697674419	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P8_A	0.972093023255814	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P8_B	0.972093023255814	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P9_A	0.962790697674419	0.981395348837209
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P9_B	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P10_A	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P10_B	0.958139534883721	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P11_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P11_B	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P12_A	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P12_B	0.962790697674419	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P13_A	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P13_B	0.962790697674419	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P14_A	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P14_B	0.981395348837209	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P15_A	0.972093023255814	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	500	K500_P15_B	0.962790697674419	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P1_A	0.972093023255814	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P1_B	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P2_A	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P2_B	0.981395348837209	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P3_A	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P3_B	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P4_A	0.981395348837209	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P4_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P5_A	0.981395348837209	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P5_B	0.962790697674419	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P6_A	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P6_B	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P7_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P7_B	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P8_A	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P8_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P9_A	0.976744186046512	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P9_B	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P10_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P10_B	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P11_A	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P11_B	0.972093023255814	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P12_A	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P12_B	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P13_A	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P13_B	0.972093023255814	1
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P14_A	0.962790697674419	0.981395348837209
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P14_B	0.981395348837209	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P15_A	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	1000	K1000_P15_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P1_A	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P1_B	0.981395348837209	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P2_A	0.967441860465116	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P2_B	0.976744186046512	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P3_A	0.976744186046512	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P3_B	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P4_A	0.972093023255814	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P4_B	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P5_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P5_B	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P6_A	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P6_B	0.962790697674419	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P7_A	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P7_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P8_A	0.972093023255814	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P8_B	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P9_A	0.972093023255814	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P9_B	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P10_A	0.972093023255814	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P10_B	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P11_A	0.976744186046512	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P11_B	0.972093023255814	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P12_A	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P12_B	0.976744186046512	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P13_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P13_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P14_A	0.972093023255814	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P14_B	0.967441860465116	1
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P15_A	0.967441860465116	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	2000	K2000_P15_B	0.967441860465116	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P1_A	0.995348837209302	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P1_B	0.976744186046512	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P2_A	1	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P2_B	0.981395348837209	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P3_A	0.981395348837209	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P3_B	0.986046511627907	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P4_A	0.986046511627907	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P4_B	0.986046511627907	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P5_A	0.990697674418605	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P5_B	0.986046511627907	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P6_A	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P6_B	0.986046511627907	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P7_A	0.986046511627907	1
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P7_B	1	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P8_A	0.986046511627907	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P8_B	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P9_A	0.972093023255814	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P9_B	0.986046511627907	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P10_A	0.986046511627907	1
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P10_B	0.986046511627907	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P11_A	0.990697674418605	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P11_B	1	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P12_A	0.981395348837209	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P12_B	1	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P13_A	0.986046511627907	0.981395348837209
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P13_B	0.976744186046512	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P14_A	0.995348837209302	0.990697674418605
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P14_B	0.990697674418605	0.986046511627907
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P15_A	0.981395348837209	0.995348837209302
+P3_subregion_within_asia	P3 Asia subregion	5000	K5000_P15_B	0.990697674418605	0.990697674418605
