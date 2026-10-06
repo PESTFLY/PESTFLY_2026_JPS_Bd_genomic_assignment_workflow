@@ -31,11 +31,11 @@ The native R implementation checks, six criterion reporting checks and Step 07 f
 
 ## Citation metadata
 
-`CITATION.cff` on `main` records version `v1.03`, publication date `2026-10-06`, the release URL and workflow DOI [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The existing author list is retained. The final published manuscript citation can be recorded when available.
+`CITATION.cff` on `main` records version `v1.03`, publication date `2026-10-06`, the release URL and workflow DOI [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). The current software authors are Massimiliano Virgilio and Lore Esselens. Manuscript authorship is maintained separately. The final published manuscript citation can be recorded when available.
 
 ## Zenodo records
 
-The author supplied a [published Zenodo record](https://zenodo.org/records/23187057) showing version `v1.03`, publication date `6 October 2026`, the matching workflow title, creators and release description, followed by the DOI link [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). This author supplied evidence confirms the workflow citation. Automated public page and DOI registry retrievals remained unavailable.
+The author supplied a [published Zenodo record](https://zenodo.org/records/23187057) showing version `v1.03`, publication date `6 October 2026`, the matching workflow title and release description, followed by the DOI link [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057). This author supplied evidence confirms the workflow citation. Automated public page and DOI registry retrievals remained unavailable.
 
 | Record | Identifier | Verification status |
 | :--- | :--- | :--- |
@@ -44,6 +44,14 @@ The author supplied a [published Zenodo record](https://zenodo.org/records/23187
 | Alignment deposit from the manuscript | `10.5281/zenodo.20283931` | Publication metadata remains to be confirmed; alignments are distributed upon request |
 
 For the released workflow, cite the confirmed v1.03 DOI. No all versions DOI or relationship to the earlier workflow identifier has been inferred. Confirm the alignment record's title, creators, publication status and access terms before completing its publication metadata.
+
+## Creator metadata correction
+
+On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The corresponding creator metadata correction on Zenodo remains pending.
+
+A corrected Supplementary File S6 has been prepared with the current software citation and a dated assembly metadata revision. All scripts, statistical outputs, figures and the reader guide retain their original bytes. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81182040 bytes and SHA256 `a2c253e6dd2f7487aa6af5f38c4fd9b11a8aeaa6fa19339188b491289b29a170`. It has not replaced the published v1.03 asset.
+
+The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. An updated release is required to distribute corrected citation files through the GitHub and Zenodo source archives. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
 
 ## Documentation used
 

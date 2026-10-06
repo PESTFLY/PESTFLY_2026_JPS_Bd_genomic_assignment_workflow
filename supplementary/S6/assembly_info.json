@@ -24,5 +24,11 @@
   "native_R_execution_during_assembly": "User supplied R 4.5.1 Windows execution on 2026-10-05; isolated implementation checks, reporting checks and formatter passed. Native exports independently verified.",
   "historical_run_records": "Preserved. Machine paths and early internal labels describe the original runs.",
   "authority_report": "Verified native R exports. The original checker stopped on Step 4 versus Step 04 descriptive labels; original logs and completed independent comparisons are retained in docs/native_R_verification/. Earlier reconstruction retained separately.",
-  "manifest_scope": "All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv"
+  "manifest_scope": "All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv",
+  "metadata_revision_date": "2026-10-06",
+  "metadata_revision": "Corrected software creator metadata. Manuscript authorship is maintained separately.",
+  "software_creators": [
+    "Massimiliano Virgilio",
+    "Lore Esselens"
+  ]
 }
