@@ -1,24 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Reference set audit
+# PESTFLY: Reference set audit
 #
-# Purpose
-# Audit identifiers, metadata, reference composition, ortholog completeness, SNP profile
-# concordance, source collections and published caution flags.
-#
-# Interpretation
-# Caution flags are annotations from the source literature, not proof that a specimen is
-# invalid. The primary benchmark keeps these specimens; sensitivity analysis tests predefined
-# exclusions. Geography and source collection can be confounded.
-#
-# Technical notes
-# Near duplicate screening uses P1 consensus calls, at least 1000 shared calls and concordance
-# at least 0.995. Two references have lower ortholog completeness and twelve carry published
-# caution flags. The audit itself does not change the primary dataset.
+# Check identifiers, metadata, class representation, ortholog completeness, consensus
+# profile similarity and published specimen flags.
+# Annotations identify predefined sensitivity sets; the primary snapshot is retained.
 #
 # Run from the repository root:
 #   Rscript steps/validation/03_reference_set_audit/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -1273,7 +1263,7 @@ write_table_pair(
 )
 
 # =============================================================================
-# P1 genotype completeness and duplicate profile audit
+# P1 consensus call completeness and duplicate profile audit
 # =============================================================================
 
 duplicate_panel_dir <- file.path(

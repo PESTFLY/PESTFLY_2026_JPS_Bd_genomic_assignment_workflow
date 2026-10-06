@@ -1,24 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Alternative marker set resampling
+# PESTFLY: Alternative marker set resampling
 #
-# Purpose
-# For each K, partition the top 2K corrected Hudson ranked markers into complementary rank
-# matched panels of K markers, with thirty alternative panels from fifteen partitions.
-#
-# Interpretation
-# Paired A and B sets have no marker overlap and share a rank distribution. Different partitions
-# can overlap, so the thirty sets are not thirty independent discovery datasets. This tests
-# sensitivity to nonnested marker choice conditional on the existing Hudson ranking.
-#
-# Technical notes
-# Base seed is 20261001. Default K values are 500, 1000, 2000 and 5000. Fixed size panels retain
-# the likelihood, posterior, gap and minimum SNP requirements, but do not apply within panel
-# multi K convergence criteria. Their stability is assessed across alternative marker sets.
+# Partition the top 2K Hudson ranked markers into rank matched A and B sets of K markers,
+# giving thirty panels from fifteen partitions.
+# A/B sets are disjoint within a partition; different partitions may overlap.
 #
 # Run from the repository root:
 #   Rscript steps/validation/06_marker_resampling/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

@@ -1,6 +1,6 @@
 # Metadata and specimen identifiers
 
-The public workbook `data/000_input_data/metadata.xlsx` has one sheet, `Selection`, with 352 rows and 13 columns in the supplied benchmark.
+`data/000_input_data/metadata.xlsx`, sheet `Selection`, contains 352 specimens and 13 columns.
 
 | Original column | Role |
 | :--- | :--- |
@@ -18,10 +18,8 @@ The public workbook `data/000_input_data/metadata.xlsx` has one sheet, `Selectio
 | `macroregion_3` | Analytical macroregion class: Africa, Asia or Other in the benchmark |
 | `subregion` | Conditional analytical subregion class |
 
-Step 01 requires `sample_id`, `is_reference`, `population` and `country`; downstream Step 02 also requires usable `macroregion_3` and `subregion` classifications. Do not silently replace them with geographic continent names. The benchmark Mascarene references use lineage based Asia and Southeast Asia coding, with alternative coding explicitly tested.
+Step 01 requires `sample_id`, `is_reference`, `population` and `country`. Step 02 also needs `macroregion_3` and `subregion`. Retain the supplied analytical classifications when reproducing the benchmark; Mascarene references use Asia and Southeast Asia coding.
 
-Step 01 cleans spaces, standardises column names and harmonises stated Congo and Reunion cases. It records missing labels and classifications rather than inferring all absent metadata. Allowed additional alignment labels are `Bdors` and `Blati`, the reference genome labels outside the specimen table.
+Step 01 standardises column names and spaces, harmonises the stated Congo and Reunion cases, and records label and metadata issues. `Bdors` and `Blati` are allowed reference genome alignment labels outside the specimen table.
 
-Grouped geographic validation uses collection geography and site metadata to define held out units. The class being predicted remains the analytical reference class. Source collection and geography can be confounded; the audit reports representation without asserting that those effects have been removed statistically.
-
-Declared commodity origin for intercepted larvae is separate reporting metadata. Step 07 supports an external table with `sample_id` and `sample_origin_country`, optional `sample_origin_country_source` and `commodity`. Its built in benchmark mapping is retained. Adult trap detections have no declared commodity country by default.
+Grouped validation uses collection country and site to define holdouts while predicting the analytical class. Declared commodity origin is separate metadata: Step 07 accepts `sample_id` and `sample_origin_country`, with optional `sample_origin_country_source` and `commodity`. It includes the benchmark larval mapping; adult trap detections have no declared commodity country by default.

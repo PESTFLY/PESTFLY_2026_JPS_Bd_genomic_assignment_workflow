@@ -1,24 +1,12 @@
 #!/usr/bin/env Rscript
 
 # PESTFLY: Reports for plant health authorities
-#
-# Purpose
-# Integrate previously computed assignment and corroboration tables into an auditable report,
-# without recomputing genetic inference.
-#
-# Interpretation
-# PASS requires all six criteria at the evaluated resolution. If macroregion passes but
-# subregion fails, report macroregion only. A failed macroregion remains unresolved and its
-# subregion is NOT_EVALUATED. RF corroboration and commodity consistency remain separate.
-#
-# Technical notes
-# Read thresholds from the parameter table associated with the saved Step 04 assignments.
-# Stop if criterion eligibility differs from Step 04, rather than silently changing a call.
-# No marker discovery, likelihood calculation or validation model is rerun here.
-#
+# Format saved Step 04 assignments with six criterion outcomes.
+# Read thresholds from the matching parameter record and check saved decisions.
+# RF and commodity comparisons remain separate; no model is refitted.
 # Run from the repository root:
 #   Rscript steps/07_authority_facing_report/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full interpretation: manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

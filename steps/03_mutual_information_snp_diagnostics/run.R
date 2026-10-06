@@ -2,23 +2,13 @@
 
 # PESTFLY: Mutual information diagnostics
 #
-# Purpose
-# Calculate reference only mutual information between the consensus allele and target class, in
-# bits, as a diagnostic comparison with Hudson ranking.
-#
-# Interpretation
-# Mutual information does not select, reorder or replace the Step 02 marker panels and does not
-# enter the Step 04 likelihood. It is a descriptive comparison between two informativeness
-# statistics.
-#
-# Technical notes
-# The script removes unused class levels and includes MI self checks. MI output tables are
-# written next to their Step 02 panels; the global index is written under
-# results/03_mi_diagnostics.
+# Calculate reference based mutual information in bits as a diagnostic comparison with
+# Hudson FST ranking.
+# MI is diagnostic and does not select markers or enter assignment.
 #
 # Run from the repository root:
 #   Rscript steps/03_mutual_information_snp_diagnostics/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -245,7 +235,7 @@ mutual_information_bits <- function(x, y) {
   hy <- entropy_bits(y)
   hyx <- 0
   
-  # Iterate only over observed genotype states.
+  # Iterate over observed consensus allele states.
   # This avoids zero-frequency conditional classes.
   
   for (lv in unique(x)) {

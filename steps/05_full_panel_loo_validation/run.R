@@ -2,23 +2,13 @@
 
 # PESTFLY: Individual fixed panel leave one out validation
 #
-# Purpose
-# Validate reference prediction with each focal specimen excluded from class allele frequency
-# estimation, using the fixed SNP panels selected in Step 02.
-#
-# Interpretation
-# The focal specimen contributed to the initial SNP discovery and ranking. This validates
-# prediction with fixed panels, not a fully nested marker discovery procedure. Use the
-# geographically grouped analysis for a stricter assessment of reference geography.
-#
-# Technical notes
-# The likelihood, query SNP requirements, posterior, gap and multi K stability settings mirror
-# Step 04. Raw top class accuracy and the fraction of reportable calls are different quantities;
-# report both when assessing operational performance.
+# Withhold each reference from allele frequency estimation and predict its class using
+# fixed Step 02 SNP panels.
+# Marker discovery and ranking remain fixed from Step 02.
 #
 # Run from the repository root:
 #   Rscript steps/05_full_panel_loo_validation/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

@@ -2,22 +2,14 @@
 
 # PESTFLY: PHYLIP to FASTA conversion
 #
-# Purpose
-# Convert the supplied OMA/read2tree interleaved PHYLIP alignments to FASTA while checking taxon
-# counts and alignment lengths.
-#
-# Interpretation
-# This is format conversion of existing alignments. It does not process raw reads, estimate
-# orthology or rediscover loci. The .fa suffix of the input files does not identify their
-# format: these inputs are PHYLIP.
-#
-# Technical notes
-# Restoring the separately deposited PHYLIP inputs is required. The generated FASTA alignments
-# are omitted from the public package.
+# Convert existing OMA/read2tree interleaved PHYLIP alignments to FASTA, checking taxon
+# counts and alignment lengths. The input files use the `.fa` suffix but contain PHYLIP
+# data.
+# Input .fa files contain PHYLIP data and are supplied separately.
 #
 # Run from the repository root:
 #   Rscript steps/00_convert_phylip_to_fasta/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

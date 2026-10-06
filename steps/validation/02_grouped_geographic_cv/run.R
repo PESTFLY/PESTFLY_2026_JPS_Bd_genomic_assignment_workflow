@@ -1,26 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Grouped geographic validation
+# PESTFLY: Grouped geographic validation
 #
-# Purpose
-# Withhold all reference specimens from each country or country nested collection site, then
-# evaluate predictions for the held out geographic unit.
-#
-# Interpretation
-# Each evaluable fold filters the retained SNP set, recalculates corrected Hudson scores,
-# reranks markers and estimates allele frequencies using training references only. The retained
-# one SNP per ortholog candidates were discovered beforehand. Alternative sites are not
-# rediscovered from alignments, so this is not fully nested de novo feature discovery.
-#
-# Technical notes
-# A fold is not evaluable if the true class is absent after withholding, or training
-# representation fails required support. The benchmark Central Africa country and site folds and
-# East Asia country fold illustrate missing class coverage. Report evaluable sample counts
-# alongside accuracy.
+# Withhold a country or a collection site within a country and predict the held out
+# reference specimens.
+# Training based filtering and reranking use retained Step 02 candidates.
 #
 # Run from the repository root:
 #   Rscript steps/validation/02_grouped_geographic_cv/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

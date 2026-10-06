@@ -1,25 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Mascarene coding sensitivity
+# PESTFLY: Mascarene coding sensitivity
 #
-# Purpose
-# Compare the baseline Asian lineage coding of 40 Reunion and five Mauritius references with
-# geographic Africa and East Africa coding, and with their exclusion from candidate classes as
-# Other.
-#
-# Interpretation
-# This tests the effect of analytical class coding. Baseline Asia and Southeast Asia labels
-# describe the lineage interpretation used by the benchmark, rather than the islands physical
-# geography.
-#
-# Technical notes
-# Scenario runs repeat Steps 02, 04 and 05 in isolated directories and compare resulting
-# assignments and fixed panel validation. FASTA alignments are required for scenario panel
-# construction. Preexisting validated scenario outputs may be reused; consult the run record.
+# Compare baseline Asia and Southeast Asia coding of 40 Reunion and five Mauritius
+# references with Africa and East Africa coding and with Other coding.
+# Scenarios repeat Steps 02, 04 and 05 and require FASTA inputs.
 #
 # Run from the repository root:
 #   Rscript steps/validation/04_mascarene_coding_sensitivity/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

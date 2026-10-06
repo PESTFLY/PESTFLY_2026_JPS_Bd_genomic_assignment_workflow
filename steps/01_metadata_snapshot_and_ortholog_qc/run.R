@@ -2,25 +2,13 @@
 
 # PESTFLY: Metadata snapshot and ortholog QC
 #
-# Purpose
-# Harmonise specimen identifiers and analytical class metadata, verify alignment labels and
-# retain orthologs that satisfy the documented completeness and ambiguity filters.
-#
-# Interpretation
-# Analytical class labels can represent source lineage affinity rather than physical collection
-# geography. The baseline retains 330 references and 22 queries; the ten Other references are
-# not trained as Africa or Asia. Bdors and Blati are allowed extra alignment labels, not
-# additional metadata specimens.
-#
-# Technical notes
-# QC defaults are minimum length 300 bp; sample nonmissing fraction 0.50 for population
-# occupancy; population occupancy 0.70 in at least 0.80 of populations; mean ambiguity at most
-# 0.05. Congo and Reunion harmonisation is explicit in the script. Preserve the supplied
-# benchmark classifications when reproducing the paper.
+# Harmonise specimen identifiers and analytical classes, check alignment labels and retain
+# orthologs meeting QC thresholds.
+# Use the supplied analytical class coding for benchmark reproduction.
 #
 # Run from the repository root:
 #   Rscript steps/01_metadata_snapshot_and_ortholog_qc/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

@@ -1,6 +1,6 @@
 # Supplementary validation and sensitivity analyses
 
-These analyses supply the material described in Supplementary File S6. Public names describe analytical purpose; original numerical outputs and binary records are retained.
+The seven analyses form Supplementary File S6. Each module guide lists inputs, outputs, commands and defaults; the manuscript describes the full methods.
 
 | Analysis | Script directory | Result directory | Main prerequisites |
 | :--- | :--- | :--- | :--- |
@@ -12,16 +12,14 @@ These analyses supply the material described in Supplementary File S6. Public na
 | 06 Alternative marker set resampling | `06_marker_resampling/` | `results/validation/06_marker_resampling/` | QC, Step 02 panels and Step 04 assignments |
 | 07 Reference exclusion sensitivity | `07_reference_exclusion_sensitivity/` | `results/validation/07_exclusion/` | QC, regenerated FASTA and baseline Steps 02, 04 and 05 |
 
-Run each `run.R` from the repository root, for example:
+Run one module from the repository root, for example:
 
 ```bash
 Rscript steps/validation/02_grouped_geographic_cv/run.R
 ```
 
-The separate `run_validation_pipeline.R` runner invokes all seven with their defaults. It requires every prerequisite, including FASTA for analyses 04 and 07, and does not run the core workflow first. Use the archived outputs for inspection when alignments are unavailable.
+`Rscript run_validation_pipeline.R` runs all seven with defaults. It requires their listed resources, including FASTA for 04 and 07, and does not run the core pipeline first. Use a separate copy for recomputation.
 
-Some analyses contain `return_bundle/` exports of selected summaries. Complete outputs are also retained in the parent directory or `scenarios/`. S6 omits only byte identical export copies with retained counterparts in the same analysis; its duplicate_exports.tsv maps every omission. The full repository retains those copies.
+Full results are in each analysis directory and its `scenarios/` folders; `return_bundle/` contains selected exports. S6 omits only identical export copies mapped in `duplicate_exports.tsv`; the repository retains them.
 
-Analysis 07 checks long paths on Windows. Use a short repository location. Its `--out_dir` option also accepts a shorter directory such as `results/v07` when the default path is too long.
-
-Each analysis directory now contains a README with its purpose, scope, complete CLI defaults, inputs and interpretation. See docs/CONCEPTS.md for the distinction between fixed panel validation, training only reranking and complete marker discovery, and docs/S6_SOURCE_MAP.md for the assembled supplementary structure.
+Use short Windows paths for nested scenarios. Analysis 07 accepts a shorter `--out_dir`, such as `results/v07`. See [validation scope](../../docs/CONCEPTS.md), [installation](../../docs/INSTALL.md) and [S6 source map](../../docs/S6_SOURCE_MAP.md).

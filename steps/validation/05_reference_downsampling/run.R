@@ -1,26 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Balanced reference downsampling
+# PESTFLY: Balanced reference downsampling
 #
-# Purpose
-# Repeat balanced sampling of class references at multiple training sizes, using independently
-# held out reference test sets and thirty replicates per design.
-#
-# Interpretation
-# Training only filtering, Hudson ranking and allele frequency estimation are repeated within
-# the retained candidate SNP set. The analysis does not rediscover alternative ortholog sites.
-# Raw accuracy and uncertainty rate should be read together; high accuracy among calls does not
-# imply that all specimens were reportable.
-#
-# Technical notes
-# Base seed is 20260930. The seed rule adds panel index times 1000000, training size index times
-# 10000 and replicate. Default requested sizes are 3, 5, 10, 20, 40, 80 and 100 references per
-# class, plus each panel maximum evaluable balanced size. Class size constraints limit the
-# actual designs, recorded in downsampling_design.tsv.
+# Repeat balanced reference sampling at different training sizes, with held out test
+# specimens and thirty replicates per design.
+# Training references supply filtering and reranking within retained candidates.
 #
 # Run from the repository root:
 #   Rscript steps/validation/05_reference_downsampling/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

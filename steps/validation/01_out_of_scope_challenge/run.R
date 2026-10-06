@@ -1,24 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Out of scope geographic challenge
+# PESTFLY: Geographic out of scope challenge
 #
-# Purpose
-# Treat the five Hawaiian and five Papua New Guinean reference specimens labelled Other as
-# unknown queries against the fixed Africa and Asia candidate classes.
-#
-# Interpretation
-# This is a closed set challenge. High Asian affinity for an unrepresented collection population
-# is evidence that support criteria do not reject an unrepresented source, rather than
-# successful validation of true geographic origin.
-#
-# Technical notes
-# Uses existing fixed SNP panels and the Step 04 model. The challenge script can reuse existing
-# validated assignment tables; its run record identifies that execution mode. It records the
-# original Excel writer limitation when a conditional branch is empty.
+# Treat five Hawaiian and five Papua New Guinean Other references as unknown queries
+# against Africa and Asia classes.
+# Support compares represented classes; it cannot detect an absent source.
 #
 # Run from the repository root:
 #   Rscript steps/validation/01_out_of_scope_challenge/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

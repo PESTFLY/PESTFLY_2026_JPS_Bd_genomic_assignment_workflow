@@ -1,13 +1,9 @@
-# Alignment data available upon request
+# Alignment access
 
-The PHYLIP ortholog alignment database used by this workflow is distributed upon request. It is excluded from the public repository and Supplementary File S6. Generated FASTA alignments are also excluded.
+PHYLIP ortholog alignments are available upon request from Massimiliano Virgilio at <massimiliano.virgilio@africamuseum.be>. Specify the PESTFLY *Bactrocera dorsalis* genomic assignment workflow and confirm which processed inputs are needed.
 
-Request the alignment data from Massimiliano Virgilio at <massimiliano.virgilio@africamuseum.be>. State that the request concerns the PESTFLY *Bactrocera dorsalis* genomic assignment workflow.
+Place supplied PHYLIP files in `data/000_input_data/phy/`. Step 00 generates FASTA in `results/00_fasta/`. These inputs are needed for core Steps 00 to 02 and scenario panel reconstruction in supplementary analyses 04 and 07. See [installation](docs/INSTALL.md) for reproduction from archived SNP resources.
 
-After obtaining the PHYLIP inputs, place them in `data/000_input_data/phy/`. Step 00 creates FASTA files in `results/00_fasta/`. Full reproduction of core Steps 00 to 02 and scenario panel rebuilding for supplementary analyses 04 and 07 requires these inputs. Public archived results and SNP resources remain available for inspection and the panel based reproduction routes described in [docs/INSTALL.md](docs/INSTALL.md).
+Associated raw data are deposited at [10.5281/zenodo.20340447](https://doi.org/10.5281/zenodo.20340447). Record metadata are public; file access is restricted. The deposit and requested processed alignment inputs are documented separately in [publication records](docs/GITHUB_PUBLICATION.md).
 
-The associated raw data are deposited in [Zenodo record 10.5281/zenodo.20340447](https://doi.org/10.5281/zenodo.20340447), titled `PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22`. Zenodo identifies it as a restricted dataset, published on 22 May 2026, version `v1`, with Massimiliano Virgilio as creator. Its record metadata are public, while its files require authorised access. Citing or linking this record does not grant access to its files.
-
-The restricted files have not been inspected during publication packaging. Confirm which files can be supplied as processed PHYLIP inputs when requesting access. The earlier manuscript alignment identifier, `10.5281/zenodo.20283931`, is retained as provenance in [publication records](docs/GITHUB_PUBLICATION.md); its relationship to the confirmed raw data record remains unconfirmed.
-
-The MIT and CC BY 4.0 notices for the public package do not cover the separately distributed alignments. Any applicable alignment supply terms must accompany those files.
+PHYLIP and generated FASTA files are excluded from the public repository and S6. Public MIT and CC BY 4.0 licences do not cover these separately supplied alignments; applicable terms accompany them.

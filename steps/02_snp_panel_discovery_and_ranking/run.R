@@ -1,27 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY: SNP panel discovery and Hudson ranking
+# PESTFLY: SNP discovery and Hudson FST ranking
 #
-# Purpose
-# Discover biallelic consensus SNPs among eligible references, select one SNP per retained
-# ortholog for each analytical panel and rank those SNPs using corrected Hudson FST scores.
-#
-# Interpretation
-# Reference and alternate consensus nucleotides are encoded 0 and 1. Ambiguous and IUPAC states
-# are missing; these are not diploid genotype dosage calls. P1 compares Africa with Asia; P2 and
-# P3 rank by the maximum pairwise subregion Hudson score. Query samples do not select or order
-# markers.
-#
-# Technical notes
-# Defaults include reference missingness at most 0.20, minor allele count at least 2 and at
-# least three references per class. The highest scoring SNP per ortholog is retained. The
-# estimator uses nonmissing consensus call counts, returns missing for insufficient counts or
-# invalid denominators, and retains finite negative estimates. Scores rank assignment markers;
-# they are not genome wide demographic differentiation estimates.
+# Discover biallelic reference SNPs, retain the highest scoring SNP per ortholog and rank
+# each panel by Hudson FST.
+# Calls are binary consensus alleles; ambiguous states are missing.
 #
 # Run from the repository root:
 #   Rscript steps/02_snp_panel_discovery_and_ranking/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -1000,7 +987,7 @@ run_parallel_panel <- function(fasta_dt, panel_id, panel_type, group_vec_named) 
 }
 
 # =============================================================================
-# Build genotype matrix safely
+# Build consensus allele matrix
 # =============================================================================
 
 build_snp_matrix_safely <- function(geno_list_nested, snp_map, all_samples, panel_id) {

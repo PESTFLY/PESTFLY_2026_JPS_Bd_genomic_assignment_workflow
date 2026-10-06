@@ -2,24 +2,13 @@
 
 # PESTFLY: Hierarchical genomic assignment
 #
-# Purpose
-# Compare each query with represented macroregion classes, then evaluate a conditional subregion
-# branch when the macroregion is reportable.
-#
-# Interpretation
-# K is the number of ranked SNPs included, not a population count or an ADMIXTURE parameter.
-# Posterior support is conditional on represented classes and the likelihood model. High support
-# does not show that the true source was sampled, and does not identify a transport route.
-#
-# Technical notes
-# Smoothed consensus allele frequencies use pseudocount 0.5 and allele flip allowance epsilon
-# 0.02, with equal class priors. The six reporting criteria and the cumulative K grid are
-# documented in docs/REPORTING_CRITERIA.md. Thresholds are specified operational settings, not
-# independently calibrated error rates.
+# Assign each query to a macroregion, then evaluate its subregion when macroregion
+# reporting criteria pass.
+# K counts ranked SNPs; six criteria determine reportability.
 #
 # Run from the repository root:
 #   Rscript steps/04_hierarchical_origin_assignment/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)
@@ -570,10 +559,8 @@ assign_panel_multiK <- function(
   
   meta_ref <- meta[is_reference %in% TRUE]
   
-  # Publication-safe hierarchical reference filtering.
-  # P1 is trained only on Africa/Asia macroregion references.
-  # P2 is trained only on African references.
-  # P3 is trained only on Asian references.
+  # Reference classes: Africa/Asia for P1, African subregions for P2,
+  # and Asian subregions for P3.
   if (panel_id == "P1_macroregion_africa_vs_asia") {
     meta_ref <- meta_ref[macroregion_3 %in% c("Africa", "Asia")]
   }

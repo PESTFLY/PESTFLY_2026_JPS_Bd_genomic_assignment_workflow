@@ -2,24 +2,13 @@
 
 # PESTFLY: Random Forest corroboration
 #
-# Purpose
-# Train a second classification algorithm on the same fixed SNP resources and compare its
-# predictions with the primary hierarchical assignments.
-#
-# Interpretation
-# Independence here refers to the classifier, not to the underlying data or feature discovery.
-# Cross validation uses fixed Step 02 SNP resources. RF agrees with, qualifies or contradicts
-# the primary call but does not override it or contribute a seventh reporting criterion.
-#
-# Technical notes
-# The archived run used ranger, 1000 trees, fivefold cross validation repeated five times and base seed 1. The
-# script prefers ranger when available and otherwise uses randomForest. Record the backend when
-# reproducing results. Training fold means impute missing values for training and test matrices;
-# held out samples do not supply those imputation means.
+# Fit a second classifier to the fixed SNP resources and compare query predictions with
+# Step 04 assignments.
+# RF corroborates Step 04 separately from the six reporting criteria.
 #
 # Run from the repository root:
 #   Rscript steps/06_random_forest_corroboration/run.R
-# Detailed inputs, outputs and parameters are in the adjacent README.md.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)

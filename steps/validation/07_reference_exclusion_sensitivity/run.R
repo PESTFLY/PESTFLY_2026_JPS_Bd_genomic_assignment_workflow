@@ -1,24 +1,14 @@
 #!/usr/bin/env Rscript
 
-# PESTFLY supplementary analysis: Reference exclusion sensitivity
+# PESTFLY: Reference exclusion sensitivity
 #
-# Purpose
-# Compare the retained primary benchmark with exclusions of twelve published caution references,
-# two lower completeness references, and their combined set of fourteen.
-#
-# Interpretation
-# These are predefined sensitivity scenarios, not post hoc removals chosen to improve query
-# assignments. Changes quantify dependence on the retained references; unchanged calls do not
-# prove that every retained specimen is taxonomically or biologically unproblematic.
-#
-# Technical notes
-# Scenario runs repeat Steps 02, 04 and 05 and require FASTA alignments. Results use the short
-# 07_exclusion directory to limit Windows path length. Preexisting validated scenario outputs
-# may be reused and are identified by run records.
+# Compare the primary snapshot with exclusions of twelve published caution references, two
+# lower completeness references and their combined set of fourteen.
+# Scenarios repeat Steps 02, 04 and 05 and require FASTA inputs.
 #
 # Run from the repository root:
 #   Rscript steps/validation/07_reference_exclusion_sensitivity/run.R
-# See the adjacent README.md for inputs, outputs and complete CLI defaults.
+# Inputs, outputs and options: adjacent README.md. Full methods: associated manuscript.
 
 suppressPackageStartupMessages({
   library(optparse)
