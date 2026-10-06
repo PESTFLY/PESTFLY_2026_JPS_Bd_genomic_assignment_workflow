@@ -4,7 +4,7 @@
 
 PESTFLY estimates the relative genomic affinity of a previously identified *Bactrocera dorsalis* specimen to represented analytical classes. Reference coverage, class definitions and the observed consensus allele calls determine those comparisons.
 
-This is a closed set classifier. Posterior, gap and stability criteria therefore cannot show that a source absent from the candidate classes has been rejected. Correct morphological species identification is a prerequisite; this workflow has no validated taxonomic rejection rule for other members of the *B. dorsalis* complex or putative hybrids.
+PESTFLY is therefore a closed set classifier: support identifies the strongest affinity among represented classes but cannot establish that the true source was represented. Correct morphological species identification is a prerequisite; this workflow has no validated taxonomic rejection rule for other members of the *B. dorsalis* complex or putative hybrids.
 
 ## Benchmark and analytical classes
 
