@@ -1,6 +1,6 @@
 # PESTFLY genomic assignment workflow
 
-This repository supports the manuscript “Genomic assignment of the invasive fruit fly pest Bactrocera dorsalis: a repeatable, uncertainty-aware SNP workflow for biosecurity reporting”, submitted to Journal of Pest Science.
+This repository supports the manuscript “Genomic assignment of the invasive fruit fly pest *Bactrocera dorsalis*: a repeatable, uncertainty-aware SNP workflow for biosecurity reporting”, submitted to Journal of Pest Science.
 
 PESTFLY compares previously identified *Bactrocera dorsalis* specimens with represented reference classes using existing population genomic data. Assignments describe genomic affinity to those classes. The workflow does not establish actual collection origin or a transport pathway, or determine whether the true source is represented.
 
