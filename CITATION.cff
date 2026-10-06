@@ -12,3 +12,6 @@ authors:
   - family-names: "Kratz"
     given-names: "Fanny"
 repository-code: "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline"
+version: "v1.03"
+date-released: "2026-10-06"
+url: "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03"

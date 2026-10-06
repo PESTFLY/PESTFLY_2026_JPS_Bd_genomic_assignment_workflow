@@ -1,10 +1,28 @@
 {
-  "checked_date": "2026-10-05",
+  "checked_date": "2026-10-06",
   "repository_url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline",
   "visibility": "public",
-  "main_commit": "1b482b87f5d5611f87b413abdc555272422ffe24",
-  "main_tree": "2dc3204e8a1547d5738d9fd20ce7bc9d608b55b3",
   "published_releases": [
+    {
+      "tag": "v1.03",
+      "url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03",
+      "published_at": "2026-10-06T11:34:19Z",
+      "attached_assets": 2,
+      "assets": [
+        {
+          "name": "PESTFLY_Supplementary_File_S5.xlsx",
+          "bytes": 67636,
+          "sha256": "7acba0de94d06097afe723381185b9e9e92f7ddc1dc2be052ee77aaa81fb1d96",
+          "state": "uploaded"
+        },
+        {
+          "name": "PESTFLY_Supplementary_File_S6.zip",
+          "bytes": 81181907,
+          "sha256": "2024ec3275c9b8eed8441b3a694a8817a6eae20e69bf2416c20430499b8eb9c1",
+          "state": "uploaded"
+        }
+      ]
+    },
     {
       "tag": "v1.02",
       "url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.02",
@@ -14,11 +32,14 @@
   ],
   "tag_commits": [
     {
+      "ref": "refs/tags/v1.03",
+      "sha": "f397f8e0a269fa089140eff22a00618d3583dd3c"
+    },
+    {
       "ref": "refs/tags/v1.02",
       "sha": "62e9396205a65b33d3c8118485b4122c5c1bccbe"
     }
   ],
-  "next_proposed_tag": "v1.03",
   "doi_checks": [
     {
       "doi": "10.5281/zenodo.20289875",
@@ -43,5 +64,10 @@
       "finding": "Page and API retrievals unavailable; exact DOI search found no results. Alignment distribution remains upon request as confirmed by the author."
     }
   ],
-  "external_writes_performed": false
+  "external_writes_performed": true,
+  "record_scope": "Published v1.03 snapshot and uploaded assets. Postpublication citation and documentation updates on main are recorded in Git history.",
+  "release_commit": "f397f8e0a269fa089140eff22a00618d3583dd3c",
+  "release_tree": "4e0873284333879f98c6d88b7381d9ebf5d46f2b",
+  "current_release": "v1.03",
+  "zenodo_writes_performed": false
 }

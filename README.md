@@ -6,7 +6,7 @@ PESTFLY compares previously identified *Bactrocera dorsalis* specimens with repr
 
 ## Package status
 
-This is the Step 8 GitHub publication checkpoint dated 5 October 2026. All eight core modules and seven supplementary analyses have reader guides, conceptual notes and CLI tables. Supplementary File S6 contains complete outputs, query trajectories and integrity checks. The isolated Hudson FST and MI checks, six criterion reporting checks and Step 07 formatter passed in R 4.5.1 on Windows. The current Step 07 workbook, TSV tables, RDS objects and run record are the verified native R exports. The recorded outcomes remain 19 macroregion passes and 12 subregion passes, with all 22 original reported classes and confidence labels preserved. Original colour reports and the independently assembled checkpoint remain available as provenance. The code uses MIT and the project documentation and public results use CC BY 4.0, with copyright notices naming Massimiliano Virgilio and Wannes Dermauw. Input alignments remain available upon request. External release records remain to be verified. See [native R verification](docs/NATIVE_R_VERIFICATION.md) for the original checker label mismatch and the completed export review. Statistical models were not recomputed.
+Release [v1.03](https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03) was published on 6 October 2026 from the Step 8 checkpoint prepared on 5 October 2026. All eight core modules and seven supplementary analyses have reader guides, conceptual notes and CLI tables. Supplementary File S6 contains complete outputs, query trajectories and integrity checks. The isolated Hudson FST and MI checks, six criterion reporting checks and Step 07 formatter passed in R 4.5.1 on Windows. The current Step 07 workbook, TSV tables, RDS objects and run record are the verified native R exports. The recorded outcomes remain 19 macroregion passes and 12 subregion passes, with all 22 original reported classes and confidence labels preserved. Original colour reports and the independently assembled checkpoint remain available as provenance. The code uses MIT and the project documentation and public results use CC BY 4.0, with copyright notices naming Massimiliano Virgilio and Wannes Dermauw. Input alignments remain available upon request. Zenodo records remain to be verified. See [native R verification](docs/NATIVE_R_VERIFICATION.md) for the original checker label mismatch and the completed export review. Statistical models were not recomputed.
 
 ## Structure
 
@@ -60,9 +60,11 @@ See [the supplementary analysis guide](steps/validation/README.md) for prerequis
 
 Public metadata, derived SNP panels and archived reports can be inspected with the supplied files. Reproducing Steps 00 to 02 and supplementary analyses 04 and 07 requires the separately distributed alignments or regenerated FASTA files.
 
-The revised manuscript identifies the alignment deposit as <https://doi.org/10.5281/zenodo.20283931>, with files distributed upon request, the workflow archive as <https://doi.org/10.5281/zenodo.20289875>, and the code repository as <https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline>. External records will be verified during release preparation.
+The revised manuscript identifies the alignment deposit as <https://doi.org/10.5281/zenodo.20283931>, with files distributed upon request, the workflow archive as <https://doi.org/10.5281/zenodo.20289875>, and the code repository as <https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline>. Zenodo titles, publication status, access terms and version identifiers remain to be confirmed.
 
 ## Archived names and provenance
+
+The three Step 00 conversion records from the original results upload are retained unchanged and included in the source file manifest. They record original machine locations as run provenance.
 
 Directories use the public numbering. Some output basenames and compatible CLI options retain earlier identifiers, including `step3`, `step4b` and `step5`, because downstream scripts use them. See `docs/packaging_changes.txt`.
 
@@ -76,7 +78,7 @@ Build the archive with `python3 tools/build_s6.py`. The archive retains the repo
 
 ## GitHub publication
 
-The existing published release is `v1.02`; the next proposed release is `v1.03`. The package preserves file bytes through Git checkin and checkout so its recorded hashes remain valid on Windows. See [publication preparation](docs/GITHUB_PUBLICATION.md). No new public release or tag has been created. The verified S5 and S6 assets retain their previous bytes.
+The current release is [v1.03](https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03), published on 6 October 2026 from commit `f397f8e0a269fa089140eff22a00618d3583dd3c`. Both attached S5 and S6 files match the verified publication assets. The package preserves file bytes through Git checkin and checkout so its recorded hashes remain valid on Windows. See [publication records](docs/GITHUB_PUBLICATION.md). Citation and publication documentation on `main` record the completed release; the release tag identifies its original snapshot.
 
 ## Licensing
 
