@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preserve the recorded publication bytes on checkin and checkout.
+# File hashes cover original line endings as well as scientific values.
+* -text
+
+# Keep readable differences for source code and documentation.
+*.R diff
+*.py diff
+*.md diff
+*.txt diff
+*.tsv diff
+*.json diff
+*.cff diff
+
+# Binary project records and archive assets.
+*.rds binary
+*.xlsx binary
+*.pdf binary
+*.gz binary
+*.zip binary

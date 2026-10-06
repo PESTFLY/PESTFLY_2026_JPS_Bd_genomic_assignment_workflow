@@ -1,0 +1,10 @@
+panel_id	panel_label	group_col	analytical_group	N
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215
+P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5
+P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67
+P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10
+P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23
+P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80
+P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90
+P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45

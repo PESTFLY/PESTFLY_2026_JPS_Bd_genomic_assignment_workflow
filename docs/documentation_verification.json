@@ -1,0 +1,13 @@
+{
+  "r_files_syntax_screened": 18,
+  "inherited_R_files_code_unchanged_except_documented_descriptive_strings": 17,
+  "result_files_byte_identical_to_step2": 1205,
+  "local_documentation_links_resolve": true,
+  "documented_core_modules": 8,
+  "documented_supplementary_analyses": 7,
+  "main_runtime_components_verified_from_RDS_records": 8,
+  "full_pipeline_execution": "not performed",
+  "reporting_format_gap": "Step 07 colour categories remain; criterion formatter required",
+  "stage_of_record": "Step 3 documentation review, before reporting reconciliation",
+  "current_reporting_verification": "docs/reporting_verification.json supersedes the recorded reporting format gap"
+}

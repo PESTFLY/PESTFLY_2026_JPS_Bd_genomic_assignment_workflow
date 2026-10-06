@@ -1,0 +1,13 @@
+resolution	criterion	observed_field	operator	threshold
+macroregion	usable_snps	macroregion_maxk_nsnps	>=	200
+macroregion	posterior	macroregion_maxk_post	>=	0.85
+macroregion	posterior_gap	macroregion_maxk_gap	>=	0.2
+macroregion	global_K_agreement	macroregion_agreement	>=	0.9
+macroregion	tail_K_agreement	macroregion_tail_agreement	>=	1
+macroregion	usable_K_count	macroregion_nk_usable_for_stability	>=	6
+subregion	usable_snps	subregion_maxk_nsnps	>=	300
+subregion	posterior	subregion_maxk_post	>=	0.85
+subregion	posterior_gap	subregion_maxk_gap	>=	0.25
+subregion	global_K_agreement	subregion_agreement	>=	0.9
+subregion	tail_K_agreement	subregion_tail_agreement	>=	1
+subregion	usable_K_count	subregion_nk_usable_for_stability	>=	6

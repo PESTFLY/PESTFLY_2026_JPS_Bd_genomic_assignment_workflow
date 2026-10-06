@@ -1,0 +1,37 @@
+scenario	panel_id	panel_label	group_col	analytical_group	n_before	n_excluded	n_after	class_supported_after_exclusion
+exclude_all_nuclear_PCA_outliers	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	0	105	TRUE
+exclude_all_nuclear_PCA_outliers	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	9	206	TRUE
+exclude_all_nuclear_PCA_outliers	P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	0	5	TRUE
+exclude_all_nuclear_PCA_outliers	P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	0	67	TRUE
+exclude_all_nuclear_PCA_outliers	P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	0	10	TRUE
+exclude_all_nuclear_PCA_outliers	P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	0	23	TRUE
+exclude_all_nuclear_PCA_outliers	P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	4	76	TRUE
+exclude_all_nuclear_PCA_outliers	P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	5	85	TRUE
+exclude_all_nuclear_PCA_outliers	P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	0	45	TRUE
+exclude_extended_taxonomic_caution	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	1	104	TRUE
+exclude_extended_taxonomic_caution	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	11	204	TRUE
+exclude_extended_taxonomic_caution	P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	1	4	TRUE
+exclude_extended_taxonomic_caution	P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	0	67	TRUE
+exclude_extended_taxonomic_caution	P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	0	10	TRUE
+exclude_extended_taxonomic_caution	P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	0	23	TRUE
+exclude_extended_taxonomic_caution	P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	4	76	TRUE
+exclude_extended_taxonomic_caution	P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	5	85	TRUE
+exclude_extended_taxonomic_caution	P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	2	43	TRUE
+exclude_published_hybrid_candidates	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	0	105	TRUE
+exclude_published_hybrid_candidates	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	5	210	TRUE
+exclude_published_hybrid_candidates	P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	0	5	TRUE
+exclude_published_hybrid_candidates	P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	0	67	TRUE
+exclude_published_hybrid_candidates	P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	0	10	TRUE
+exclude_published_hybrid_candidates	P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	0	23	TRUE
+exclude_published_hybrid_candidates	P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	0	80	TRUE
+exclude_published_hybrid_candidates	P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	5	85	TRUE
+exclude_published_hybrid_candidates	P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	0	45	TRUE
+primary_all_references	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	0	105	TRUE
+primary_all_references	P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	0	215	TRUE
+primary_all_references	P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	0	5	TRUE
+primary_all_references	P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	0	67	TRUE
+primary_all_references	P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	0	10	TRUE
+primary_all_references	P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	0	23	TRUE
+primary_all_references	P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	0	80	TRUE
+primary_all_references	P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	0	90	TRUE
+primary_all_references	P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	0	45	TRUE

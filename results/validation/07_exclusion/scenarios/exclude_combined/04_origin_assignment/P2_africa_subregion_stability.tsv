@@ -1,0 +1,13 @@
+panel_id	sample_id	final_group	stable_from_K	agreement_frac	tail_agreement_frac	tail_fraction	n_K_total_tested	n_K_usable_for_stability	n_K_available	maxK_used	maxK_top_posterior	maxK_second_posterior	maxK_gap	maxK_confidence	maxK_status	maxK_n_snps_used	status
+P2_subregion_within_africa	Bd_2023_7	E_Africa	2000	0.833333333333333	1	0.5	16	6	6	11000	1	5.6401883097211e-27	1	High	ok	10991	ok
+P2_subregion_within_africa	Bd_2024_2	E_Africa	11000	0.666666666666667	0.333333333333333	0.5	16	6	6	11000	0.99884906286048	0.00115093713952062	0.997698125720959	High	ok	10985	ok
+P2_subregion_within_africa	FAVV_1	E_Africa	500	1	1	0.5	16	6	6	11000	0.999999773540353	2.26459647217587e-07	0.999999547080705	High	ok	10992	ok
+P2_subregion_within_africa	FAVV_2	E_Africa	500	1	1	0.5	16	6	6	11000	0.999999999988188	1.18122222009217e-11	0.999999999976376	High	ok	10987	ok
+P2_subregion_within_africa	FAVV_3	W_Africa	500	1	1	0.5	16	6	6	11000	1	2.29005638450872e-94	1	High	ok	10992	ok
+P2_subregion_within_africa	FAVV_4	W_Africa	1000	0.833333333333333	1	0.5	16	6	6	11000	1	1.11273130882929e-117	1	High	ok	10986	ok
+P2_subregion_within_africa	FAVV_5	E_Africa	500	1	1	0.5	16	6	6	11000	1	3.36029473273141e-68	1	High	ok	10983	ok
+P2_subregion_within_africa	FAVV_6	W_Africa	500	1	1	0.5	16	6	6	11000	1	1.50295231518986e-152	1	High	ok	10986	ok
+P2_subregion_within_africa	FAVV_7	E_Africa	500	1	1	0.5	16	6	6	11000	1	1.4722961083724e-118	1	High	ok	10989	ok
+P2_subregion_within_africa	FAVV_11	W_Africa	2000	0.666666666666667	1	0.5	16	6	6	11000	1	1.26738962804346e-58	1	High	ok	10998	ok
+P2_subregion_within_africa	FAVV_12	W_Africa	2000	0.666666666666667	1	0.5	16	6	6	11000	1	2.62024296044893e-70	1	High	ok	10982	ok
+P2_subregion_within_africa	FAVV_13	W_Africa	1000	0.833333333333333	1	0.5	16	6	6	11000	1	7.68236296395175e-97	1	High	ok	10973	ok

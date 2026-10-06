@@ -1,0 +1,7 @@
+scenario_id	scenario_label	panel_id	n_baseline_markers	n_scenario_markers	n_common_markers	common_fraction_of_baseline	common_fraction_of_scenario	spearman_rank_correlation_common	spearman_score_correlation_common
+geo_africa	Geographic Africa coding	P1_macroregion_africa_vs_asia	11086	11086	5302	0.478260869565217	0.478260869565217	0.833321809873268	0.833322308369559
+geo_africa	Geographic Africa coding	P2_subregion_within_africa	11001	11052	8483	0.771111717116626	0.767553384002896	0.971148802459225	0.971254560277769
+geo_africa	Geographic Africa coding	P3_subregion_within_asia	11086	11085	3498	0.315533104816886	0.315561569688769	0.75526439262298	0.755279589775667
+excluded_other	Mascarene references outside Africa Asia panels	P1_macroregion_africa_vs_asia	11086	11085	8690	0.783871549702327	0.783942264321155	0.968910677633325	0.968912325602435
+excluded_other	Mascarene references outside Africa Asia panels	P2_subregion_within_africa	11001	11001	11001	1	1	1	1
+excluded_other	Mascarene references outside Africa Asia panels	P3_subregion_within_asia	11086	11085	3498	0.315533104816886	0.315561569688769	0.75526439262298	0.755279589775667

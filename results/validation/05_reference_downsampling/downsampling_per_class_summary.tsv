@@ -1,0 +1,43 @@
+panel_id	panel_label	n_per_group	true_group	n_replicates	total_test_predictions	accuracy_mean	accuracy_sd	accuracy_q025	accuracy_median	accuracy_q975	accepted_rate_mean	accepted_accuracy_mean	uncertainty_rate_mean
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	Africa	30	150	1	0	1	1	1	0.233333333333333	1	0.766666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	Asia	30	150	1	0	1	1	1	0.333333333333333	1	0.666666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	Africa	30	150	1	0	1	1	1	0.566666666666667	1	0.433333333333333
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	Asia	30	150	1	0	1	1	1	0.713333333333333	1	0.286666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	Africa	30	150	1	0	1	1	1	0.36	1	0.64
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	Asia	30	150	1	0	1	1	1	0.653333333333333	1	0.346666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	Africa	30	150	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	Asia	30	150	1	0	1	1	1	0.993333333333333	1	0.00666666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	Africa	30	150	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	Asia	30	150	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	Africa	30	150	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	Asia	30	150	1	0	1	1	1	0.993333333333333	1	0.00666666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	Africa	30	150	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	Asia	30	150	1	0	1	1	1	0.993333333333333	1	0.00666666666666667
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	Africa	30	30	1	0	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	Asia	30	30	1	0	1	1	1	0.966666666666667	1	0.0333333333333333
+P2_subregion_within_africa	P2 Africa subregion	3	C_Africa	30	60	1	0	1	1	1	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	E_Africa	30	60	0.783333333333333	0.252003466496865	0.5	1	1	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	S_Africa	30	60	1	0	1	1	1	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	W_Africa	30	60	0.983333333333333	0.0912870929175277	0.8625	1	1	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	C_Africa	30	30	1	0	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	E_Africa	30	30	0.833333333333333	0.379049021789452	0	1	1	0.633333333333333	0.789473684210526	0.366666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	S_Africa	30	30	1	0	1	1	1	0.833333333333333	1	0.166666666666667
+P2_subregion_within_africa	P2 Africa subregion	4	W_Africa	30	30	1	0	1	1	1	0.733333333333333	1	0.266666666666667
+P3_subregion_within_asia	P3 Asia subregion	3	E_Asia	30	150	0.973333333333333	0.0691491807283521	0.8	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	SE_Asia	30	150	0.76	0.225296739190018	0.4	0.8	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	S_Asia	30	150	0.993333333333333	0.0365148371670111	0.945	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	E_Asia	30	150	0.98	0.0610257153258729	0.8	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	SE_Asia	30	150	0.713333333333333	0.233021137613549	0.2	0.8	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	S_Asia	30	150	1	0	1	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	E_Asia	30	150	1	0	1	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	SE_Asia	30	150	0.753333333333333	0.179526836594063	0.4	0.8	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	S_Asia	30	150	1	0	1	1	1	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	20	E_Asia	30	150	1	0	1	1	1	0.966666666666667	1	0.0333333333333333
+P3_subregion_within_asia	P3 Asia subregion	20	SE_Asia	30	150	0.793333333333333	0.206670374456914	0.345	0.8	1	0.84	0.871111111111111	0.16
+P3_subregion_within_asia	P3 Asia subregion	20	S_Asia	30	150	1	0	1	1	1	0.973333333333333	1	0.0266666666666667
+P3_subregion_within_asia	P3 Asia subregion	40	E_Asia	30	150	1	0	1	1	1	0.933333333333333	1	0.0666666666666667
+P3_subregion_within_asia	P3 Asia subregion	40	SE_Asia	30	150	0.786666666666667	0.222421366707014	0.345	0.8	1	0.846666666666667	0.906111111111111	0.153333333333333
+P3_subregion_within_asia	P3 Asia subregion	40	S_Asia	30	150	1	0	1	1	1	0.966666666666667	1	0.0333333333333333
+P3_subregion_within_asia	P3 Asia subregion	44	E_Asia	30	30	1	0	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	SE_Asia	30	30	0.666666666666667	0.479463301485384	0	1	1	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	44	S_Asia	30	30	1	0	1	1	1	0.966666666666667	1	0.0333333333333333

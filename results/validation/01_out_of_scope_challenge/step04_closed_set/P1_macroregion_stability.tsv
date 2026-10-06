@@ -1,0 +1,11 @@
+panel_id	sample_id	final_group	stable_from_K	agreement_frac	tail_agreement_frac	tail_fraction	n_K_total_tested	n_K_usable_for_stability	n_K_available	maxK_used	maxK_top_posterior	maxK_second_posterior	maxK_gap	maxK_confidence	maxK_status	maxK_n_snps_used	status
+P1_macroregion_africa_vs_asia	PGPM01	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11034	ok
+P1_macroregion_africa_vs_asia	PGPM02	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11006	ok
+P1_macroregion_africa_vs_asia	PGPM03	Asia	200	1	1	0.5	16	7	7	11086	1	0	1	High	ok	11063	ok
+P1_macroregion_africa_vs_asia	PGPM04	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11044	ok
+P1_macroregion_africa_vs_asia	PGPM05	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	10993	ok
+P1_macroregion_africa_vs_asia	USHW01	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11062	ok
+P1_macroregion_africa_vs_asia	USHW02	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11059	ok
+P1_macroregion_africa_vs_asia	USHW03	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11056	ok
+P1_macroregion_africa_vs_asia	USHW04	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11058	ok
+P1_macroregion_africa_vs_asia	USHW05	Asia	500	1	1	0.5	16	6	6	11086	1	0	1	High	ok	11052	ok

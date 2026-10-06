@@ -1,0 +1,37 @@
+scenario_id	scenario_label	panel_id	analytical_group	N
+exclude_combined	Exclude all 14 caution or low coverage references	P1_macroregion_africa_vs_asia	Africa	104
+exclude_combined	Exclude all 14 caution or low coverage references	P1_macroregion_africa_vs_asia	Asia	202
+exclude_combined	Exclude all 14 caution or low coverage references	P2_subregion_within_africa	C_Africa	4
+exclude_combined	Exclude all 14 caution or low coverage references	P2_subregion_within_africa	E_Africa	67
+exclude_combined	Exclude all 14 caution or low coverage references	P2_subregion_within_africa	S_Africa	10
+exclude_combined	Exclude all 14 caution or low coverage references	P2_subregion_within_africa	W_Africa	23
+exclude_combined	Exclude all 14 caution or low coverage references	P3_subregion_within_asia	E_Asia	76
+exclude_combined	Exclude all 14 caution or low coverage references	P3_subregion_within_asia	SE_Asia	83
+exclude_combined	Exclude all 14 caution or low coverage references	P3_subregion_within_asia	S_Asia	43
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P1_macroregion_africa_vs_asia	Africa	105
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P1_macroregion_africa_vs_asia	Asia	213
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P2_subregion_within_africa	C_Africa	5
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P2_subregion_within_africa	E_Africa	67
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P2_subregion_within_africa	S_Africa	10
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P2_subregion_within_africa	W_Africa	23
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P3_subregion_within_asia	E_Asia	80
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P3_subregion_within_asia	SE_Asia	88
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P3_subregion_within_asia	S_Asia	45
+exclude_published_caution	Exclude 12 published caution references	P1_macroregion_africa_vs_asia	Africa	104
+exclude_published_caution	Exclude 12 published caution references	P1_macroregion_africa_vs_asia	Asia	204
+exclude_published_caution	Exclude 12 published caution references	P2_subregion_within_africa	C_Africa	4
+exclude_published_caution	Exclude 12 published caution references	P2_subregion_within_africa	E_Africa	67
+exclude_published_caution	Exclude 12 published caution references	P2_subregion_within_africa	S_Africa	10
+exclude_published_caution	Exclude 12 published caution references	P2_subregion_within_africa	W_Africa	23
+exclude_published_caution	Exclude 12 published caution references	P3_subregion_within_asia	E_Asia	76
+exclude_published_caution	Exclude 12 published caution references	P3_subregion_within_asia	SE_Asia	85
+exclude_published_caution	Exclude 12 published caution references	P3_subregion_within_asia	S_Asia	43
+primary_all_references	Corrected primary analysis with all references	P1_macroregion_africa_vs_asia	Africa	105
+primary_all_references	Corrected primary analysis with all references	P1_macroregion_africa_vs_asia	Asia	215
+primary_all_references	Corrected primary analysis with all references	P2_subregion_within_africa	C_Africa	5
+primary_all_references	Corrected primary analysis with all references	P2_subregion_within_africa	E_Africa	67
+primary_all_references	Corrected primary analysis with all references	P2_subregion_within_africa	S_Africa	10
+primary_all_references	Corrected primary analysis with all references	P2_subregion_within_africa	W_Africa	23
+primary_all_references	Corrected primary analysis with all references	P3_subregion_within_asia	E_Asia	80
+primary_all_references	Corrected primary analysis with all references	P3_subregion_within_asia	SE_Asia	90
+primary_all_references	Corrected primary analysis with all references	P3_subregion_within_asia	S_Asia	45

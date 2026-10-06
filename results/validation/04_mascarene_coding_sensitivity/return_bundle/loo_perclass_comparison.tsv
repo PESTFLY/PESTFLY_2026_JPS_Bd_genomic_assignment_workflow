@@ -1,0 +1,28 @@
+panel_id	true_group	n	attempted	correct	accuracy_all	accuracy_attempted	high_or_moderate_frac	uncertainty_rate	requested_panel_id	scenario_id	scenario_label
+P1_macroregion_africa_vs_asia	Africa	105	105	105	1	1	1	0	P1_macroregion_africa_vs_asia	baseline_asia	Current genomic lineage coding
+P1_macroregion_africa_vs_asia	Asia	215	215	215	1	1	0.990697674418605	0.00930232558139535	P1_macroregion_africa_vs_asia	baseline_asia	Current genomic lineage coding
+P2_subregion_within_africa	C_Africa	5	5	5	1	1	1	0	P2_subregion_within_africa	baseline_asia	Current genomic lineage coding
+P2_subregion_within_africa	E_Africa	67	67	65	0.970149253731343	0.970149253731343	0.895522388059702	0.104477611940299	P2_subregion_within_africa	baseline_asia	Current genomic lineage coding
+P2_subregion_within_africa	S_Africa	10	10	10	1	1	1	0	P2_subregion_within_africa	baseline_asia	Current genomic lineage coding
+P2_subregion_within_africa	W_Africa	23	23	23	1	1	0.869565217391304	0.130434782608696	P2_subregion_within_africa	baseline_asia	Current genomic lineage coding
+P3_subregion_within_asia	E_Asia	80	80	80	1	1	0.975	0.025	P3_subregion_within_asia	baseline_asia	Current genomic lineage coding
+P3_subregion_within_asia	SE_Asia	90	90	74	0.822222222222222	0.822222222222222	0.855555555555556	0.144444444444444	P3_subregion_within_asia	baseline_asia	Current genomic lineage coding
+P3_subregion_within_asia	S_Asia	45	45	45	1	1	1	0	P3_subregion_within_asia	baseline_asia	Current genomic lineage coding
+P1_macroregion_africa_vs_asia	Africa	150	150	144	0.96	0.96	0.926666666666667	0.0733333333333333	P1_macroregion_africa_vs_asia	geo_africa	Geographic Africa coding
+P1_macroregion_africa_vs_asia	Asia	170	170	170	1	1	1	0	P1_macroregion_africa_vs_asia	geo_africa	Geographic Africa coding
+P2_subregion_within_africa	C_Africa	5	5	5	1	1	1	0	P2_subregion_within_africa	geo_africa	Geographic Africa coding
+P2_subregion_within_africa	E_Africa	112	112	108	0.964285714285714	0.964285714285714	0.901785714285714	0.0982142857142857	P2_subregion_within_africa	geo_africa	Geographic Africa coding
+P2_subregion_within_africa	S_Africa	10	10	10	1	1	1	0	P2_subregion_within_africa	geo_africa	Geographic Africa coding
+P2_subregion_within_africa	W_Africa	23	23	23	1	1	0.91304347826087	0.0869565217391304	P2_subregion_within_africa	geo_africa	Geographic Africa coding
+P3_subregion_within_asia	E_Asia	80	80	80	1	1	0.95	0.05	P3_subregion_within_asia	geo_africa	Geographic Africa coding
+P3_subregion_within_asia	SE_Asia	45	45	29	0.644444444444445	0.644444444444445	0.755555555555556	0.244444444444444	P3_subregion_within_asia	geo_africa	Geographic Africa coding
+P3_subregion_within_asia	S_Asia	45	45	45	1	1	1	0	P3_subregion_within_asia	geo_africa	Geographic Africa coding
+P1_macroregion_africa_vs_asia	Africa	105	105	105	1	1	1	0	P1_macroregion_africa_vs_asia	excluded_other	Mascarene references outside Africa Asia panels
+P1_macroregion_africa_vs_asia	Asia	170	170	170	1	1	1	0	P1_macroregion_africa_vs_asia	excluded_other	Mascarene references outside Africa Asia panels
+P2_subregion_within_africa	C_Africa	5	5	5	1	1	1	0	P2_subregion_within_africa	excluded_other	Mascarene references outside Africa Asia panels
+P2_subregion_within_africa	E_Africa	67	67	65	0.970149253731343	0.970149253731343	0.895522388059702	0.104477611940299	P2_subregion_within_africa	excluded_other	Mascarene references outside Africa Asia panels
+P2_subregion_within_africa	S_Africa	10	10	10	1	1	1	0	P2_subregion_within_africa	excluded_other	Mascarene references outside Africa Asia panels
+P2_subregion_within_africa	W_Africa	23	23	23	1	1	0.869565217391304	0.130434782608696	P2_subregion_within_africa	excluded_other	Mascarene references outside Africa Asia panels
+P3_subregion_within_asia	E_Asia	80	80	80	1	1	0.95	0.05	P3_subregion_within_asia	excluded_other	Mascarene references outside Africa Asia panels
+P3_subregion_within_asia	SE_Asia	45	45	29	0.644444444444445	0.644444444444445	0.755555555555556	0.244444444444444	P3_subregion_within_asia	excluded_other	Mascarene references outside Africa Asia panels
+P3_subregion_within_asia	S_Asia	45	45	45	1	1	1	0	P3_subregion_within_asia	excluded_other	Mascarene references outside Africa Asia panels

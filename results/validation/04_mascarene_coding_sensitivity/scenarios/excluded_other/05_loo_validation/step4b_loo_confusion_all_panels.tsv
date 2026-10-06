@@ -1,0 +1,12 @@
+panel_id	true_group	predicted_group	N	prop_within_true
+P1_macroregion_africa_vs_asia	Africa	Africa	105	1
+P1_macroregion_africa_vs_asia	Asia	Asia	170	1
+P2_subregion_within_africa	E_Africa	E_Africa	65	0.970149253731343
+P2_subregion_within_africa	C_Africa	C_Africa	5	1
+P2_subregion_within_africa	W_Africa	W_Africa	23	1
+P2_subregion_within_africa	E_Africa	W_Africa	2	0.0298507462686567
+P2_subregion_within_africa	S_Africa	S_Africa	10	1
+P3_subregion_within_asia	S_Asia	S_Asia	45	1
+P3_subregion_within_asia	E_Asia	E_Asia	80	1
+P3_subregion_within_asia	SE_Asia	SE_Asia	29	0.644444444444445
+P3_subregion_within_asia	SE_Asia	E_Asia	16	0.355555555555556

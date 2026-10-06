@@ -1,0 +1,162 @@
+{
+  "legend": [
+    [
+      "Primary decision",
+      "PASS requires all six criteria at the evaluated resolution. FAIL requires at least one unmet criterion."
+    ],
+    [
+      "Subregion reporting",
+      "Report subregion only when macroregion and its conditional subregion both PASS. If only macroregion passes, report macroregion."
+    ],
+    [
+      "NOT_EVALUATED",
+      "A failed macroregion prevents subregion evaluation. Criterion counts and subregion observations are unavailable, rather than zero."
+    ],
+    [
+      "Threshold source",
+      "Thresholds are read from the Step 04 parameter table associated with the assignment file."
+    ],
+    [
+      "Posterior category",
+      "High is at least the recorded high_posterior threshold. Moderate is at least moderate_posterior and below high_posterior. Both require six criteria."
+    ],
+    [
+      "RF corroboration",
+      "RF is a separate classifier comparison. It does not add a seventh criterion or alter the six criterion outcome."
+    ],
+    [
+      "Commodity consistency",
+      "Compare genomic affinity with declared commodity country where available. Country of commodity dispatch does not establish biological source."
+    ],
+    [
+      "Genomic affinity",
+      "Assignments are conditional on represented reference classes and do not demonstrate actual collection origin or a transport pathway."
+    ],
+    [
+      "Missing observations",
+      "A missing metric in an evaluated branch fails its criterion. Missing required fields or inconsistent saved decisions stop report generation."
+    ],
+    [
+      "Historical comparison",
+      "Vanbergen et al. 2025 provides an additional macroregion comparison."
+    ]
+  ],
+  "column_key": [
+    [
+      "sample_id",
+      "Unique query or intercept specimen identifier."
+    ],
+    [
+      "reported_origin",
+      "Finest class that meets all six reporting criteria within an accepted hierarchy."
+    ],
+    [
+      "reported_level",
+      "Reported resolution: subregion, macroregion, or uncertain."
+    ],
+    [
+      "reported_confidence",
+      "Step 04 posterior support category for the accepted class. Uncertain when macroregion fails."
+    ],
+    [
+      "macroregion_status",
+      "PASS or FAIL for six macroregion criteria."
+    ],
+    [
+      "subregion_status",
+      "PASS, FAIL, or NOT_EVALUATED for the conditional subregion."
+    ],
+    [
+      "macroregion_criteria_met",
+      "Number of the six macroregion criteria met."
+    ],
+    [
+      "subregion_criteria_met",
+      "Number of subregion criteria met. Missing when the branch was not evaluated."
+    ],
+    [
+      "macroregion_criteria_unmet",
+      "Six minus macroregion_criteria_met."
+    ],
+    [
+      "subregion_criteria_unmet",
+      "Six minus subregion_criteria_met. Missing when the branch was not evaluated."
+    ],
+    [
+      "macroregion_unmet_criteria",
+      "All unmet macroregion criterion identifiers. None when PASS."
+    ],
+    [
+      "subregion_unmet_criteria",
+      "All unmet subregion criterion identifiers. None when PASS, missing when NOT_EVALUATED."
+    ],
+    [
+      "criterion",
+      "Criterion identifier in Criteria. Every specimen and resolution has six rows."
+    ],
+    [
+      "observed_field",
+      "Lowercase Step 04 column name supplying the observation."
+    ],
+    [
+      "observed_value",
+      "Saved metric value. Unavailable for a branch that was not evaluated."
+    ],
+    [
+      "threshold",
+      "Threshold recorded in the saved Step 04 parameter table."
+    ],
+    [
+      "result",
+      "Criterion PASS, FAIL, or NOT_EVALUATED. Compare observed_value with threshold using operator."
+    ],
+    [
+      "reason",
+      "criterion_met, below_threshold, missing_value, or macroregion_failed."
+    ],
+    [
+      "sample_origin_country",
+      "Declared commodity country where available. Unknown for trapped adults."
+    ],
+    [
+      "sample_origin_country_source",
+      "Source of the declared commodity country."
+    ],
+    [
+      "expected_macroregion_from_origin_country",
+      "Macroregion assigned to the commodity country for the consistency comparison."
+    ],
+    [
+      "expected_subregion_from_origin_country",
+      "Subregion assigned to the commodity country for the consistency comparison."
+    ],
+    [
+      "commodity_origin_vs_assignment",
+      "Consistency comparison with commodity country, separate from criterion acceptance."
+    ],
+    [
+      "commodity_origin_mismatch_detail",
+      "Explanation of the consistency comparison."
+    ],
+    [
+      "rf_corroboration",
+      "Separate RF support or caution relative to Step 04 candidate classes."
+    ],
+    [
+      "rf_corroboration_detail",
+      "Explanation of RF agreement and confidence. Does not alter criterion counts."
+    ],
+    [
+      "subregion_withheld_explanation",
+      "All unmet subregion criteria, or the reason no branch was evaluated."
+    ],
+    [
+      "vanbergen_macroregion",
+      "Published macroregion interpretation from Vanbergen et al. 2025."
+    ],
+    [
+      "vanbergen_macroregion_consistency",
+      "Comparison of the Step 04 candidate with the published interpretation."
+    ]
+  ]
+}

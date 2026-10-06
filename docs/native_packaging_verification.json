@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-05",
+  "s6_archive_files": 1204,
+  "s6_manifest_files": 1203,
+  "all_archived_file_hashes_verified": true,
+  "all_source_map_files_present": true,
+  "omitted_identical_export_copies": 90,
+  "omitted_bytes": 15666945,
+  "native_RDS_TSV_workbook_values_verified": true,
+  "scientific_outputs_recomputed": false,
+  "R_syntax_screen_files": 22,
+  "R_syntax_screen_result": "PASS",
+  "reader_guide_pages": 9,
+  "reader_guide_changed_pages": [
+    8,
+    9
+  ],
+  "original_checker_status_preserved": "FAIL",
+  "independent_native_export_review": "PASS",
+  "s6_sha256": "38319925c99b40d4082d3155a402a28835e06a628cdefed7e56462877561ad88"
+}

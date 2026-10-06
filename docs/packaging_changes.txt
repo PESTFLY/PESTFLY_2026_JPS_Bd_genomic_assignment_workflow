@@ -1,0 +1,75 @@
+PESTFLY repository packaging: Step 2
+5 October 2026
+
+Source
+000_REVISION_JPS_PESTFLY_origin_tracing_pipeline.zip
+Source SHA256: 72d7a4e77df1e73043c0e4eb10a59d802b46b23fba993d3ee6f41dfed5656f54
+The supplied revision archive is the source for this copy. Its updated Steps 02
+and 03 take precedence over the earlier standalone script archive.
+
+Changes completed
+1. Retained eight core scripts, public metadata, core results and all seven
+   supplementary validation scripts and result groups.
+2. Moved supplementary analyses to steps/validation and results/validation.
+   The reference exclusion result folder is results/validation/07_exclusion.
+   This shorter result name accommodates nested scenario paths on Windows.
+3. Standardised the challenge script filename as run.R for case sensitive
+   filesystems.
+4. Corrected old script execution examples, displayed step numbers and public
+   validation labels. Earlier compatible option identifiers and output
+   basenames remain in use by the scripts.
+5. Rebased 87 location cells in 22 archived TSV index tables. Only location
+   columns changed. Step 02 panel_dir fields are relative to the index folder;
+   other adapted index paths are relative to the repository root. Future
+   Step 02 indexes also write relative panel paths.
+6. Added a separate runner for the seven supplementary analyses and concise
+   guides to the repository, data, results and validation directories.
+7. Excluded the 276 MiB generated sample_missingness.tsv from this copy. Its
+   RDS counterpart and other QC outputs are retained. The original uploaded
+   revision archive preserves the excluded TSV.
+8. Excluded local session, editor and incidental plotting files. The package
+   is a clean directory copy and does not contain local repository history.
+
+Legacy basename mapping
+step0                  public Step 00, conversion
+step1_2                public Step 01, metadata and QC
+step3                  public Step 02, SNP discovery and ranking
+step03                 public Step 03, mutual information
+step4                  public Step 04, hierarchical assignment
+step4b                 public Step 05, fixed panel leave one out validation
+step5                  public Step 06, Random Forest corroboration
+step7                  public Step 07, authority reports
+The optional step6b_dir option refers to separate diagnostic panel development.
+
+Verification
+All 17 R files passed tree-sitter R syntax screening.
+Both runners resolve all 8 core and 7 supplementary script targets.
+All adapted index locations resolve in this copy.
+The token sequences of 32 selected statistical functions are unchanged,
+including Hudson FST, mutual information, likelihood, validation and RF helpers.
+All numeric literals in inherited R scripts are unchanged.
+All non-location fields in adapted result indexes are unchanged.
+1183 archived result files are byte identical to their source.
+All 542 archived RDS, XLSX, PDF and compressed result files are byte identical.
+The largest individual packaged file is 12.65 MiB.
+
+Runtime limit
+No R pipeline execution was performed in this environment: Rscript and the
+separate alignment inputs are unavailable. Syntax screening and file integrity
+checks do not replace execution with the required R dependencies and inputs.
+
+Provenance
+Original binary objects and historical parameter/run records retain their
+stored machine locations and earlier analysis labels. They describe the
+original run. Active TSV indexes were adapted for portability.
+Detailed changes are in docs/location_index_changes.tsv; original and packaged
+source hashes are in docs/source_file_manifest.tsv. Verification counts are
+in docs/packaging_verification.json.
+
+Next stages
+Review conceptual and technical explanations against the revised manuscript.
+Document package dependencies, input schema, fixed seeds and methods.
+Complete citation metadata and confirm the software licence.
+Prepare the reader guide and final archive for Supplementary File S6.
+Verify repository and Zenodo records before publication.
+This Step 2 archive is a review package, not the final submission release.

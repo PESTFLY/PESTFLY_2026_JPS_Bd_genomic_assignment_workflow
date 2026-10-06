@@ -1,0 +1,17 @@
+panel_id	panel_label	n_per_group	n_groups	n_training_total	n_test_per_group	n_test_total	n_replicates
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	2	6	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	2	10	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	2	20	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	2	40	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	2	80	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	2	160	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	2	200	5	10	30
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	2	208	1	2	30
+P2_subregion_within_africa	P2 Africa subregion	3	4	12	2	8	30
+P2_subregion_within_africa	P2 Africa subregion	4	4	16	1	4	30
+P3_subregion_within_asia	P3 Asia subregion	3	3	9	5	15	30
+P3_subregion_within_asia	P3 Asia subregion	5	3	15	5	15	30
+P3_subregion_within_asia	P3 Asia subregion	10	3	30	5	15	30
+P3_subregion_within_asia	P3 Asia subregion	20	3	60	5	15	30
+P3_subregion_within_asia	P3 Asia subregion	40	3	120	5	15	30
+P3_subregion_within_asia	P3 Asia subregion	44	3	132	1	3	30

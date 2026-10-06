@@ -1,0 +1,36 @@
+{
+  "r_files_syntax_screened": 20,
+  "inherited_R_files_byte_identical_except_Step07_formatter": 17,
+  "original_scientific_result_files_preserved_byte_for_byte_including_relocated_Step07": 1205,
+  "original_Step07_files_relocated_unchanged": 6,
+  "specimens": 22,
+  "reported_classes_resolutions_and_confidence_categories_preserved": 22,
+  "original_report_fields_preserved_per_specimen": 95,
+  "criterion_rows_independently_checked_in_Python": 264,
+  "criterion_results": {
+    "PASS": 233,
+    "FAIL": 13,
+    "NOT_EVALUATED": 18
+  },
+  "macroregion_outcomes": {
+    "FAIL": 3,
+    "PASS": 19
+  },
+  "subregion_outcomes": {
+    "NOT_EVALUATED": 3,
+    "PASS": 12,
+    "FAIL": 7
+  },
+  "workbook_sheets": 13,
+  "untouched_source_and_validation_sheet_values_preserved": 7,
+  "workbook_export_and_reimport_values_verified": true,
+  "changed_views_visually_reviewed": true,
+  "local_documentation_links_resolve": true,
+  "workbook_relationship_targets_resolve": true,
+  "reporting_formatter_native_R_execution": "not performed; R is unavailable in the packaging workspace",
+  "base_R_reporting_checks": "supplied and syntax screened; not executed",
+  "genomic_analysis_execution": "not performed; archived genomic outputs remain unchanged",
+  "release_check": "execute the updated R formatter and its checks, then compare scientific values and decisions by sample_id",
+  "stage_of_record": "Step 4 reporting reconciliation, before S6 summary presentation edits",
+  "current_S6_verification": "docs/s6_verification.json records the Step 5 preservation and integrity checks"
+}

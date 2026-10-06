@@ -1,0 +1,10 @@
+scenario_id	scenario_label	panel_id	n_baseline_markers	n_scenario_markers	n_common_markers	common_fraction_of_baseline	common_fraction_of_scenario	spearman_rank_correlation_common	spearman_score_correlation_common
+exclude_published_caution	Exclude 12 published caution references	P1_macroregion_africa_vs_asia	11086	11075	9392	0.847194659931445	0.84803611738149	0.994745706502833	0.994745746208306
+exclude_published_caution	Exclude 12 published caution references	P2_subregion_within_africa	11001	11000	7090	0.64448686483047	0.644545454545455	0.908451154323546	0.908292754859613
+exclude_published_caution	Exclude 12 published caution references	P3_subregion_within_asia	11086	11068	7848	0.707919898971676	0.709071196241417	0.964007640183473	0.96401032711427
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P1_macroregion_africa_vs_asia	11086	11085	11009	0.993054302724157	0.993143888137122	0.999956590975859	0.99995672004663
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P2_subregion_within_africa	11001	11001	11001	1	1	1	1
+exclude_low_coverage	Exclude ReuPie1 and ReuPie4	P3_subregion_within_asia	11086	11085	10828	0.976727403932888	0.97681551646369	0.999206639405005	0.99921507016381
+exclude_combined	Exclude all 14 caution or low coverage references	P1_macroregion_africa_vs_asia	11086	11073	9381	0.846202417463467	0.847195881874831	0.994697845714318	0.994697169504654
+exclude_combined	Exclude all 14 caution or low coverage references	P2_subregion_within_africa	11001	11000	7090	0.64448686483047	0.644545454545455	0.908451154323546	0.908292754859613
+exclude_combined	Exclude all 14 caution or low coverage references	P3_subregion_within_asia	11086	11067	7821	0.705484394732095	0.70669558145839	0.962985480923874	0.962961549702033

@@ -1,0 +1,17 @@
+panel_id	panel_label	n_per_group	n_replicates	n_queries	mean_fraction_calls_matching_baseline	q025_fraction_calls_matching_baseline	q975_fraction_calls_matching_baseline	fraction_replicates_all_calls_match	mean_accepted_fraction	mean_uncertainty_rate
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	30	22	1	1	1	1	0.363636363636364	0.636363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	30	22	1	1	1	1	0.757575757575758	0.242424242424242
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	30	22	1	1	1	1	0.628787878787879	0.371212121212121
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	30	22	1	1	1	1	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	30	22	1	1	1	1	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	30	22	1	1	1	1	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	30	22	1	1	1	1	0.863636363636364	0.136363636363636
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	30	22	1	1	1	1	0.863636363636364	0.136363636363636
+P2_subregion_within_africa	P2 Africa subregion	3	30	12	0.747222222222222	0.583333333333333	0.916666666666667	0	0	1
+P2_subregion_within_africa	P2 Africa subregion	4	30	12	0.733333333333333	0.477083333333333	0.916666666666667	0	0.647222222222222	0.352777777777778
+P3_subregion_within_asia	P3 Asia subregion	3	30	7	0.847619047619048	0.428571428571429	1	0.3	0	1
+P3_subregion_within_asia	P3 Asia subregion	5	30	7	0.928571428571429	0.857142857142857	1	0.5	0	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	7	0.957142857142857	0.857142857142857	1	0.7	0	1
+P3_subregion_within_asia	P3 Asia subregion	20	30	7	0.990476190476191	0.857142857142857	1	0.933333333333333	0.890476190476191	0.10952380952381
+P3_subregion_within_asia	P3 Asia subregion	40	30	7	0.995238095238095	0.960714285714286	1	0.966666666666667	0.933333333333333	0.0666666666666667
+P3_subregion_within_asia	P3 Asia subregion	44	30	7	1	1	1	1	0.947619047619048	0.0523809523809524

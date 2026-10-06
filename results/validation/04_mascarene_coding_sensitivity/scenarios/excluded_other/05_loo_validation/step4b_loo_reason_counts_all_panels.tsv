@@ -1,0 +1,7 @@
+panel_id	final_reason	N
+P1_macroregion_africa_vs_asia	ok	275
+P2_subregion_within_africa	ok	95
+P2_subregion_within_africa	low_global_K_agreement	9
+P2_subregion_within_africa	low_posterior	1
+P3_subregion_within_asia	ok	155
+P3_subregion_within_asia	low_global_K_agreement	15

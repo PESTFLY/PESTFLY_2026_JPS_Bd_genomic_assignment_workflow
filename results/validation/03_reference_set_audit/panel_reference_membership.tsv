@@ -1,0 +1,641 @@
+panel_id	panel_label	group_col	sample_id	analytical_group	macroregion_3	subregion	country	site	collection	sample_accession
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComAnj1	Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B1_L1_301X01
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComAnj2	Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B2_L4_302X02
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComAnj3	Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B3_L1_303X03
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComAnj4	Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B4_L1_304X04
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComAnj5	Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B5_L4_305X05
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BIBJ01	Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528712
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BIBJ02	Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528713
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BIBJ03	Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528714
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BIBJ04	Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528715
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BIBJ05	Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528716
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CDKB01	Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528702
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CDKB02	Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528703
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CDKB03	Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528704
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CDKB04	Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528705
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CDKB05	Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528706
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ETMS01	Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528672
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ETMS02	Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528673
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ETMS03	Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528674
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ETMS04	Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528675
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ETMS05	Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528676
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GHND01	Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528649
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GHND02	Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528650
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GHND03	Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528651
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GHND04	Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528652
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GHND05	Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528653
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComGra1	Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B16_L4_318X18
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComGra2	Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B17_L1_335X35
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComGra3	Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B18_L4_336X36
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComGra5	Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B20_L1_338X38
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComGra6	Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B19_L1_337X37merged
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CIBD01	Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528659
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CIBD02	Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528660
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CIBD03	Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528661
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CIBD04	Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528662
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	CIBD05	Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528663
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	KENB01	Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528692
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	KENB02	Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528693
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	KENB03	Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528694
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	KENB04	Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528695
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	KENB05	Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528696
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadAmb1	Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B46_L4_339X39
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadAmb2	Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B47_L4_321X21
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadAmb3	Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B48_L4_322X22
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadAmb4	Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B49_L4_323X23
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadAmb5	Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B50_L4_324X24
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MGAT05	Africa	Africa	E_Africa	Madagascar	Antananarivo	Yue_Global	CNS0528746
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MGAT06	Africa	Africa	E_Africa	Madagascar	Antananarivo	Yue_Global	CNS0528742
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMah1	Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B61_L4_334X34
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMah2	Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B62_L4_341X41
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMah3	Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B63_L4_342X42
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMah4	Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B64_L4_343X43
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMah5	Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B65_L4_344X44
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMan1	Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B69_L4_348X48
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMan2	Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B70_L4_349X49
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMan3	Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B71_L4_350X50
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMan4	Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B72_L4_351X51
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MadMan5	Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B73_L2_102A02
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MWZB01	Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528722
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MWZB02	Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528723
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MWZB03	Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528724
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MWZB04	Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528725
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MWZB05	Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528726
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MLBM01	Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528639
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MLBM02	Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528640
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MLBM03	Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528641
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MLBM04	Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528642
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MLBM05	Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528643
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MayDem1	Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B99_L2_146A46
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MayDem2	Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B100_L2_147A47
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MayDem3	Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B101_L2_148A48
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MayDem4	Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B102_L2_149A49
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MayDem5	Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B103_L2_150A50
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MaySad1	Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B109_L2_156A56
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MaySad2	Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B110_L2_157A57
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MaySad3	Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B111_L2_158A58
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MaySad4	Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B112_L3_159A59
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MaySad5	Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B113_L2_160A60
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComMoh1	Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B31_L1_348X48
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComMoh2	Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B32_L4_349X49
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComMoh3	Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B33_L4_350X50
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComMoh4	Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B34_L2_117A17
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ComMoh5	Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B35_L2_118A18
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NGNS01	Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528669
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NGNS02	Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528670
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NGNS03	Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528671
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SNBG01	Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528629
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SNBG02	Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528630
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SNBG03	Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528631
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SNBG04	Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528632
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SNBG05	Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528633
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZAMP01	Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528732
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZAMP02	Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528733
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZAMP03	Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528734
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZAMP04	Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528735
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZAMP05	Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528736
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SDSG01	Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528619
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SDSG02	Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528620
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SDSG03	Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528621
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SDSG04	Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528622
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SDSG05	Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528623
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	UGEB01	Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528682
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	UGEB02	Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528683
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	UGEB03	Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528684
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	UGEB04	Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528685
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	UGEB05	Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528686
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BDKG01	Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528609
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BDKG02	Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528610
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BDKG03	Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528611
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BDKG04	Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528612
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	BDKG05	Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528613
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	FJZZ01	Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528385
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	FJZZ02	Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528386
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	FJZZ03	Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528387
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	FJZZ04	Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528388
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	FJZZ05	Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528389
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GDGZ01	Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528395
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GDGZ02	Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528396
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GDGZ03	Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528397
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GDGZ04	Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528398
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GDGZ05	Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528399
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GXNN01	Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528375
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GXNN02	Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528376
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GXNN03	Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528377
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GXNN04	Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528378
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GXNN05	Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528379
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GZDY01	Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528345
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GZDY02	Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528346
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GZDY03	Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528347
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GZDY04	Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528348
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	GZDY05	Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528349
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNDZ01	Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528405
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNDZ02	Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528406
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNDZ03	Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528407
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNDZ04	Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528408
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNDZ05	Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528409
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNLY01	Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528275
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNLY02	Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528276
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNLY03	Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528277
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNLY04	Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528278
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNLY05	Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528279
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HBWH01	Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528295
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HBWH02	Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528296
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HBWH03	Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528297
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HBWH04	Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528298
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HBWH05	Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528299
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNSY01	Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528315
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNSY02	Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528316
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNSY03	Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528317
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNSY04	Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528318
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	HNSY05	Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528319
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JSZJ01	Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528285
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JSZJ02	Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528286
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JSZJ03	Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528287
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JSZJ04	Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528288
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JSZJ05	Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528289
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JXNC01	Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528325
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JXNC02	Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528326
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JXNC03	Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528327
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JXNC04	Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528328
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	JXNC05	Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528329
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SCLS01	Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528335
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SCLS02	Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528336
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SCLS03	Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528337
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SCLS04	Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528338
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	SCLS05	Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528339
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWPD01	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528415
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWPD02	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528416
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWPD03	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528417
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWPD04	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528418
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWPD05	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528419
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWTY01	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528425
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWTY02	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528426
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWTY03	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528427
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWTY04	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528428
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	TWTY05	Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528429
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNBS01	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528355
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNBS02	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528356
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNBS03	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528357
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNBS04	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528358
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNBS05	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528359
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNJH01	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528365
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNJH02	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528366
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNJH03	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528367
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNJH04	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528368
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	YNJH05	Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528369
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZJZJ01	Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528305
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZJZJ02	Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528306
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZJZJ03	Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528307
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZJZJ04	Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528308
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ZJZJ05	Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528309
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INAS01	Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528565
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INAS02	Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528566
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INAS03	Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528567
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INAS04	Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528568
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INAS05	Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528569
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INBH01	Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528575
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INBH02	Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528576
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INBH03	Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528577
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INBH04	Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528578
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INBH05	Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528579
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INPJ01	Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528555
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INPJ02	Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528556
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INPJ03	Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528557
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INPJ04	Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528558
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INPJ05	Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528559
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTN01	Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528589
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTN02	Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528590
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTN03	Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528591
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTN04	Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528592
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTN05	Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528593
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTG01	Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528583
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTG02	Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528584
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTG03	Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528585
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTG04	Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528586
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	INTG05	Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528587
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	IDJI01	Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528525
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	IDJI02	Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528526
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	IDJI03	Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528527
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	IDJI04	Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528528
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	IDJI05	Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528529
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LAVT01	Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528435
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LAVT02	Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528436
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LAVT03	Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528437
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LAVT04	Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528438
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LAVT05	Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528439
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MYKL01	Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528515
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MYKL02	Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528516
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MYKL03	Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528517
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MYKL04	Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528518
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MYKL05	Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528519
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MauLaS1	Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B84_L2_133A33
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MauLaS2	Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B85_L2_134A34
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MauLaS3	Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B86_L2_135A35
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MauLaS4	Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B87_L2_105A05
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MauLaS5	Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B88_L2_106A06
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MMYG01	Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528455
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MMYG02	Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528456
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MMYG03	Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528457
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MMYG04	Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528458
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	MMYG05	Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528459
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NPSH04	Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528448
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NPSH05	Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528449
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NPSH06	Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528445
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NPSH07	Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528446
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	NPSH08	Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528447
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PKMR01	Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528545
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PKMR02	Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528546
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PKMR03	Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528547
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PKMR04	Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528548
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PKMR05	Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528549
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDV01	Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528505
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDV02	Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528506
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDV03	Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528507
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDV04	Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528508
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDV05	Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528509
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDM01	Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528495
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDM02	Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528496
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDM03	Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528497
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDM04	Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528498
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	PHDM05	Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528499
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBas1	Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B119_L4_107A07
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBas2	Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B120_L2_166A66
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBas3	Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B121_L2_167A67
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBas4	Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B122_L2_168A68
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBas5	Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B123_L3_169A69
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPaL5	Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP16_MKDN240006771-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPal1	Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP11_MKDN240006767-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPal2	Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP12_MKDN240006768-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPal3	Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP14_MKDN240006769-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPal4	Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP15_MKDN240006770-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSaL5	Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IF10_MKDN250007517-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSal1	Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IA10_MKDN250007512-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSal2	Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IB10_MKDN250007513-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSal3	Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IC10_MKDN250007514-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSal4	Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IE10_MKDN250007516-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuAnd1	Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KB12_MKDN250007541-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuAnd2	Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KE12_MKDN250007544-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuAnd3	Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KG12_MKDN250007546-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuAnd4	Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KH12_MKDN250007547-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuAnd5	Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KI12_MKDN250007548-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBen1	Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV13_MKDN240006761-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBen2	Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV15_MKDN240006762-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBen3	Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV1_MKDN240006754-1A_227WTFLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBen4	Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV2_MKDN240006755-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuBen5	Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV3_MKDN240006756-1A_227WTFLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPau1	Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BB3_MKDN250007421-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPau2	Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BC3_MKDN250007422-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPau3	Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BD3_MKDN250007423-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPau4	Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BE3_MKDN250007424-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPau5	Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BF3_MKDN250007425-1A_22NHNCLT4_L5
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPie1	Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GA8_MKDN250007487-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPie2	Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GB8_MKDN250007488-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPie3	Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GD8_MKDN250007490-1A_22NHNCLT4_L6
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPie4	Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GE8_MKDN250007491-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuPie5	Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GF8_MKDN250007492-1A_22NHNCLT4_L7
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSte1	Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B134_L3_339X39
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSte2	Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B135_L3_108A08
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSte3	Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B136_L3_109A09
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSte4	Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B137_L3_172A72
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	ReuSte5	Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B138_L3_173A73
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LKAD01	Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528599
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LKAD02	Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528600
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LKAD03	Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528601
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LKAD04	Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528602
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	LKAD05	Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528603
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THBK01	Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528465
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THBK02	Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528466
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THBK03	Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528467
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THBK04	Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528468
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THBK06	Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528469
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THPK01	Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528475
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THPK02	Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528476
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THPK03	Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528477
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THPK04	Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528478
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	THPK05	Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528479
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	VNTG01	Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528485
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	VNTG02	Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528486
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	VNTG03	Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528487
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	VNTG04	Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528488
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	VNTG05	Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528489
+P2_subregion_within_africa	P2 Africa subregion	subregion	CDKB01	C_Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528702
+P2_subregion_within_africa	P2 Africa subregion	subregion	CDKB02	C_Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528703
+P2_subregion_within_africa	P2 Africa subregion	subregion	CDKB03	C_Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528704
+P2_subregion_within_africa	P2 Africa subregion	subregion	CDKB04	C_Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528705
+P2_subregion_within_africa	P2 Africa subregion	subregion	CDKB05	C_Africa	Africa	C_Africa	Congo	Kabare	Yue_Global	CNS0528706
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComAnj1	E_Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B1_L1_301X01
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComAnj2	E_Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B2_L4_302X02
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComAnj3	E_Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B3_L1_303X03
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComAnj4	E_Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B4_L1_304X04
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComAnj5	E_Africa	Africa	E_Africa	Anjouan	Mutsamudu	Pablo_IO	B5_L4_305X05
+P2_subregion_within_africa	P2 Africa subregion	subregion	BIBJ01	E_Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528712
+P2_subregion_within_africa	P2 Africa subregion	subregion	BIBJ02	E_Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528713
+P2_subregion_within_africa	P2 Africa subregion	subregion	BIBJ03	E_Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528714
+P2_subregion_within_africa	P2 Africa subregion	subregion	BIBJ04	E_Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528715
+P2_subregion_within_africa	P2 Africa subregion	subregion	BIBJ05	E_Africa	Africa	E_Africa	Burundi	Bujumbu	Yue_Global	CNS0528716
+P2_subregion_within_africa	P2 Africa subregion	subregion	ETMS01	E_Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528672
+P2_subregion_within_africa	P2 Africa subregion	subregion	ETMS02	E_Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528673
+P2_subregion_within_africa	P2 Africa subregion	subregion	ETMS03	E_Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528674
+P2_subregion_within_africa	P2 Africa subregion	subregion	ETMS04	E_Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528675
+P2_subregion_within_africa	P2 Africa subregion	subregion	ETMS05	E_Africa	Africa	E_Africa	Ethiopia	Mieso	Yue_Global	CNS0528676
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComGra1	E_Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B16_L4_318X18
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComGra2	E_Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B17_L1_335X35
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComGra3	E_Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B18_L4_336X36
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComGra5	E_Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B20_L1_338X38
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComGra6	E_Africa	Africa	E_Africa	Grande_Comore	Mandzissani	Pablo_IO	B19_L1_337X37merged
+P2_subregion_within_africa	P2 Africa subregion	subregion	KENB01	E_Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528692
+P2_subregion_within_africa	P2 Africa subregion	subregion	KENB02	E_Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528693
+P2_subregion_within_africa	P2 Africa subregion	subregion	KENB03	E_Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528694
+P2_subregion_within_africa	P2 Africa subregion	subregion	KENB04	E_Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528695
+P2_subregion_within_africa	P2 Africa subregion	subregion	KENB05	E_Africa	Africa	E_Africa	Kenya	Nairobi	Yue_Global	CNS0528696
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadAmb1	E_Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B46_L4_339X39
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadAmb2	E_Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B47_L4_321X21
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadAmb3	E_Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B48_L4_322X22
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadAmb4	E_Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B49_L4_323X23
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadAmb5	E_Africa	Africa	E_Africa	Madagascar	Ambatobe	Pablo_IO	B50_L4_324X24
+P2_subregion_within_africa	P2 Africa subregion	subregion	MGAT05	E_Africa	Africa	E_Africa	Madagascar	Antananarivo	Yue_Global	CNS0528746
+P2_subregion_within_africa	P2 Africa subregion	subregion	MGAT06	E_Africa	Africa	E_Africa	Madagascar	Antananarivo	Yue_Global	CNS0528742
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMah1	E_Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B61_L4_334X34
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMah2	E_Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B62_L4_341X41
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMah3	E_Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B63_L4_342X42
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMah4	E_Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B64_L4_343X43
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMah5	E_Africa	Africa	E_Africa	Madagascar	Mahaboboka	Pablo_IO	B65_L4_344X44
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMan1	E_Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B69_L4_348X48
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMan2	E_Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B70_L4_349X49
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMan3	E_Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B71_L4_350X50
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMan4	E_Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B72_L4_351X51
+P2_subregion_within_africa	P2 Africa subregion	subregion	MadMan5	E_Africa	Africa	E_Africa	Madagascar	Mangatsa	Pablo_IO	B73_L2_102A02
+P2_subregion_within_africa	P2 Africa subregion	subregion	MayDem1	E_Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B99_L2_146A46
+P2_subregion_within_africa	P2 Africa subregion	subregion	MayDem2	E_Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B100_L2_147A47
+P2_subregion_within_africa	P2 Africa subregion	subregion	MayDem3	E_Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B101_L2_148A48
+P2_subregion_within_africa	P2 Africa subregion	subregion	MayDem4	E_Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B102_L2_149A49
+P2_subregion_within_africa	P2 Africa subregion	subregion	MayDem5	E_Africa	Africa	E_Africa	Mayotte	Dembéni	Pablo_IO	B103_L2_150A50
+P2_subregion_within_africa	P2 Africa subregion	subregion	MaySad1	E_Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B109_L2_156A56
+P2_subregion_within_africa	P2 Africa subregion	subregion	MaySad2	E_Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B110_L2_157A57
+P2_subregion_within_africa	P2 Africa subregion	subregion	MaySad3	E_Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B111_L2_158A58
+P2_subregion_within_africa	P2 Africa subregion	subregion	MaySad4	E_Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B112_L3_159A59
+P2_subregion_within_africa	P2 Africa subregion	subregion	MaySad5	E_Africa	Africa	E_Africa	Mayotte	Sada	Pablo_IO	B113_L2_160A60
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComMoh1	E_Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B31_L1_348X48
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComMoh2	E_Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B32_L4_349X49
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComMoh3	E_Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B33_L4_350X50
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComMoh4	E_Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B34_L2_117A17
+P2_subregion_within_africa	P2 Africa subregion	subregion	ComMoh5	E_Africa	Africa	E_Africa	Moheli	Fomboni	Pablo_IO	B35_L2_118A18
+P2_subregion_within_africa	P2 Africa subregion	subregion	SDSG01	E_Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528619
+P2_subregion_within_africa	P2 Africa subregion	subregion	SDSG02	E_Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528620
+P2_subregion_within_africa	P2 Africa subregion	subregion	SDSG03	E_Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528621
+P2_subregion_within_africa	P2 Africa subregion	subregion	SDSG04	E_Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528622
+P2_subregion_within_africa	P2 Africa subregion	subregion	SDSG05	E_Africa	Africa	E_Africa	Sudan	Singa	Yue_Global	CNS0528623
+P2_subregion_within_africa	P2 Africa subregion	subregion	UGEB01	E_Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528682
+P2_subregion_within_africa	P2 Africa subregion	subregion	UGEB02	E_Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528683
+P2_subregion_within_africa	P2 Africa subregion	subregion	UGEB03	E_Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528684
+P2_subregion_within_africa	P2 Africa subregion	subregion	UGEB04	E_Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528685
+P2_subregion_within_africa	P2 Africa subregion	subregion	UGEB05	E_Africa	Africa	E_Africa	Uganda	Entebbe	Yue_Global	CNS0528686
+P2_subregion_within_africa	P2 Africa subregion	subregion	MWZB01	S_Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528722
+P2_subregion_within_africa	P2 Africa subregion	subregion	MWZB02	S_Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528723
+P2_subregion_within_africa	P2 Africa subregion	subregion	MWZB03	S_Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528724
+P2_subregion_within_africa	P2 Africa subregion	subregion	MWZB04	S_Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528725
+P2_subregion_within_africa	P2 Africa subregion	subregion	MWZB05	S_Africa	Africa	S_Africa	Malawi	Zomba	Yue_Global	CNS0528726
+P2_subregion_within_africa	P2 Africa subregion	subregion	ZAMP01	S_Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528732
+P2_subregion_within_africa	P2 Africa subregion	subregion	ZAMP02	S_Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528733
+P2_subregion_within_africa	P2 Africa subregion	subregion	ZAMP03	S_Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528734
+P2_subregion_within_africa	P2 Africa subregion	subregion	ZAMP04	S_Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528735
+P2_subregion_within_africa	P2 Africa subregion	subregion	ZAMP05	S_Africa	Africa	S_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528736
+P2_subregion_within_africa	P2 Africa subregion	subregion	GHND01	W_Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528649
+P2_subregion_within_africa	P2 Africa subregion	subregion	GHND02	W_Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528650
+P2_subregion_within_africa	P2 Africa subregion	subregion	GHND03	W_Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528651
+P2_subregion_within_africa	P2 Africa subregion	subregion	GHND04	W_Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528652
+P2_subregion_within_africa	P2 Africa subregion	subregion	GHND05	W_Africa	Africa	W_Africa	Ghana	Nord	Yue_Global	CNS0528653
+P2_subregion_within_africa	P2 Africa subregion	subregion	CIBD01	W_Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528659
+P2_subregion_within_africa	P2 Africa subregion	subregion	CIBD02	W_Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528660
+P2_subregion_within_africa	P2 Africa subregion	subregion	CIBD03	W_Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528661
+P2_subregion_within_africa	P2 Africa subregion	subregion	CIBD04	W_Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528662
+P2_subregion_within_africa	P2 Africa subregion	subregion	CIBD05	W_Africa	Africa	W_Africa	Ivory_Coast	Boundiali	Yue_Global	CNS0528663
+P2_subregion_within_africa	P2 Africa subregion	subregion	MLBM01	W_Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528639
+P2_subregion_within_africa	P2 Africa subregion	subregion	MLBM02	W_Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528640
+P2_subregion_within_africa	P2 Africa subregion	subregion	MLBM03	W_Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528641
+P2_subregion_within_africa	P2 Africa subregion	subregion	MLBM04	W_Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528642
+P2_subregion_within_africa	P2 Africa subregion	subregion	MLBM05	W_Africa	Africa	W_Africa	Mali	Bamako	Yue_Global	CNS0528643
+P2_subregion_within_africa	P2 Africa subregion	subregion	NGNS01	W_Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528669
+P2_subregion_within_africa	P2 Africa subregion	subregion	NGNS02	W_Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528670
+P2_subregion_within_africa	P2 Africa subregion	subregion	NGNS03	W_Africa	Africa	W_Africa	Nigeria	Nasarawa	Yue_Global	CNS0528671
+P2_subregion_within_africa	P2 Africa subregion	subregion	SNBG01	W_Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528629
+P2_subregion_within_africa	P2 Africa subregion	subregion	SNBG02	W_Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528630
+P2_subregion_within_africa	P2 Africa subregion	subregion	SNBG03	W_Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528631
+P2_subregion_within_africa	P2 Africa subregion	subregion	SNBG04	W_Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528632
+P2_subregion_within_africa	P2 Africa subregion	subregion	SNBG05	W_Africa	Africa	W_Africa	Senegal	Bignona	Yue_Global	CNS0528633
+P3_subregion_within_asia	P3 Asia subregion	subregion	FJZZ01	E_Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528385
+P3_subregion_within_asia	P3 Asia subregion	subregion	FJZZ02	E_Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528386
+P3_subregion_within_asia	P3 Asia subregion	subregion	FJZZ03	E_Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528387
+P3_subregion_within_asia	P3 Asia subregion	subregion	FJZZ04	E_Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528388
+P3_subregion_within_asia	P3 Asia subregion	subregion	FJZZ05	E_Asia	Asia	E_Asia	China	Fujian	Yue_Global	CNS0528389
+P3_subregion_within_asia	P3 Asia subregion	subregion	GDGZ01	E_Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528395
+P3_subregion_within_asia	P3 Asia subregion	subregion	GDGZ02	E_Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528396
+P3_subregion_within_asia	P3 Asia subregion	subregion	GDGZ03	E_Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528397
+P3_subregion_within_asia	P3 Asia subregion	subregion	GDGZ04	E_Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528398
+P3_subregion_within_asia	P3 Asia subregion	subregion	GDGZ05	E_Asia	Asia	E_Asia	China	Guangdong	Yue_Global	CNS0528399
+P3_subregion_within_asia	P3 Asia subregion	subregion	GXNN01	E_Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528375
+P3_subregion_within_asia	P3 Asia subregion	subregion	GXNN02	E_Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528376
+P3_subregion_within_asia	P3 Asia subregion	subregion	GXNN03	E_Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528377
+P3_subregion_within_asia	P3 Asia subregion	subregion	GXNN04	E_Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528378
+P3_subregion_within_asia	P3 Asia subregion	subregion	GXNN05	E_Asia	Asia	E_Asia	China	Guangxi	Yue_Global	CNS0528379
+P3_subregion_within_asia	P3 Asia subregion	subregion	GZDY01	E_Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528345
+P3_subregion_within_asia	P3 Asia subregion	subregion	GZDY02	E_Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528346
+P3_subregion_within_asia	P3 Asia subregion	subregion	GZDY03	E_Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528347
+P3_subregion_within_asia	P3 Asia subregion	subregion	GZDY04	E_Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528348
+P3_subregion_within_asia	P3 Asia subregion	subregion	GZDY05	E_Asia	Asia	E_Asia	China	Guizhou	Yue_Global	CNS0528349
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNDZ01	E_Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528405
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNDZ02	E_Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528406
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNDZ03	E_Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528407
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNDZ04	E_Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528408
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNDZ05	E_Asia	Asia	E_Asia	China	Hainan	Yue_Global	CNS0528409
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNLY01	E_Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528275
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNLY02	E_Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528276
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNLY03	E_Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528277
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNLY04	E_Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528278
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNLY05	E_Asia	Asia	E_Asia	China	Henan	Yue_Global	CNS0528279
+P3_subregion_within_asia	P3 Asia subregion	subregion	HBWH01	E_Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528295
+P3_subregion_within_asia	P3 Asia subregion	subregion	HBWH02	E_Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528296
+P3_subregion_within_asia	P3 Asia subregion	subregion	HBWH03	E_Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528297
+P3_subregion_within_asia	P3 Asia subregion	subregion	HBWH04	E_Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528298
+P3_subregion_within_asia	P3 Asia subregion	subregion	HBWH05	E_Asia	Asia	E_Asia	China	Hubei	Yue_Global	CNS0528299
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNSY01	E_Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528315
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNSY02	E_Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528316
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNSY03	E_Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528317
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNSY04	E_Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528318
+P3_subregion_within_asia	P3 Asia subregion	subregion	HNSY05	E_Asia	Asia	E_Asia	China	Hunan	Yue_Global	CNS0528319
+P3_subregion_within_asia	P3 Asia subregion	subregion	JSZJ01	E_Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528285
+P3_subregion_within_asia	P3 Asia subregion	subregion	JSZJ02	E_Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528286
+P3_subregion_within_asia	P3 Asia subregion	subregion	JSZJ03	E_Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528287
+P3_subregion_within_asia	P3 Asia subregion	subregion	JSZJ04	E_Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528288
+P3_subregion_within_asia	P3 Asia subregion	subregion	JSZJ05	E_Asia	Asia	E_Asia	China	Jiangsu	Yue_Global	CNS0528289
+P3_subregion_within_asia	P3 Asia subregion	subregion	JXNC01	E_Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528325
+P3_subregion_within_asia	P3 Asia subregion	subregion	JXNC02	E_Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528326
+P3_subregion_within_asia	P3 Asia subregion	subregion	JXNC03	E_Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528327
+P3_subregion_within_asia	P3 Asia subregion	subregion	JXNC04	E_Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528328
+P3_subregion_within_asia	P3 Asia subregion	subregion	JXNC05	E_Asia	Asia	E_Asia	China	Jiangxi	Yue_Global	CNS0528329
+P3_subregion_within_asia	P3 Asia subregion	subregion	SCLS01	E_Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528335
+P3_subregion_within_asia	P3 Asia subregion	subregion	SCLS02	E_Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528336
+P3_subregion_within_asia	P3 Asia subregion	subregion	SCLS03	E_Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528337
+P3_subregion_within_asia	P3 Asia subregion	subregion	SCLS04	E_Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528338
+P3_subregion_within_asia	P3 Asia subregion	subregion	SCLS05	E_Asia	Asia	E_Asia	China	Sichuan	Yue_Global	CNS0528339
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWPD01	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528415
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWPD02	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528416
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWPD03	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528417
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWPD04	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528418
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWPD05	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528419
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWTY01	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528425
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWTY02	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528426
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWTY03	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528427
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWTY04	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528428
+P3_subregion_within_asia	P3 Asia subregion	subregion	TWTY05	E_Asia	Asia	E_Asia	China	Taiwan	Yue_Global	CNS0528429
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNBS01	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528355
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNBS02	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528356
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNBS03	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528357
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNBS04	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528358
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNBS05	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528359
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNJH01	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528365
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNJH02	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528366
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNJH03	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528367
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNJH04	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528368
+P3_subregion_within_asia	P3 Asia subregion	subregion	YNJH05	E_Asia	Asia	E_Asia	China	Yunnan	Yue_Global	CNS0528369
+P3_subregion_within_asia	P3 Asia subregion	subregion	ZJZJ01	E_Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528305
+P3_subregion_within_asia	P3 Asia subregion	subregion	ZJZJ02	E_Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528306
+P3_subregion_within_asia	P3 Asia subregion	subregion	ZJZJ03	E_Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528307
+P3_subregion_within_asia	P3 Asia subregion	subregion	ZJZJ04	E_Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528308
+P3_subregion_within_asia	P3 Asia subregion	subregion	ZJZJ05	E_Asia	Asia	E_Asia	China	Zhejiang	Yue_Global	CNS0528309
+P3_subregion_within_asia	P3 Asia subregion	subregion	IDJI01	SE_Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528525
+P3_subregion_within_asia	P3 Asia subregion	subregion	IDJI02	SE_Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528526
+P3_subregion_within_asia	P3 Asia subregion	subregion	IDJI03	SE_Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528527
+P3_subregion_within_asia	P3 Asia subregion	subregion	IDJI04	SE_Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528528
+P3_subregion_within_asia	P3 Asia subregion	subregion	IDJI05	SE_Asia	Asia	SE_Asia	Indonesia	Java	Yue_Global	CNS0528529
+P3_subregion_within_asia	P3 Asia subregion	subregion	LAVT01	SE_Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528435
+P3_subregion_within_asia	P3 Asia subregion	subregion	LAVT02	SE_Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528436
+P3_subregion_within_asia	P3 Asia subregion	subregion	LAVT03	SE_Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528437
+P3_subregion_within_asia	P3 Asia subregion	subregion	LAVT04	SE_Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528438
+P3_subregion_within_asia	P3 Asia subregion	subregion	LAVT05	SE_Asia	Asia	SE_Asia	Laos	Vientiane	Yue_Global	CNS0528439
+P3_subregion_within_asia	P3 Asia subregion	subregion	MYKL01	SE_Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528515
+P3_subregion_within_asia	P3 Asia subregion	subregion	MYKL02	SE_Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528516
+P3_subregion_within_asia	P3 Asia subregion	subregion	MYKL03	SE_Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528517
+P3_subregion_within_asia	P3 Asia subregion	subregion	MYKL04	SE_Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528518
+P3_subregion_within_asia	P3 Asia subregion	subregion	MYKL05	SE_Asia	Asia	SE_Asia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528519
+P3_subregion_within_asia	P3 Asia subregion	subregion	MauLaS1	SE_Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B84_L2_133A33
+P3_subregion_within_asia	P3 Asia subregion	subregion	MauLaS2	SE_Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B85_L2_134A34
+P3_subregion_within_asia	P3 Asia subregion	subregion	MauLaS3	SE_Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B86_L2_135A35
+P3_subregion_within_asia	P3 Asia subregion	subregion	MauLaS4	SE_Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B87_L2_105A05
+P3_subregion_within_asia	P3 Asia subregion	subregion	MauLaS5	SE_Asia	Asia	SE_Asia	Mauritius	LaSource	Pablo_IO	B88_L2_106A06
+P3_subregion_within_asia	P3 Asia subregion	subregion	MMYG01	SE_Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528455
+P3_subregion_within_asia	P3 Asia subregion	subregion	MMYG02	SE_Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528456
+P3_subregion_within_asia	P3 Asia subregion	subregion	MMYG03	SE_Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528457
+P3_subregion_within_asia	P3 Asia subregion	subregion	MMYG04	SE_Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528458
+P3_subregion_within_asia	P3 Asia subregion	subregion	MMYG05	SE_Asia	Asia	SE_Asia	Myanmar	Yangon	Yue_Global	CNS0528459
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDV01	SE_Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528505
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDV02	SE_Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528506
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDV03	SE_Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528507
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDV04	SE_Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528508
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDV05	SE_Asia	Asia	SE_Asia	Philippines	Davao	Yue_Global	CNS0528509
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDM01	SE_Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528495
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDM02	SE_Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528496
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDM03	SE_Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528497
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDM04	SE_Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528498
+P3_subregion_within_asia	P3 Asia subregion	subregion	PHDM05	SE_Asia	Asia	SE_Asia	Philippines	Dumaguete	Yue_Global	CNS0528499
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBas1	SE_Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B119_L4_107A07
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBas2	SE_Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B120_L2_166A66
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBas3	SE_Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B121_L2_167A67
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBas4	SE_Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B122_L2_168A68
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBas5	SE_Asia	Asia	SE_Asia	Reunion	BasTerHaut	Pablo_IO	B123_L3_169A69
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPaL5	SE_Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP16_MKDN240006771-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPal1	SE_Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP11_MKDN240006767-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPal2	SE_Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP12_MKDN240006768-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPal3	SE_Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP14_MKDN240006769-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPal4	SE_Asia	Asia	SE_Asia	Reunion	Palmistes	REACT	PP15_MKDN240006770-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSaL5	SE_Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IF10_MKDN250007517-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSal1	SE_Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IA10_MKDN250007512-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSal2	SE_Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IB10_MKDN250007513-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSal3	SE_Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IC10_MKDN250007514-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSal4	SE_Asia	Asia	SE_Asia	Reunion	Salazie	REACT	IE10_MKDN250007516-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuAnd1	SE_Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KB12_MKDN250007541-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuAnd2	SE_Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KE12_MKDN250007544-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuAnd3	SE_Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KG12_MKDN250007546-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuAnd4	SE_Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KH12_MKDN250007547-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuAnd5	SE_Asia	Asia	SE_Asia	Reunion	StAndré	REACT	KI12_MKDN250007548-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBen1	SE_Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV13_MKDN240006761-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBen2	SE_Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV15_MKDN240006762-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBen3	SE_Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV1_MKDN240006754-1A_227WTFLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBen4	SE_Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV2_MKDN240006755-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuBen5	SE_Asia	Asia	SE_Asia	Reunion	StBenoit	REACT	SBV3_MKDN240006756-1A_227WTFLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPau1	SE_Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BB3_MKDN250007421-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPau2	SE_Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BC3_MKDN250007422-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPau3	SE_Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BD3_MKDN250007423-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPau4	SE_Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BE3_MKDN250007424-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPau5	SE_Asia	Asia	SE_Asia	Reunion	StPaul	REACT	BF3_MKDN250007425-1A_22NHNCLT4_L5
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPie1	SE_Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GA8_MKDN250007487-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPie2	SE_Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GB8_MKDN250007488-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPie3	SE_Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GD8_MKDN250007490-1A_22NHNCLT4_L6
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPie4	SE_Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GE8_MKDN250007491-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuPie5	SE_Asia	Asia	SE_Asia	Reunion	StPierre	REACT	GF8_MKDN250007492-1A_22NHNCLT4_L7
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSte1	SE_Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B134_L3_339X39
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSte2	SE_Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B135_L3_108A08
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSte3	SE_Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B136_L3_109A09
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSte4	SE_Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B137_L3_172A72
+P3_subregion_within_asia	P3 Asia subregion	subregion	ReuSte5	SE_Asia	Asia	SE_Asia	Reunion	SteRose	Pablo_IO	B138_L3_173A73
+P3_subregion_within_asia	P3 Asia subregion	subregion	THBK01	SE_Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528465
+P3_subregion_within_asia	P3 Asia subregion	subregion	THBK02	SE_Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528466
+P3_subregion_within_asia	P3 Asia subregion	subregion	THBK03	SE_Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528467
+P3_subregion_within_asia	P3 Asia subregion	subregion	THBK04	SE_Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528468
+P3_subregion_within_asia	P3 Asia subregion	subregion	THBK06	SE_Asia	Asia	SE_Asia	Thailand	Bangkok	Yue_Global	CNS0528469
+P3_subregion_within_asia	P3 Asia subregion	subregion	THPK01	SE_Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528475
+P3_subregion_within_asia	P3 Asia subregion	subregion	THPK02	SE_Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528476
+P3_subregion_within_asia	P3 Asia subregion	subregion	THPK03	SE_Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528477
+P3_subregion_within_asia	P3 Asia subregion	subregion	THPK04	SE_Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528478
+P3_subregion_within_asia	P3 Asia subregion	subregion	THPK05	SE_Asia	Asia	SE_Asia	Thailand	Phuket	Yue_Global	CNS0528479
+P3_subregion_within_asia	P3 Asia subregion	subregion	VNTG01	SE_Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528485
+P3_subregion_within_asia	P3 Asia subregion	subregion	VNTG02	SE_Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528486
+P3_subregion_within_asia	P3 Asia subregion	subregion	VNTG03	SE_Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528487
+P3_subregion_within_asia	P3 Asia subregion	subregion	VNTG04	SE_Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528488
+P3_subregion_within_asia	P3 Asia subregion	subregion	VNTG05	SE_Asia	Asia	SE_Asia	Viet_Nam	NA	Yue_Global	CNS0528489
+P3_subregion_within_asia	P3 Asia subregion	subregion	BDKG01	S_Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528609
+P3_subregion_within_asia	P3 Asia subregion	subregion	BDKG02	S_Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528610
+P3_subregion_within_asia	P3 Asia subregion	subregion	BDKG03	S_Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528611
+P3_subregion_within_asia	P3 Asia subregion	subregion	BDKG04	S_Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528612
+P3_subregion_within_asia	P3 Asia subregion	subregion	BDKG05	S_Asia	Asia	S_Asia	Bangladesh	Khagrachari	Yue_Global	CNS0528613
+P3_subregion_within_asia	P3 Asia subregion	subregion	INAS01	S_Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528565
+P3_subregion_within_asia	P3 Asia subregion	subregion	INAS02	S_Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528566
+P3_subregion_within_asia	P3 Asia subregion	subregion	INAS03	S_Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528567
+P3_subregion_within_asia	P3 Asia subregion	subregion	INAS04	S_Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528568
+P3_subregion_within_asia	P3 Asia subregion	subregion	INAS05	S_Asia	Asia	S_Asia	India	Assam	Yue_Global	CNS0528569
+P3_subregion_within_asia	P3 Asia subregion	subregion	INBH01	S_Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528575
+P3_subregion_within_asia	P3 Asia subregion	subregion	INBH02	S_Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528576
+P3_subregion_within_asia	P3 Asia subregion	subregion	INBH03	S_Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528577
+P3_subregion_within_asia	P3 Asia subregion	subregion	INBH04	S_Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528578
+P3_subregion_within_asia	P3 Asia subregion	subregion	INBH05	S_Asia	Asia	S_Asia	India	Bihar	Yue_Global	CNS0528579
+P3_subregion_within_asia	P3 Asia subregion	subregion	INPJ01	S_Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528555
+P3_subregion_within_asia	P3 Asia subregion	subregion	INPJ02	S_Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528556
+P3_subregion_within_asia	P3 Asia subregion	subregion	INPJ03	S_Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528557
+P3_subregion_within_asia	P3 Asia subregion	subregion	INPJ04	S_Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528558
+P3_subregion_within_asia	P3 Asia subregion	subregion	INPJ05	S_Asia	Asia	S_Asia	India	Punjab	Yue_Global	CNS0528559
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTN01	S_Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528589
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTN02	S_Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528590
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTN03	S_Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528591
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTN04	S_Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528592
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTN05	S_Asia	Asia	S_Asia	India	Tamil_Nadu	Yue_Global	CNS0528593
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTG01	S_Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528583
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTG02	S_Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528584
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTG03	S_Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528585
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTG04	S_Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528586
+P3_subregion_within_asia	P3 Asia subregion	subregion	INTG05	S_Asia	Asia	S_Asia	India	Telangana	Yue_Global	CNS0528587
+P3_subregion_within_asia	P3 Asia subregion	subregion	NPSH04	S_Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528448
+P3_subregion_within_asia	P3 Asia subregion	subregion	NPSH05	S_Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528449
+P3_subregion_within_asia	P3 Asia subregion	subregion	NPSH06	S_Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528445
+P3_subregion_within_asia	P3 Asia subregion	subregion	NPSH07	S_Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528446
+P3_subregion_within_asia	P3 Asia subregion	subregion	NPSH08	S_Asia	Asia	S_Asia	Nepal	Sindhuli	Yue_Global	CNS0528447
+P3_subregion_within_asia	P3 Asia subregion	subregion	PKMR01	S_Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528545
+P3_subregion_within_asia	P3 Asia subregion	subregion	PKMR02	S_Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528546
+P3_subregion_within_asia	P3 Asia subregion	subregion	PKMR03	S_Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528547
+P3_subregion_within_asia	P3 Asia subregion	subregion	PKMR04	S_Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528548
+P3_subregion_within_asia	P3 Asia subregion	subregion	PKMR05	S_Asia	Asia	S_Asia	Pakistan	Murree	Yue_Global	CNS0528549
+P3_subregion_within_asia	P3 Asia subregion	subregion	LKAD01	S_Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528599
+P3_subregion_within_asia	P3 Asia subregion	subregion	LKAD02	S_Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528600
+P3_subregion_within_asia	P3 Asia subregion	subregion	LKAD03	S_Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528601
+P3_subregion_within_asia	P3 Asia subregion	subregion	LKAD04	S_Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528602
+P3_subregion_within_asia	P3 Asia subregion	subregion	LKAD05	S_Asia	Asia	S_Asia	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528603

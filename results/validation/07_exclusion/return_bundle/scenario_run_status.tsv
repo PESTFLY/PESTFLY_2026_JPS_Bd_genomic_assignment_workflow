@@ -1,0 +1,13 @@
+scenario_id	step_id	status	exit_status	started	finished	elapsed_minutes
+primary_all_references	Step_02	existing_corrected_primary_output	0	NA	NA	NA
+primary_all_references	Step_04	existing_corrected_primary_output	0	NA	NA	NA
+primary_all_references	Step_05	existing_corrected_primary_output	0	NA	NA	NA
+exclude_published_caution	Step_02	completed	0	2026-09-30 15:53:26.092178	2026-09-30 16:41:38.309159	48.2036163489024
+exclude_published_caution	Step_04	completed	0	2026-09-30 16:41:38.316088	2026-09-30 16:41:43.652338	0.0889375011126201
+exclude_published_caution	Step_05	completed	0	2026-09-30 16:41:43.656572	2026-09-30 16:42:59.214182	1.25929349660873
+exclude_low_coverage	Step_02	completed	0	2026-09-30 16:42:59.217314	2026-09-30 17:27:09.069435	44.1642020146052
+exclude_low_coverage	Step_04	completed	0	2026-09-30 17:27:09.074337	2026-09-30 17:27:13.741118	0.0777796824773153
+exclude_low_coverage	Step_05	completed	0	2026-09-30 17:27:13.744879	2026-09-30 17:28:36.476635	1.37886259953181
+exclude_combined	Step_02	completed	0	2026-09-30 17:28:36.48109	2026-09-30 17:59:35.620698	30.9856601317724
+exclude_combined	Step_04	completed	0	2026-09-30 17:59:35.622857	2026-09-30 17:59:38.978575	0.055928631623586
+exclude_combined	Step_05	completed	0	2026-09-30 17:59:38.980028	2026-09-30 18:00:50.538744	1.19264526764552

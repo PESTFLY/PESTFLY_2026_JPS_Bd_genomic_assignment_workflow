@@ -1,0 +1,5 @@
+scenario_id	scenario_order	scenario_label	n_excluded	run_pipeline
+primary_all_references	1	Corrected primary analysis with all references	0	FALSE
+exclude_published_caution	2	Exclude 12 published caution references	12	TRUE
+exclude_low_coverage	3	Exclude ReuPie1 and ReuPie4	2	TRUE
+exclude_combined	4	Exclude all 14 caution or low coverage references	14	TRUE

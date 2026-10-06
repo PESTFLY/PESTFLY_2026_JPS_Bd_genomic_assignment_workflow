@@ -1,0 +1,66 @@
+PESTFLY repository review: Step 3
+5 October 2026
+
+Documentation completed
+All eight core modules and seven supplementary analyses now have reader
+oriented conceptual notes in their R headers and individual README files.
+The guides distinguish genomic affinity from actual geographic origin,
+consensus calls from diploid genotype dosages, diagnostic MI from marker
+selection, and raw accuracy from the fraction of reportable assignments.
+
+Individual leave one out validation and RF cross validation use fixed SNP
+resources. Grouped country and site validation repeats training only filtering
+and ranking within the retained one SNP per ortholog candidates, but does not
+rediscover alternative sites. Marker resampling uses complementary rank matched
+sets; different partitions may overlap. These limitations are now stated.
+
+Added resources
+1. docs/CONCEPTS.md: analytical interpretation and validation scope.
+2. docs/INSTALL.md: runtime, setup, reproduction routes, workers and seeds.
+3. docs/METADATA.md: public workbook schema and identifier roles.
+4. docs/REPORTING_CRITERIA.md: six thresholds and the reporting discrepancy.
+5. docs/S6_SOURCE_MAP.md: seven planned S6 sections and query trajectories.
+6. docs/cli_parameters.tsv: 233 CLI options transcribed from the scripts.
+7. docs/runtime_version_evidence.tsv: 51 version observations from saved RDS
+   session records; all eight main components match the manuscript.
+8. docs/manuscript_consistency_audit.tsv: source evidence and remaining items.
+9. docs/reporting_criteria_diagnostic.tsv: values, thresholds and outcomes
+   derived from the saved Step 04 results, with unevaluated branches identified.
+10. environment/check_environment.R and benchmark_versions.tsv: a read only
+    dependency checker and the recorded main software versions.
+
+Citation metadata now names the three workflow developers identified by the
+manuscript contribution statement. No release date, software version, article
+DOI or licence has been inferred.
+
+Important finding
+The revised manuscript says Step 07 provides an explicit six criterion PASS or
+FAIL report. The supplied Step 07 script and workbook still use legacy colour
+categories and do not contain the described criterion worksheet.
+
+The underlying saved Step 04 values do agree with the intended decisions:
+19 macroregion PASS outcomes and three FAIL outcomes. Each failed adult meets
+five criteria and fails only the minimum number of usable K values.
+Twelve evaluated subregions pass, seven fail, and three branches are not
+evaluated because their macroregions failed. RF is separate from these counts.
+
+The Step 07 reporting formatter must therefore be supplied or updated before
+publication and before final S6 reporting links are assembled. This correction
+can use the saved assignments; no new SNP discovery or genetic inference is
+required solely to change the report format. The legacy report is preserved
+at this stage, and the discrepancy is stated in the repository draft.
+
+Verification
+18 R files passed syntax screening. Statistical code in the 17 inherited R
+files is unchanged; only introductory comments and seven descriptive output
+strings were updated. All 1205 archived scientific result files are byte
+identical to the Step 2 package. Local documentation links resolve.
+
+No full R pipeline execution was performed. The new environment checker was
+syntax screened but not executed here. The original statistical calculations,
+parameters and archived output values have not been regenerated or changed.
+
+Next step
+Reconcile Step 07 with the manuscript's six criterion report, verify its
+outcomes against the saved assignments, then assemble Supplementary File S6.
+The software licence and external release records remain later decisions.

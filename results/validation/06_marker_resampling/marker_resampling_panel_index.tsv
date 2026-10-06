@@ -1,0 +1,4 @@
+panel_id	panel_label	group_col	n_reference_groups	n_reference_samples	n_complete_panel_snps	one_snp_per_orthogroup	marker_panel_sizes	n_partitions_per_K	n_alternative_sets_per_K	n_applicable_queries
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	macroregion_3	2	320	11086	TRUE	500,1000,2000,5000	15	30	22
+P2_subregion_within_africa	P2 Africa subregion	subregion	4	105	11001	TRUE	500,1000,2000,5000	15	30	12
+P3_subregion_within_asia	P3 Asia subregion	subregion	3	215	11086	TRUE	500,1000,2000,5000	15	30	7

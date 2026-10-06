@@ -1,0 +1,113 @@
+panel_id	group_col	K	sample_id	top_group	top_posterior	second_group	second_posterior	posterior_gap	n_snps_used	confidence	status	note
+P3_subregion_within_asia	subregion	1	Bd_2023_4						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	Bd_2023_5						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	Bd_2023_6						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	Bd_2024_1						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	Bd_2024_3						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	Bd_2024_4						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	FAVV_14						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	2	Bd_2023_4						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	Bd_2023_5						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	Bd_2023_6						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	Bd_2024_1						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	Bd_2024_3						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	Bd_2024_4						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	FAVV_14						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	3	Bd_2023_4						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	Bd_2023_5						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	Bd_2023_6						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	Bd_2024_1						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	Bd_2024_3						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	Bd_2024_4						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	FAVV_14						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	4	Bd_2023_4						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	Bd_2023_5						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	Bd_2023_6						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	Bd_2024_1						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	Bd_2024_3						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	Bd_2024_4						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	FAVV_14						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	5	Bd_2023_4						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	Bd_2023_5						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	Bd_2023_6						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	Bd_2024_1						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	Bd_2024_3						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	Bd_2024_4						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	FAVV_14						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	10	Bd_2023_4						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	Bd_2023_5						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	Bd_2023_6						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	Bd_2024_1						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	Bd_2024_3						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	Bd_2024_4						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	FAVV_14						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	20	Bd_2023_4						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	Bd_2023_5						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	Bd_2023_6						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	Bd_2024_1						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	Bd_2024_3						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	Bd_2024_4						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	FAVV_14						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	50	Bd_2023_4						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	Bd_2023_5						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	Bd_2023_6						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	Bd_2024_1						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	Bd_2024_3						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	Bd_2024_4						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	FAVV_14						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	100	Bd_2023_4						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	Bd_2023_5						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	Bd_2023_6						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	Bd_2024_1						99	Low	too_few_snps	Need >= 300; have 99
+P3_subregion_within_asia	subregion	100	Bd_2024_3						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	Bd_2024_4						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	FAVV_14						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	200	Bd_2023_4						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	Bd_2023_5						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	Bd_2023_6						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	Bd_2024_1						199	Low	too_few_snps	Need >= 300; have 199
+P3_subregion_within_asia	subregion	200	Bd_2024_3						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	Bd_2024_4						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	FAVV_14						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	500	Bd_2023_4	S_Asia	1	SE_Asia	1.76625088758569e-26	1	500	High	ok	""
+P3_subregion_within_asia	subregion	500	Bd_2023_5	E_Asia	0.999414747490398	SE_Asia	0.00058525250960006	0.998829494980798	500	High	ok	""
+P3_subregion_within_asia	subregion	500	Bd_2023_6	S_Asia	1	SE_Asia	4.35322860965019e-44	1	500	High	ok	""
+P3_subregion_within_asia	subregion	500	Bd_2024_1	S_Asia	0.999999999999323	SE_Asia	6.76871947338249e-13	0.999999999998646	498	High	ok	""
+P3_subregion_within_asia	subregion	500	Bd_2024_3	S_Asia	0.627847816687619	SE_Asia	0.372152183312381	0.255695633375239	500	Low	ok	""
+P3_subregion_within_asia	subregion	500	Bd_2024_4	S_Asia	0.968155871497722	SE_Asia	0.0313993874299764	0.936756484067746	500	High	ok	""
+P3_subregion_within_asia	subregion	500	FAVV_14	S_Asia	1	SE_Asia	4.23181913834019e-47	1	500	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2023_4	S_Asia	1	SE_Asia	2.11092868309476e-56	1	1000	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2023_5	E_Asia	1	S_Asia	2.33034087861376e-19	1	1000	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2023_6	S_Asia	1	SE_Asia	4.60927072175892e-65	1	999	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2024_1	S_Asia	1	SE_Asia	2.47234746378685e-28	1	997	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2024_3	S_Asia	0.999995308115356	SE_Asia	4.69188464380863e-06	0.999990616230712	1000	High	ok	""
+P3_subregion_within_asia	subregion	1000	Bd_2024_4	S_Asia	1	SE_Asia	1.2251277729943e-16	1	999	High	ok	""
+P3_subregion_within_asia	subregion	1000	FAVV_14	S_Asia	1	SE_Asia	1.85691463482612e-84	1	1000	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2023_4	S_Asia	1	E_Asia	1.6453392290089e-79	1	1998	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2023_5	E_Asia	1	S_Asia	3.8052455274297e-25	1	1999	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2023_6	S_Asia	1	SE_Asia	2.97993165724863e-113	1	1998	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2024_1	S_Asia	1	E_Asia	4.54591289477882e-50	1	1996	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2024_3	S_Asia	1	SE_Asia	2.45533856809407e-25	1	1998	High	ok	""
+P3_subregion_within_asia	subregion	2000	Bd_2024_4	S_Asia	0.999999999996934	E_Asia	3.06617021426967e-12	0.999999999993868	1997	High	ok	""
+P3_subregion_within_asia	subregion	2000	FAVV_14	S_Asia	1	E_Asia	1.85192107153349e-109	1	1998	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2023_4	S_Asia	1	E_Asia	2.67723902150713e-95	1	4993	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2023_5	E_Asia	1	S_Asia	2.52844421783993e-46	1	4995	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2023_6	S_Asia	1	E_Asia	9.50637348959678e-160	1	4993	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2024_1	S_Asia	1	E_Asia	2.86412187521076e-79	1	4990	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2024_3	S_Asia	1	SE_Asia	1.72750126628023e-101	1	4994	High	ok	""
+P3_subregion_within_asia	subregion	5000	Bd_2024_4	S_Asia	1	E_Asia	4.61006549900294e-27	1	4992	High	ok	""
+P3_subregion_within_asia	subregion	5000	FAVV_14	S_Asia	1	E_Asia	1.03618095625234e-134	1	4992	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2023_4	S_Asia	1	E_Asia	1.48469701699606e-103	1	9983	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2023_5	E_Asia	1	S_Asia	2.10143227658856e-45	1	9991	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2023_6	S_Asia	1	E_Asia	8.0292223722748e-176	1	9988	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2024_1	S_Asia	1	E_Asia	1.15004423628228e-84	1	9973	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2024_3	S_Asia	1	E_Asia	4.96847832304594e-135	1	9990	High	ok	""
+P3_subregion_within_asia	subregion	10000	Bd_2024_4	S_Asia	1	E_Asia	5.56900831143533e-40	1	9989	High	ok	""
+P3_subregion_within_asia	subregion	10000	FAVV_14	S_Asia	1	E_Asia	9.99024691653932e-140	1	9982	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2023_4	S_Asia	1	E_Asia	2.10383488585967e-107	1	11051	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2023_5	E_Asia	1	S_Asia	1.36895388192181e-44	1	11059	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2023_6	S_Asia	1	E_Asia	2.95103513561862e-176	1	11054	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2024_1	S_Asia	1	E_Asia	5.05806413817775e-85	1	11039	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2024_3	S_Asia	1	E_Asia	6.16410168244273e-138	1	11058	High	ok	""
+P3_subregion_within_asia	subregion	11068	Bd_2024_4	S_Asia	1	E_Asia	2.30782513291727e-39	1	11057	High	ok	""
+P3_subregion_within_asia	subregion	11068	FAVV_14	S_Asia	1	E_Asia	4.19063499655605e-145	1	11046	High	ok	""

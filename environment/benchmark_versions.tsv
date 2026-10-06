@@ -1,0 +1,9 @@
+component	benchmark_version
+R	4.5.1
+data.table	1.18.0
+optparse	1.7.5
+readxl	1.4.5
+Biostrings	2.76.0
+openxlsx	4.2.8.1
+ranger	0.17.0
+randomForest	4.7-1.2

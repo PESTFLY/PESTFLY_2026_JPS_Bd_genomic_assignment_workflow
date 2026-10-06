@@ -1,0 +1,41 @@
+PESTFLY BALANCED REFERENCE DOWNSAMPLING SENSITIVITY
+
+Timestamp: 2026-09-30 11:35:18 CEST
+Repository root: C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline
+Replicates per training size: 30
+Parallel workers: 8
+
+METHOD
+Equal numbers of training references were sampled per class. A balanced independent test set was sampled from the remaining references.
+SNP missingness, minor allele count, corrected Hudson FST ranking, and allele frequencies were recalculated from training references only.
+The analysis reranked the corrected Step 02 retained SNP set and did not rediscover alternative SNPs from the original alignments.
+
+PANEL RESULTS
+
+P1 Africa versus Asia
+Reference counts: Africa=105, Asia=215
+Balanced training sizes: 3, 5, 10, 20, 40, 80, 100, 104
+Smallest size accuracy mean: 1.0000 | uncertainty mean: 0.7167
+Largest size accuracy mean: 1.0000 | uncertainty mean: 0.0167
+Largest size query call agreement with complete reference analysis: 1.0000
+
+P2 Africa subregion
+Reference counts: C_Africa=5, E_Africa=67, S_Africa=10, W_Africa=23
+Balanced training sizes: 3, 4
+Smallest size accuracy mean: 0.9417 | uncertainty mean: 1.0000
+Largest size accuracy mean: 0.9583 | uncertainty mean: 0.2000
+Largest size query call agreement with complete reference analysis: 0.7333
+
+P3 Asia subregion
+Reference counts: E_Asia=80, SE_Asia=90, S_Asia=45
+Balanced training sizes: 3, 5, 10, 20, 40, 44
+Smallest size accuracy mean: 0.9089 | uncertainty mean: 1.0000
+Largest size accuracy mean: 0.8889 | uncertainty mean: 0.0778
+Largest size query call agreement with complete reference analysis: 1.0000
+
+INTERPRETATION
+Use the performance, per class, query stability, and marker stability tables for interpretation.
+The individual LOO results from the complete reference set are supplied for comparison but are not treated as downsampling replicates.
+
+SUMMARY EXPORTS
+Complete outputs are included in S6. Redundant exports are mapped in duplicate_exports.tsv.

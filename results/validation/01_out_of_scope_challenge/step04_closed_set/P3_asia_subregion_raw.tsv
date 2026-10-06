@@ -1,0 +1,161 @@
+panel_id	group_col	K	sample_id	top_group	top_posterior	second_group	second_posterior	posterior_gap	n_snps_used	confidence	status	note
+P3_subregion_within_asia	subregion	1	PGPM01						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	PGPM02						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	PGPM03						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	PGPM04						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	PGPM05						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	USHW01						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	USHW02						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	USHW03						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	USHW04						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	1	USHW05						1	Low	too_few_snps	Need >= 300; have 1
+P3_subregion_within_asia	subregion	2	PGPM01						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	PGPM02						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	PGPM03						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	PGPM04						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	PGPM05						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	USHW01						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	USHW02						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	USHW03						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	USHW04						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	2	USHW05						2	Low	too_few_snps	Need >= 300; have 2
+P3_subregion_within_asia	subregion	3	PGPM01						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	PGPM02						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	PGPM03						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	PGPM04						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	PGPM05						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	USHW01						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	USHW02						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	USHW03						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	USHW04						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	3	USHW05						3	Low	too_few_snps	Need >= 300; have 3
+P3_subregion_within_asia	subregion	4	PGPM01						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	PGPM02						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	PGPM03						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	PGPM04						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	PGPM05						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	USHW01						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	USHW02						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	USHW03						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	USHW04						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	4	USHW05						4	Low	too_few_snps	Need >= 300; have 4
+P3_subregion_within_asia	subregion	5	PGPM01						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	PGPM02						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	PGPM03						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	PGPM04						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	PGPM05						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	USHW01						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	USHW02						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	USHW03						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	USHW04						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	5	USHW05						5	Low	too_few_snps	Need >= 300; have 5
+P3_subregion_within_asia	subregion	10	PGPM01						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	PGPM02						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	PGPM03						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	PGPM04						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	PGPM05						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	USHW01						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	USHW02						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	USHW03						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	USHW04						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	10	USHW05						10	Low	too_few_snps	Need >= 300; have 10
+P3_subregion_within_asia	subregion	20	PGPM01						19	Low	too_few_snps	Need >= 300; have 19
+P3_subregion_within_asia	subregion	20	PGPM02						19	Low	too_few_snps	Need >= 300; have 19
+P3_subregion_within_asia	subregion	20	PGPM03						19	Low	too_few_snps	Need >= 300; have 19
+P3_subregion_within_asia	subregion	20	PGPM04						19	Low	too_few_snps	Need >= 300; have 19
+P3_subregion_within_asia	subregion	20	PGPM05						18	Low	too_few_snps	Need >= 300; have 18
+P3_subregion_within_asia	subregion	20	USHW01						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	USHW02						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	USHW03						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	USHW04						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	20	USHW05						20	Low	too_few_snps	Need >= 300; have 20
+P3_subregion_within_asia	subregion	50	PGPM01						49	Low	too_few_snps	Need >= 300; have 49
+P3_subregion_within_asia	subregion	50	PGPM02						49	Low	too_few_snps	Need >= 300; have 49
+P3_subregion_within_asia	subregion	50	PGPM03						49	Low	too_few_snps	Need >= 300; have 49
+P3_subregion_within_asia	subregion	50	PGPM04						49	Low	too_few_snps	Need >= 300; have 49
+P3_subregion_within_asia	subregion	50	PGPM05						48	Low	too_few_snps	Need >= 300; have 48
+P3_subregion_within_asia	subregion	50	USHW01						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	USHW02						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	USHW03						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	USHW04						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	50	USHW05						50	Low	too_few_snps	Need >= 300; have 50
+P3_subregion_within_asia	subregion	100	PGPM01						98	Low	too_few_snps	Need >= 300; have 98
+P3_subregion_within_asia	subregion	100	PGPM02						98	Low	too_few_snps	Need >= 300; have 98
+P3_subregion_within_asia	subregion	100	PGPM03						99	Low	too_few_snps	Need >= 300; have 99
+P3_subregion_within_asia	subregion	100	PGPM04						98	Low	too_few_snps	Need >= 300; have 98
+P3_subregion_within_asia	subregion	100	PGPM05						97	Low	too_few_snps	Need >= 300; have 97
+P3_subregion_within_asia	subregion	100	USHW01						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	USHW02						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	USHW03						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	USHW04						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	100	USHW05						100	Low	too_few_snps	Need >= 300; have 100
+P3_subregion_within_asia	subregion	200	PGPM01						197	Low	too_few_snps	Need >= 300; have 197
+P3_subregion_within_asia	subregion	200	PGPM02						195	Low	too_few_snps	Need >= 300; have 195
+P3_subregion_within_asia	subregion	200	PGPM03						198	Low	too_few_snps	Need >= 300; have 198
+P3_subregion_within_asia	subregion	200	PGPM04						198	Low	too_few_snps	Need >= 300; have 198
+P3_subregion_within_asia	subregion	200	PGPM05						196	Low	too_few_snps	Need >= 300; have 196
+P3_subregion_within_asia	subregion	200	USHW01						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	USHW02						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	USHW03						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	USHW04						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	200	USHW05						200	Low	too_few_snps	Need >= 300; have 200
+P3_subregion_within_asia	subregion	500	PGPM01	SE_Asia	1	E_Asia	5.28378815994494e-41	1	496	High	ok	""
+P3_subregion_within_asia	subregion	500	PGPM02	SE_Asia	1	S_Asia	3.40667637399483e-50	1	492	High	ok	""
+P3_subregion_within_asia	subregion	500	PGPM03	SE_Asia	1	E_Asia	5.85214635955425e-38	1	498	High	ok	""
+P3_subregion_within_asia	subregion	500	PGPM04	SE_Asia	1	E_Asia	3.25634290069642e-45	1	498	High	ok	""
+P3_subregion_within_asia	subregion	500	PGPM05	SE_Asia	1	E_Asia	1.80824148261471e-31	1	494	High	ok	""
+P3_subregion_within_asia	subregion	500	USHW01	E_Asia	1	SE_Asia	4.87027984222374e-39	1	499	High	ok	""
+P3_subregion_within_asia	subregion	500	USHW02	E_Asia	1	SE_Asia	7.11327365619555e-42	1	499	High	ok	""
+P3_subregion_within_asia	subregion	500	USHW03	E_Asia	1	SE_Asia	7.07391842061115e-37	1	499	High	ok	""
+P3_subregion_within_asia	subregion	500	USHW04	E_Asia	1	SE_Asia	9.61922984136571e-39	1	499	High	ok	""
+P3_subregion_within_asia	subregion	500	USHW05	E_Asia	1	SE_Asia	1.654802543867e-24	1	497	High	ok	""
+P3_subregion_within_asia	subregion	1000	PGPM01	SE_Asia	1	E_Asia	1.05456888865876e-62	1	994	High	ok	""
+P3_subregion_within_asia	subregion	1000	PGPM02	SE_Asia	1	E_Asia	5.80778621412437e-75	1	990	High	ok	""
+P3_subregion_within_asia	subregion	1000	PGPM03	SE_Asia	1	E_Asia	5.53002401043756e-62	1	996	High	ok	""
+P3_subregion_within_asia	subregion	1000	PGPM04	SE_Asia	1	E_Asia	5.41606782895601e-72	1	996	High	ok	""
+P3_subregion_within_asia	subregion	1000	PGPM05	SE_Asia	1	E_Asia	5.38804556303777e-57	1	989	High	ok	""
+P3_subregion_within_asia	subregion	1000	USHW01	E_Asia	1	SE_Asia	1.3271438857026e-71	1	997	High	ok	""
+P3_subregion_within_asia	subregion	1000	USHW02	E_Asia	1	SE_Asia	1.4565581663071e-77	1	997	High	ok	""
+P3_subregion_within_asia	subregion	1000	USHW03	E_Asia	1	SE_Asia	1.21150830692061e-68	1	996	High	ok	""
+P3_subregion_within_asia	subregion	1000	USHW04	E_Asia	1	SE_Asia	3.71409907157266e-81	1	995	High	ok	""
+P3_subregion_within_asia	subregion	1000	USHW05	E_Asia	1	SE_Asia	1.07044451038139e-61	1	995	High	ok	""
+P3_subregion_within_asia	subregion	2000	PGPM01	SE_Asia	1	E_Asia	2.44056129537362e-103	1	1990	High	ok	""
+P3_subregion_within_asia	subregion	2000	PGPM02	SE_Asia	1	E_Asia	7.12580359968948e-119	1	1979	High	ok	""
+P3_subregion_within_asia	subregion	2000	PGPM03	SE_Asia	1	E_Asia	3.26528117096297e-105	1	1989	High	ok	""
+P3_subregion_within_asia	subregion	2000	PGPM04	SE_Asia	1	E_Asia	2.08517710507867e-104	1	1989	High	ok	""
+P3_subregion_within_asia	subregion	2000	PGPM05	SE_Asia	1	E_Asia	6.67504451550569e-105	1	1976	High	ok	""
+P3_subregion_within_asia	subregion	2000	USHW01	E_Asia	1	S_Asia	1.7265701347194e-115	1	1995	High	ok	""
+P3_subregion_within_asia	subregion	2000	USHW02	E_Asia	1	S_Asia	3.04855371768851e-127	1	1994	High	ok	""
+P3_subregion_within_asia	subregion	2000	USHW03	E_Asia	1	S_Asia	2.0354862351837e-100	1	1992	High	ok	""
+P3_subregion_within_asia	subregion	2000	USHW04	E_Asia	1	S_Asia	2.96069058641241e-120	1	1993	High	ok	""
+P3_subregion_within_asia	subregion	2000	USHW05	E_Asia	1	S_Asia	3.14450764248484e-88	1	1991	High	ok	""
+P3_subregion_within_asia	subregion	5000	PGPM01	SE_Asia	1	E_Asia	4.82400982468511e-160	1	4970	High	ok	""
+P3_subregion_within_asia	subregion	5000	PGPM02	SE_Asia	1	E_Asia	6.32446177561648e-191	1	4954	High	ok	""
+P3_subregion_within_asia	subregion	5000	PGPM03	SE_Asia	1	E_Asia	1.32673458566242e-183	1	4978	High	ok	""
+P3_subregion_within_asia	subregion	5000	PGPM04	SE_Asia	1	E_Asia	1.1427995095938e-154	1	4978	High	ok	""
+P3_subregion_within_asia	subregion	5000	PGPM05	SE_Asia	1	E_Asia	9.76130254713902e-160	1	4939	High	ok	""
+P3_subregion_within_asia	subregion	5000	USHW01	E_Asia	1	S_Asia	1.23593470465378e-168	1	4991	High	ok	""
+P3_subregion_within_asia	subregion	5000	USHW02	E_Asia	1	S_Asia	3.24455955355112e-180	1	4984	High	ok	""
+P3_subregion_within_asia	subregion	5000	USHW03	E_Asia	1	S_Asia	2.03585550678162e-145	1	4982	High	ok	""
+P3_subregion_within_asia	subregion	5000	USHW04	E_Asia	1	S_Asia	9.17143160808873e-161	1	4979	High	ok	""
+P3_subregion_within_asia	subregion	5000	USHW05	E_Asia	1	S_Asia	5.54829049549488e-138	1	4974	High	ok	""
+P3_subregion_within_asia	subregion	10000	PGPM01	SE_Asia	1	E_Asia	2.65782034571568e-228	1	9951	High	ok	""
+P3_subregion_within_asia	subregion	10000	PGPM02	SE_Asia	1	E_Asia	6.03674463396747e-259	1	9920	High	ok	""
+P3_subregion_within_asia	subregion	10000	PGPM03	SE_Asia	1	E_Asia	5.42915315120814e-253	1	9970	High	ok	""
+P3_subregion_within_asia	subregion	10000	PGPM04	SE_Asia	1	E_Asia	8.41469914454136e-217	1	9961	High	ok	""
+P3_subregion_within_asia	subregion	10000	PGPM05	SE_Asia	1	E_Asia	2.13598337235185e-221	1	9899	High	ok	""
+P3_subregion_within_asia	subregion	10000	USHW01	E_Asia	1	S_Asia	6.42740119971384e-230	1	9978	High	ok	""
+P3_subregion_within_asia	subregion	10000	USHW02	E_Asia	1	S_Asia	8.78239745319532e-236	1	9975	High	ok	""
+P3_subregion_within_asia	subregion	10000	USHW03	E_Asia	1	S_Asia	1.88766728405774e-209	1	9963	High	ok	""
+P3_subregion_within_asia	subregion	10000	USHW04	E_Asia	1	S_Asia	7.96961168144193e-212	1	9969	High	ok	""
+P3_subregion_within_asia	subregion	10000	USHW05	E_Asia	1	S_Asia	1.57577982087698e-189	1	9958	High	ok	""
+P3_subregion_within_asia	subregion	11086	PGPM01	SE_Asia	1	E_Asia	3.89793443005798e-234	1	11032	High	ok	""
+P3_subregion_within_asia	subregion	11086	PGPM02	SE_Asia	1	E_Asia	1.10824734110867e-264	1	11000	High	ok	""
+P3_subregion_within_asia	subregion	11086	PGPM03	SE_Asia	1	E_Asia	1.46181784914862e-263	1	11056	High	ok	""
+P3_subregion_within_asia	subregion	11086	PGPM04	SE_Asia	1	E_Asia	2.58768144794937e-225	1	11045	High	ok	""
+P3_subregion_within_asia	subregion	11086	PGPM05	SE_Asia	1	E_Asia	6.11930953412808e-227	1	10981	High	ok	""
+P3_subregion_within_asia	subregion	11086	USHW01	E_Asia	1	S_Asia	2.58177838038834e-232	1	11059	High	ok	""
+P3_subregion_within_asia	subregion	11086	USHW02	E_Asia	1	S_Asia	7.76065248417029e-237	1	11061	High	ok	""
+P3_subregion_within_asia	subregion	11086	USHW03	E_Asia	1	S_Asia	8.52042472116484e-214	1	11046	High	ok	""
+P3_subregion_within_asia	subregion	11086	USHW04	E_Asia	1	S_Asia	1.51877448478883e-215	1	11052	High	ok	""
+P3_subregion_within_asia	subregion	11086	USHW05	E_Asia	1	S_Asia	9.28300852826923e-195	1	11043	High	ok	""

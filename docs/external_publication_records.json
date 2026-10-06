@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-10-05",
+  "repository_url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline",
+  "visibility": "public",
+  "main_commit": "1b482b87f5d5611f87b413abdc555272422ffe24",
+  "main_tree": "2dc3204e8a1547d5738d9fd20ce7bc9d608b55b3",
+  "published_releases": [
+    {
+      "tag": "v1.02",
+      "url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.02",
+      "published_at": "2026-05-19T15:17:44Z",
+      "attached_assets": 0
+    }
+  ],
+  "tag_commits": [
+    {
+      "ref": "refs/tags/v1.02",
+      "sha": "62e9396205a65b33d3c8118485b4122c5c1bccbe"
+    }
+  ],
+  "next_proposed_tag": "v1.03",
+  "doi_checks": [
+    {
+      "doi": "10.5281/zenodo.20289875",
+      "status": "UNVERIFIED",
+      "methods": [
+        "Zenodo landing page",
+        "Zenodo API",
+        "DataCite DOI API",
+        "Exact DOI web search"
+      ],
+      "finding": "Page and API retrievals unavailable; exact DOI search found no results. This does not establish DOI validity or publication status."
+    },
+    {
+      "doi": "10.5281/zenodo.20283931",
+      "status": "UNVERIFIED",
+      "methods": [
+        "Zenodo landing page",
+        "Zenodo API",
+        "DataCite DOI API",
+        "Exact DOI web search"
+      ],
+      "finding": "Page and API retrievals unavailable; exact DOI search found no results. Alignment distribution remains upon request as confirmed by the author."
+    }
+  ],
+  "external_writes_performed": false
+}

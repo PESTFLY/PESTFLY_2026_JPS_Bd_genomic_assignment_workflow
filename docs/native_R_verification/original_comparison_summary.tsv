@@ -1,0 +1,4 @@
+table	rows	fields	result
+FINAL_origin_tracing_authority_criteria.tsv	264	12	PASS
+reporting_thresholds.tsv	12	5	PASS
+FINAL_origin_tracing_authority_extended.tsv	22	105	FAIL

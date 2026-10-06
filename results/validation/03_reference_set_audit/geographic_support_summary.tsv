@@ -1,0 +1,10 @@
+panel_id	panel_label	group_col	analytical_group	n_references	n_countries	n_sites	countries	source_collections
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	18	22	Anjouan;Burundi;Congo;Ethiopia;Ghana;Grande_Comore;Ivory_Coast;Kenya;Madagascar;Malawi;Mali;Mayotte;Moheli;Nigeria;Senegal;South_Africa;Sudan;Uganda	Pablo_IO;Yue_Global
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	15	41	Bangladesh;China;India;Indonesia;Laos;Malaysia;Mauritius;Myanmar;Nepal;Pakistan;Philippines;Reunion;Sri_Lanka;Thailand;Viet_Nam	Pablo_IO;REACT;Yue_Global
+P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	1	1	Congo	Yue_Global
+P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	10	14	Anjouan;Burundi;Ethiopia;Grande_Comore;Kenya;Madagascar;Mayotte;Moheli;Sudan;Uganda	Pablo_IO;Yue_Global
+P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	2	2	Malawi;South_Africa	Yue_Global
+P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	5	5	Ghana;Ivory_Coast;Mali;Nigeria;Senegal	Yue_Global
+P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	1	14	China	Yue_Global
+P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	9	18	Indonesia;Laos;Malaysia;Mauritius;Myanmar;Philippines;Reunion;Thailand;Viet_Nam	Pablo_IO;REACT;Yue_Global
+P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	5	9	Bangladesh;India;Nepal;Pakistan;Sri_Lanka	Yue_Global

@@ -1,102 +1,83 @@
-# PESTFLY origin-tracing pipeline for *Bactrocera dorsalis* interceptions
+# PESTFLY genomic assignment workflow
 
-This repository contains the publication-ready workflow used for genome-wide nuclear SNP-based origin tracing of intercepted/trapped *Bactrocera dorsalis* samples in ...
+This repository supports the manuscript “Genomic assignment of the invasive fruit fly pest Bactrocera dorsalis: a repeatable, uncertainty-aware SNP workflow for biosecurity reporting”, submitted to Journal of Pest Science.
 
-The workflow stops at Step 07, which produces the authority-facing report.
+PESTFLY compares previously identified *Bactrocera dorsalis* specimens with represented reference classes using existing population genomic data. Assignments describe genomic affinity to those classes. The workflow does not establish actual collection origin or a transport pathway, or determine whether the true source is represented.
 
-The controlled alignment database required to rerun the full workflow from Step 00 is available through Zenodo under controlled access: https://doi.org/10.5281/zenodo.20283931.
+## Package status
 
-## Pipeline overview
+This is the Step 8 GitHub publication checkpoint dated 5 October 2026. All eight core modules and seven supplementary analyses have reader guides, conceptual notes and CLI tables. Supplementary File S6 contains complete outputs, query trajectories and integrity checks. The isolated Hudson FST and MI checks, six criterion reporting checks and Step 07 formatter passed in R 4.5.1 on Windows. The current Step 07 workbook, TSV tables, RDS objects and run record are the verified native R exports. The recorded outcomes remain 19 macroregion passes and 12 subregion passes, with all 22 original reported classes and confidence labels preserved. Original colour reports and the independently assembled checkpoint remain available as provenance. The code uses MIT and the project documentation and public results use CC BY 4.0, with copyright notices naming Massimiliano Virgilio and Wannes Dermauw. Input alignments remain available upon request. External release records remain to be verified. See [native R verification](docs/NATIVE_R_VERIFICATION.md) for the original checker label mismatch and the completed export review. Statistical models were not recomputed.
 
-| Step | Folder | Purpose | Main result folder |
-|---:|---|---|---|
-| 00 | `steps/00_convert_phylip_to_fasta/` | Convert OMA/read2tree PHYLIP ortholog alignments to FASTA | `results/00_fasta/` |
-| 01 | `steps/01_metadata_snapshot_and_ortholog_qc/` | Clean metadata, snapshot sample labels, and perform ortholog QC | `results/01_qc/` |
-| 02 | `steps/02_snp_panel_discovery_and_ranking/` | Extract and rank diagnostic nuclear SNP panels | `results/02_snp_panels/` |
-| 03 | `steps/03_mutual_information_snp_diagnostics/` | Add supportive mutual-information SNP diagnostics | `results/03_mi_diagnostics/` |
-| 04 | `steps/04_hierarchical_origin_assignment/` | Perform hierarchical macroregion-first origin assignment | `results/04_origin_assignment/` |
-| 05 | `steps/05_full_panel_loo_validation/` | Validate the full-panel assignment logic by leave-one-out | `results/05_loo_validation/` |
-| 06 | `steps/06_random_forest_corroboration/` | Run Random Forest as independent corroboration | `results/06_rf_corroboration/` |
-| 07 | `steps/07_authority_facing_report/` | Produce the final authority-facing report | `results/07_authority_report/` |
+## Structure
 
-## Quick start
+| Location | Contents |
+| :--- | :--- |
+| `run_public_pipeline.R` | Runner for core Steps 00 to 07 |
+| `steps/00_*` to `steps/07_*` | Eight core scripts with existing README files |
+| `steps/validation/` | Seven supplementary validation and sensitivity scripts |
+| `run_validation_pipeline.R` | Separate runner for the seven supplementary analyses |
+| `data/000_input_data/metadata.xlsx` | Public sample metadata |
+| `data/000_input_data/phy/` | Expected location for separately supplied PHYLIP alignments |
+| `results/00_fasta/` to `results/07_authority_report/` | Archived core outputs |
+| `results/validation/` | Archived supplementary outputs |
+| `docs/` | Packaging notes, source hashes and location change records |
+| `supplementary/S6/` | Reader guide, source map and archive records |
+| `tools/build_s6.py` | Rebuild the S6 archive using Python 3 |
+| `verify_release.R` | Check implementation and reporting without rerunning models |
 
-Run the full workflow from the repository root:
+## Reader guides
+
+[Concepts](docs/CONCEPTS.md), [installation and recorded versions](docs/INSTALL.md), [metadata](docs/METADATA.md), [six reporting criteria](docs/REPORTING_CRITERIA.md), and [S6 source map](docs/S6_SOURCE_MAP.md).
+
+## Core workflow
+
+| Step | Purpose | Result directory |
+| :--- | :--- | :--- |
+| 00 | PHYLIP to FASTA conversion | `results/00_fasta/` |
+| 01 | Metadata and ortholog QC | `results/01_qc/` |
+| 02 | SNP panel discovery and ranking | `results/02_snp_panels/` |
+| 03 | Mutual information diagnostics | `results/03_mi_diagnostics/` |
+| 04 | Hierarchical genomic assignment | `results/04_origin_assignment/` |
+| 05 | Individual fixed panel leave one out validation | `results/05_loo_validation/` |
+| 06 | Random Forest corroboration | `results/06_rf_corroboration/` |
+| 07 | Reports for plant health authorities | `results/07_authority_report/` |
+
+Run from the repository root after installing the R dependencies and restoring the required alignment inputs:
 
 ```bash
 Rscript run_public_pipeline.R
 ```
 
-Or run individual steps manually:
+Run supplementary analyses separately:
 
 ```bash
-Rscript steps/00_convert_phylip_to_fasta/run.R
-Rscript steps/01_metadata_snapshot_and_ortholog_qc/run.R
-Rscript steps/02_snp_panel_discovery_and_ranking/run.R
-Rscript steps/03_mutual_information_snp_diagnostics/run.R
-Rscript steps/04_hierarchical_origin_assignment/run.R
-Rscript steps/05_full_panel_loo_validation/run.R
-Rscript steps/06_random_forest_corroboration/run.R
-Rscript steps/07_authority_facing_report/run.R
+Rscript run_validation_pipeline.R
 ```
 
-## Inputs
+See [the supplementary analysis guide](steps/validation/README.md) for prerequisites. Both runners use the scripts' defaults. Rerunning can replace archived outputs; use a separate copy for recomputation.
 
-The expected public metadata file is:
+## Data access
 
-```text
-data/000_input_data/metadata.xlsx
-```
+Public metadata, derived SNP panels and archived reports can be inspected with the supplied files. Reproducing Steps 00 to 02 and supplementary analyses 04 and 07 requires the separately distributed alignments or regenerated FASTA files.
 
-The raw PHYLIP ortholog alignment folder is expected at:
+The revised manuscript identifies the alignment deposit as <https://doi.org/10.5281/zenodo.20283931>, with files distributed upon request, the workflow archive as <https://doi.org/10.5281/zenodo.20289875>, and the code repository as <https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline>. External records will be verified during release preparation.
 
-```text
-data/000_input_data/phy/
-```
+## Archived names and provenance
 
-The `.gitignore` is configured to exclude the `phy/` folder and generated Step 00 FASTA outputs by default.
+Directories use the public numbering. Some output basenames and compatible CLI options retain earlier identifiers, including `step3`, `step4b` and `step5`, because downstream scripts use them. See `docs/packaging_changes.txt`.
 
-## Main final outputs
+Adapted TSV indexes have portable locations. Original RDS objects and historical parameter records are preserved and can contain original machine locations and analysis labels. Location changes are recorded in `docs/location_index_changes.tsv`. Source and packaged hashes are recorded in `docs/source_file_manifest.tsv`.
 
-```text
-results/07_authority_report/FINAL_origin_tracing_authority_REPORT.xlsx
-results/07_authority_report/FINAL_origin_tracing_authority_simplified.tsv
-results/07_authority_report/FINAL_origin_tracing_authority_extended.tsv
-```
+## Supplementary File S6
 
-## Data and results included in GitHub
+S6 contains the seven supplementary analyses with scripts, parameters, tables, figures and complete outputs, plus query trajectories across all evaluated SNP subsets. See [the archive reader guide](supplementary/S6/README.md), [the PDF guide](supplementary/S6/S6_reader_guide.pdf), and [the source map](docs/S6_SOURCE_MAP.md).
 
-This repository includes the full publication workflow, public sample metadata, and derived result tables from Steps 01 to 07. Generated FASTA files in `results/00_fasta/` are not included because they are regenerated by Step 00 from the controlled PHYLIP alignment database.
+Build the archive with `python3 tools/build_s6.py`. The archive retains the repository layout and baseline resources. It omits only verified byte identical summary export copies, with each omission mapped to the retained file. The full repository retains those export copies. No statistical analysis was recomputed for this assembly.
 
-The full PHYLIP ortholog alignment database in `data/000_input_data/phy/` is distributed separately under controlled access for reproducibility assessment, non-commercial research, and regulatory validation.
+## GitHub publication
 
-The large generated file `results/01_qc/sample_missingness.tsv` is also not tracked in GitHub because of file size. Summary QC outputs and downstream result tables are retained where possible.
+The existing published release is `v1.02`; the next proposed release is `v1.03`. The package preserves file bytes through Git checkin and checkout so its recorded hashes remain valid on Windows. See [publication preparation](docs/GITHUB_PUBLICATION.md). No new public release or tag has been created. The verified S5 and S6 assets retain their previous bytes.
 
-Reduced diagnostic SNP panels for simplified laboratory testing are currently under development and will be presented in a separate publication.
+## Licensing
 
-## Reproducing the full analysis
-
-To rerun the complete workflow from Step 00, users need access to the controlled data package containing the `phy/` folder.
-
-After access is granted:
-
-1. Clone this GitHub repository.
-2. Copy the controlled-access `phy/` folder into:
-
-   ```text
-   data/000_input_data/phy/
-   ```
-
-3. Run the full pipeline:
-
-   ```bash
-   Rscript run_public_pipeline.R
-   ```
-
-Step 00 will regenerate `results/00_fasta/`, and the following steps will regenerate the downstream QC, SNP-panel, assignment, validation, corroboration, and reporting outputs.
-
-## Repository scope
-
-This repository is limited to the manuscript origin-tracing workflow. It is intended to support transparency, inspection of the analytical logic, and reproducibility of the reported origin-tracing results.
-
-The diagnostic SNP-test development workflow is intentionally excluded from this release because it is ongoing and will be reported separately.
+Copyright (c) 2026 Massimiliano Virgilio and Wannes Dermauw. Code is licensed under [MIT](LICENSE). Project documentation and public metadata and derived results use [CC BY 4.0](LICENSE_CONTENT.txt), except where a separate notice applies. See [licensing scope](LICENSING.md) and [alignment access upon request](ALIGNMENT_ACCESS.md). Full reproduction of the alignment stages requires obtaining the separately distributed inputs.

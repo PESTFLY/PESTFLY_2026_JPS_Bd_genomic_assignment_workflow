@@ -1,0 +1,91 @@
+scenario_id	scenario_label	sample_id	country	site	collection	original_macroregion_3	original_subregion	scenario_macroregion_3	scenario_subregion
+geo_africa	Geographic Africa coding	MauLaS1	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	MauLaS2	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	MauLaS3	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	MauLaS4	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	MauLaS5	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBas1	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBas2	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBas3	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBas4	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBas5	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSte1	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSte2	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSte3	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSte4	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSte5	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPal1	Reunion	Palmistes	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPal2	Reunion	Palmistes	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPal3	Reunion	Palmistes	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPal4	Reunion	Palmistes	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPaL5	Reunion	Palmistes	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSal1	Reunion	Salazie	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSal2	Reunion	Salazie	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSal3	Reunion	Salazie	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSal4	Reunion	Salazie	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuSaL5	Reunion	Salazie	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuAnd1	Reunion	StAndré	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuAnd2	Reunion	StAndré	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuAnd3	Reunion	StAndré	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuAnd4	Reunion	StAndré	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuAnd5	Reunion	StAndré	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBen1	Reunion	StBenoit	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBen2	Reunion	StBenoit	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBen3	Reunion	StBenoit	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBen4	Reunion	StBenoit	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuBen5	Reunion	StBenoit	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPau1	Reunion	StPaul	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPau2	Reunion	StPaul	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPau3	Reunion	StPaul	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPau4	Reunion	StPaul	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPau5	Reunion	StPaul	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPie1	Reunion	StPierre	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPie2	Reunion	StPierre	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPie3	Reunion	StPierre	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPie4	Reunion	StPierre	REACT	Asia	SE_Asia	Africa	E_Africa
+geo_africa	Geographic Africa coding	ReuPie5	Reunion	StPierre	REACT	Asia	SE_Asia	Africa	E_Africa
+excluded_other	Mascarene references outside Africa Asia panels	MauLaS1	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	MauLaS2	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	MauLaS3	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	MauLaS4	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	MauLaS5	Mauritius	LaSource	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBas1	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBas2	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBas3	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBas4	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBas5	Reunion	BasTerHaut	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSte1	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSte2	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSte3	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSte4	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSte5	Reunion	SteRose	Pablo_IO	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPal1	Reunion	Palmistes	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPal2	Reunion	Palmistes	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPal3	Reunion	Palmistes	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPal4	Reunion	Palmistes	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPaL5	Reunion	Palmistes	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSal1	Reunion	Salazie	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSal2	Reunion	Salazie	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSal3	Reunion	Salazie	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSal4	Reunion	Salazie	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuSaL5	Reunion	Salazie	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuAnd1	Reunion	StAndré	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuAnd2	Reunion	StAndré	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuAnd3	Reunion	StAndré	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuAnd4	Reunion	StAndré	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuAnd5	Reunion	StAndré	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBen1	Reunion	StBenoit	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBen2	Reunion	StBenoit	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBen3	Reunion	StBenoit	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBen4	Reunion	StBenoit	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuBen5	Reunion	StBenoit	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPau1	Reunion	StPaul	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPau2	Reunion	StPaul	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPau3	Reunion	StPaul	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPau4	Reunion	StPaul	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPau5	Reunion	StPaul	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPie1	Reunion	StPierre	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPie2	Reunion	StPierre	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPie3	Reunion	StPierre	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPie4	Reunion	StPierre	REACT	Asia	SE_Asia	Others	Other
+excluded_other	Mascarene references outside Africa Asia panels	ReuPie5	Reunion	StPierre	REACT	Asia	SE_Asia	Others	Other

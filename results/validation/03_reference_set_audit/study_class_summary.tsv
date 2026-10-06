@@ -1,0 +1,10 @@
+panel_id	panel_label	group_col	analytical_group	class_total	n_source_collections	dominant_collection	dominant_collection_n	dominant_collection_fraction	single_collection_class
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Africa	105	2	Yue_Global	65	0.619047619047619	FALSE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Asia	215	3	Yue_Global	170	0.790697674418605	FALSE
+P2_subregion_within_africa	P2 Africa subregion	subregion	C_Africa	5	1	Yue_Global	5	1	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	E_Africa	67	2	Pablo_IO	40	0.597014925373134	FALSE
+P2_subregion_within_africa	P2 Africa subregion	subregion	S_Africa	10	1	Yue_Global	10	1	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	W_Africa	23	1	Yue_Global	23	1	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	E_Asia	80	1	Yue_Global	80	1	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	SE_Asia	90	3	Yue_Global	45	0.5	FALSE
+P3_subregion_within_asia	P3 Asia subregion	subregion	S_Asia	45	1	Yue_Global	45	1	TRUE

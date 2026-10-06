@@ -1,0 +1,23 @@
+sample_id	macroregion_call	macroregion_confidence	macroregion_reason	macroregion_maxK_used	macroregion_maxK_post	macroregion_maxK_gap	macroregion_agreement	macroregion_tail_agreement	macroregion_tail_fraction	macroregion_stable_from_K	macroregion_nK	macroregion_nK_total_tested	macroregion_nK_usable_for_stability	macroregion_maxK_nsnps	subregion_call	subregion_confidence	subregion_reason	subregion_panel	subregion_maxK_used	subregion_maxK_post	subregion_maxK_gap	subregion_agreement	subregion_tail_agreement	subregion_tail_fraction	subregion_stable_from_K	subregion_nK	subregion_nK_total_tested	subregion_nK_usable_for_stability	subregion_maxK_nsnps	country	population	macroregion_3	subregion	is_reference
+Bd_2023_1	Asia	Uncertain	too_few_usable_K	11075	1	1	1	1	0.5	5000	3	16	3	690		Uncertain	macroregion_uncertain													Belgium	Belgium	Others	Other	FALSE
+Bd_2023_2	Africa	Uncertain	too_few_usable_K	11075	1	1	1	1	0.5	1000	5	16	5	3263		Uncertain	macroregion_uncertain													Belgium	Belgium	Others	Other	FALSE
+Bd_2023_3	Asia	Uncertain	too_few_usable_K	11075	1	1	1	1	0.5	1000	5	16	5	2853		Uncertain	macroregion_uncertain													Belgium	Belgium	Others	Other	FALSE
+Bd_2023_4	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11068	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11051	Belgium	Belgium	Others	Other	FALSE
+Bd_2023_5	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11070	E_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11059	Belgium	Belgium	Others	Other	FALSE
+Bd_2023_6	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11060	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11054	Belgium	Belgium	Others	Other	FALSE
+Bd_2023_7	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11067	E_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	1	1	0.833333333333333	1	0.5	2000	6	16	6	10991	Belgium	Belgium	Others	Other	FALSE
+Bd_2024_1	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11052	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11039	Belgium	Belgium	Others	Other	FALSE
+Bd_2024_2	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11052	E_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	0.99884906286048	0.997698125720959	0.666666666666667	0.333333333333333	0.5	11000	6	16	6	10985	Belgium	Belgium	Others	Other	FALSE
+Bd_2024_3	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11069	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11058	Belgium	Belgium	Others	Other	FALSE
+Bd_2024_4	Asia	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11066	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11057	Belgium	Belgium	Others	Other	FALSE
+FAVV_1	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11060	E_Africa	High	ok	P2_Africa	11000	0.999999773540353	0.999999547080705	1	1	0.5	500	6	16	6	10992	Belgium	Belgium	Others	Other	FALSE
+FAVV_11	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11062	W_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	1	1	0.666666666666667	1	0.5	2000	6	16	6	10998	Belgium	Belgium	Others	Other	FALSE
+FAVV_12	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11058	W_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	1	1	0.666666666666667	1	0.5	2000	6	16	6	10982	Belgium	Belgium	Others	Other	FALSE
+FAVV_13	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11049	W_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	1	1	0.833333333333333	1	0.5	1000	6	16	6	10973	Belgium	Belgium	Others	Other	FALSE
+FAVV_14	Asia	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11051	S_Asia	High	ok	P3_Asia	11068	1	1	1	1	0.5	500	6	16	6	11046	Belgium	Belgium	Others	Other	FALSE
+FAVV_2	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11059	E_Africa	High	ok	P2_Africa	11000	0.999999999988188	0.999999999976376	1	1	0.5	500	6	16	6	10987	Belgium	Belgium	Others	Other	FALSE
+FAVV_3	Africa	High	ok	11075	1	1	1	1	0.5	500	6	16	6	11066	W_Africa	High	ok	P2_Africa	11000	1	1	1	1	0.5	500	6	16	6	10992	Belgium	Belgium	Others	Other	FALSE
+FAVV_4	Africa	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11060	W_Africa	Uncertain	low_global_K_agreement	P2_Africa	11000	1	1	0.833333333333333	1	0.5	1000	6	16	6	10986	Belgium	Belgium	Others	Other	FALSE
+FAVV_5	Africa	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11059	E_Africa	High	ok	P2_Africa	11000	1	1	1	1	0.5	500	6	16	6	10983	Belgium	Belgium	Others	Other	FALSE
+FAVV_6	Africa	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11059	W_Africa	High	ok	P2_Africa	11000	1	1	1	1	0.5	500	6	16	6	10986	Belgium	Belgium	Others	Other	FALSE
+FAVV_7	Africa	High	ok	11075	1	1	1	1	0.5	200	7	16	7	11064	E_Africa	High	ok	P2_Africa	11000	1	1	1	1	0.5	500	6	16	6	10989	Belgium	Belgium	Others	Other	FALSE

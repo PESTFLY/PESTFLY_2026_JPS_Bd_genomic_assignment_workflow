@@ -1,0 +1,4 @@
+package	version
+optparse	1.7.5
+data.table	1.18.0
+openxlsx	4.2.8.1

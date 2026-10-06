@@ -1,0 +1,1261 @@
+panel_id	panel_label	n_per_group	replicate	seed	true_group	n_test	correct_n	accuracy_all	accepted_n	accepted_rate	accuracy_accepted	uncertainty_rate
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	1	21270931	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	1	21270931	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	2	21270932	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	2	21270932	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	3	21270933	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	3	21270933	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	4	21270934	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	4	21270934	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	5	21270935	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	5	21270935	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	6	21270936	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	6	21270936	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	7	21270937	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	7	21270937	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	8	21270938	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	8	21270938	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	9	21270939	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	9	21270939	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	10	21270940	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	10	21270940	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	11	21270941	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	11	21270941	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	12	21270942	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	12	21270942	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	13	21270943	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	13	21270943	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	14	21270944	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	14	21270944	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	15	21270945	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	15	21270945	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	16	21270946	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	16	21270946	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	17	21270947	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	17	21270947	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	18	21270948	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	18	21270948	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	19	21270949	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	19	21270949	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	20	21270950	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	20	21270950	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	21	21270951	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	21	21270951	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	22	21270952	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	22	21270952	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	23	21270953	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	23	21270953	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	24	21270954	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	24	21270954	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	25	21270955	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	25	21270955	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	26	21270956	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	26	21270956	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	27	21270957	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	27	21270957	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	28	21270958	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	28	21270958	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	29	21270959	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	29	21270959	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	30	21270960	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	3	30	21270960	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	1	21280931	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	1	21280931	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	2	21280932	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	2	21280932	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	3	21280933	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	3	21280933	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	4	21280934	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	4	21280934	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	5	21280935	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	5	21280935	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	6	21280936	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	6	21280936	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	7	21280937	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	7	21280937	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	8	21280938	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	8	21280938	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	9	21280939	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	9	21280939	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	10	21280940	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	10	21280940	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	11	21280941	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	11	21280941	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	12	21280942	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	12	21280942	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	13	21280943	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	13	21280943	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	14	21280944	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	14	21280944	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	15	21280945	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	15	21280945	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	16	21280946	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	16	21280946	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	17	21280947	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	17	21280947	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	18	21280948	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	18	21280948	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	19	21280949	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	19	21280949	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	20	21280950	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	20	21280950	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	21	21280951	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	21	21280951	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	22	21280952	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	22	21280952	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	23	21280953	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	23	21280953	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	24	21280954	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	24	21280954	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	25	21280955	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	25	21280955	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	26	21280956	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	26	21280956	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	27	21280957	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	27	21280957	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	28	21280958	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	28	21280958	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	29	21280959	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	29	21280959	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	30	21280960	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5	30	21280960	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	1	21290931	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	1	21290931	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	2	21290932	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	2	21290932	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	3	21290933	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	3	21290933	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	4	21290934	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	4	21290934	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	5	21290935	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	5	21290935	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	6	21290936	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	6	21290936	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	7	21290937	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	7	21290937	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	8	21290938	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	8	21290938	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	9	21290939	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	9	21290939	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	10	21290940	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	10	21290940	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	11	21290941	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	11	21290941	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	12	21290942	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	12	21290942	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	13	21290943	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	13	21290943	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	14	21290944	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	14	21290944	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	15	21290945	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	15	21290945	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	16	21290946	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	16	21290946	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	17	21290947	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	17	21290947	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	18	21290948	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	18	21290948	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	19	21290949	Africa	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	19	21290949	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	20	21290950	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	20	21290950	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	21	21290951	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	21	21290951	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	22	21290952	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	22	21290952	Asia	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	23	21290953	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	23	21290953	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	24	21290954	Africa	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	24	21290954	Asia	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	25	21290955	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	25	21290955	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	26	21290956	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	26	21290956	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	27	21290957	Africa	5	5	1	1	0.2	1	0.8
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	27	21290957	Asia	5	5	1	3	0.6	1	0.4
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	28	21290958	Africa	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	28	21290958	Asia	5	5	1	2	0.4	1	0.6
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	29	21290959	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	29	21290959	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	30	21290960	Africa	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	10	30	21290960	Asia	5	5	1	0	0	NA	1
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	1	21300931	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	1	21300931	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	2	21300932	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	2	21300932	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	3	21300933	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	3	21300933	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	4	21300934	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	4	21300934	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	5	21300935	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	5	21300935	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	6	21300936	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	6	21300936	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	7	21300937	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	7	21300937	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	8	21300938	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	8	21300938	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	9	21300939	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	9	21300939	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	10	21300940	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	10	21300940	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	11	21300941	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	11	21300941	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	12	21300942	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	12	21300942	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	13	21300943	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	13	21300943	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	14	21300944	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	14	21300944	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	15	21300945	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	15	21300945	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	16	21300946	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	16	21300946	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	17	21300947	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	17	21300947	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	18	21300948	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	18	21300948	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	19	21300949	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	19	21300949	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	20	21300950	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	20	21300950	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	21	21300951	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	21	21300951	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	22	21300952	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	22	21300952	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	23	21300953	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	23	21300953	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	24	21300954	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	24	21300954	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	25	21300955	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	25	21300955	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	26	21300956	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	26	21300956	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	27	21300957	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	27	21300957	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	28	21300958	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	28	21300958	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	29	21300959	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	29	21300959	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	30	21300960	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	20	30	21300960	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	1	21310931	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	1	21310931	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	2	21310932	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	2	21310932	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	3	21310933	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	3	21310933	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	4	21310934	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	4	21310934	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	5	21310935	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	5	21310935	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	6	21310936	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	6	21310936	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	7	21310937	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	7	21310937	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	8	21310938	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	8	21310938	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	9	21310939	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	9	21310939	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	10	21310940	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	10	21310940	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	11	21310941	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	11	21310941	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	12	21310942	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	12	21310942	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	13	21310943	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	13	21310943	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	14	21310944	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	14	21310944	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	15	21310945	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	15	21310945	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	16	21310946	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	16	21310946	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	17	21310947	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	17	21310947	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	18	21310948	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	18	21310948	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	19	21310949	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	19	21310949	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	20	21310950	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	20	21310950	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	21	21310951	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	21	21310951	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	22	21310952	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	22	21310952	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	23	21310953	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	23	21310953	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	24	21310954	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	24	21310954	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	25	21310955	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	25	21310955	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	26	21310956	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	26	21310956	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	27	21310957	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	27	21310957	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	28	21310958	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	28	21310958	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	29	21310959	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	29	21310959	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	30	21310960	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	40	30	21310960	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	1	21320931	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	1	21320931	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	2	21320932	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	2	21320932	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	3	21320933	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	3	21320933	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	4	21320934	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	4	21320934	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	5	21320935	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	5	21320935	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	6	21320936	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	6	21320936	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	7	21320937	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	7	21320937	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	8	21320938	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	8	21320938	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	9	21320939	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	9	21320939	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	10	21320940	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	10	21320940	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	11	21320941	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	11	21320941	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	12	21320942	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	12	21320942	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	13	21320943	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	13	21320943	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	14	21320944	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	14	21320944	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	15	21320945	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	15	21320945	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	16	21320946	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	16	21320946	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	17	21320947	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	17	21320947	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	18	21320948	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	18	21320948	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	19	21320949	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	19	21320949	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	20	21320950	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	20	21320950	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	21	21320951	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	21	21320951	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	22	21320952	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	22	21320952	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	23	21320953	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	23	21320953	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	24	21320954	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	24	21320954	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	25	21320955	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	25	21320955	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	26	21320956	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	26	21320956	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	27	21320957	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	27	21320957	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	28	21320958	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	28	21320958	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	29	21320959	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	29	21320959	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	30	21320960	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	80	30	21320960	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	1	21330931	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	1	21330931	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	2	21330932	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	2	21330932	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	3	21330933	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	3	21330933	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	4	21330934	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	4	21330934	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	5	21330935	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	5	21330935	Asia	5	5	1	4	0.8	1	0.2
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	6	21330936	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	6	21330936	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	7	21330937	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	7	21330937	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	8	21330938	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	8	21330938	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	9	21330939	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	9	21330939	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	10	21330940	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	10	21330940	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	11	21330941	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	11	21330941	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	12	21330942	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	12	21330942	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	13	21330943	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	13	21330943	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	14	21330944	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	14	21330944	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	15	21330945	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	15	21330945	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	16	21330946	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	16	21330946	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	17	21330947	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	17	21330947	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	18	21330948	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	18	21330948	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	19	21330949	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	19	21330949	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	20	21330950	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	20	21330950	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	21	21330951	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	21	21330951	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	22	21330952	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	22	21330952	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	23	21330953	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	23	21330953	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	24	21330954	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	24	21330954	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	25	21330955	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	25	21330955	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	26	21330956	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	26	21330956	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	27	21330957	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	27	21330957	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	28	21330958	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	28	21330958	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	29	21330959	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	29	21330959	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	30	21330960	Africa	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	100	30	21330960	Asia	5	5	1	5	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	1	21340931	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	1	21340931	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	2	21340932	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	2	21340932	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	3	21340933	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	3	21340933	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	4	21340934	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	4	21340934	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	5	21340935	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	5	21340935	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	6	21340936	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	6	21340936	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	7	21340937	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	7	21340937	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	8	21340938	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	8	21340938	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	9	21340939	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	9	21340939	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	10	21340940	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	10	21340940	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	11	21340941	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	11	21340941	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	12	21340942	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	12	21340942	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	13	21340943	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	13	21340943	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	14	21340944	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	14	21340944	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	15	21340945	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	15	21340945	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	16	21340946	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	16	21340946	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	17	21340947	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	17	21340947	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	18	21340948	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	18	21340948	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	19	21340949	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	19	21340949	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	20	21340950	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	20	21340950	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	21	21340951	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	21	21340951	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	22	21340952	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	22	21340952	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	23	21340953	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	23	21340953	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	24	21340954	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	24	21340954	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	25	21340955	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	25	21340955	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	26	21340956	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	26	21340956	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	27	21340957	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	27	21340957	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	28	21340958	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	28	21340958	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	29	21340959	Asia	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	29	21340959	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	30	21340960	Africa	1	1	1	1	1	1	0
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	104	30	21340960	Asia	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	1	22270931	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	2	22270932	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	3	22270933	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	4	22270934	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	5	22270935	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	6	22270936	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	7	22270937	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	8	22270938	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	9	22270939	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	10	22270940	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	11	22270941	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	W_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	12	22270942	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	13	22270943	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	14	22270944	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	15	22270945	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	16	22270946	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	17	22270947	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	18	22270948	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	19	22270949	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	20	22270950	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	21	22270951	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	22	22270952	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	23	22270953	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	24	22270954	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	25	22270955	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	26	22270956	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	27	22270957	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	E_Africa	2	1	0.5	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	28	22270958	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	29	22270959	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	E_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	C_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	W_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	3	30	22270960	S_Africa	2	2	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	E_Africa	1	0	0	1	1	0	0
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	1	22280931	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	2	22280932	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	3	22280933	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	4	22280934	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	E_Africa	1	0	0	1	1	0	0
+P2_subregion_within_africa	P2 Africa subregion	4	5	22280935	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	6	22280936	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	E_Africa	1	0	0	1	1	0	0
+P2_subregion_within_africa	P2 Africa subregion	4	7	22280937	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	8	22280938	S_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	9	22280939	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	10	22280940	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	11	22280941	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	12	22280942	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	13	22280943	S_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	E_Africa	1	0	0	1	1	0	0
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	14	22280944	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	15	22280945	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	16	22280946	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	17	22280947	S_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	18	22280948	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	19	22280949	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	E_Africa	1	0	0	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	20	22280950	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	21	22280951	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	W_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	22	22280952	S_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	23	22280953	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	24	22280954	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	25	22280955	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	26	22280956	S_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	27	22280957	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	28	22280958	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	E_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	29	22280959	S_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	E_Africa	1	1	1	0	0	NA	1
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	C_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	W_Africa	1	1	1	1	1	1	0
+P2_subregion_within_africa	P2 Africa subregion	4	30	22280960	S_Africa	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	3	1	23270931	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	1	23270931	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	1	23270931	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	2	23270932	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	2	23270932	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	2	23270932	S_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	3	23270933	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	3	23270933	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	3	23270933	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	4	23270934	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	4	23270934	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	4	23270934	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	5	23270935	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	5	23270935	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	5	23270935	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	6	23270936	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	6	23270936	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	6	23270936	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	7	23270937	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	7	23270937	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	7	23270937	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	8	23270938	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	8	23270938	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	8	23270938	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	9	23270939	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	9	23270939	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	9	23270939	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	10	23270940	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	10	23270940	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	10	23270940	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	11	23270941	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	11	23270941	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	11	23270941	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	12	23270942	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	12	23270942	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	12	23270942	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	13	23270943	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	13	23270943	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	13	23270943	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	14	23270944	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	14	23270944	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	14	23270944	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	15	23270945	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	15	23270945	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	15	23270945	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	16	23270946	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	16	23270946	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	16	23270946	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	17	23270947	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	17	23270947	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	17	23270947	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	18	23270948	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	18	23270948	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	18	23270948	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	19	23270949	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	19	23270949	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	19	23270949	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	20	23270950	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	20	23270950	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	20	23270950	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	21	23270951	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	21	23270951	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	21	23270951	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	22	23270952	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	22	23270952	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	22	23270952	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	23	23270953	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	23	23270953	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	23	23270953	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	24	23270954	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	24	23270954	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	24	23270954	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	25	23270955	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	25	23270955	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	25	23270955	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	26	23270956	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	26	23270956	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	26	23270956	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	27	23270957	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	27	23270957	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	27	23270957	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	28	23270958	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	28	23270958	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	28	23270958	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	29	23270959	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	29	23270959	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	29	23270959	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	30	23270960	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	30	23270960	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	3	30	23270960	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	1	23280931	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	1	23280931	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	1	23280931	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	2	23280932	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	2	23280932	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	2	23280932	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	3	23280933	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	3	23280933	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	3	23280933	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	4	23280934	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	4	23280934	SE_Asia	5	1	0.2	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	4	23280934	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	5	23280935	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	5	23280935	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	5	23280935	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	6	23280936	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	6	23280936	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	6	23280936	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	7	23280937	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	7	23280937	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	7	23280937	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	8	23280938	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	8	23280938	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	8	23280938	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	9	23280939	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	9	23280939	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	9	23280939	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	10	23280940	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	10	23280940	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	10	23280940	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	11	23280941	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	11	23280941	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	11	23280941	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	12	23280942	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	12	23280942	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	12	23280942	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	13	23280943	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	13	23280943	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	13	23280943	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	14	23280944	SE_Asia	5	1	0.2	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	14	23280944	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	14	23280944	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	15	23280945	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	15	23280945	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	15	23280945	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	16	23280946	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	16	23280946	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	16	23280946	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	17	23280947	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	17	23280947	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	17	23280947	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	18	23280948	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	18	23280948	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	18	23280948	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	19	23280949	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	19	23280949	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	19	23280949	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	20	23280950	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	20	23280950	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	20	23280950	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	21	23280951	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	21	23280951	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	21	23280951	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	22	23280952	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	22	23280952	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	22	23280952	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	23	23280953	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	23	23280953	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	23	23280953	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	24	23280954	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	24	23280954	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	24	23280954	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	25	23280955	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	25	23280955	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	25	23280955	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	26	23280956	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	26	23280956	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	26	23280956	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	27	23280957	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	27	23280957	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	27	23280957	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	28	23280958	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	28	23280958	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	28	23280958	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	29	23280959	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	29	23280959	E_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	29	23280959	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	30	23280960	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	30	23280960	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	5	30	23280960	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	1	23290931	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	1	23290931	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	1	23290931	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	2	23290932	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	2	23290932	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	2	23290932	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	3	23290933	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	3	23290933	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	3	23290933	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	4	23290934	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	4	23290934	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	4	23290934	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	5	23290935	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	5	23290935	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	5	23290935	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	6	23290936	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	6	23290936	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	6	23290936	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	7	23290937	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	7	23290937	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	7	23290937	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	8	23290938	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	8	23290938	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	8	23290938	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	9	23290939	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	9	23290939	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	9	23290939	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	10	23290940	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	10	23290940	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	10	23290940	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	11	23290941	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	11	23290941	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	11	23290941	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	12	23290942	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	12	23290942	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	12	23290942	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	13	23290943	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	13	23290943	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	13	23290943	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	14	23290944	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	14	23290944	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	14	23290944	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	15	23290945	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	15	23290945	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	15	23290945	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	16	23290946	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	16	23290946	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	16	23290946	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	17	23290947	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	17	23290947	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	17	23290947	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	18	23290948	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	18	23290948	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	18	23290948	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	19	23290949	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	19	23290949	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	19	23290949	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	20	23290950	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	20	23290950	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	20	23290950	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	21	23290951	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	21	23290951	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	21	23290951	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	22	23290952	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	22	23290952	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	22	23290952	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	23	23290953	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	23	23290953	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	23	23290953	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	24	23290954	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	24	23290954	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	24	23290954	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	25	23290955	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	25	23290955	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	25	23290955	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	26	23290956	SE_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	26	23290956	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	26	23290956	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	27	23290957	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	27	23290957	SE_Asia	5	2	0.4	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	27	23290957	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	28	23290958	SE_Asia	5	4	0.8	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	28	23290958	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	28	23290958	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	29	23290959	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	29	23290959	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	29	23290959	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	23290960	SE_Asia	5	3	0.6	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	23290960	E_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	10	30	23290960	S_Asia	5	5	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	20	1	23300931	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	1	23300931	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	1	23300931	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	2	23300932	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	2	23300932	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	2	23300932	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	3	23300933	SE_Asia	5	4	0.8	5	1	0.8	0
+P3_subregion_within_asia	P3 Asia subregion	20	3	23300933	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	3	23300933	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	4	23300934	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	4	23300934	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	4	23300934	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	5	23300935	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	5	23300935	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	5	23300935	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	6	23300936	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	6	23300936	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	6	23300936	SE_Asia	5	4	0.8	5	1	0.8	0
+P3_subregion_within_asia	P3 Asia subregion	20	7	23300937	SE_Asia	5	3	0.6	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	7	23300937	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	7	23300937	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	8	23300938	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	8	23300938	S_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	8	23300938	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	9	23300939	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	9	23300939	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	9	23300939	SE_Asia	5	1	0.2	2	0.4	0.5	0.6
+P3_subregion_within_asia	P3 Asia subregion	20	10	23300940	SE_Asia	5	3	0.6	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	20	10	23300940	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	10	23300940	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	11	23300941	SE_Asia	5	4	0.8	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	11	23300941	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	11	23300941	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	12	23300942	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	12	23300942	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	12	23300942	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	13	23300943	SE_Asia	5	3	0.6	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	13	23300943	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	13	23300943	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	14	23300944	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	14	23300944	S_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	14	23300944	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	15	23300945	S_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	15	23300945	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	15	23300945	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	16	23300946	SE_Asia	5	2	0.4	3	0.6	0.666666666666667	0.4
+P3_subregion_within_asia	P3 Asia subregion	20	16	23300946	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	16	23300946	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	17	23300947	SE_Asia	5	3	0.6	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	17	23300947	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	17	23300947	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	18	23300948	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	18	23300948	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	18	23300948	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	19	23300949	SE_Asia	5	3	0.6	4	0.8	0.5	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	19	23300949	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	19	23300949	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	20	23300950	SE_Asia	5	4	0.8	5	1	0.8	0
+P3_subregion_within_asia	P3 Asia subregion	20	20	23300950	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	20	23300950	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	21	23300951	SE_Asia	5	4	0.8	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	20	21	23300951	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	21	23300951	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	22	23300952	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	22	23300952	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	22	23300952	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	23	23300953	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	23	23300953	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	23	23300953	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	24	23300954	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	24	23300954	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	24	23300954	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	25	23300955	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	25	23300955	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	25	23300955	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	26	23300956	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	26	23300956	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	26	23300956	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	27	23300957	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	27	23300957	S_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	20	27	23300957	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	28	23300958	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	28	23300958	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	28	23300958	SE_Asia	5	4	0.8	5	1	0.8	0
+P3_subregion_within_asia	P3 Asia subregion	20	29	23300959	SE_Asia	5	3	0.6	5	1	0.6	0
+P3_subregion_within_asia	P3 Asia subregion	20	29	23300959	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	29	23300959	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	30	23300960	SE_Asia	5	3	0.6	3	0.6	0.666666666666667	0.4
+P3_subregion_within_asia	P3 Asia subregion	20	30	23300960	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	20	30	23300960	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	1	23310931	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	1	23310931	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	1	23310931	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	2	23310932	SE_Asia	5	3	0.6	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	2	23310932	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	2	23310932	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	3	23310933	SE_Asia	5	3	0.6	5	1	0.6	0
+P3_subregion_within_asia	P3 Asia subregion	40	3	23310933	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	3	23310933	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	4	23310934	S_Asia	5	5	1	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	4	23310934	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	4	23310934	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	5	23310935	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	5	23310935	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	5	23310935	SE_Asia	5	4	0.8	5	1	0.8	0
+P3_subregion_within_asia	P3 Asia subregion	40	6	23310936	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	6	23310936	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	6	23310936	SE_Asia	5	3	0.6	5	1	0.6	0
+P3_subregion_within_asia	P3 Asia subregion	40	7	23310937	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	7	23310937	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	7	23310937	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	8	23310938	SE_Asia	5	3	0.6	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	8	23310938	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	8	23310938	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	9	23310939	SE_Asia	5	2	0.4	3	0.6	0.666666666666667	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	9	23310939	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	9	23310939	E_Asia	5	5	1	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	10	23310940	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	10	23310940	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	10	23310940	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	11	23310941	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	11	23310941	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	11	23310941	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	12	23310942	E_Asia	5	5	1	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	12	23310942	SE_Asia	5	3	0.6	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	12	23310942	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	13	23310943	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	13	23310943	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	13	23310943	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	14	23310944	SE_Asia	5	1	0.2	1	0.2	1	0.8
+P3_subregion_within_asia	P3 Asia subregion	40	14	23310944	S_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	14	23310944	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	15	23310945	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	15	23310945	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	15	23310945	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	16	23310946	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	16	23310946	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	16	23310946	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	17	23310947	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	17	23310947	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	17	23310947	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	18	23310948	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	18	23310948	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	18	23310948	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	19	23310949	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	19	23310949	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	19	23310949	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	20	23310950	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	20	23310950	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	20	23310950	SE_Asia	5	2	0.4	3	0.6	0.666666666666667	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	21	23310951	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	21	23310951	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	21	23310951	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	22	23310952	SE_Asia	5	3	0.6	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	22	23310952	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	22	23310952	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	23	23310953	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	23	23310953	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	23	23310953	SE_Asia	5	4	0.8	4	0.8	0.75	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	24	23310954	SE_Asia	5	3	0.6	5	1	0.6	0
+P3_subregion_within_asia	P3 Asia subregion	40	24	23310954	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	24	23310954	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	25	23310955	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	25	23310955	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	25	23310955	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	26	23310956	SE_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	26	23310956	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	26	23310956	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	27	23310957	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	27	23310957	S_Asia	5	5	1	3	0.6	1	0.4
+P3_subregion_within_asia	P3 Asia subregion	40	27	23310957	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	28	23310958	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	28	23310958	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	28	23310958	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	29	23310959	SE_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	29	23310959	E_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	29	23310959	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	40	30	23310960	SE_Asia	5	4	0.8	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	30	23310960	E_Asia	5	5	1	4	0.8	1	0.2
+P3_subregion_within_asia	P3 Asia subregion	40	30	23310960	S_Asia	5	5	1	5	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	1	23320931	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	1	23320931	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	1	23320931	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	2	23320932	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	2	23320932	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	2	23320932	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	3	23320933	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	3	23320933	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	3	23320933	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	4	23320934	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	4	23320934	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	4	23320934	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	5	23320935	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	5	23320935	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	5	23320935	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	6	23320936	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	6	23320936	SE_Asia	1	0	0	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	6	23320936	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	7	23320937	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	7	23320937	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	7	23320937	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	8	23320938	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	8	23320938	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	8	23320938	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	9	23320939	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	9	23320939	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	9	23320939	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	10	23320940	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	10	23320940	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	10	23320940	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	11	23320941	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	11	23320941	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	11	23320941	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	12	23320942	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	12	23320942	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	12	23320942	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	13	23320943	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	13	23320943	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	13	23320943	SE_Asia	1	1	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	14	23320944	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	14	23320944	S_Asia	1	1	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	14	23320944	SE_Asia	1	1	1	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	15	23320945	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	15	23320945	SE_Asia	1	0	0	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	15	23320945	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	16	23320946	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	16	23320946	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	16	23320946	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	17	23320947	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	17	23320947	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	17	23320947	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	18	23320948	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	18	23320948	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	18	23320948	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	19	23320949	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	19	23320949	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	19	23320949	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	20	23320950	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	20	23320950	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	20	23320950	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	21	23320951	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	21	23320951	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	21	23320951	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	22	23320952	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	22	23320952	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	22	23320952	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	23	23320953	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	23	23320953	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	23	23320953	SE_Asia	1	0	0	1	1	0	0
+P3_subregion_within_asia	P3 Asia subregion	44	24	23320954	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	24	23320954	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	24	23320954	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	25	23320955	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	25	23320955	SE_Asia	1	0	0	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	25	23320955	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	26	23320956	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	26	23320956	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	26	23320956	SE_Asia	1	0	0	0	0	NA	1
+P3_subregion_within_asia	P3 Asia subregion	44	27	23320957	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	27	23320957	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	27	23320957	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	28	23320958	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	28	23320958	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	28	23320958	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	29	23320959	SE_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	29	23320959	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	29	23320959	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	30	23320960	E_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	30	23320960	S_Asia	1	1	1	1	1	1	0
+P3_subregion_within_asia	P3 Asia subregion	44	30	23320960	SE_Asia	1	1	1	1	1	1	0

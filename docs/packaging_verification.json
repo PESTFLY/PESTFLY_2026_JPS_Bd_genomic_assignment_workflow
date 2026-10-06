@@ -1,0 +1,15 @@
+{
+  "r_files_syntax_screened": 17,
+  "core_runner_targets": 8,
+  "validation_runner_targets": 7,
+  "statistical_helpers_unchanged": 32,
+  "adapted_location_cells": 87,
+  "adapted_result_index_tables": 22,
+  "all_adapted_locations_resolve": true,
+  "unchanged_archived_result_files": 1183,
+  "unchanged_archived_binary_result_files": 542,
+  "result_numerical_and_class_fields_unchanged": true,
+  "inherited_script_numeric_literals_unchanged": true,
+  "largest_packaged_file_mib": 12.65,
+  "r_runtime_execution": "not performed; Rscript and input alignments unavailable"
+}

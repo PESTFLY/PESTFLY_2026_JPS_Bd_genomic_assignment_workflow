@@ -1,0 +1,5 @@
+panel_id	true_group	predicted_group	N	prop_within_true
+P3_subregion_within_asia	S_Asia	S_Asia	45	1
+P3_subregion_within_asia	E_Asia	E_Asia	80	1
+P3_subregion_within_asia	SE_Asia	SE_Asia	29	0.644444444444445
+P3_subregion_within_asia	SE_Asia	E_Asia	16	0.355555555555556

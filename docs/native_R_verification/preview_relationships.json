@@ -1,0 +1,135 @@
+{
+  "native_workbook_altered": false,
+  "disposable_preview_unused_relationships_removed": [
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet1.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing1.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet1.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing1.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet10.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing10.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet10.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing10.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet11.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing11.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet11.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing11.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet12.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing12.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet12.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing12.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet13.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing13.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet13.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing13.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet2.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing2.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet2.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing2.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet3.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing3.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet3.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing3.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet4.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing4.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet4.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing4.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet5.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing5.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet5.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing5.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet6.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing6.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet6.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing6.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet7.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing7.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet7.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing7.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet8.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing8.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet8.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing8.vml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet9.xml.rels",
+      "relationship_id": "rId1",
+      "absent_unused_target": "xl/drawings/drawing9.xml"
+    },
+    {
+      "relationship_file": "xl/worksheets/_rels/sheet9.xml.rels",
+      "relationship_id": "rIdvml",
+      "absent_unused_target": "xl/drawings/vmlDrawing9.vml"
+    }
+  ]
+}

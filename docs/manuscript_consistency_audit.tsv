@@ -1,0 +1,15 @@
+topic	manuscript_location	evidence	status	finding
+Fixed snapshot	Methods: Benchmark dataset and reference classification	data/000_input_data/metadata.xlsx	VERIFIED	352 specimens, 330 references, 22 queries
+Candidate membership	Methods: Benchmark dataset and reference classification	results/02_snp_panels/panels_index.tsv	VERIFIED	P1 320; P2 105; P3 215; ten Other references withheld
+Hudson and consensus interpretation	Methods: Ortholog QC and SNP panel construction	steps/02_snp_panel_discovery_and_ranking/run.R	VERIFIED	Pseudohaploid consensus counts; finite negative scores retained; one SNP per ortholog
+MI diagnostic scope	Methods: Ortholog QC and SNP panel construction	steps/03_mutual_information_snp_diagnostics/run.R	VERIFIED	No contribution to selection, ordering, likelihood or reporting criteria
+Individual LOO scope	Methods: Hierarchical assignment, validation and reporting	steps/05_full_panel_loo_validation/run.R	VERIFIED	Fixed panels; focal reference excluded from allele frequencies, not original discovery
+Grouped CV scope	Methods: Hierarchical assignment, validation and reporting	steps/validation/02_grouped_geographic_cv/run.R	VERIFIED	Training only filtering and ranking within previously retained candidate SNPs; no alternative site rediscovery
+RF scope and runtime	Methods: Workflow implementation	results/06_rf_corroboration/step5_run_info.rds	VERIFIED	Corroborative classifier on fixed SNP resources; base seed 1 and recorded backend
+Downsampling and marker designs	Methods: Hierarchical assignment, validation and reporting	results/validation/05_reference_downsampling/downsampling_design.tsv; results/validation/06_marker_resampling/marker_resampling_design.tsv	VERIFIED	Thirty replicates or alternative sets; recorded seed and design constraints
+Six criterion assignments	Methods: Hierarchical assignment, validation and reporting	docs/reporting_criteria_diagnostic.tsv	VERIFIED	19 macroregion passes, 12 subregion passes; three adults fail usable K count only
+PASS or FAIL workbook	Methods: Assignment outcomes were translated; Results: Reporting outputs	steps/07_authority_facing_report/run.R; results/07_authority_report/FINAL_origin_tracing_authority_REPORT.xlsx	VERIFIED_NATIVE_R_AND_EXPORT_REVIEW	Native R formatter and checks passed in R 4.5.1; TSV, workbook and RDS values verified; all 22 reported outcomes preserved
+Benchmark main package versions	Methods: Workflow implementation	docs/runtime_version_evidence.tsv	VERIFIED	All eight main components match manuscript versions in archived session records
+Public release records	Data Availability	README.md	PENDING_RELEASE_CHECK	Repository and Zenodo targets are supplied by manuscript and not yet verified at release stage
+Software licence	Repository release	LICENSE;LICENSE_CONTENT.txt;LICENSING.md	CONFIRMED_AND_APPLIED	MIT code; CC BY 4.0 project documentation and public results; copyright 2026 Massimiliano Virgilio and Wannes Dermauw
+Alignment access	Data Availability	ALIGNMENT_ACCESS.md	AUTHOR_CONFIRMED	Input alignments distributed upon request; excluded from public open licence grants and public archives

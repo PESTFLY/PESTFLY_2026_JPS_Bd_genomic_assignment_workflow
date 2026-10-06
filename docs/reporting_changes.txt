@@ -1,0 +1,71 @@
+Historical checkpoint record. The current native R status is recorded in docs/NATIVE_R_VERIFICATION.md.
+
+PESTFLY repository review: Step 4
+Reporting reconciliation
+5 October 2026
+
+COMPLETED
+
+Step 07 now translates saved Step 04 metrics into six criterion PASS or FAIL
+reports. The R formatter reads thresholds from the associated Step 04 parameter
+table and stops if criterion eligibility or posterior categories disagree with
+the saved assignments. RF and commodity comparisons remain separate.
+
+The workbook includes Criteria and Reporting_Thresholds sheets. Each criterion
+row records the saved observation, threshold, comparison, result and reason.
+The simplified report shows both resolution statuses, criterion counts and all
+unmet criteria. Unevaluated branches retain missing counts and observations.
+
+The current workbook and TSV tables were independently reconstructed from saved
+Step 04 metrics and the historical extended Step 07 table. This is a reporting
+transformation. No genomic inference or validation model was recomputed.
+
+VERIFIED OUTCOMES
+
+Macroregion: 19 PASS, three FAIL.
+Subregion: 12 PASS, seven FAIL, three NOT_EVALUATED.
+All 22 original reported classes, resolutions and confidence labels preserved.
+Three failed adults: Bd_2023_1, Bd_2023_2 and Bd_2023_3. Each meets five criteria
+and fails only the number of usable K values.
+All 264 individual criterion rows agree with an independent Python calculation
+and the earlier documentation diagnostic.
+
+PRESERVATION
+
+All 1205 original scientific output files remain byte identical, including the
+six historical Step 07 files moved to legacy_colour_report/. Original RDS objects
+and R run records remain historical and are not relabelled as current exports.
+Seventeen inherited R files are byte identical to the previous checkpoint.
+Only the Step 07 formatter was changed. Two base R reporting helper and check
+files were added.
+
+VALIDATION
+
+Twenty R files passed static syntax screening.
+Ninety five inherited report fields per specimen remain unchanged.
+The workbook has thirteen sheets. Seven reference and validation sheets retain
+their original values. All changed and added values survived export and reimport.
+Changed workbook views were rendered and visually reviewed. Local documentation
+links and workbook relationship targets resolve.
+
+REMAINING R CHECK
+
+R is unavailable in the packaging workspace. The updated R formatter and its
+base R checks have not been executed. Run from the repository root:
+
+Rscript steps/07_authority_facing_report/check_reporting.R
+Rscript steps/07_authority_facing_report/run.R --out_dir results/07_authority_report_rerun
+
+Compare criterion observations, outcomes, counts and reported classes by
+sample_id. Formatting and wording may differ from the independently generated
+checkpoint. The R formatter will generate current simplified and extended RDS
+objects and a genuine R session record. After successful native regeneration in
+the standard directory, the checkpoint reconstruction record is retained as
+history.
+
+NEXT STAGE
+
+Assemble Supplementary File S6 with its seven supplementary analyses, complete
+query trajectories, source map, reader guide and file manifest. The statistical
+outputs do not need a rerun to assemble S6. Native R reporting verification, the
+software licence and external release record checks remain publication tasks.

@@ -1,0 +1,165 @@
+panel_id	panel_label	K	sample_id	n_alternative_sets	primary_baseline_call	primary_baseline_confidence	baseline_fixed_topK_group	baseline_fixed_topK_confidence	modal_alternative_call	modal_call_fraction	primary_multiK_agreement	fixed_topK_agreement	accepted_fraction	uncertainty_fraction	mean_top_posterior	minimum_top_posterior	mean_posterior_gap	mean_snps_used
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_1	30	Asia	Uncertain	NA	Uncertain	NA	NA	0	0	0	1	NA	NA	NA	30.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_2	30	Africa	Uncertain	NA	Uncertain	NA	NA	0	0	0	1	NA	NA	NA	167
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_3	30	Asia	Uncertain	NA	Uncertain	NA	NA	0	0	0	1	NA	NA	NA	148
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	499
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_5	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	500
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_6	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	499.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2023_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2024_1	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	499
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2024_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	498.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2024_3	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	500
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	Bd_2024_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	500
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_1	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_11	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_12	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_13	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	497.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_14	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	498.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	498.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_3	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	500
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_4	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	498
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_5	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_6	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	500
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	500	FAVV_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	499
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_1	30	Asia	Uncertain	NA	Uncertain	NA	NA	0	0	0	1	NA	NA	NA	52.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_2	30	Africa	Uncertain	Africa	High	Africa	1	1	1	1	0	1	1	1	327
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_3	30	Asia	Uncertain	Asia	High	Asia	1	1	1	1	0	1	1	1	292
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_5	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	999.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_6	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2023_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2024_1	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	997.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2024_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2024_3	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	Bd_2024_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1000
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_1	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_11	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	999.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_12	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_13	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	997
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_14	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_3	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	999.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_4	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_5	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_6	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	1000	FAVV_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_1	30	Asia	Uncertain	NA	Uncertain	NA	NA	0	0	0	1	NA	NA	NA	95.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_2	30	Africa	Uncertain	Africa	High	Africa	1	1	1	1	0	1	1	1	634
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_3	30	Asia	Uncertain	Asia	High	Asia	1	1	1	1	0	1	1	1	576.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_5	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_6	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1997.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2023_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1998
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2024_1	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1995
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2024_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1996
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2024_3	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1997
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	Bd_2024_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1997.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_1	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1998.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_11	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_12	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1996.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_13	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1995
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_14	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	1995.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1995
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_3	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1999
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_4	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1996.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_5	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1996
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_6	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1997.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	2000	FAVV_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	1997
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_1	30	Asia	Uncertain	Asia	High	Asia	1	1	1	1	0	1	1	1	273
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_2	30	Africa	Uncertain	Africa	High	Africa	1	1	1	1	0	1	1	1	1467
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_3	30	Asia	Uncertain	Asia	High	Asia	1	1	1	1	0	1	1	1	1290.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4996.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_5	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4997
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_6	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4993.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2023_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4997.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2024_1	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4991.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2024_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4990.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2024_3	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4994.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	Bd_2024_4	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4997
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_1	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4993.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_11	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4995
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_12	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4992.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_13	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4989.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_14	30	Asia	High	Asia	High	Asia	1	1	1	1	0	1	1	1	4991
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_2	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4992
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_3	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4996.5
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_4	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4993
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_5	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4993
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_6	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4994
+P1_macroregion_africa_vs_asia	P1 Africa versus Asia	5000	FAVV_7	30	Africa	High	Africa	High	Africa	1	1	1	1	0	1	1	1	4994.5
+P2_subregion_within_africa	P2 Africa subregion	500	Bd_2023_7	30	E_Africa	Uncertain	W_Africa	High	W_Africa	0.733333333333333	0.266666666666667	0.733333333333333	0.8	0.2	0.927787199554485	0.613971846941722	0.85557439910897	498.5
+P2_subregion_within_africa	P2 Africa subregion	500	Bd_2024_2	30	E_Africa	Uncertain	E_Africa	High	W_Africa	0.866666666666667	0.133333333333333	0.133333333333333	0.9	0.1	0.949095087028343	0.57295703605002	0.898190174056685	500
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_1	30	W_Africa	Uncertain	E_Africa	High	E_Africa	1	0	1	1	0	0.999469950669801	0.99457865952374	0.998939901339602	499.5
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_11	30	W_Africa	Uncertain	E_Africa	High	E_Africa	0.8	0.2	0.8	0.866666666666667	0.133333333333333	0.936024292751797	0.514400281478065	0.872048585503594	500
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_12	30	W_Africa	Uncertain	E_Africa	Uncertain	W_Africa	1	1	0	1	0	0.994038643182282	0.946268655056165	0.988077286364564	499
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_13	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.998282195847039	0.95528421362967	0.996564391694078	498.5
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_2	30	W_Africa	Uncertain	E_Africa	High	E_Africa	1	0	1	0.966666666666667	0.0333333333333333	0.980553706278617	0.624357378794006	0.961107412557235	498.5
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_3	30	W_Africa	High	W_Africa	High	W_Africa	0.966666666666667	0.966666666666667	0.966666666666667	0.966666666666667	0.0333333333333333	0.984670535095756	0.764591782375756	0.969341070191513	499
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_4	30	W_Africa	High	W_Africa	High	W_Africa	0.966666666666667	0.966666666666667	0.966666666666667	0.966666666666667	0.0333333333333333	0.984823339498587	0.557699456705782	0.969646678997174	500
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_5	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	0.966666666666667	0.0333333333333333	0.988731570015562	0.729722699461486	0.977463140031123	499.5
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_6	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.999925549727601	0.997816721921733	0.999851099455203	499.5
+P2_subregion_within_africa	P2 Africa subregion	500	FAVV_7	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	0.999999999926154	0.999999997806702	0.999999999852309	499.5
+P2_subregion_within_africa	P2 Africa subregion	1000	Bd_2023_7	30	E_Africa	Uncertain	W_Africa	High	W_Africa	0.8	0.2	0.8	0.766666666666667	0.233333333333333	0.921511070900387	0.525887887501196	0.843022141800774	998
+P2_subregion_within_africa	P2 Africa subregion	1000	Bd_2024_2	30	E_Africa	Uncertain	W_Africa	High	W_Africa	1	0	1	0.966666666666667	0.0333333333333333	0.987224754887149	0.621452588990892	0.974449509774298	999
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_1	30	W_Africa	Uncertain	E_Africa	High	E_Africa	0.9	0.1	0.9	0.966666666666667	0.0333333333333333	0.984165347113776	0.806307060237193	0.968330694227552	999
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_11	30	W_Africa	Uncertain	E_Africa	High	E_Africa	0.766666666666667	0.233333333333333	0.766666666666667	0.933333333333333	0.0666666666666667	0.968105093031235	0.545454961743832	0.93621018606247	999.5
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_12	30	W_Africa	Uncertain	W_Africa	High	W_Africa	1	1	1	1	0	0.99975775916921	0.992921829190735	0.999515518338421	997.5
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_13	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.997324121587165	0.920323104208161	0.99464824317433	996.5
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_2	30	W_Africa	Uncertain	E_Africa	High	W_Africa	0.566666666666667	0.566666666666667	0.433333333333333	0.833333333333333	0.166666666666667	0.940192631636983	0.543058994852968	0.880385263273966	998
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_3	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.999998493452318	0.999977414053408	0.999996986904637	999
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_4	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.999999999980441	0.99999999943009	0.999999999960881	999
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_5	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	0.999983335403664	0.999521899403864	0.999966670807329	999
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_6	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	998.5
+P2_subregion_within_africa	P2 Africa subregion	1000	FAVV_7	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	0.999999999999999	0.99999999999996	0.999999999999997	999
+P2_subregion_within_africa	P2 Africa subregion	2000	Bd_2023_7	30	E_Africa	Uncertain	W_Africa	High	E_Africa	0.7	0.7	0.3	0.733333333333333	0.266666666666667	0.909747315501437	0.544621943145389	0.819494631002874	1998
+P2_subregion_within_africa	P2 Africa subregion	2000	Bd_2024_2	30	E_Africa	Uncertain	W_Africa	High	W_Africa	0.566666666666667	0.433333333333333	0.566666666666667	0.933333333333333	0.0666666666666667	0.967534866215792	0.574186752416514	0.935069732431584	1999
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_1	30	W_Africa	Uncertain	E_Africa	High	E_Africa	0.766666666666667	0.233333333333333	0.766666666666667	0.966666666666667	0.0333333333333333	0.97885044532844	0.828579105567041	0.957700890656879	1999
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_11	30	W_Africa	Uncertain	E_Africa	High	E_Africa	0.8	0.2	0.8	0.866666666666667	0.133333333333333	0.954560475710386	0.581451966455693	0.909120951420772	1999.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_12	30	W_Africa	Uncertain	W_Africa	High	W_Africa	1	1	1	1	0	0.999999996247252	0.999999930535799	0.999999992494505	1996.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_13	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.999997663882794	0.99993005598032	0.999995327765589	1995.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_2	30	W_Africa	Uncertain	W_Africa	High	E_Africa	0.6	0.4	0.4	0.866666666666667	0.133333333333333	0.942846880519486	0.607701216257293	0.885693761038972	1998
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_3	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.998773496782047	0.96503319228333	0.997546993564094	1999
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_4	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	0.999999999999903	0.999999999998113	0.999999999999805	1997.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_5	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	0.999999999999998	0.999999999999939	0.999999999999996	1998.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_6	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	1997.5
+P2_subregion_within_africa	P2 Africa subregion	2000	FAVV_7	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	1	1	1	1998.5
+P2_subregion_within_africa	P2 Africa subregion	5000	Bd_2023_7	30	E_Africa	Uncertain	E_Africa	High	E_Africa	0.8	0.8	0.8	1	0	0.996449251856259	0.910268784810946	0.992898503712519	4996.5
+P2_subregion_within_africa	P2 Africa subregion	5000	Bd_2024_2	30	E_Africa	Uncertain	E_Africa	High	W_Africa	0.666666666666667	0.333333333333333	0.333333333333333	0.933333333333333	0.0666666666666667	0.986796811295335	0.805769235404281	0.973593622590671	4993.5
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_1	30	W_Africa	Uncertain	E_Africa	High	W_Africa	0.766666666666667	0.766666666666667	0.233333333333333	0.833333333333333	0.166666666666667	0.93870402153403	0.573988577607729	0.877408043068059	4996.5
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_11	30	W_Africa	Uncertain	E_Africa	High	W_Africa	1	1	0	0.966666666666667	0.0333333333333333	0.99006402458837	0.701920999672759	0.98012804917674	4999
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_12	30	W_Africa	Uncertain	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	4991
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_13	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	4989
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_2	30	W_Africa	Uncertain	W_Africa	High	W_Africa	0.833333333333333	0.833333333333333	0.833333333333333	0.9	0.1	0.970110965822253	0.66181084333228	0.940221931644506	4996.5
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_3	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	4996.5
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_4	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	4996
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_5	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	1	1	1	4991
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_6	30	W_Africa	High	W_Africa	High	W_Africa	1	1	1	1	0	1	1	1	4992.5
+P2_subregion_within_africa	P2 Africa subregion	5000	FAVV_7	30	E_Africa	High	E_Africa	High	E_Africa	1	1	1	1	0	1	1	1	4996
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2023_4	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	0.999999999999998	1	500
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2023_5	30	E_Asia	Uncertain	SE_Asia	Uncertain	E_Asia	1	1	0	1	0	0.998002197206954	0.957046391536213	0.996004452498362	500
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2023_6	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	499.5
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2024_1	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	0.999462650564811	0.98776493826422	0.998925333051488	499.5
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2024_3	30	S_Asia	High	S_Asia	High	S_Asia	0.933333333333333	0.933333333333333	0.933333333333333	1	0	0.98976624605209	0.86900041630059	0.97953249210418	499.5
+P3_subregion_within_asia	P3 Asia subregion	500	Bd_2024_4	30	S_Asia	High	S_Asia	High	S_Asia	0.8	0.8	0.8	0.933333333333333	0.0666666666666667	0.972214708128003	0.758338638293902	0.944722371148506	499.5
+P3_subregion_within_asia	P3 Asia subregion	500	FAVV_14	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	498.5
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2023_4	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1000
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2023_5	30	E_Asia	Uncertain	E_Asia	High	E_Asia	1	1	1	1	0	0.999999833575744	0.99999500764214	0.999999667151489	999.5
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2023_6	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	998
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2024_1	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	999
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2024_3	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	0.999996441248978	0.999908805148826	0.999992882497957	999
+P3_subregion_within_asia	P3 Asia subregion	1000	Bd_2024_4	30	S_Asia	High	S_Asia	High	S_Asia	0.966666666666667	0.966666666666667	0.966666666666667	0.966666666666667	0.0333333333333333	0.983963483158349	0.581709452336722	0.9679269663167	999.5
+P3_subregion_within_asia	P3 Asia subregion	1000	FAVV_14	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	998.5
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2023_4	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1998
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2023_5	30	E_Asia	Uncertain	E_Asia	High	E_Asia	1	1	1	1	0	1	1	1	1997.5
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2023_6	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1997.5
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2024_1	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1995.5
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2024_3	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1998
+P3_subregion_within_asia	P3 Asia subregion	2000	Bd_2024_4	30	S_Asia	High	S_Asia	High	S_Asia	0.966666666666667	0.966666666666667	0.966666666666667	1	0	0.999997256297853	0.999918859701669	0.999994512595707	1998
+P3_subregion_within_asia	P3 Asia subregion	2000	FAVV_14	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	1997
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2023_4	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	4992
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2023_5	30	E_Asia	Uncertain	E_Asia	High	E_Asia	1	1	1	1	0	0.999999999999831	0.99999999999492	0.999999999999661	4992
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2023_6	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	4995
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2024_1	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	4987.5
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2024_3	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	4994
+P3_subregion_within_asia	P3 Asia subregion	5000	Bd_2024_4	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	0.99999696411939	0.999954614102765	0.999993928238779	4995.5
+P3_subregion_within_asia	P3 Asia subregion	5000	FAVV_14	30	S_Asia	High	S_Asia	High	S_Asia	1	1	1	1	0	1	1	1	4993.5

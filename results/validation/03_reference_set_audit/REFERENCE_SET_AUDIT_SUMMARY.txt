@@ -1,0 +1,47 @@
+PESTFLY REFERENCE SET AUDIT
+
+Timestamp: 2026-09-30 07:53:48 CEST
+Repository root: C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline
+Metadata source: C:/Users/virgilio/Documents/GitHub/PESTFLY/000_REVISION_JPS_PESTFLY_origin_tracing_pipeline/results/01_qc/metadata_clean.tsv
+Duplicate profile panel: P1_macroregion_africa_vs_asia
+
+FROZEN SNAPSHOT
+Total samples: 352
+References: 330
+Queries: 22
+Reference macroregions: Africa=105; Asia=215; Others=10
+
+IDENTIFIER AND METADATA CHECKS
+Duplicated sample identifiers: 0
+Duplicated reference accessions: 0
+Critical metadata issues: 0
+High metadata issues: 0
+Documentation completeness issues: 50
+References below ortholog completeness threshold 0.95: 2
+
+PUBLISHED FLAGS RETAINED IN THE REFERENCE SET
+Nuclear PCA outliers: 9
+Published hybrid candidates: 5
+Additional COI taxonomic caution specimens: 3
+Unique retained references with at least one published flag: 12
+
+GENOTYPE DUPLICATE CHECK
+P1 SNPs examined: 11086
+Reference profiles examined: 330
+Minimum compared SNPs per reported pair: 1000
+Near duplicate threshold: 0.995
+Near duplicate pairs: 0
+Identical on overlap pairs: 0
+Fully identical profiles including missingness: 0
+
+STUDY SUPPORT
+Panel classes represented by only one source collection: 5
+Evaluable leave one collection out folds by class support: 6/8
+
+PREDECLARED SENSITIVITY TIERS
+Published hybrid candidate exclusion: 5 references
+All nuclear PCA outlier exclusion: 9 references
+Extended taxonomic caution exclusion: 12 references
+
+INTERPRETATION RULE
+No specimen was removed by this audit. Definite metadata errors require correction before later analyses. Published biological cautions are retained in the primary analysis and tested only through the predeclared sensitivity tiers.

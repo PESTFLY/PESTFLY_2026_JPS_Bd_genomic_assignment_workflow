@@ -1,0 +1,17 @@
+parameter	value
+panels	P1_macroregion_africa_vs_asia,P2_subregion_within_africa,P3_subregion_within_asia
+panel_sizes_requested	500,1000,2000,5000
+n_partitions	15
+n_alternative_sets_per_K	30
+n_workers	8
+seed	20261001
+pseudocount	0.5
+epsilon	0.02
+min_snps_query_macroregion	200
+min_snps_query_subregion	300
+high_posterior	0.95
+moderate_posterior	0.85
+min_gap_macroregion	0.2
+min_gap_subregion	0.25
+marker_resampling_design	paired_disjoint_adjacent_rank_partition_of_top_2K
+fixed_panel_acceptance_scope	posterior, posterior gap, and minimum usable SNP thresholds; stability is estimated across independent fixed size marker panels

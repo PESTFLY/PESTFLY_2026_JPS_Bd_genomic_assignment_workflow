@@ -1,0 +1,24 @@
+panel_id	panel_label	group_col	heldout_collection	analytical_group	N	supported
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Pablo_IO	Africa	65	TRUE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Pablo_IO	Asia	200	TRUE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	REACT	Africa	105	TRUE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	REACT	Asia	185	TRUE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Yue_Global	Africa	40	TRUE
+P1_macroregion_africa_vs_asia	P1 macroregion	macroregion_3	Yue_Global	Asia	45	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Pablo_IO	C_Africa	5	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Pablo_IO	E_Africa	27	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Pablo_IO	S_Africa	10	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Pablo_IO	W_Africa	23	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Yue_Global	C_Africa	0	FALSE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Yue_Global	E_Africa	40	TRUE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Yue_Global	S_Africa	0	FALSE
+P2_subregion_within_africa	P2 Africa subregion	subregion	Yue_Global	W_Africa	0	FALSE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Pablo_IO	E_Asia	80	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Pablo_IO	SE_Asia	75	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Pablo_IO	S_Asia	45	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	REACT	E_Asia	80	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	REACT	SE_Asia	60	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	REACT	S_Asia	45	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Yue_Global	E_Asia	0	FALSE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Yue_Global	SE_Asia	45	TRUE
+P3_subregion_within_asia	P3 Asia subregion	subregion	Yue_Global	S_Asia	0	FALSE
