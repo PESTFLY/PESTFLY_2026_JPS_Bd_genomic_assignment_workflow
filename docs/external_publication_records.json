@@ -4,6 +4,29 @@
   "visibility": "public",
   "published_releases": [
     {
+      "tag": "v1.04",
+      "url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04",
+      "published_at": "2026-10-06T15:30:34Z",
+      "attached_assets": 2,
+      "release_id": 404885223,
+      "assets": [
+        {
+          "name": "PESTFLY_Supplementary_File_S5.xlsx",
+          "bytes": 67636,
+          "sha256": "7acba0de94d06097afe723381185b9e9e92f7ddc1dc2be052ee77aaa81fb1d96",
+          "state": "uploaded",
+          "asset_id": 615905272
+        },
+        {
+          "name": "PESTFLY_Supplementary_File_S6.zip",
+          "bytes": 81183572,
+          "sha256": "14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b",
+          "state": "uploaded",
+          "asset_id": 615905303
+        }
+      ]
+    },
+    {
       "tag": "v1.03",
       "url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.03",
       "published_at": "2026-10-06T11:34:19Z",
@@ -32,6 +55,10 @@
   ],
   "tag_commits": [
     {
+      "ref": "refs/tags/v1.04",
+      "sha": "3700ac653d08ae7a4e016c41777d231294205b5e"
+    },
+    {
       "ref": "refs/tags/v1.03",
       "sha": "f397f8e0a269fa089140eff22a00618d3583dd3c"
     },
@@ -53,14 +80,14 @@
         "Author supplied screenshot of the published Zenodo record",
         "Author supplied DOI link"
       ],
-      "finding": "The screenshot shows the matching workflow title, Version v1.03, publication date and release description. The author supplied its DOI link. A subsequent correction to the creator metadata is pending on Zenodo.",
+      "finding": "The author supplied published record and DOI link confirm the matching v1.03 workflow archive. The requested correction to its creator metadata has not yet been verified.",
       "automated_retrieval": "Unavailable for the DOI landing page and DataCite registry API.",
       "relationship_to_earlier_workflow_identifier": "UNCONFIRMED",
       "requested_creators": [
         "Massimiliano Virgilio",
         "Lore Esselens"
       ],
-      "creator_metadata_status": "CORRECTION_PENDING_ON_ZENODO"
+      "creator_metadata_status": "CORRECTION_NOT_YET_VERIFIED_ON_ZENODO"
     },
     {
       "doi": "10.5281/zenodo.20289875",
@@ -110,10 +137,10 @@
     }
   ],
   "external_writes_performed": true,
-  "record_scope": "Published v1.03 snapshot and uploaded assets. Postpublication citation and documentation updates on main are recorded in Git history.",
-  "release_commit": "f397f8e0a269fa089140eff22a00618d3583dd3c",
-  "release_tree": "4e0873284333879f98c6d88b7381d9ebf5d46f2b",
-  "current_release": "v1.03",
+  "record_scope": "Published v1.04 and original v1.03 snapshots and verified supplementary assets. Current publication notices on main are recorded in Git history. Zenodo v1.04 metadata remain unverified.",
+  "release_commit": "3700ac653d08ae7a4e016c41777d231294205b5e",
+  "release_tree": "d315857fa04de73b5cfd7327ff5dc9170ba76c04",
+  "current_release": "v1.04",
   "zenodo_writes_performed": false,
   "workflow_doi": "10.5281/zenodo.23187057",
   "workflow_record_url": "https://zenodo.org/records/23187057",
@@ -122,10 +149,11 @@
     "name": "PESTFLY_Supplementary_File_S6.zip",
     "bytes": 81183572,
     "sha256": "14171ee89e2376991d4f9ee708bd2f2f607ab3887ec3404d98931b63e0876e9b",
-    "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
+    "status": "PUBLISHED_AS_V1_04",
     "revision_date": "2026-10-06",
     "workflow_version": "v1.04",
-    "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate."
+    "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate.",
+    "release_url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04"
   },
   "raw_data_doi": "10.5281/zenodo.20340447",
   "raw_data_record_url": "https://zenodo.org/records/20340447",
@@ -141,13 +169,13 @@
   },
   "prepared_release": {
     "tag": "v1.04",
-    "status": "PREPARED_NOT_PUBLISHED",
+    "status": "PUBLISHED_ON_GITHUB",
     "target_branch": "main",
     "planned_publication_date": "2026-10-06",
     "title": "PESTFLY genomic assignment workflow v1.04",
     "notes": "This release updates the software citation, public repository links, data access documentation and Supplementary File S6. The archive builder preserves current metadata and excludes separately distributed sequence inputs.\n\nR analysis scripts, statistical outputs and figures are unchanged. No statistical analyses were rerun. Code uses MIT; project documentation, public metadata and derived results use CC BY 4.0, except where separate notices apply.\n\nRaw data are deposited at https://doi.org/10.5281/zenodo.20340447 under restricted access. PHYLIP and FASTA inputs are available upon request from massimiliano.virgilio@africamuseum.be and are excluded from this release.\n\nAttached files: PESTFLY_Supplementary_File_S5.xlsx and PESTFLY_Supplementary_File_S6.zip.",
     "workflow_doi": null,
-    "workflow_doi_status": "PENDING_PUBLICATION",
+    "workflow_doi_status": "PENDING_ZENODO_VERIFICATION",
     "assets": [
       {
         "name": "PESTFLY_Supplementary_File_S5.xlsx",
@@ -163,6 +191,15 @@
         "workflow_version": "v1.04",
         "scope": "Release v1.04 metadata, corrected software citation, restricted raw data access notices and current repository links. Statistical outputs are unchanged; manuscript authorship remains separate."
       }
-    ]
+    ],
+    "url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04",
+    "published_at": "2026-10-06T15:30:34Z",
+    "tag_commit": "3700ac653d08ae7a4e016c41777d231294205b5e"
+  },
+  "current_workflow_archive": {
+    "version": "v1.04",
+    "doi": null,
+    "record_url": null,
+    "status": "PENDING_ZENODO_VERIFICATION"
   }
 }
