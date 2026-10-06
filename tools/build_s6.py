@@ -24,6 +24,7 @@ def table(path,rows,headers):
 
 def inventory():
     candidates=[]
+    sequence_suffixes=('.phy','.phylip','.fasta','.fa','.fas','.fna','.ffn','.faa','.fastq','.fq')
     allowed_docs={'CONCEPTS.md','INSTALL.md','METADATA.md','REPORTING_CRITERIA.md',
                   'S6_SOURCE_MAP.md','cli_parameters.tsv','runtime_version_evidence.tsv',
                   'reporting_criteria_diagnostic.tsv','location_index_changes.tsv',
@@ -32,6 +33,13 @@ def inventory():
     for p in sorted(ROOT.rglob('*')):
         if not p.is_file():continue
         rel=p.relative_to(ROOT)
+        # Sequence inputs and folder placeholders are outside the public S6 scope.
+        # Step 00 conversion records remain available in the full repository.
+        if p.name=='.gitkeep' or rel.parts[:2]==('results','00_fasta') or rel.parts[:3]==('data','000_input_data','phy'):
+            continue
+        sequence_name=p.name.lower()
+        if sequence_name.endswith('.gz'):sequence_name=sequence_name[:-3]
+        if sequence_name.endswith(sequence_suffixes):continue
         if rel.parts[0] in {'steps','results','data','environment'}:
             candidates.append((p,rel.as_posix()))
         elif rel.parts[0]=='docs' and (p.name in allowed_docs or rel.parts[1]=='native_R_verification'):
@@ -74,7 +82,13 @@ def main():
     for _,rel in retained:
         parts=Path(rel).parts
         if len(parts)>2 and parts[:2]==('results','validation'):counts[parts[2]]+=1
-    info={'archive_role':'Supplementary File S6 with seven supplementary analyses and baseline resources',
+    # Preserve maintained citation, access and repository metadata on rebuild.
+    # Inventory-derived fields below remain authoritative for this assembly.
+    info_path=GUIDES/'assembly_info.json'
+    maintained_info=json.loads(info_path.read_text(encoding='utf-8')) if info_path.exists() else {}
+    if not isinstance(maintained_info,dict):
+        raise ValueError('assembly_info.json must contain a JSON object')
+    info={**maintained_info,'archive_role':'Supplementary File S6 with seven supplementary analyses and baseline resources',
           'assembly_date':'2026-10-05','publication_checkpoint':7,
           'copyright_holders':['Massimiliano Virgilio','Wannes Dermauw'],
           'code_license':'MIT','project_content_license':'CC-BY-4.0',
@@ -85,7 +99,7 @@ def main():
           'historical_run_records':'Preserved. Machine paths and early internal labels describe the original runs.',
           'authority_report':'Verified native R exports. The original checker stopped on Step 4 versus Step 04 descriptive labels; original logs and completed independent comparisons are retained in docs/native_R_verification/. Earlier reconstruction retained separately.',
           'manifest_scope':'All archive files except archive_manifest.tsv itself; omitted identical copies are mapped in duplicate_exports.tsv'}
-    (GUIDES/'assembly_info.json').write_text(json.dumps(info,indent=2)+'\n')
+    info_path.write_text(json.dumps(info,indent=2)+'\n',encoding='utf-8')
     retained.append((GUIDES/'assembly_info.json','assembly_info.json'))
     rows=[{'archive_path':rel,'repository_source':p.relative_to(ROOT).as_posix(),
            'bytes':p.stat().st_size,'sha256':sha(p)} for p,rel in retained]

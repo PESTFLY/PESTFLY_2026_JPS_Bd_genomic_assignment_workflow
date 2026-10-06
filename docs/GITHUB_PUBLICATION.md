@@ -1,14 +1,14 @@
 # GitHub publication records
 
-Release [v1.03](https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03) was published on 6 October 2026 from commit `f397f8e0a269fa089140eff22a00618d3583dd3c`. The repository is public at <https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline>.
+Release [v1.03](https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.03) was published on 6 October 2026 from commit `f397f8e0a269fa089140eff22a00618d3583dd3c`. The repository is public at <https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow>.
 
 ## Published release
 
-The Step 8 checkpoint was prepared on 5 October 2026 and uploaded through branch `publication_v1_03`. [Pull request #1](https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/pull/1) merged the preparation commit `7cb8661f91c767d3a06cb9db8bf56fa4b8e3eaf3` into `main` on 6 October 2026.
+The Step 8 checkpoint was prepared on 5 October 2026 and uploaded through branch `publication_v1_03`. [Pull request #1](https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/pull/1) merged the preparation commit `7cb8661f91c767d3a06cb9db8bf56fa4b8e3eaf3` into `main` on 6 October 2026.
 
 The release tag `v1.03` identifies the merged snapshot, with tree `4e0873284333879f98c6d88b7381d9ebf5d46f2b`. All 1,319 checkpoint files matched their GitHub blob contents and sizes exactly. The three additional Step 00 conversion records matched the original supplied `results.zip` files exactly. The source file manifest on `main` also records those three conversion files. Ten empty directory placeholders have no scientific content.
 
-The earlier release [v1.02](https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.02), published on 19 May 2026, identifies commit `62e9396205a65b33d3c8118485b4122c5c1bccbe` and had no attached assets when inspected.
+The earlier release [v1.02](https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.02), published on 19 May 2026, identifies commit `62e9396205a65b33d3c8118485b4122c5c1bccbe` and had no attached assets when inspected.
 
 ## Verified supplementary assets
 
@@ -50,7 +50,7 @@ For the released workflow, cite the confirmed v1.03 DOI. For the raw data, cite 
 
 On 6 October 2026, the author requested a correction to the software creator list. The citation on `main` now lists Massimiliano Virgilio and Lore Esselens. The manuscript author list is unaffected. The corresponding creator metadata correction on Zenodo remains pending.
 
-A corrected Supplementary File S6 has been prepared with the current software citation, restricted raw data access notices and a dated assembly metadata revision. All scripts, statistical outputs and figures retain their original bytes. The reader guide adds the raw data and workflow citations on page 9; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183302 bytes and SHA256 `ddf5100663b91a5abd97e049c242d6ffce3a55ece47434e59065d0cf3f560147`. It has not replaced the published v1.03 asset.
+A corrected Supplementary File S6 has been prepared with the current software citation, restricted raw data access notices, current public repository address and a dated assembly metadata revision. It also incorporates the author's current conceptual guide edits. All R scripts, statistical outputs and figures retain their original bytes. The reader guide adds the raw data, workflow and repository links on page 9; its first eight pages are unchanged in text and rendered appearance. All 1,208 archive manifest entries pass their size and SHA256 checks. The corrected ZIP has 81183349 bytes and SHA256 `dcc9cf7efadb4fd5f5ab347abb8d6222794d0705287d7407d8ffdd4bee35f87b`. It has not replaced the published v1.03 asset.
 
 The v1.03 tag and its original supplementary assets remain the published snapshot, including their original citation metadata. An updated release is required to distribute corrected citation files through the GitHub and Zenodo source archives. Historical Git records have not been rewritten. Zenodo permits creator metadata edits on the existing DOI; see [edit published records](https://help.zenodo.org/docs/deposit/manage-records/#edit).
 
@@ -59,3 +59,7 @@ The v1.03 tag and its original supplementary assets remain the published snapsho
 * [Git attributes](https://git-scm.com/docs/gitattributes)
 * [Managing GitHub releases](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
 * [Citation files on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+
+## Repository rename
+
+On 6 October 2026, the repository was renamed to `PESTFLY_2026_JPS_Bd_genomic_assignment_workflow`. The GitHub repository identifier remains `1241595394`. Current repository, release and pull request links use the new address. The published v1.03 tag and its attached files retain their original contents. The S6 builder preserves maintained software creator, data access and repository metadata while recalculating its inventory fields. The prepared S6 archive was rebuilt with this builder and compared with the preceding prepared archive; every analysis script and result file was identical.

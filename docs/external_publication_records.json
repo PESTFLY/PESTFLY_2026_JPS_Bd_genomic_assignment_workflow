@@ -1,11 +1,11 @@
 {
   "checked_date": "2026-10-06",
-  "repository_url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline",
+  "repository_url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow",
   "visibility": "public",
   "published_releases": [
     {
       "tag": "v1.03",
-      "url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.03",
+      "url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.03",
       "published_at": "2026-10-06T11:34:19Z",
       "attached_assets": 2,
       "assets": [
@@ -25,7 +25,7 @@
     },
     {
       "tag": "v1.02",
-      "url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline/releases/tag/v1.02",
+      "url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.02",
       "published_at": "2026-05-19T15:17:44Z",
       "attached_assets": 0
     }
@@ -120,14 +120,22 @@
   "workflow_version": "v1.03",
   "prepared_supplementary_correction": {
     "name": "PESTFLY_Supplementary_File_S6.zip",
-    "bytes": 81183302,
-    "sha256": "ddf5100663b91a5abd97e049c242d6ffce3a55ece47434e59065d0cf3f560147",
+    "bytes": 81183349,
+    "sha256": "dcc9cf7efadb4fd5f5ab347abb8d6222794d0705287d7407d8ffdd4bee35f87b",
     "status": "PREPARED_NOT_UPLOADED_TO_RELEASE",
     "revision_date": "2026-10-06",
-    "scope": "Software citation, restricted raw data access documentation and assembly metadata. Manuscript authorship remains separate."
+    "scope": "Software citation, restricted raw data access documentation, public repository links, current author documentation and assembly metadata. Manuscript authorship remains separate."
   },
   "raw_data_doi": "10.5281/zenodo.20340447",
   "raw_data_record_url": "https://zenodo.org/records/20340447",
   "raw_data_file_access": "restricted",
-  "raw_data_files_inspected": false
+  "raw_data_files_inspected": false,
+  "repository_rename": {
+    "verified_date": "2026-10-06",
+    "repository_id": 1241595394,
+    "previous_url": "https://github.com/PESTFLY/PESTFLY_origin_tracing_publication_pipeline",
+    "current_url": "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow",
+    "published_v1_03_tag_preserved": true,
+    "published_supplementary_assets_preserved": true
+  }
 }
