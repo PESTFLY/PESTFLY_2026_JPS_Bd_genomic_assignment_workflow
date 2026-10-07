@@ -10,7 +10,7 @@ The public repository is [PESTFLY_2026_JPS_Bd_genomic_assignment_workflow](https
 | Earlier workflow, v1.03 | [10.5281/zenodo.23187057](https://doi.org/10.5281/zenodo.23187057) | Confirmed from the supplied record and DOI |
 | Raw data | [10.5281/zenodo.20340447](https://doi.org/10.5281/zenodo.20340447) | Public record metadata; restricted files |
 
-`CITATION.cff` records v1.04 and software authors Massimiliano Virgilio and Lore Esselens. Manuscript authorship is recorded separately. Public metadata for the workflow DOI could not be independently retrieved; its creators and file list remain unverified. The earlier v1.03 creator correction also remains unverified.
+`CITATION.cff` provides the preferred manuscript citation with all 28 authors in manuscript order, currently marked as unpublished and under revision for Journal of Pest Science. Its software metadata records v1.04, its Zenodo DOI, Massimiliano Virgilio and Lore Esselens. Update the paper citation with its own DOI and journal details after publication. Public metadata for the workflow DOI could not be independently retrieved; its creators and file list remain unverified. The earlier v1.03 creator correction also remains unverified.
 
 The raw data record is titled `PESTFLY_diagnostic_snp_raw_data_v1.0_2026-05-22`, published on 22 May 2026, version `v1`, with Massimiliano Virgilio as creator. Restricted files were not inspected during packaging. Processed alignment requests are described in [alignment access](../ALIGNMENT_ACCESS.md).
 

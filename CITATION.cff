@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "PESTFLY genomic assignment workflow for Bactrocera dorsalis"
-message: "If you use this workflow, cite the repository release and the associated Journal of Pest Science manuscript."
+message: "If you use this workflow, cite the manuscript below and the versioned software release."
 type: software
 license: MIT
 license-url: "https://opensource.org/license/mit"
@@ -14,3 +14,66 @@ version: "v1.04"
 date-released: "2026-10-06"
 url: "https://github.com/PESTFLY/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04"
 doi: "10.5281/zenodo.23192148"
+preferred-citation:
+  type: unpublished
+  title: 'Genomic assignment of the invasive fruit fly pest Bactrocera dorsalis: a repeatable, uncertainty-aware SNP workflow
+    for biosecurity reporting'
+  authors:
+  - family-names: Virgilio
+    given-names: Massimiliano
+  - family-names: Esselens
+    given-names: Lore
+  - family-names: Kratz
+    given-names: Fanny
+  - family-names: Addison
+    given-names: Pia
+  - family-names: Bota
+    given-names: Luis
+  - family-names: Canhanga
+    given-names: Laura
+  - family-names: Cugala
+    given-names: Domingos
+  - family-names: Delatte
+    given-names: Hélène
+  - family-names: Fazal
+    given-names: Said
+  - family-names: Hassani
+    given-names: Issa Mze
+  - family-names: Badji
+    given-names: Kemo
+  - family-names: Li
+    given-names: Weisong
+  - family-names: Li
+    given-names: Zhihong
+  - family-names: Majubwa
+    given-names: Ramadhani
+  - family-names: Manrakhan
+    given-names: Aruna
+  - family-names: Kasina
+    given-names: Muo
+  - family-names: Mwatawala
+    given-names: Maulid
+  - family-names: Patel
+    given-names: Nausheen Azhaar
+  - family-names: Qin
+    given-names: Yujia
+  - family-names: Rasolofoarivao
+    given-names: Henriette
+  - family-names: Singh
+    given-names: Sandeep
+  - family-names: Syamsudin
+    given-names: Tati Suryati
+  - family-names: Vanbergen
+    given-names: Sam
+  - family-names: Wee
+    given-names: Suk Ling
+  - family-names: Zhang
+    given-names: Yue
+  - family-names: Jordaens
+    given-names: Kurt
+  - family-names: Bonte
+    given-names: Jochem
+  - family-names: Dermauw
+    given-names: Wannes
+  year: 2026
+  notes: Manuscript under revision for Journal of Pest Science.
