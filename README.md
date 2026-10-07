@@ -51,6 +51,12 @@ S6 contains the seven supplementary analyses and complete query trajectories. Se
 
 The archived reporting checks and formatter passed in R 4.5.1. The original release checker label mismatch and subsequent export review are documented in [native R verification](docs/NATIVE_R_VERIFICATION.md). Historical run records and some filenames retain earlier paths and step labels; [results documentation](results/README.md) explains them.
 
+## Funding and acknowledgements
+
+This work was supported by FPS Health, Food Chain Safety and Environment, Belgium, through PESTFLY (RF 25/03) and DAFROSTOP (RT 26/06), and by the European Union’s Horizon Europe Research and Innovation Programme through REACT (grant agreement 101059523).
+
+We acknowledge speciesID.be, the Belgian network for species identification services, for providing the institutional framework for the development of genomic tools supporting biosecurity.
+
 ## Licensing
 
 Copyright (c) 2026 Massimiliano Virgilio and Wannes Dermauw. Code uses [MIT](LICENSE); project documentation, public metadata and derived results use [CC BY 4.0](LICENSE_CONTENT.txt), except where a separate notice applies. See [licensing scope](LICENSING.md). Separately distributed alignments have their own access terms.
