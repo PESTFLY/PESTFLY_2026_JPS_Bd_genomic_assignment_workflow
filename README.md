@@ -10,7 +10,7 @@ This repository accompanies the Journal of Pest Science manuscript “Genomic as
 
 ## Release and citation
 
-Release [v1.04](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04), published on 6 October 2026, includes Supplementary Files S5 and S6. Cite the manuscript using [CITATION.cff](CITATION.cff) and the workflow release using [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148). Release details are in [publication records](docs/GITHUB_PUBLICATION.md).
+Release [v1.04](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY/releases/tag/v1.04), published on 6 October 2026, includes Supplementary Files S5 and S6. Cite the manuscript using [CITATION.cff](CITATION.cff) and the workflow release using [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148). Release details are in [publication records](docs/GITHUB_PUBLICATION.md).
 
 ## Start here
 
