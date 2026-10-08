@@ -1,6 +1,6 @@
 # Supplementary File S6
 
-Validation and sensitivity analyses for the PESTFLY benchmark. The published v1.04 archive is attached to the [GitHub release](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04); its workflow DOI is [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148).
+Validation and sensitivity analyses for the PESTFLY benchmark. The published v1.04 archive is attached to the [GitHub release](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY/releases/tag/v1.04); its workflow DOI is [10.5281/zenodo.23192148](https://doi.org/10.5281/zenodo.23192148).
 
 S6 contains scripts, parameters, tables, figures and complete outputs for seven supplementary analyses, together with baseline query trajectories. The manuscript provides the full methods and interpretation. `source_map.tsv` lists exact paths; the retained PDF reader guide describes the v1.04 snapshot.
 
