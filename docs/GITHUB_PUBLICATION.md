@@ -1,6 +1,6 @@
 # Publication records
 
-The public repository is [PESTFLY_2026_JPS_Bd_genomic_assignment_workflow](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow). Release [v1.04](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow/releases/tag/v1.04) was published on 6 October 2026 from commit `3700ac653d08ae7a4e016c41777d231294205b5e`.
+The public repository is [Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY). Release [v1.04](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY/releases/tag/v1.04) was published on 6 October 2026 from commit `3700ac653d08ae7a4e016c41777d231294205b5e`.
 
 ## Citation and data records
 
