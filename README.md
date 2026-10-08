@@ -1,5 +1,9 @@
 # PESTFLY genomic assignment workflow
 
+**Technical approach:** Population genomics and SNP assignment.
+
+Uses existing ortholog alignments to discover SNPs, assign specimens to represented reference classes and evaluate assignment uncertainty.
+
 PESTFLY assigns previously identified *Bactrocera dorsalis* specimens to represented reference classes using existing population genomic data. Assignments describe genomic affinity to those classes.
 
 This repository accompanies the Journal of Pest Science manuscript “Genomic assignment of the invasive fruit fly pest *Bactrocera dorsalis*: a repeatable, uncertainty-aware SNP workflow for biosecurity reporting”. The manuscript provides the full methods and biological interpretation; these guides explain how to use the scripts and archived files.
