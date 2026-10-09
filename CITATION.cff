@@ -16,8 +16,7 @@ url: "https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assig
 doi: "10.5281/zenodo.23192148"
 preferred-citation:
   type: unpublished
-  title: 'Genomic assignment of the invasive fruit fly pest Bactrocera dorsalis: a repeatable, uncertainty-aware SNP workflow
-    for biosecurity reporting'
+  title: 'PESTFLY: a repeatable, uncertainty-aware SNP workflow for genomic assignment of the invasive fruit fly Bactrocera dorsalis'
   authors:
   - family-names: Virgilio
     given-names: Massimiliano
